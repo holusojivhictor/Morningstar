@@ -1,0 +1,4 @@
+enum SoldierFilterType {
+  name,
+  rarity,
+}

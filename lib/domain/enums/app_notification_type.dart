@@ -1,0 +1,4 @@
+enum AppNotificationType {
+  custom,
+  dailyCheckIn,
+}

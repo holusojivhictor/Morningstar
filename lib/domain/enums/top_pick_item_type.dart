@@ -1,0 +1,4 @@
+enum TopPickItemType {
+  soldier,
+  weapon,
+}

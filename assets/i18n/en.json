@@ -1,0 +1,2048 @@
+{
+  "soldiers": [
+    {
+      "key": "adler - civilian",
+      "name": "Adler - Civilian"
+    },
+    {
+      "key": "adler - mountain drab",
+      "name": "Adler - Mountain Drab"
+    },
+    {
+      "key": "adler - route 66",
+      "name": "Adler - Route 66"
+    },
+    {
+      "key": "ajax",
+      "name": "Ajax"
+    },
+    {
+      "key": "ajax - convict",
+      "name": "Ajax - Convict"
+    },
+    {
+      "key": "ajax - hired gun",
+      "name": "Ajax - Hired Gun"
+    },
+    {
+      "key": "ajax - malpractor",
+      "name": "Ajax - Malpractor"
+    },
+    {
+      "key": "alex",
+      "name": "Alex"
+    },
+    {
+      "key": "alex - bounty hunter",
+      "name": "Alex - Bounty Hunter"
+    },
+    {
+      "key": "alex mason",
+      "name": "Alex Mason"
+    },
+    {
+      "key": "alex mason - piercing frost",
+      "name": "Alex Mason - Piercing Frost"
+    },
+    {
+      "key": "alias",
+      "name": "Alias"
+    },
+    {
+      "key": "alias - battleworn",
+      "name": "Alias - Battleworn"
+    },
+    {
+      "key": "alias - deep diver",
+      "name": "Alias - Deep Diver"
+    },
+    {
+      "key": "american bulldog",
+      "name": "American Bulldog"
+    },
+    {
+      "key": "american bulldog - buckskin",
+      "name": "American Bulldog - Buckskin"
+    },
+    {
+      "key": "american bulldog - defected",
+      "name": "American Bulldog - Defected"
+    },
+    {
+      "key": "archangel - militant",
+      "name": "Archangel - Militant"
+    },
+    {
+      "key": "artery",
+      "name": "Artery"
+    },
+    {
+      "key": "artery - exoskeleton",
+      "name": "Artery - Exoskeleton"
+    },
+    {
+      "key": "artery - lunar maria",
+      "name": "Artery - Lunar Maria"
+    },
+    {
+      "key": "artery - maiden of death",
+      "name": "Artery - Maiden of Death"
+    },
+    {
+      "key": "artery - nosferatu",
+      "name": "Artery - Nosferatu"
+    },
+    {
+      "key": "bailout",
+      "name": "Bailout"
+    },
+    {
+      "key": "bailout - haunted",
+      "name": "Bailout - Haunted"
+    },
+    {
+      "key": "bailout - raven's wing",
+      "name": "Bailout - Raven's Wing"
+    },
+    {
+      "key": "bathysphere",
+      "name": "Bathysphere"
+    },
+    {
+      "key": "bathysphere - 10,000 leagues",
+      "name": "Bathysphere - 10,000 Leagues"
+    },
+    {
+      "key": "battery - alpine infinite",
+      "name": "Battery - Alpine Infinite"
+    },
+    {
+      "key": "battery - arctic",
+      "name": "Battery - Arctic"
+    },
+    {
+      "key": "battery - ardent",
+      "name": "Battery - Ardent"
+    },
+    {
+      "key": "battery - birthstone",
+      "name": "Battery - Birthstone"
+    },
+    {
+      "key": "battery - capital",
+      "name": "Battery - Capital"
+    },
+    {
+      "key": "battery - demolitions",
+      "name": "Battery - Demolitions"
+    },
+    {
+      "key": "battery - droplets",
+      "name": "Battery - Droplets"
+    },
+    {
+      "key": "battery - going dark",
+      "name": "Battery - Going Dark"
+    },
+    {
+      "key": "battery - halfpipe valentine",
+      "name": "Battery - Halfpipe Valentine"
+    },
+    {
+      "key": "battery - indomitable",
+      "name": "Battery - Indomitable"
+    },
+    {
+      "key": "battery - mosaic",
+      "name": "Battery - Mosaic"
+    },
+    {
+      "key": "battery - propaganda",
+      "name": "Battery - Propaganda"
+    },
+    {
+      "key": "battery - queens guard",
+      "name": "Battery - Queens Guard"
+    },
+    {
+      "key": "battery - shuttle",
+      "name": "Battery - Shuttle"
+    },
+    {
+      "key": "battery - skulls & blood",
+      "name": "Battery - Skulls & Blood"
+    },
+    {
+      "key": "battery - sleight of hand",
+      "name": "Battery - Sleight of Hand"
+    },
+    {
+      "key": "battery - sting",
+      "name": "Battery - Sting"
+    },
+    {
+      "key": "battery - subterfuge",
+      "name": "Battery - Subterfuge"
+    },
+    {
+      "key": "battery - torque",
+      "name": "Battery - Torque"
+    },
+    {
+      "key": "battery - voltaic garden",
+      "name": "Battery - Voltaic Garden"
+    },
+    {
+      "key": "battery - wasteland warrior",
+      "name": "Battery - Wasteland Warrior"
+    },
+    {
+      "key": "battle hardened",
+      "name": "Battle Hardened"
+    },
+    {
+      "key": "battle hardened - axon",
+      "name": "Battle Hardened - Axon"
+    },
+    {
+      "key": "battle hardened - red shock",
+      "name": "Battle Hardened - Red Shock"
+    },
+    {
+      "key": "battle hardened - snow owl",
+      "name": "Battle Hardened - Snow Owl"
+    },
+    {
+      "key": "blackjack",
+      "name": "Blackjack"
+    },
+    {
+      "key": "captain",
+      "name": "Captain"
+    },
+    {
+      "key": "captain - arctic blizzard",
+      "name": "Captain - Arctic Blizzard"
+    },
+    {
+      "key": "captain - bdu",
+      "name": "Captain - BDU"
+    },
+    {
+      "key": "captain - black lime",
+      "name": "Captain - Black Lime"
+    },
+    {
+      "key": "captain - crossed cables",
+      "name": "Captain - Crossed Cables"
+    },
+    {
+      "key": "captain - depth metal",
+      "name": "Captain - Depth Metal"
+    },
+    {
+      "key": "captain - ghosts",
+      "name": "Captain - Ghosts"
+    },
+    {
+      "key": "captain - labyrinth",
+      "name": "Captain - Labyrinth"
+    },
+    {
+      "key": "captain - leather & lead",
+      "name": "Captain - Leather & Lead"
+    },
+    {
+      "key": "captain park",
+      "name": "Captain Park"
+    },
+    {
+      "key": "captain park - ranger",
+      "name": "Captain Park - Ranger"
+    },
+    {
+      "key": "captain price",
+      "name": "Captain Price"
+    },
+    {
+      "key": "carver butcher",
+      "name": "Carver Butcher"
+    },
+    {
+      "key": "carver butcher - cash flow",
+      "name": "Carver Butcher - Cash Flow"
+    },
+    {
+      "key": "carver butcher - shredded",
+      "name": "Carver Butcher - Shredded"
+    },
+    {
+      "key": "cassius - cold blood",
+      "name": "Cassius - Cold Blood"
+    },
+    {
+      "key": "charly",
+      "name": "Charly"
+    },
+    {
+      "key": "charly - angel of death",
+      "name": "Charly - Angel of Death"
+    },
+    {
+      "key": "charly - coalition",
+      "name": "Charly - Coalition"
+    },
+    {
+      "key": "charly - huntress",
+      "name": "Charly - Huntress"
+    },
+    {
+      "key": "charly - knighted",
+      "name": "Charly - Knighted"
+    },
+    {
+      "key": "charly - sinister",
+      "name": "Charly - Sinister"
+    },
+    {
+      "key": "charly - wolves",
+      "name": "Charly - Wolves"
+    },
+    {
+      "key": "competitor - alternate",
+      "name": "Competitor - Alternate"
+    },
+    {
+      "key": "competitor - primary",
+      "name": "Competitor - Primary"
+    },
+    {
+      "key": "cosmic silverback",
+      "name": "Cosmic Silverback"
+    },
+    {
+      "key": "dame",
+      "name": "Dame"
+    },
+    {
+      "key": "dame - usurper",
+      "name": "Dame - Usurper"
+    },
+    {
+      "key": "dark shepherd",
+      "name": "Dark Shepherd"
+    },
+    {
+      "key": "dark shepherd - soul reaper",
+      "name": "Dark Shepherd - Soul Reaper"
+    },
+    {
+      "key": "david mason",
+      "name": "David Mason"
+    },
+    {
+      "key": "david mason - enforcer",
+      "name": "David Mason - Enforcer"
+    },
+    {
+      "key": "death angel alice",
+      "name": "Death Angel Alice"
+    },
+    {
+      "key": "death angel alice - the fool",
+      "name": "Death Angel Alice - The Fool"
+    },
+    {
+      "key": "death angel alice - trench",
+      "name": "Death Angel Alice - Trench"
+    },
+    {
+      "key": "death angel alice - vicious",
+      "name": "Death Angel Alice - Vicious"
+    },
+    {
+      "key": "demir",
+      "name": "Demir"
+    },
+    {
+      "key": "domino - lynx",
+      "name": "Domino - Lynx"
+    },
+    {
+      "key": "domino - revolutionary",
+      "name": "Domino - Revolutionary"
+    },
+    {
+      "key": "elite pmc",
+      "name": "Elite PMC"
+    },
+    {
+      "key": "elite pmc - alpine infinite",
+      "name": "Elite PMC - Alpine Infinite"
+    },
+    {
+      "key": "elite pmc - crisis",
+      "name": "Elite PMC - Crisis"
+    },
+    {
+      "key": "elite pmc - going dark",
+      "name": "Elite PMC - Going Dark"
+    },
+    {
+      "key": "elite pmc - gravestone",
+      "name": "Elite PMC - Gravestone"
+    },
+    {
+      "key": "elite pmc - red curtain",
+      "name": "Elite PMC - Red Curtain"
+    },
+    {
+      "key": "elite pmc - ultramarine",
+      "name": "Elite PMC - Ultramarine"
+    },
+    {
+      "key": "elite pmc - upper hand",
+      "name": "Elite PMC - Upper Hand"
+    },
+    {
+      "key": "elite pmc - woodland",
+      "name": "Elite PMC - Woodland"
+    },
+    {
+      "key": "emma victorova - archangel",
+      "name": "Emma Victorova - Archangel"
+    },
+    {
+      "key": "ethan",
+      "name": "Ethan"
+    },
+    {
+      "key": "ether - network",
+      "name": "Ether - Network"
+    },
+    {
+      "key": "ftl",
+      "name": "FTL"
+    },
+    {
+      "key": "ftl - power line",
+      "name": "FTL - Power Line"
+    },
+    {
+      "key": "ftl - second stage",
+      "name": "FTL - Second Stage"
+    },
+    {
+      "key": "farah - jinn",
+      "name": "Farah - Jinn"
+    },
+    {
+      "key": "firebreak - carat thief",
+      "name": "Firebreak - Carat Thief"
+    },
+    {
+      "key": "firebreak - eviction",
+      "name": "Firebreak - Eviction"
+    },
+    {
+      "key": "firebreak - fire squad",
+      "name": "Firebreak - Fire Squad"
+    },
+    {
+      "key": "firebreak - magmageddon",
+      "name": "Firebreak - Magmageddon"
+    },
+    {
+      "key": "firebreak - panda",
+      "name": "Firebreak - Panda"
+    },
+    {
+      "key": "firebreak - searaven",
+      "name": "Firebreak - Searaven"
+    },
+    {
+      "key": "firebreak - sinister",
+      "name": "Firebreak - Sinister"
+    },
+    {
+      "key": "firebreak - the astronaut",
+      "name": "Firebreak - The Astronaut"
+    },
+    {
+      "key": "firebreak - the fire team",
+      "name": "Firebreak - The Fire Team"
+    },
+    {
+      "key": "frank woods",
+      "name": "Frank Woods"
+    },
+    {
+      "key": "gaz",
+      "name": "Gaz"
+    },
+    {
+      "key": "gaz - broadsword",
+      "name": "Gaz - Broadsword"
+    },
+    {
+      "key": "gaz - forward deployment",
+      "name": "Gaz - Forward Deployment"
+    },
+    {
+      "key": "general shepherd",
+      "name": "General Shepherd"
+    },
+    {
+      "key": "ghost",
+      "name": "Ghost"
+    },
+    {
+      "key": "ghost - azrael",
+      "name": "Ghost - Azrael"
+    },
+    {
+      "key": "ghost - cowboy",
+      "name": "Ghost - Cowboy"
+    },
+    {
+      "key": "ghost - dark vision",
+      "name": "Ghost - Dark Vision"
+    },
+    {
+      "key": "ghost - hazmat",
+      "name": "Ghost - Hazmat"
+    },
+    {
+      "key": "ghost - jawbone",
+      "name": "Ghost - Jawbone"
+    },
+    {
+      "key": "ghost - loose ends",
+      "name": "Ghost - Loose Ends"
+    },
+    {
+      "key": "ghost - plasma",
+      "name": "Ghost - Plasma"
+    },
+    {
+      "key": "ghost - retribution",
+      "name": "Ghost - Retribution"
+    },
+    {
+      "key": "ghost - stealth",
+      "name": "Ghost - Stealth"
+    },
+    {
+      "key": "golem - black forest",
+      "name": "Golem - Black Forest"
+    },
+    {
+      "key": "golem - everglade",
+      "name": "Golem - Everglade"
+    },
+    {
+      "key": "golem - grim heaper",
+      "name": "Golem - Grim Heaper"
+    },
+    {
+      "key": "golem - killer whale",
+      "name": "Golem - Killer Whale"
+    },
+    {
+      "key": "golem - siberia",
+      "name": "Golem - Siberia"
+    },
+    {
+      "key": "griggs - sarge",
+      "name": "Griggs - Sarge"
+    },
+    {
+      "key": "grinch - blood in the water",
+      "name": "Grinch - Blood in the Water"
+    },
+    {
+      "key": "grinch - gilded assassin",
+      "name": "Grinch - Gilded Assassin"
+    },
+    {
+      "key": "grinch - nightfang",
+      "name": "Grinch - Nightfang"
+    },
+    {
+      "key": "grinch - polar sentry",
+      "name": "Grinch - Polar Sentry"
+    },
+    {
+      "key": "grinch - the lionheart",
+      "name": "Grinch - The Lionheart"
+    },
+    {
+      "key": "grinch - wreath havoc",
+      "name": "Grinch - Wreath Havoc"
+    },
+    {
+      "key": "gunzo",
+      "name": "Gunzo"
+    },
+    {
+      "key": "gunzo - clown coded",
+      "name": "Gunzo - Clown Coded"
+    },
+    {
+      "key": "gunzo - devil jester",
+      "name": "Gunzo - Devil Jester"
+    },
+    {
+      "key": "gunzo - tacticlown",
+      "name": "Gunzo - Tacticlown"
+    },
+    {
+      "key": "hazmat bomber",
+      "name": "Hazmat Bomber"
+    },
+    {
+      "key": "hidora - the boss",
+      "name": "Hidora - The Boss"
+    },
+    {
+      "key": "hidora kai",
+      "name": "Hidora Kai"
+    },
+    {
+      "key": "high priest of chaos",
+      "name": "High Priest of Chaos"
+    },
+    {
+      "key": "iskra - arachnis",
+      "name": "Iskra - Arachnis"
+    },
+    {
+      "key": "javier salazar",
+      "name": "Javier Salazar"
+    },
+    {
+      "key": "javier salazar - airstrike",
+      "name": "Javier Salazar - Airstrike"
+    },
+    {
+      "key": "javier salazar - bronze arrow",
+      "name": "Javier Salazar - Bronze Arrow"
+    },
+    {
+      "key": "javier salazar - static electricity",
+      "name": "Javier Salazar - Static Electricity"
+    },
+    {
+      "key": "john mcclane",
+      "name": "John McClane"
+    },
+    {
+      "key": "kamarov",
+      "name": "Kamarov"
+    },
+    {
+      "key": "kamarov - moonlight wisp",
+      "name": "Kamarov - Moonlight Wisp"
+    },
+    {
+      "key": "kamarov - strongbox",
+      "name": "Kamarov - Strongbox"
+    },
+    {
+      "key": "keegan",
+      "name": "Keegan"
+    },
+    {
+      "key": "kingsley",
+      "name": "Kingsley"
+    },
+    {
+      "key": "kreuger - alchemist",
+      "name": "Kreuger - Alchemist"
+    },
+    {
+      "key": "kreuger - beast of prey",
+      "name": "Kreuger - Beast of Prey"
+    },
+    {
+      "key": "kreuger - black hat",
+      "name": "Kreuger - Black Hat"
+    },
+    {
+      "key": "kreuger - firestarter",
+      "name": "Kreuger - Firestarter"
+    },
+    {
+      "key": "kreuger - reaper",
+      "name": "Kreuger - Reaper"
+    },
+    {
+      "key": "kreuger - ruptured steel",
+      "name": "Kreuger - Ruptured Steel"
+    },
+    {
+      "key": "kreuger - taiga",
+      "name": "Kreuger - Taiga"
+    },
+    {
+      "key": "kreuger - the resistance",
+      "name": "Kreuger - The Resistance"
+    },
+    {
+      "key": "kreuger - vampire hunter",
+      "name": "Kreuger - Vampire Hunter"
+    },
+    {
+      "key": "kreuger - waster",
+      "name": "Kreuger - Waster"
+    },
+    {
+      "key": "kryptis",
+      "name": "Kryptis"
+    },
+    {
+      "key": "lerch - behemoth",
+      "name": "Lerch - Behemoth"
+    },
+    {
+      "key": "lerch - penalty kick",
+      "name": "Lerch - Penalty Kick"
+    },
+    {
+      "key": "lerch - ripped and torn",
+      "name": "Lerch - Ripped and Torn"
+    },
+    {
+      "key": "lev kravchenko",
+      "name": "Lev Kravchenko"
+    },
+    {
+      "key": "lev kravchenko - digital hide",
+      "name": "Lev Kravchenko - Digital Hide"
+    },
+    {
+      "key": "lev kravchenko - general frost",
+      "name": "Lev Kravchenko - General Frost"
+    },
+    {
+      "key": "lev kravchenko - soviet dragon",
+      "name": "Lev Kravchenko - Soviet Dragon"
+    },
+    {
+      "key": "lev kravchenko - tin stitched",
+      "name": "Lev Kravchenko - Tin Stitched"
+    },
+    {
+      "key": "mace - back for more",
+      "name": "Mace - Back For More"
+    },
+    {
+      "key": "mace - final guard",
+      "name": "Mace - Final Guard"
+    },
+    {
+      "key": "mace - metal phantom",
+      "name": "Mace - Metal Phantom"
+    },
+    {
+      "key": "mace - the armorer",
+      "name": "Mace - The Armorer"
+    },
+    {
+      "key": "mace - tombstone",
+      "name": "Mace - Tombstone"
+    },
+    {
+      "key": "makarov - splinter",
+      "name": "Makarov - Splinter"
+    },
+    {
+      "key": "manta ray",
+      "name": "Manta Ray"
+    },
+    {
+      "key": "manta ray - 2021 mvp",
+      "name": "Manta Ray - 2021 MVP"
+    },
+    {
+      "key": "manta ray - full bloom",
+      "name": "Manta Ray - Full Bloom"
+    },
+    {
+      "key": "manta ray - silver infiltrator",
+      "name": "Manta Ray - Silver Infiltrator"
+    },
+    {
+      "key": "mara - awakening",
+      "name": "Mara - Awakening"
+    },
+    {
+      "key": "mara - notice meow",
+      "name": "Mara - Notice Meow"
+    },
+    {
+      "key": "mara - valkyrie",
+      "name": "Mara - Valkyrie"
+    },
+    {
+      "key": "menendez",
+      "name": "Menendez"
+    },
+    {
+      "key": "merc 1",
+      "name": "Merc 1"
+    },
+    {
+      "key": "merc 1 - brushed chrome",
+      "name": "Merc 1 - Brushed Chrome"
+    },
+    {
+      "key": "merc 1 - green terror",
+      "name": "Merc 1 - Green Terror"
+    },
+    {
+      "key": "merc 1 - persisted",
+      "name": "Merc 1 - Persisted"
+    },
+    {
+      "key": "merc 2",
+      "name": "Merc 2"
+    },
+    {
+      "key": "merc 2 - copilot",
+      "name": "Merc 2 - Copilot"
+    },
+    {
+      "key": "merc 2 - desolate",
+      "name": "Merc 2 - Desolate"
+    },
+    {
+      "key": "merc 2 - great white",
+      "name": "Merc 2 - Great White"
+    },
+    {
+      "key": "merc 2 - lunar tide",
+      "name": "Merc 2 - Lunar Tide"
+    },
+    {
+      "key": "merc 2 - raven's wing",
+      "name": "Merc 2 - Raven's Wing"
+    },
+    {
+      "key": "merc 5",
+      "name": "Merc 5"
+    },
+    {
+      "key": "merc 5 - 2021 champ",
+      "name": "Merc 5 - 2021 Champ"
+    },
+    {
+      "key": "merc 5 - aurora",
+      "name": "Merc 5 - Aurora"
+    },
+    {
+      "key": "merc 5 - batalla",
+      "name": "Merc 5 - Batalla"
+    },
+    {
+      "key": "merc 5 - blood in the water",
+      "name": "Merc 5 - Blood in the Water"
+    },
+    {
+      "key": "merc 5 - bug spray",
+      "name": "Merc 5 - Bug Spray"
+    },
+    {
+      "key": "merc 5 - championship streak",
+      "name": "Merc 5 - Championship Streak"
+    },
+    {
+      "key": "merc 5 - going dark",
+      "name": "Merc 5 - Going Dark"
+    },
+    {
+      "key": "merc 5 - going gold",
+      "name": "Merc 5 - Going Gold"
+    },
+    {
+      "key": "merc 5 - immortal",
+      "name": "Merc 5 - Immortal"
+    },
+    {
+      "key": "merc 5 - ozuna",
+      "name": "Merc 5 - Ozuna"
+    },
+    {
+      "key": "merc 5 - yellow snake",
+      "name": "Merc 5 - Yellow Snake"
+    },
+    {
+      "key": "merc combat rig",
+      "name": "Merc Combat Rig"
+    },
+    {
+      "key": "merrick",
+      "name": "Merrick"
+    },
+    {
+      "key": "mil-sim - balkan special atu",
+      "name": "Mil-Sim - Balkan Special ATU"
+    },
+    {
+      "key": "mil-sim - brute",
+      "name": "Mil-Sim - Brute"
+    },
+    {
+      "key": "mil-sim - ctsfo",
+      "name": "Mil-Sim - CTSFO"
+    },
+    {
+      "key": "mil-sim - force sweeper",
+      "name": "Mil-Sim - Force Sweeper"
+    },
+    {
+      "key": "mil-sim - jw grom",
+      "name": "Mil-Sim - JW Grom"
+    },
+    {
+      "key": "mil-sim - shadow company iii",
+      "name": "Mil-Sim - Shadow Company III"
+    },
+    {
+      "key": "mil-sim - special warfare",
+      "name": "Mil-Sim - Special Warfare"
+    },
+    {
+      "key": "mil-sim - trench dropper",
+      "name": "Mil-Sim - Trench Dropper"
+    },
+    {
+      "key": "minotaur - baroque",
+      "name": "Minotaur - Baroque"
+    },
+    {
+      "key": "minotaur - beach day",
+      "name": "Minotaur - Beach Day"
+    },
+    {
+      "key": "minotaur - gungnir",
+      "name": "Minotaur - Gungnir"
+    },
+    {
+      "key": "misty barton",
+      "name": "Misty Barton"
+    },
+    {
+      "key": "morte - billy",
+      "name": "Morte - Billy"
+    },
+    {
+      "key": "morte - conciliatore",
+      "name": "Morte - Conciliatore"
+    },
+    {
+      "key": "nikolai - airborne",
+      "name": "Nikolai - Airborne"
+    },
+    {
+      "key": "nikolai belinski",
+      "name": "Nikolai Belinski"
+    },
+    {
+      "key": "nikto",
+      "name": "Nikto"
+    },
+    {
+      "key": "nikto - armored sentry",
+      "name": "Nikto - Armored Sentry"
+    },
+    {
+      "key": "nikto - bloodletter",
+      "name": "Nikto - Bloodletter"
+    },
+    {
+      "key": "nikto - dark side",
+      "name": "Nikto - Dark Side"
+    },
+    {
+      "key": "nikto - scarecrow",
+      "name": "Nikto - Scarecrow"
+    },
+    {
+      "key": "nikto - stronghold",
+      "name": "Nikto - Stronghold"
+    },
+    {
+      "key": "nomad - alegria",
+      "name": "Nomad - Alegria"
+    },
+    {
+      "key": "nomad - artisan",
+      "name": "Nomad - Artisan"
+    },
+    {
+      "key": "nomad - aurora",
+      "name": "Nomad - Aurora"
+    },
+    {
+      "key": "nomad - bug spray",
+      "name": "Nomad - Bug Spray"
+    },
+    {
+      "key": "nomad - colorweave",
+      "name": "Nomad - Colorweave"
+    },
+    {
+      "key": "nomad - cyberline",
+      "name": "Nomad - Cyberline"
+    },
+    {
+      "key": "nomad - druid",
+      "name": "Nomad - Druid"
+    },
+    {
+      "key": "nomad - garden",
+      "name": "Nomad - Garden"
+    },
+    {
+      "key": "nomad - going dark",
+      "name": "Nomad - Going Dark"
+    },
+    {
+      "key": "nomad - greyscale",
+      "name": "Nomad - Greyscale"
+    },
+    {
+      "key": "nomad - lattice",
+      "name": "Nomad - Lattice"
+    },
+    {
+      "key": "nomad - lunar tide",
+      "name": "Nomad - Lunar Tide"
+    },
+    {
+      "key": "nomad - snowblind",
+      "name": "Nomad - Snowblind"
+    },
+    {
+      "key": "nomad - the distraction",
+      "name": "Nomad - The Distraction"
+    },
+    {
+      "key": "nomad - wild snake",
+      "name": "Nomad - Wild Snake"
+    },
+    {
+      "key": "otter - backstroke",
+      "name": "Otter - Backstroke"
+    },
+    {
+      "key": "otter - irradiated",
+      "name": "Otter - Irradiated"
+    },
+    {
+      "key": "otter - safeguard",
+      "name": "Otter - Safeguard"
+    },
+    {
+      "key": "otter - snow drift",
+      "name": "Otter - Snow Drift"
+    },
+    {
+      "key": "otter - tf141",
+      "name": "Otter - TF141"
+    },
+    {
+      "key": "outrider - amazonas",
+      "name": "Outrider - Amazonas"
+    },
+    {
+      "key": "outrider - arctic",
+      "name": "Outrider - Arctic"
+    },
+    {
+      "key": "outrider - carnival",
+      "name": "Outrider - Carnival"
+    },
+    {
+      "key": "outrider - cyberline",
+      "name": "Outrider - Cyberline"
+    },
+    {
+      "key": "outrider - dark strobe",
+      "name": "Outrider - Dark Strobe"
+    },
+    {
+      "key": "outrider - going dark",
+      "name": "Outrider - Going Dark"
+    },
+    {
+      "key": "outrider - jungle",
+      "name": "Outrider - Jungle"
+    },
+    {
+      "key": "outrider - jungle cat",
+      "name": "Outrider - Jungle Cat"
+    },
+    {
+      "key": "outrider - lovestruck",
+      "name": "Outrider - Lovestruck"
+    },
+    {
+      "key": "outrider - mystic",
+      "name": "Outrider - Mystic"
+    },
+    {
+      "key": "outrider - purple prism",
+      "name": "Outrider - Purple Prism"
+    },
+    {
+      "key": "outrider - radio current",
+      "name": "Outrider - Radio Current"
+    },
+    {
+      "key": "outrider - rune weave",
+      "name": "Outrider - Rune Weave"
+    },
+    {
+      "key": "outrider - vaporwave",
+      "name": "Outrider - Vaporwave"
+    },
+    {
+      "key": "outrider - de los muertos",
+      "name": "Outrider - de los Muertos"
+    },
+    {
+      "key": "park - safehouse",
+      "name": "Park - Safehouse"
+    },
+    {
+      "key": "park - spirit",
+      "name": "Park - Spirit"
+    },
+    {
+      "key": "phantom",
+      "name": "Phantom"
+    },
+    {
+      "key": "phantom - al layl",
+      "name": "Phantom - Al Layl"
+    },
+    {
+      "key": "phantom - championship 2020",
+      "name": "Phantom - Championship 2020"
+    },
+    {
+      "key": "phantom - null",
+      "name": "Phantom - Null"
+    },
+    {
+      "key": "police",
+      "name": "Police"
+    },
+    {
+      "key": "price - bravo 6",
+      "name": "Price - Bravo 6"
+    },
+    {
+      "key": "price - chem 141",
+      "name": "Price - Chem 141"
+    },
+    {
+      "key": "price - dead of night",
+      "name": "Price - Dead of Night"
+    },
+    {
+      "key": "price - the captain",
+      "name": "Price - The Captain"
+    },
+    {
+      "key": "prophet - archangel",
+      "name": "Prophet - Archangel"
+    },
+    {
+      "key": "prophet - desolate",
+      "name": "Prophet - Desolate"
+    },
+    {
+      "key": "prophet - dust bowl",
+      "name": "Prophet - Dust Bowl"
+    },
+    {
+      "key": "prophet - electric wilds",
+      "name": "Prophet - Electric Wilds"
+    },
+    {
+      "key": "prophet - geist",
+      "name": "Prophet - Geist"
+    },
+    {
+      "key": "prophet - high voltage",
+      "name": "Prophet - High Voltage"
+    },
+    {
+      "key": "prophet - mantis",
+      "name": "Prophet - Mantis"
+    },
+    {
+      "key": "prophet - sight",
+      "name": "Prophet - Sight"
+    },
+    {
+      "key": "proton",
+      "name": "Proton"
+    },
+    {
+      "key": "raines - bunyan",
+      "name": "Raines - Bunyan"
+    },
+    {
+      "key": "raines - mariner",
+      "name": "Raines - Mariner"
+    },
+    {
+      "key": "rambo",
+      "name": "Rambo"
+    },
+    {
+      "key": "reaper",
+      "name": "Reaper"
+    },
+    {
+      "key": "reaper - ashura",
+      "name": "Reaper - Ashura"
+    },
+    {
+      "key": "reaper - premium",
+      "name": "Reaper - Premium"
+    },
+    {
+      "key": "reaper - puzzle",
+      "name": "Reaper - Puzzle"
+    },
+    {
+      "key": "reaper - the grinder",
+      "name": "Reaper - The Grinder"
+    },
+    {
+      "key": "reaper - time to die",
+      "name": "Reaper - Time to Die"
+    },
+    {
+      "key": "reaper - trailblazer",
+      "name": "Reaper - Trailblazer"
+    },
+    {
+      "key": "recon - flickering shadow",
+      "name": "Recon - Flickering Shadow"
+    },
+    {
+      "key": "recon - frogman",
+      "name": "Recon - Frogman"
+    },
+    {
+      "key": "recon - honorbound",
+      "name": "Recon - Honorbound"
+    },
+    {
+      "key": "recon - samurai",
+      "name": "Recon - Samurai"
+    },
+    {
+      "key": "reznov",
+      "name": "Reznov"
+    },
+    {
+      "key": "reznov - winterwood",
+      "name": "Reznov - Winterwood"
+    },
+    {
+      "key": "richtofen",
+      "name": "Richtofen"
+    },
+    {
+      "key": "richtofen - turned",
+      "name": "Richtofen - Turned"
+    },
+    {
+      "key": "riggs",
+      "name": "Riggs"
+    },
+    {
+      "key": "rodion - infiltration",
+      "name": "Rodion - Infiltration"
+    },
+    {
+      "key": "rodion - on guard",
+      "name": "Rodion - On Guard"
+    },
+    {
+      "key": "ronin - hagakure",
+      "name": "Ronin - Hagakure"
+    },
+    {
+      "key": "ronin - lone dragon",
+      "name": "Ronin - Lone Dragon"
+    },
+    {
+      "key": "rorke - man hunter",
+      "name": "Rorke - Man Hunter"
+    },
+    {
+      "key": "rosa",
+      "name": "Rosa"
+    },
+    {
+      "key": "rosa - double agent",
+      "name": "Rosa - Double Agent"
+    },
+    {
+      "key": "rott",
+      "name": "Rott"
+    },
+    {
+      "key": "rott - tomb bound",
+      "name": "Rott - Tomb Bound"
+    },
+    {
+      "key": "roze - foreshadow",
+      "name": "Roze - Foreshadow"
+    },
+    {
+      "key": "roze - murk",
+      "name": "Roze - Murk"
+    },
+    {
+      "key": "roze - virago",
+      "name": "Roze - Virago"
+    },
+    {
+      "key": "ruin - action figure",
+      "name": "Ruin - Action Figure"
+    },
+    {
+      "key": "ruin - arctic blizzard",
+      "name": "Ruin - Arctic Blizzard"
+    },
+    {
+      "key": "ruin - bioluminescence",
+      "name": "Ruin - Bioluminescence"
+    },
+    {
+      "key": "ruin - blood in the water",
+      "name": "Ruin - Blood in the Water"
+    },
+    {
+      "key": "ruin - bone warrior",
+      "name": "Ruin - Bone Warrior"
+    },
+    {
+      "key": "ruin - boom scrawl",
+      "name": "Ruin - Boom Scrawl"
+    },
+    {
+      "key": "ruin - championship purple",
+      "name": "Ruin - Championship Purple"
+    },
+    {
+      "key": "ruin - goblin king",
+      "name": "Ruin - Goblin King"
+    },
+    {
+      "key": "ruin - going dark",
+      "name": "Ruin - Going Dark"
+    },
+    {
+      "key": "ruin - industrial revolution",
+      "name": "Ruin - Industrial Revolution"
+    },
+    {
+      "key": "ruin - jade",
+      "name": "Ruin - Jade"
+    },
+    {
+      "key": "ruin - jaguar",
+      "name": "Ruin - Jaguar"
+    },
+    {
+      "key": "ruin - jungle",
+      "name": "Ruin - Jungle"
+    },
+    {
+      "key": "ruin - odin's omen",
+      "name": "Ruin - Odin's Omen"
+    },
+    {
+      "key": "ruin - rose cinder",
+      "name": "Ruin - Rose Cinder"
+    },
+    {
+      "key": "ruin - spades",
+      "name": "Ruin - Spades"
+    },
+    {
+      "key": "ruin - tangled web",
+      "name": "Ruin - Tangled Web"
+    },
+    {
+      "key": "russian merc - forest",
+      "name": "Russian Merc - Forest"
+    },
+    {
+      "key": "russian merc - hounded",
+      "name": "Russian Merc - Hounded"
+    },
+    {
+      "key": "russian merc - iron hunter",
+      "name": "Russian Merc - Iron Hunter"
+    },
+    {
+      "key": "russian merc - jaguar",
+      "name": "Russian Merc - Jaguar"
+    },
+    {
+      "key": "russian merc 1 - hard tech",
+      "name": "Russian Merc 1 - Hard Tech"
+    },
+    {
+      "key": "russian merc 1 - nucleobase",
+      "name": "Russian Merc 1 - Nucleobase"
+    },
+    {
+      "key": "scarlett rhodes",
+      "name": "Scarlett Rhodes"
+    },
+    {
+      "key": "scarlett rhodes - carmine",
+      "name": "Scarlett Rhodes - Carmine"
+    },
+    {
+      "key": "scarlett rhodes - cutthroat",
+      "name": "Scarlett Rhodes - Cutthroat"
+    },
+    {
+      "key": "scarlett rhodes - hallowmas",
+      "name": "Scarlett Rhodes - Hallowmas"
+    },
+    {
+      "key": "scarlett rhodes - machina",
+      "name": "Scarlett Rhodes - Machina"
+    },
+    {
+      "key": "scout 2",
+      "name": "Scout 2"
+    },
+    {
+      "key": "scout 2  - fire walker",
+      "name": "Scout 2  - Fire Walker"
+    },
+    {
+      "key": "scout 2 - construct",
+      "name": "Scout 2 - Construct"
+    },
+    {
+      "key": "scout 2 - federation",
+      "name": "Scout 2 - Federation"
+    },
+    {
+      "key": "scout 2 - ghosts",
+      "name": "Scout 2 - Ghosts"
+    },
+    {
+      "key": "scout 2 - steam engine",
+      "name": "Scout 2 - Steam Engine"
+    },
+    {
+      "key": "scout 2 - viscous shoal",
+      "name": "Scout 2 - Viscous Shoal"
+    },
+    {
+      "key": "scylla",
+      "name": "Scylla"
+    },
+    {
+      "key": "scylla - dark quill",
+      "name": "Scylla - Dark Quill"
+    },
+    {
+      "key": "scylla - dusted",
+      "name": "Scylla - Dusted"
+    },
+    {
+      "key": "scylla - future vice",
+      "name": "Scylla - Future Vice"
+    },
+    {
+      "key": "scylla - pink hearted",
+      "name": "Scylla - Pink Hearted"
+    },
+    {
+      "key": "scylla - sleigher",
+      "name": "Scylla - Sleigher"
+    },
+    {
+      "key": "sentinel recon",
+      "name": "Sentinel Recon"
+    },
+    {
+      "key": "sentinel recon - ice kraken",
+      "name": "Sentinel Recon - Ice Kraken"
+    },
+    {
+      "key": "sentinel recon - primal",
+      "name": "Sentinel Recon - Primal"
+    },
+    {
+      "key": "sentinel recon - shogun",
+      "name": "Sentinel Recon - Shogun"
+    },
+    {
+      "key": "seraph",
+      "name": "Seraph"
+    },
+    {
+      "key": "seraph - crimson lotus",
+      "name": "Seraph - Crimson Lotus"
+    },
+    {
+      "key": "seraph - desperada",
+      "name": "Seraph - Desperada"
+    },
+    {
+      "key": "seraph - fallen fiend",
+      "name": "Seraph - Fallen Fiend"
+    },
+    {
+      "key": "seraph - freak show",
+      "name": "Seraph - Freak Show"
+    },
+    {
+      "key": "seraph - gravekiller",
+      "name": "Seraph - Gravekiller"
+    },
+    {
+      "key": "seraph - kitty six",
+      "name": "Seraph - Kitty Six"
+    },
+    {
+      "key": "seraph - precious metal",
+      "name": "Seraph - Precious Metal"
+    },
+    {
+      "key": "seraph - sicaria",
+      "name": "Seraph - Sicaria"
+    },
+    {
+      "key": "seraph - silver bullet",
+      "name": "Seraph - Silver Bullet"
+    },
+    {
+      "key": "seraph - terracotta",
+      "name": "Seraph - Terracotta"
+    },
+    {
+      "key": "seraph - the professional",
+      "name": "Seraph - The Professional"
+    },
+    {
+      "key": "seraph - tombstone",
+      "name": "Seraph - Tombstone"
+    },
+    {
+      "key": "sheriff",
+      "name": "Sheriff"
+    },
+    {
+      "key": "sheriff - adaptable",
+      "name": "Sheriff - Adaptable"
+    },
+    {
+      "key": "siren",
+      "name": "Siren"
+    },
+    {
+      "key": "siren - artifice",
+      "name": "Siren - Artifice"
+    },
+    {
+      "key": "siren - hydrodynamic",
+      "name": "Siren - Hydrodynamic"
+    },
+    {
+      "key": "soap",
+      "name": "Soap"
+    },
+    {
+      "key": "soap - esqueleto",
+      "name": "Soap - Esqueleto"
+    },
+    {
+      "key": "soap - hazmat",
+      "name": "Soap - Hazmat"
+    },
+    {
+      "key": "soap - jungle ops",
+      "name": "Soap - Jungle Ops"
+    },
+    {
+      "key": "soap - takedown",
+      "name": "Soap - Takedown"
+    },
+    {
+      "key": "spec ops 3 - winter",
+      "name": "Spec Ops 3 - Winter"
+    },
+    {
+      "key": "special ops 1",
+      "name": "Special Ops 1"
+    },
+    {
+      "key": "special ops 1 - air brush",
+      "name": "Special Ops 1 - Air Brush"
+    },
+    {
+      "key": "special ops 1 - burial ground",
+      "name": "Special Ops 1 - Burial Ground"
+    },
+    {
+      "key": "special ops 1 - championship charge",
+      "name": "Special Ops 1 - Championship Charge"
+    },
+    {
+      "key": "special ops 1 - desert",
+      "name": "Special Ops 1 - Desert"
+    },
+    {
+      "key": "special ops 1 - fiber mesh",
+      "name": "Special Ops 1 - Fiber Mesh"
+    },
+    {
+      "key": "special ops 1 - pitch black",
+      "name": "Special Ops 1 - Pitch Black"
+    },
+    {
+      "key": "special ops 1 - radio current",
+      "name": "Special Ops 1 - Radio Current"
+    },
+    {
+      "key": "special ops 1 - scarlet kingsnake",
+      "name": "Special Ops 1 - Scarlet Kingsnake"
+    },
+    {
+      "key": "special ops 1 - sewed snake",
+      "name": "Special Ops 1 - Sewed Snake"
+    },
+    {
+      "key": "special ops 2",
+      "name": "Special Ops 2"
+    },
+    {
+      "key": "special ops 2 - copilot",
+      "name": "Special Ops 2 - Copilot"
+    },
+    {
+      "key": "special ops 2 - green terror",
+      "name": "Special Ops 2 - Green Terror"
+    },
+    {
+      "key": "special ops 2 - sewed leather",
+      "name": "Special Ops 2 - Sewed Leather"
+    },
+    {
+      "key": "special ops 2 - side scale",
+      "name": "Special Ops 2 - Side Scale"
+    },
+    {
+      "key": "special ops 3",
+      "name": "Special Ops 3"
+    },
+    {
+      "key": "special ops 3 - air brush",
+      "name": "Special Ops 3 - Air Brush"
+    },
+    {
+      "key": "special ops 3 - arctic",
+      "name": "Special Ops 3 - Arctic"
+    },
+    {
+      "key": "special ops 3 - connection",
+      "name": "Special Ops 3 - Connection"
+    },
+    {
+      "key": "special ops 3 - iridescent",
+      "name": "Special Ops 3 - Iridescent"
+    },
+    {
+      "key": "special ops 3 - malware",
+      "name": "Special Ops 3 - Malware"
+    },
+    {
+      "key": "special ops 3 - sea serpent",
+      "name": "Special Ops 3 - Sea Serpent"
+    },
+    {
+      "key": "special ops 3 - static electricity",
+      "name": "Special Ops 3 - Static Electricity"
+    },
+    {
+      "key": "special ops 3 - umber",
+      "name": "Special Ops 3 - Umber"
+    },
+    {
+      "key": "special ops 4",
+      "name": "Special Ops 4"
+    },
+    {
+      "key": "special ops 4 - coiled",
+      "name": "Special Ops 4 - Coiled"
+    },
+    {
+      "key": "special ops 4 - cut wave",
+      "name": "Special Ops 4 - Cut Wave"
+    },
+    {
+      "key": "special ops 4 - freight train",
+      "name": "Special Ops 4 - Freight Train"
+    },
+    {
+      "key": "special ops 4 - obstacle",
+      "name": "Special Ops 4 - Obstacle"
+    },
+    {
+      "key": "special ops 4 - shipwrecked",
+      "name": "Special Ops 4 - Shipwrecked"
+    },
+    {
+      "key": "special ops 4 - stencil strike",
+      "name": "Special Ops 4 - Stencil Strike"
+    },
+    {
+      "key": "special ops 5",
+      "name": "Special Ops 5"
+    },
+    {
+      "key": "special ops 5 - action scene",
+      "name": "Special Ops 5 - Action Scene"
+    },
+    {
+      "key": "special ops 5 - dead zebra",
+      "name": "Special Ops 5 - Dead Zebra"
+    },
+    {
+      "key": "special ops 5 - deep vein",
+      "name": "Special Ops 5 - Deep Vein"
+    },
+    {
+      "key": "special ops 5 - ground splitter",
+      "name": "Special Ops 5 - Ground Splitter"
+    },
+    {
+      "key": "special ops 5 - imprint",
+      "name": "Special Ops 5 - Imprint"
+    },
+    {
+      "key": "special ops 5 - liquid mercury",
+      "name": "Special Ops 5 - Liquid Mercury"
+    },
+    {
+      "key": "special ops 5 - monster green",
+      "name": "Special Ops 5 - Monster Green"
+    },
+    {
+      "key": "special ops 5 - rainforest",
+      "name": "Special Ops 5 - Rainforest"
+    },
+    {
+      "key": "special ops 5 - snowframe",
+      "name": "Special Ops 5 - Snowframe"
+    },
+    {
+      "key": "special ops 5 - stencil strike",
+      "name": "Special Ops 5 - Stencil Strike"
+    },
+    {
+      "key": "special ops 5 - taped flecktarn",
+      "name": "Special Ops 5 - Taped Flecktarn"
+    },
+    {
+      "key": "special ops 5 - trance",
+      "name": "Special Ops 5 - Trance"
+    },
+    {
+      "key": "spectre",
+      "name": "Spectre"
+    },
+    {
+      "key": "spectre - ayakashi",
+      "name": "Spectre - Ayakashi"
+    },
+    {
+      "key": "spectre - chrome",
+      "name": "Spectre - Chrome"
+    },
+    {
+      "key": "spectre - crash test",
+      "name": "Spectre - Crash Test"
+    },
+    {
+      "key": "spectre - geist",
+      "name": "Spectre - Geist"
+    },
+    {
+      "key": "spectre - mannequin",
+      "name": "Spectre - Mannequin"
+    },
+    {
+      "key": "spectre - ninja",
+      "name": "Spectre - Ninja"
+    },
+    {
+      "key": "spectre - pixel spy",
+      "name": "Spectre - Pixel Spy"
+    },
+    {
+      "key": "spectre - spectral",
+      "name": "Spectre - Spectral"
+    },
+    {
+      "key": "spectre - the prepper",
+      "name": "Spectre - The Prepper"
+    },
+    {
+      "key": "spectre - u.l.t.r.a.9",
+      "name": "Spectre - U.L.T.R.A.9"
+    },
+    {
+      "key": "t.e.d.d.",
+      "name": "T.E.D.D."
+    },
+    {
+      "key": "t.e.d.d. - hardware update",
+      "name": "T.E.D.D. - Hardware Update"
+    },
+    {
+      "key": "t.e.d.d. - where to sir?",
+      "name": "T.E.D.D. - Where to Sir?"
+    },
+    {
+      "key": "takeo",
+      "name": "Takeo"
+    },
+    {
+      "key": "takeo - sensei",
+      "name": "Takeo - Sensei"
+    },
+    {
+      "key": "tank dempsey",
+      "name": "Tank Dempsey"
+    },
+    {
+      "key": "tank dempsey - turned",
+      "name": "Tank Dempsey - Turned"
+    },
+    {
+      "key": "tank dempsey - wrecker",
+      "name": "Tank Dempsey - Wrecker"
+    },
+    {
+      "key": "templar",
+      "name": "Templar"
+    },
+    {
+      "key": "templar - royal knight",
+      "name": "Templar - Royal Knight"
+    },
+    {
+      "key": "tengu - black gold",
+      "name": "Tengu - Black Gold"
+    },
+    {
+      "key": "tengu - insulated",
+      "name": "Tengu - Insulated"
+    },
+    {
+      "key": "tengu - rebar",
+      "name": "Tengu - Rebar"
+    },
+    {
+      "key": "tengu - undead crusade",
+      "name": "Tengu - Undead Crusade"
+    },
+    {
+      "key": "terrance brooks",
+      "name": "Terrance Brooks"
+    },
+    {
+      "key": "terrance brooks - catacombs",
+      "name": "Terrance Brooks - Catacombs"
+    },
+    {
+      "key": "terrance brooks - deep snow",
+      "name": "Terrance Brooks - Deep Snow"
+    },
+    {
+      "key": "terrance brooks - digital hide",
+      "name": "Terrance Brooks - Digital Hide"
+    },
+    {
+      "key": "terrance brooks - doubloons",
+      "name": "Terrance Brooks - Doubloons"
+    },
+    {
+      "key": "terrance brooks - green terror",
+      "name": "Terrance Brooks - Green Terror"
+    },
+    {
+      "key": "tian zhao",
+      "name": "Tian Zhao"
+    },
+    {
+      "key": "tian zhao - sieged",
+      "name": "Tian Zhao - Sieged"
+    },
+    {
+      "key": "udt frogman",
+      "name": "UDT Frogman"
+    },
+    {
+      "key": "urban tracker",
+      "name": "Urban Tracker"
+    },
+    {
+      "key": "urban tracker - bish",
+      "name": "Urban Tracker - BiSH"
+    },
+    {
+      "key": "urban tracker - by night",
+      "name": "Urban Tracker - By Night"
+    },
+    {
+      "key": "urban tracker - exile",
+      "name": "Urban Tracker - Exile"
+    },
+    {
+      "key": "urban tracker - peacetime",
+      "name": "Urban Tracker - Peacetime"
+    },
+    {
+      "key": "vag modir",
+      "name": "Vag Modir"
+    },
+    {
+      "key": "vanguard",
+      "name": "Vanguard"
+    },
+    {
+      "key": "vanguard - ridge rider",
+      "name": "Vanguard - Ridge Rider"
+    },
+    {
+      "key": "vanguard - ski patroller",
+      "name": "Vanguard - Ski Patroller"
+    },
+    {
+      "key": "vasquez - dark light",
+      "name": "Vasquez - Dark Light"
+    },
+    {
+      "key": "vasquez - digital desert",
+      "name": "Vasquez - Digital Desert"
+    },
+    {
+      "key": "vasquez - fission",
+      "name": "Vasquez - Fission"
+    },
+    {
+      "key": "vasquez - grating",
+      "name": "Vasquez - Grating"
+    },
+    {
+      "key": "velikan - megalith",
+      "name": "Velikan - Megalith"
+    },
+    {
+      "key": "velikan - volcanic ash",
+      "name": "Velikan - Volcanic Ash"
+    },
+    {
+      "key": "velikan - woodman",
+      "name": "Velikan - Woodman"
+    },
+    {
+      "key": "vivian harris - b.a.t. agent",
+      "name": "Vivian Harris - B.A.T. Agent"
+    },
+    {
+      "key": "vivian harris - periwinkle",
+      "name": "Vivian Harris - Periwinkle"
+    },
+    {
+      "key": "vladimir makarov",
+      "name": "Vladimir Makarov"
+    },
+    {
+      "key": "witch doctor",
+      "name": "Witch Doctor"
+    },
+    {
+      "key": "witch doctor - rigor mortis",
+      "name": "Witch Doctor - Rigor Mortis"
+    },
+    {
+      "key": "witch doctor - wrong medicine",
+      "name": "Witch Doctor - Wrong Medicine"
+    },
+    {
+      "key": "woods - cold snap",
+      "name": "Woods - Cold Snap"
+    },
+    {
+      "key": "yegor - cerulean",
+      "name": "Yegor - Cerulean"
+    },
+    {
+      "key": "yegor - diplomat",
+      "name": "Yegor - Diplomat"
+    },
+    {
+      "key": "yegor - drawstring",
+      "name": "Yegor - Drawstring"
+    },
+    {
+      "key": "yegor - guerilla",
+      "name": "Yegor - Guerilla"
+    },
+    {
+      "key": "zero",
+      "name": "Zero"
+    },
+    {
+      "key": "zero - dark ops",
+      "name": "Zero - Dark Ops"
+    },
+    {
+      "key": "zero - escape",
+      "name": "Zero - Escape"
+    },
+    {
+      "key": "zero - nebula",
+      "name": "Zero - Nebula"
+    },
+    {
+      "key": "zero - scorpion queen",
+      "name": "Zero - Scorpion Queen"
+    },
+    {
+      "key": "zero - sultana",
+      "name": "Zero - Sultana"
+    },
+    {
+      "key": "zombie - mob guard",
+      "name": "Zombie - Mob Guard"
+    },
+    {
+      "key": "zombie - wicht warden",
+      "name": "Zombie - Wicht Warden"
+    }
+  ]
+}

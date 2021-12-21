@@ -1,0 +1,4603 @@
+{
+  "soldiers": [
+    {
+      "key": "adler - civilian",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15565.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "adler - mountain drab",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8782.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "adler - route 66",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12243.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14607.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - convict",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7375.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - hired gun",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10609.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - malpractor",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15184.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alex",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10030.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alex - bounty hunter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11405.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alex mason",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1099.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alex mason - piercing frost",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8926.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alias",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10308.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alias - battleworn",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14176.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alias - deep diver",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12234.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "american bulldog",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6058.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "american bulldog - buckskin",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11254.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "american bulldog - defected",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9177.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "archangel - militant",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12989.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "artery",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_708.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "artery - exoskeleton",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7678.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "artery - lunar maria",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11655.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "artery - maiden of death",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14442.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "artery - nosferatu",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15035.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "bailout",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6084.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "bailout - haunted",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10254.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "bailout - raven's wing",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13939.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "bathysphere",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6135.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "bathysphere - 10,000 leagues",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12089.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - alpine infinite",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8559.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - arctic",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1960.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "battery - ardent",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12452.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - birthstone",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11139.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - capital",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2072.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - demolitions",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1344.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - droplets",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10337.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6349.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - halfpipe valentine",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_945.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - indomitable",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14676.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - mosaic",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12975.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - propaganda",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6213.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - queens guard",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7397.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - shuttle",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14648.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - skulls & blood",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1737.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - sleight of hand",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7412.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - sting",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_977.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - subterfuge",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6255.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - torque",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_695.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - voltaic garden",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_15296.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "battery - wasteland warrior",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2382.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battle hardened",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2618.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battle hardened - axon",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9353.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battle hardened - red shock",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7500.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battle hardened - snow owl",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9085.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "blackjack",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13751.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "captain",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1088.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - arctic blizzard",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2562.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - bdu",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10004.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - black lime",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1615.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - crossed cables",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7517.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - depth metal",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10914.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - ghosts",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13669.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - labyrinth",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8301.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - leather & lead",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11889.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain park",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2085.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "captain park - ranger",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6321.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "captain price",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1006.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "carver butcher",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_3042.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "carver butcher - cash flow",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13360.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "carver butcher - shredded",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10084.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "cassius - cold blood",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13460.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "charly",
+      "elementType": "common",
+      "imageUrl": "assets/cosmetics/cosmetics_9968.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 1,
+      "secondImage": null
+    },
+    {
+      "key": "charly - angel of death",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10147.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "charly - coalition",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10969.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "charly - huntress",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13618.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "charly - knighted",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10950.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "charly - sinister",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8383.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "charly - wolves",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_15325.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "competitor - alternate",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10848.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "competitor - primary",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10847.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "cosmic silverback",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7507.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dame",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12345.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dame - usurper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13827.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dark shepherd",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_5916.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dark shepherd - soul reaper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10501.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "david mason",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1141.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "david mason - enforcer",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9288.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "death angel alice",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1091.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "death angel alice - the fool",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7597.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "death angel alice - trench",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2795.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "death angel alice - vicious",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9993.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "demir",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13608.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "domino - lynx",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10810.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "domino - revolutionary",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12961.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1086.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - alpine infinite",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8558.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - crisis",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10233.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1571.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - gravestone",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2797.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - red curtain",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8176.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - ultramarine",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8179.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - upper hand",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6799.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "elite pmc - woodland",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6013.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "emma victorova - archangel",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_3004.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ethan",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9452.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ether - network",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9498.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ftl",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1090.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ftl - power line",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9299.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ftl - second stage",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8420.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "farah - jinn",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14259.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - carat thief",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1092.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - eviction",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10912.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - fire squad",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14040.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - magmageddon",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8894.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - panda",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_862.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - searaven",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12548.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - sinister",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2670.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - the astronaut",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1975.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - the fire team",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12908.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "frank woods",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8069.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gaz",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1005.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gaz - broadsword",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8299.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gaz - forward deployment",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14163.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "general shepherd",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14186.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_922.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - azrael",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14660.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - cowboy",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_191.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - dark vision",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8746.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - hazmat",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1639.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - jawbone",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7931.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - loose ends",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7387.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - plasma",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1038.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - retribution",
+      "elementType": "legendary",
+      "imageUrl": "assets/cosmetics/cosmetics_12470.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - stealth",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_968.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "golem - black forest",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6606.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "golem - everglade",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14569.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "golem - grim heaper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2483.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "golem - killer whale",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12415.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "golem - siberia",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8767.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "griggs - sarge",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13642.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - blood in the water",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12487.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - gilded assassin",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10098.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - nightfang",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6745.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - polar sentry",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14058.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - the lionheart",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13023.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - wreath havoc",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8477.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gunzo",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2542.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gunzo - clown coded",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9411.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gunzo - devil jester",
+      "elementType": "legendary",
+      "imageUrl": "assets/cosmetics/cosmetics_15247.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "gunzo - tacticlown",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8080.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "hazmat bomber",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1692.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "hidora - the boss",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10542.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "hidora kai",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7452.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "high priest of chaos",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11145.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "iskra - arachnis",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15045.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "javier salazar",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1482.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "javier salazar - airstrike",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2620.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "javier salazar - bronze arrow",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8157.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "javier salazar - static electricity",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7211.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "john mcclane",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11215.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kamarov",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7975.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "kamarov - moonlight wisp",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8226.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "kamarov - strongbox",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_5960.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "keegan",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12329.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kingsley",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14624.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - alchemist",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1640.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - beast of prey",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7696.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - black hat",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11880.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - firestarter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9650.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - reaper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2341.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - ruptured steel",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10072.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - taiga",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8945.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - the resistance",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11073.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - vampire hunter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15314.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - waster",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11666.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kryptis",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14908.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "lerch - behemoth",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10262.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "lerch - penalty kick",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13008.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "lerch - ripped and torn",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_15301.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "lev kravchenko",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_568.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "lev kravchenko - digital hide",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2300.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "lev kravchenko - general frost",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8499.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "lev kravchenko - soviet dragon",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2948.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "lev kravchenko - tin stitched",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1722.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "mace - back for more",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10019.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mace - final guard",
+      "elementType": "legendary",
+      "imageUrl": "assets/cosmetics/cosmetics_11052.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "mace - metal phantom",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2646.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mace - the armorer",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8983.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mace - tombstone",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6303.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "makarov - splinter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6290.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "manta ray",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2723.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "manta ray - 2021 mvp",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11649.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "manta ray - full bloom",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12565.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "manta ray - silver infiltrator",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14032.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mara - awakening",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10056.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mara - notice meow",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7314.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mara - valkyrie",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6263.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "menendez",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10352.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 1",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1083.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "merc 1 - brushed chrome",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11714.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 1 - green terror",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7886.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 1 - persisted",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6768.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1087.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2 - copilot",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6094.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2 - desolate",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2385.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2 - great white",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12134.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2 - lunar tide",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9403.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 2 - raven's wing",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13500.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_969.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - 2021 champ",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12162.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - aurora",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9386.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - batalla",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11017.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - blood in the water",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6202.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - bug spray",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6700.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - championship streak",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6784.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6348.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - going gold",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7226.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - immortal",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12576.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - ozuna",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13646.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - yellow snake",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1094.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc combat rig",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8164.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merrick",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11977.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - balkan special atu",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13631.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - brute",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10041.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - ctsfo",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10181.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - force sweeper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13597.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - jw grom",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10974.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - shadow company iii",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13381.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - special warfare",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11702.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - trench dropper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14134.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "minotaur - baroque",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14613.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "minotaur - beach day",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15250.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "minotaur - gungnir",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13994.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "misty barton",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15331.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "morte - billy",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15178.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "morte - conciliatore",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11416.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikolai - airborne",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12899.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikolai belinski",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_5923.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikto",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_85.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikto - armored sentry",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14834.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikto - bloodletter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12277.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikto - dark side",
+      "elementType": "legendary",
+      "imageUrl": "assets/cosmetics/cosmetics_8275.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "nikto - scarecrow",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15061.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nikto - stronghold",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2961.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - alegria",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13482.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - artisan",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11534.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - aurora",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9387.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - bug spray",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8055.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - colorweave",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13821.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - cyberline",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7642.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - druid",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_53.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - garden",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_966.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7889.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - greyscale",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13358.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - lattice",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2485.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - lunar tide",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8386.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - snowblind",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8995.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - the distraction",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_338.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - wild snake",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_26.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "otter - backstroke",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11970.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "otter - irradiated",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11895.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "otter - safeguard",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14038.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "otter - snow drift",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14869.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "otter - tf141",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6494.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - amazonas",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6274.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - arctic",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_185.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - carnival",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9606.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - cyberline",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8815.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - dark strobe",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6905.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1570.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - jungle",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_2790.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - jungle cat",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6376.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - lovestruck",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7330.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - mystic",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1036.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - purple prism",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8321.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - radio current",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6943.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - rune weave",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13796.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - vaporwave",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9644.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - de los muertos",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_547.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "park - safehouse",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8756.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "park - spirit",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10605.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "phantom",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1089.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "phantom - al layl",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10513.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "phantom - championship 2020",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1966.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "phantom - null",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9531.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "police",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1018.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "price - bravo 6",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14211.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "price - chem 141",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1944.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "price - dead of night",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7956.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "price - the captain",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12953.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - archangel",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_651.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - desolate",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2384.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - dust bowl",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2326.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - electric wilds",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9371.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - geist",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9310.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - high voltage",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1225.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - mantis",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1235.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "prophet - sight",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_565.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "proton",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9727.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "raines - bunyan",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6789.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "raines - mariner",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11493.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rambo",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11225.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1140.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - ashura",
+      "elementType": "legendary",
+      "imageUrl": "assets/cosmetics/cosmetics_13981.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - premium",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7273.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - puzzle",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_843.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - the grinder",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2314.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - time to die",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11835.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - trailblazer",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6637.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "recon - flickering shadow",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8007.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "recon - frogman",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12098.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "recon - honorbound",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11158.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "recon - samurai",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_389.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reznov",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2921.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reznov - winterwood",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8730.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "richtofen",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2932.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "richtofen - turned",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13314.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "riggs",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15320.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rodion - infiltration",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14073.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rodion - on guard",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14810.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ronin - hagakure",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11469.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ronin - lone dragon",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13281.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rorke - man hunter",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11991.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rosa",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11739.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rosa - double agent",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12945.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rott",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13296.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rott - tomb bound",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15073.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "roze - foreshadow",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11983.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "roze - murk",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8290.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "roze - virago",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11712.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - action figure",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_880.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - arctic blizzard",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8706.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - bioluminescence",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12147.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - blood in the water",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2916.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - bone warrior",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7466.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - boom scrawl",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2403.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - championship purple",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2045.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - goblin king",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2401.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - going dark",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7888.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - industrial revolution",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_242.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - jade",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1093.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - jaguar",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14846.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - jungle",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1082.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - odin's omen",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13706.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - rose cinder",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_15225.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - spades",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_308.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - tangled web",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_1842.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc - forest",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6855.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc - hounded",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14956.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc - iron hunter",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11492.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc - jaguar",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13243.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc 1 - hard tech",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9513.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "russian merc 1 - nucleobase",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9512.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scarlett rhodes",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_75.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scarlett rhodes - carmine",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11428.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scarlett rhodes - cutthroat",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10963.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scarlett rhodes - hallowmas",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15164.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scarlett rhodes - machina",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13945.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2",
+      "elementType": "common",
+      "imageUrl": "assets/cosmetics/cosmetics_834.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 1,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2  - fire walker",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8003.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - construct",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9533.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - federation",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12379.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - ghosts",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12361.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - steam engine",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11205.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - viscous shoal",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13380.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scylla",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6426.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scylla - dark quill",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14253.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scylla - dusted",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11442.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scylla - future vice",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7258.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scylla - pink hearted",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10876.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scylla - sleigher",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8829.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "sentinel recon",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_920.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "sentinel recon - ice kraken",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9104.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "sentinel recon - primal",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8367.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "sentinel recon - shogun",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10803.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9442.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - crimson lotus",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13899.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - desperada",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_200.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - fallen fiend",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14990.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - freak show",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_845.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - gravekiller",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13199.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - kitty six",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7627.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - precious metal",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11457.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - sicaria",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1826.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - silver bullet",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8213.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - terracotta",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12381.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - the professional",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14781.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - tombstone",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "sheriff",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_315.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "sheriff - adaptable",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6555.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "siren",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6844.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "siren - artifice",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11196.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "siren - hydrodynamic",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13393.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1123.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap - esqueleto",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15288.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap - hazmat",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1917.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap - jungle ops",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6365.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap - takedown",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12968.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spec ops 3 - winter",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_11202.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1",
+      "elementType": "common",
+      "imageUrl": "assets/cosmetics/cosmetics_833.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 1,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - air brush",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13475.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - burial ground",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9002.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - championship charge",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7383.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - desert",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_13.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - fiber mesh",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6647.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - pitch black",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10318.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - radio current",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6942.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - scarlet kingsnake",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1095.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - sewed snake",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2986.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1084.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2 - copilot",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7610.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2 - green terror",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7711.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2 - sewed leather",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6145.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2 - side scale",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11157.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3",
+      "elementType": "common",
+      "imageUrl": "assets/cosmetics/cosmetics_832.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 1,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - air brush",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14072.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - arctic",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_126.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - connection",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9213.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - iridescent",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6853.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - malware",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1621.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - sea serpent",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10529.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - static electricity",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7587.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 3 - umber",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14812.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1085.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - coiled",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9971.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - cut wave",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12324.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - freight train",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6328.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - obstacle",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2852.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - shipwrecked",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2725.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - stencil strike",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13898.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_831.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - action scene",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14109.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - dead zebra",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2665.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - deep vein",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_15409.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - ground splitter",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6074.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - imprint",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10221.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - liquid mercury",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_10644.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - monster green",
+      "elementType": "uncommon",
+      "imageUrl": "assets/cosmetics/cosmetics_1816.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 2,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - rainforest",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12627.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - snowframe",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9039.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - stencil strike",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_13711.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - taped flecktarn",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6504.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 5 - trance",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_9491.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "spectre",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13757.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - ayakashi",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10984.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - chrome",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9325.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - crash test",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12620.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - geist",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_296.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - mannequin",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14994.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - ninja",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10565.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - pixel spy",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7235.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - spectral",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1990.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - the prepper",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14274.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - u.l.t.r.a.9",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_988.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "t.e.d.d.",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1765.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "t.e.d.d. - hardware update",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9368.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "t.e.d.d. - where to sir?",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7287.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "takeo",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6003.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "takeo - sensei",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10557.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tank dempsey",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_471.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tank dempsey - turned",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13173.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tank dempsey - wrecker",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2304.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "templar",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8063.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "templar - royal knight",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10463.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tengu - black gold",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11760.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tengu - insulated",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8816.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "tengu - rebar",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_14142.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "tengu - undead crusade",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2978.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_574.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks - catacombs",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_3052.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks - deep snow",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8988.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks - digital hide",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2662.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks - doubloons",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_12371.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "terrance brooks - green terror",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_6963.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "tian zhao",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1226.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tian zhao - sieged",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2879.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "udt frogman",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6545.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_835.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker - bish",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7483.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker - by night",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7942.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker - exile",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10141.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker - peacetime",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_15390.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vag modir",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11263.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vanguard",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1601.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vanguard - ridge rider",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11542.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vanguard - ski patroller",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_8848.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vasquez - dark light",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_7611.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "vasquez - digital desert",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_11529.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "vasquez - fission",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_8734.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "vasquez - grating",
+      "elementType": "rare",
+      "imageUrl": "assets/cosmetics/cosmetics_2672.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "velikan - megalith",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7969.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "velikan - volcanic ash",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_14200.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "velikan - woodman",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13418.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vivian harris - b.a.t. agent",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_5949.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vivian harris - periwinkle",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11106.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "vladimir makarov",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_2272.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "witch doctor",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_1750.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "witch doctor - rigor mortis",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_11582.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "witch doctor - wrong medicine",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9688.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "woods - cold snap",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9083.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "yegor - cerulean",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_12145.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "yegor - diplomat",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_9070.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "yegor - drawstring",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13324.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "yegor - guerilla",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6690.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10335.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - dark ops",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13896.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - escape",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_10550.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - nebula",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_7246.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - scorpion queen",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13713.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - sultana",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_327.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zombie - mob guard",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_13205.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zombie - wicht warden",
+      "elementType": "epic",
+      "imageUrl": "assets/cosmetics/cosmetics_6203.png",
+      "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    }
+  ]
+}
