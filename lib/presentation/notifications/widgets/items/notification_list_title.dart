@@ -99,12 +99,12 @@ class NotificationListTitle extends StatelessWidget {
             constraints: BoxConstraints.tight(const Size.fromRadius(30)),
             child: Stack(
               children: [
-                CircleItem(image: image, forDrag: true, radius: 50, imageSizeTimesTwo: false),
+                CircleItem(image: image, forDrag: true, radius: 40, imageSizeTimesTwo: false),
                 if (showNotification)
                   Positioned(
                     top: 0,
                     right: 0,
-                    child: Icon(Icons.notifications_active, color: theme.colorScheme.secondary),
+                    child: Icon(Icons.notifications_active, color: theme.colorScheme.secondary, size: 20),
                   ),
               ],
             ),

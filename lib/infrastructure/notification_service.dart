@@ -139,7 +139,7 @@ class NotificationServiceImpl implements NotificationService {
       importance: Importance.max,
       priority: Priority.high,
       enableLights: true,
-      color: Colors.red,
+      color: Colors.yellowAccent,
       styleInformation: style,
       largeIcon: const DrawableResourceAndroidBitmap(_largeIcon),
       tag: _getTagFromNotificationType(type),

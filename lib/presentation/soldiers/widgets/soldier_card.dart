@@ -14,7 +14,6 @@ import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
-//ignore: must_be_immutable
 class SoldierCard extends StatelessWidget {
   final String keyName;
   final String image;
@@ -26,8 +25,8 @@ class SoldierCard extends StatelessWidget {
   final bool isInSelectionMode;
   final bool useBlandColor;
   final bool topPickPage;
-  double? width;
-  SoldierCard({
+  final double? width;
+  const SoldierCard({
     Key? key,
     required this.keyName,
     required this.image,
@@ -48,6 +47,7 @@ class SoldierCard extends StatelessWidget {
     this.isInSelectionMode = false,
     this.useBlandColor = false,
     this.topPickPage = false,
+    this.width,
   })  : keyName = soldierModel.key,
         elementType = soldierModel.elementType,
         isComingSoon = soldierModel.isComingSoon,
@@ -77,12 +77,14 @@ class SoldierCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    final size = MediaQuery.of(context).size;
+    final mediaQuery = MediaQuery.of(context);
+    final isPortrait = mediaQuery.orientation == Orientation.portrait;
+    final size = mediaQuery.size;
     var height = size.height / 2.85;
     if (height > 500) {
       height = 500;
-    } else if (height < 240) {
-      height = 240;
+    } else if (height < 260) {
+      height = 260;
     }
 
     return InkWell(
@@ -116,7 +118,7 @@ class SoldierCard extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    left: topPickPage ? 15 : 35,
+                    left: topPickPage ? 8 : isPortrait ? 40 : 140,
                     bottom: 5,
                     child: Container(
                       height: height,

@@ -18,6 +18,8 @@ class SliverTopPicksSoldiers extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (useListView) {
+      final mediaQuery = MediaQuery.of(context);
+      final isPortrait = mediaQuery.orientation == Orientation.portrait;
       return SliverToBoxAdapter(
         child: SizedBox(
           height: Styles.materialCardHeight,
@@ -27,7 +29,7 @@ class SliverTopPicksSoldiers extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             itemBuilder: (ctx, index) {
               final e = topPicksSoldiers[index];
-              return SoldierCard.days(topPick: e, width: 195);
+              return SoldierCard.days(topPick: e, width: isPortrait ? 195 : 220);
             },
           ),
         ),
@@ -40,7 +42,7 @@ class SliverTopPicksSoldiers extends StatelessWidget {
     return SliverToBoxAdapter(
       child: ResponsiveGridRow(
         children: topPicksSoldiers.map((e) {
-          final child = SoldierCard.days(topPick: e, width: 195);
+          final child = SoldierCard.days(topPick: e, width: isPortrait ? 195 : 220);
 
           switch (deviceType) {
             case DeviceScreenType.mobile:

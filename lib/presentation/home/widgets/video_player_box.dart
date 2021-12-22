@@ -35,9 +35,10 @@ class _VideoPlayerBoxState extends State<VideoPlayerBox> {
 
   @override
   Widget build(BuildContext context) {
-    final size = MediaQuery.of(context).size;
-    final height = size.height * 0.265;
-    final width = size.width * 0.9;
+    final mediaQuery = MediaQuery.of(context);
+    final isPortrait = mediaQuery.orientation == Orientation.portrait;
+    final height = isPortrait ? mediaQuery.size.height * 0.265 : mediaQuery.size.height;
+    final width = mediaQuery.size.width * 0.9;
     return SliverToBoxAdapter(
       child: ClipRRect(
         borderRadius: Styles.videoPlayerBorderRadius,
