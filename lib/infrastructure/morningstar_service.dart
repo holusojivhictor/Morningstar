@@ -166,13 +166,13 @@ class MorningStarServiceImpl implements MorningStarService {
 
   @override
   String getItemImageFromNotificationItemType(String itemKey, AppNotificationItemType notificationItemType) {
+    final logoPath = Assets.getCODMLogoPath('codm-logo.png');
     switch (notificationItemType) {
       case AppNotificationItemType.soldier:
-        final soldier = getSoldier(itemKey);
-        return soldier.fullImagePath;
+        return logoPath;
       // TODO: Add weapon case
       case AppNotificationItemType.bonus:
-        return Assets.getCODMLogoPath('codm-logo.png');
+        return logoPath;
       default:
         throw Exception('The provide notification type = $notificationItemType is not valid');
     }

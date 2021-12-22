@@ -196,8 +196,8 @@ class NotificationBloc extends Bloc<NotificationEvent, NotificationState> {
         final images = <NotificationItemImage>[];
         switch (newValue) {
           case AppNotificationItemType.soldier:
-            final soldier = _morningStarService.getSoldiersForCard().first;
-            images.add(NotificationItemImage(itemKey: soldier.key, image: soldier.imageUrl, isSelected: true));
+            // final soldier = _morningStarService.getSoldiersForCard().first;
+            images.add(NotificationItemImage(itemKey: 'codm-logo', image: Assets.getCODMLogoPath('codm-logo.png'), isSelected: true));
             break;
           // TODO: Add weapon case
           case AppNotificationItemType.bonus:
@@ -307,8 +307,8 @@ class NotificationBloc extends Bloc<NotificationEvent, NotificationState> {
     if (selectedImage.isNotNullEmptyOrWhitespace) {
       return [NotificationItemImage(itemKey: itemKey!, image: selectedImage!, isSelected: true)];
     }
-    final soldier = _morningStarService.getSoldiersForCard().first;
-    return [NotificationItemImage(itemKey: soldier.key, image: soldier.smallImagePath, isSelected: true)];
+    // final soldier = _morningStarService.getSoldiersForCard().first;
+    return [NotificationItemImage(itemKey: 'codm-logo', image: Assets.getCODMLogoPath('codm-logo.png'), isSelected: true)];
   }
 
   List<NotificationItemImage> _getImagesForDailyCheckIn({String? itemKey, String? selectedImage}) {

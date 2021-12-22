@@ -110,7 +110,7 @@ class NotificationCustomForm extends StatelessWidget {
     }
 
     // The time of day returned is always in 24 hours format
-    final finalScheduledDate = DateTime(date.year, date.month, date.day, date.hour, date.minute);
+    final finalScheduledDate = DateTime(date.year, date.month, date.day, time.hour, time.minute);
     if (finalScheduledDate.isBefore(DateTime.now().add(const Duration(minutes: 5)))) {
       ToastUtils.showInfoToast(ToastUtils.of(context), 'Invalid date');
       return;
