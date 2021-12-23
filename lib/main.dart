@@ -3,8 +3,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/application/inventory/inventory_bloc.dart';
-import 'package:morningstar/application/today_top_picks/today_top_picks_bloc.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
