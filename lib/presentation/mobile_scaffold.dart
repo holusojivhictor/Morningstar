@@ -11,7 +11,11 @@ import 'package:morningstar/presentation/weapons/weapons_page.dart';
 class MobileScaffold extends StatefulWidget {
   final int defaultIndex;
   final TabController tabController;
-  const MobileScaffold({Key? key, required this.defaultIndex, required this.tabController}) : super(key: key);
+  const MobileScaffold({
+    Key? key,
+    required this.defaultIndex,
+    required this.tabController,
+  }) : super(key: key);
 
   @override
   _MobileScaffoldState createState() => _MobileScaffoldState();
