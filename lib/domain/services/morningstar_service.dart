@@ -5,6 +5,7 @@ import 'package:morningstar/domain/models/models.dart';
 abstract class MorningStarService {
   Future<void> init(AppLanguageType languageType);
   Future<void> initSoldiers();
+  Future<void> initWeapons();
   Future<void> initTopPicks();
   Future<void> initTranslations(AppLanguageType languageType);
 
@@ -13,7 +14,13 @@ abstract class MorningStarService {
   SoldierFileModel getSoldier(String key);
   List<String> getUpcomingSoldiersKeys();
 
+  List<WeaponCardModel> getWeaponsForCard();
+  WeaponCardModel getWeaponForCard(String key);
+  WeaponFileModel getWeapon(String key);
+  List<String> getUpcomingWeaponsKeys();
+
   TranslationSoldierFile getSoldierTranslation(String key);
+  TranslationWeaponFile getWeaponTranslation(String key);
 
   int getServerDay(AppServerResetTimeType type);
   DateTime getServerDate(AppServerResetTimeType type);

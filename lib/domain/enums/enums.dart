@@ -9,3 +9,7 @@ export 'item_type.dart';
 export 'top_pick_item_type.dart';
 export 'app_notification_type.dart';
 export 'app_notification_item_type.dart';
+export 'weapon_type.dart';
+export 'weapon_model.dart';
+export 'weapon_filter_type.dart';
+export 'attachment_type.dart';

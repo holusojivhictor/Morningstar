@@ -67,6 +67,13 @@ class MorningStar extends StatelessWidget {
         BlocProvider(
           create: (ctx) {
             final morningStarService = getIt<MorningStarService>();
+            final settingsService = getIt<SettingsService>();
+            return WeaponsBloc(morningStarService, settingsService);
+          },
+        ),
+        BlocProvider(
+          create: (ctx) {
+            final morningStarService = getIt<MorningStarService>();
             final telemetryService = getIt<TelemetryService>();
             return TodayTopPicksBloc(morningStarService, telemetryService);
           },
@@ -83,6 +90,7 @@ class MorningStar extends StatelessWidget {
               localeService,
               telemetryService,
               ctx.read<SoldiersBloc>(),
+              ctx.read<WeaponsBloc>(),
               ctx.read<HomeBloc>(),
             )..add(const MainEvent.init());
           },

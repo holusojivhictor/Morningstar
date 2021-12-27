@@ -12,3 +12,6 @@ export 'entities/notifications/notification_base.dart';
 export 'entities/notifications/notification_custom.dart';
 export 'notifications/notification_item.dart';
 export 'notifications/notification_item_image.dart';
+export 'weapons/weapon_card_model.dart';
+export 'db/weapons/weapon_file_model.dart';
+export 'db/translations/translation_weapon_file.dart';

@@ -1,3 +1,4 @@
+import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
@@ -70,10 +71,15 @@ class DetailTopLayout extends StatelessWidget {
             left: 15.0,
             child: RotatedBox(
               quarterTurns: 1,
-              child: Text(
-                name,
-                style: Theme.of(context).textTheme.headline4!.copyWith(fontSize: 22, letterSpacing: 2.5),
-                overflow: TextOverflow.ellipsis,
+              child: AnimatedTextKit(
+                totalRepeatCount: 1,
+                animatedTexts: [
+                  TyperAnimatedText(
+                    name,
+                    speed: const Duration(milliseconds: 80),
+                    textStyle: Theme.of(context).textTheme.headline4!.copyWith(fontSize: 22, letterSpacing: 2.5),
+                  ),
+                ],
               ),
             ),
           ),

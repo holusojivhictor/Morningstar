@@ -10,6 +10,7 @@ class SettingsServiceImpl extends SettingsService {
   final _appLanguageKey = 'AppLanguage';
   final _serverResetTimeKey = 'ServerResetTimeKey';
   final _showSoldierDetailsKey = 'ShowSoldierDetailsKey';
+  final _showWeaponDetailsKey = 'ShowWeaponDetailsKey';
   final _useTwentyFourHoursFormatKey = 'UseTwentyFourHoursFormat';
 
   bool _initialized = false;
@@ -27,6 +28,12 @@ class SettingsServiceImpl extends SettingsService {
 
   @override
   set showSoldierDetails(bool show) =>_prefs.setBool(_showSoldierDetailsKey, show);
+
+  @override
+  bool get showWeaponDetails => _prefs.getBool(_showWeaponDetailsKey)!;
+
+  @override
+  set showWeaponDetails(bool show) => _prefs.setBool(_showWeaponDetailsKey, show);
 
   @override
   AppServerResetTimeType get serverResetTime => AppServerResetTimeType.values[_prefs.getInt(_serverResetTimeKey)!];
@@ -53,6 +60,10 @@ class SettingsServiceImpl extends SettingsService {
     
     if (_prefs.get(_showSoldierDetailsKey) == null) {
       showSoldierDetails = true;
+    }
+    
+    if (_prefs.get(_showWeaponDetailsKey) == null) {
+      showWeaponDetails = true;
     }
 
     if (_prefs.get(_serverResetTimeKey) == null) {

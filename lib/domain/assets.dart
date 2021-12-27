@@ -1,18 +1,31 @@
 import 'package:morningstar/domain/enums/enums.dart';
+import 'extensions/string_extensions.dart';
 
 class Assets {
   static String dbPath = 'assets/db';
   static String soldiersDbPath = '$dbPath/soldiers.json';
+  static String weaponsDbPath = '$dbPath/weapons.json';
   static String topPicksDbPath = '$dbPath/top_picks.json';
   static String translationsBasePath = 'assets/i18n';
   static String elementsBasePath = 'assets/elements';
 
   // General
   static String soldiersBasePath = 'assets/cosmetics';
+  static String noImageAvailableName = 'na.png';
+
+  // Weapons
+  static String weaponsBasePath = 'assets/weapons';
+  static String primaryBasePath = '$weaponsBasePath/primary';
+  static String secondaryBasePath = '$weaponsBasePath/secondary';
+  static String throwableBasePath = '$weaponsBasePath/throwable';
 
   // Items
   static String itemsBasePath = 'assets/items';
   static String logosBasePath = '$itemsBasePath/logos';
+  static String othersBasePath = '$itemsBasePath/others';
+
+  // Others
+  static String noImageAvailablePath = '$othersBasePath/$noImageAvailableName';
 
   // Videos
   static String videosBasePath = 'assets/videos';
@@ -22,6 +35,32 @@ class Assets {
   static String getCODMLogoPath(String name) => '$logosBasePath/$name';
 
   static String getSoldierPath(String name) => '$soldiersBasePath/$name';
+
+  static String getPrimaryPath(String name) => '$primaryBasePath/$name';
+
+  static String getSecondaryPath(String name) => '$secondaryBasePath/$name';
+
+  static String getThrowable(String name) => '$throwableBasePath/$name';
+
+  static String getWeaponPath(String name, WeaponType type) {
+    switch (type) {
+      case WeaponType.primary:
+        return getPrimaryPath(name);
+      case WeaponType.secondary:
+        return getSecondaryPath(name);
+      case WeaponType.throwable:
+        return getThrowable(name);
+      default:
+        throw Exception('Invalid weapon type = $type');
+    }
+  }
+
+  static String getWeaponPathAll(String? name) {
+    if (name.isNullEmptyOrWhitespace) {
+      return '$othersBasePath/$noImageAvailableName';
+    }
+    return '$weaponsBasePath/$name';
+  }
 
   static String getTranslationPath(AppLanguageType languageType) {
     switch (languageType) {

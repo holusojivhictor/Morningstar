@@ -21,6 +21,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
   final TelemetryService _telemetryService;
 
   final SoldiersBloc _soldiersBloc;
+  final WeaponsBloc _weaponsBloc;
   final HomeBloc _homeBloc;
 
   MainBloc(
@@ -29,6 +30,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
     this._localeService,
     this._telemetryService,
     this._soldiersBloc,
+    this._weaponsBloc,
     this._homeBloc,
   ) : super(const MainState.loading());
 
@@ -48,6 +50,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
 
     if (languageChanged) {
       _soldiersBloc.add(const SoldiersEvent.init());
+      _weaponsBloc.add(const WeaponsEvent.init());
       _homeBloc.add(const HomeEvent.init());
     }
 

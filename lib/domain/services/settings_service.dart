@@ -7,6 +7,9 @@ abstract class SettingsService {
   bool get showSoldierDetails;
   set showSoldierDetails(bool show);
 
+  bool get showWeaponDetails;
+  set showWeaponDetails(bool show);
+
   AppServerResetTimeType get serverResetTime;
   set serverResetTime(AppServerResetTimeType time);
 

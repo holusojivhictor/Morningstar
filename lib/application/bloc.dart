@@ -8,3 +8,4 @@ export 'inventory/inventory_bloc.dart';
 export 'notifications/notifications_bloc.dart';
 export 'notification/notification_bloc.dart';
 export 'notification_timer/notification_timer_bloc.dart';
+export 'weapons/weapons_bloc.dart';

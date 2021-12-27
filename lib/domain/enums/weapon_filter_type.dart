@@ -1,0 +1,4 @@
+enum WeaponFilterType {
+  name,
+  damage,
+}

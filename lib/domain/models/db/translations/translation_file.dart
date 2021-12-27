@@ -9,6 +9,7 @@ part 'translation_file.g.dart';
 class TranslationFile with _$TranslationFile {
   factory TranslationFile({
     required List<TranslationSoldierFile> soldiers,
+    required List<TranslationWeaponFile> weapons,
   }) = _TranslationFile;
 
   factory TranslationFile.fromJson(Map<String, dynamic> json) => _$TranslationFileFromJson(json);

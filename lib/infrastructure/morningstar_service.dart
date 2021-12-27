@@ -4,13 +4,14 @@ import 'package:flutter/services.dart' show rootBundle;
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
-import 'package:morningstar/domain/models/db/top_picks/top_picks_file.dart';
+import 'package:morningstar/domain/models/db/weapons/weapons_file.dart';
 import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 
 class MorningStarServiceImpl implements MorningStarService {
   late SoldiersFile _soldiersFile;
+  late WeaponsFile _weaponsFile;
   late TranslationFile _translationFile;
   late TopPicksFile _topPicksFile;
 
@@ -18,6 +19,7 @@ class MorningStarServiceImpl implements MorningStarService {
   Future<void> init(AppLanguageType languageType) async {
     await Future.wait([
       initSoldiers(),
+      initWeapons(),
       initTopPicks(),
       initTranslations(languageType),
     ]);
@@ -28,6 +30,13 @@ class MorningStarServiceImpl implements MorningStarService {
     final jsonStr = await rootBundle.loadString(Assets.soldiersDbPath);
     final json = jsonDecode(jsonStr) as Map<String, dynamic>;
     _soldiersFile = SoldiersFile.fromJson(json);
+  }
+
+  @override
+  Future<void> initWeapons() async {
+    final jsonStr = await rootBundle.loadString(Assets.weaponsDbPath);
+    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+    _weaponsFile = WeaponsFile.fromJson(json);
   }
 
   @override
@@ -66,6 +75,22 @@ class MorningStarServiceImpl implements MorningStarService {
   }
 
   @override
+  List<WeaponCardModel> getWeaponsForCard() {
+    return _weaponsFile.weapons.map((e) => _toWeaponForCard(e)).toList();
+  }
+
+  @override
+  WeaponFileModel getWeapon(String key) {
+    return _weaponsFile.weapons.firstWhere((element) => element.key == key);
+  }
+
+  @override
+  WeaponCardModel getWeaponForCard(String key) {
+    final weapon = _weaponsFile.weapons.firstWhere((el) => el.key == key);
+    return _toWeaponForCard(weapon);
+  }
+
+  @override
   List<SoldierCardModel> getSoldiersForCard() {
     return _soldiersFile.soldiers.map((e) => _toSoldierForCard(e)).toList();
   }
@@ -95,9 +120,32 @@ class MorningStarServiceImpl implements MorningStarService {
     );
   }
 
+  WeaponCardModel _toWeaponForCard(WeaponFileModel weapon) {
+    final translation = getWeaponTranslation(weapon.key);
+    return WeaponCardModel(
+      key: weapon.key,
+      damage: weapon.damage,
+      accuracy: weapon.accuracy,
+      range: weapon.range,
+      fireRate: weapon.fireRate,
+      mobility: weapon.mobility,
+      control: weapon.control,
+      imageUrl: weapon.fullImagePath,
+      name: translation.name,
+      type: weapon.type,
+      model: weapon.model,
+      isComingSoon: weapon.isComingSoon,
+    );
+  }
+
   @override
   TranslationSoldierFile getSoldierTranslation(String key) {
     return _translationFile.soldiers.firstWhere((element) => element.key == key);
+  }
+
+  @override
+  TranslationWeaponFile getWeaponTranslation(String key) {
+    return _translationFile.weapons.firstWhere((element) => element.key == key);
   }
 
   @override
@@ -143,7 +191,10 @@ class MorningStarServiceImpl implements MorningStarService {
   List<String> getUpcomingSoldiersKeys() => _soldiersFile.soldiers.where((el) => el.isComingSoon).map((e) => e.key).toList();
 
   @override
-  List<String> getUpComingKeys() => getUpcomingSoldiersKeys();
+  List<String> getUpcomingWeaponsKeys() => _weaponsFile.weapons.where((el) => el.isComingSoon).map((e) => e.key).toList();
+
+  @override
+  List<String> getUpComingKeys() => getUpcomingSoldiersKeys() + getUpcomingWeaponsKeys();
 
   @override
   List<SoldierFileModel> getAllSoldiersThatCanBeUsedForNotification() {

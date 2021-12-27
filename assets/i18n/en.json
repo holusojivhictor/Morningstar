@@ -2044,5 +2044,312 @@
       "key": "zombie - wicht warden",
       "name": "Zombie - Wicht Warden"
     }
+  ],
+  "weapons": [
+    {
+      "key": "agr 556",
+      "name": "AGR 556",
+      "description": "A modular fully automatic weapon configured for mobility and close range combat."
+    },
+    {
+      "key": "ak-47",
+      "name": "AK-47",
+      "description": "Fully automatic assault rifle. High damage with high recoil."
+    },
+    {
+      "key": "ak117",
+      "name": "AK117",
+      "description": "Fully automatic assault rifle. High rate of fire."
+    },
+    {
+      "key": "as val",
+      "name": "AS VAL",
+      "description": "Fully automatic assault rifle with high fire rate. Effective at medium range."
+    },
+    {
+      "key": "asm10",
+      "name": "ASM10",
+      "description": "Fully automatic assault rifle. The first three rounds of burst are fired at a higher accuracy."
+    },
+    {
+      "key": "arctic .50",
+      "name": "Arctic .50",
+      "description": "Sniper rifle with faster gun elevation speed and movement speed."
+    },
+    {
+      "key": "bk57",
+      "name": "BK57",
+      "description": "Fully automatic assault rifle. Medium range with average damage."
+    },
+    {
+      "key": "by15",
+      "name": "BY15",
+      "description": "Pump-action shotgun."
+    },
+    {
+      "key": "cr-56 amax",
+      "name": "CR-56 AMAX",
+      "description": "Fully automatic assault rifle with high fire rate. Effective at medium range."
+    },
+    {
+      "key": "chicom",
+      "name": "Chicom",
+      "description": "Three round burst SMG. High cyclic fire rate allows for fast bursts."
+    },
+    {
+      "key": "chopper",
+      "name": "Chopper",
+      "description": "Fully automatic weapon."
+    },
+    {
+      "key": "cordite",
+      "name": "Cordite",
+      "description": "Fully automatic submachine gun. Well rounded with a large ammo pool."
+    },
+    {
+      "key": "dl q33",
+      "name": "DL Q33",
+      "description": "Single-shot sniper rifle."
+    },
+    {
+      "key": "dr-h",
+      "name": "DR-H",
+      "description": "Large caliber, fully automatic assault rifle that provides high damage over long ranges."
+    },
+    {
+      "key": "echo",
+      "name": "Echo",
+      "description": "Semi-automatic shotgun with large ammo capacity that allows for continuous firing. Effective at close range."
+    },
+    {
+      "key": "fr .556",
+      "name": "FR .556",
+      "description": "Fully automatic assault rifle with high fire rate. Effective at medium range."
+    },
+    {
+      "key": "fennec",
+      "name": "Fennec",
+      "description": "An aggressive and fully automatic submachine gun with buttery smooth recoil and a blazing fast rate of fire. Exceptional for strategic room clearing and holding the frontline."
+    },
+    {
+      "key": "gks",
+      "name": "GKS",
+      "description": "Fully automatic submachine gun. Low recoil with high accuracy at range."
+    },
+    {
+      "key": "hbra3",
+      "name": "HBRa3",
+      "description": "Fully automatic assault rifle with high rate of fire. High but manageable recoil. Headshot damage increases with the distance between you and the enemy."
+    },
+    {
+      "key": "hg 40",
+      "name": "HG 40",
+      "description": "Fully automatic submachine gun. Medium recoil with medium rate of fire."
+    },
+    {
+      "key": "hs0405",
+      "name": "HS0405",
+      "description": "Pump-action shotgun. Deadly at close range with low fire range and reload speed."
+    },
+    {
+      "key": "hs2126",
+      "name": "HS2126",
+      "description": "Fully automatic shotgun with high rate of fire and reload speed."
+    },
+    {
+      "key": "hvk-30",
+      "name": "HVK-30",
+      "description": "Fully automatic assault rifle. Extremely fast fire rate with tight hip-fire accuracy."
+    },
+    {
+      "key": "hades",
+      "name": "Hades",
+      "description": "Full-auto light machine gun with relatively high mobility. With the special attachment Crossbar equipped, the hipfire accuracy will be significantly increased."
+    },
+    {
+      "key": "holger 26",
+      "name": "Holger 26",
+      "description": "A versatile fully automatic 5.56mm light machine gun. Modular design can be configured for a broad range of engagements."
+    },
+    {
+      "key": "icr-1",
+      "name": "ICR-1",
+      "description": "Fully automatic assault rifle. Modest damage and minimal recoil."
+    },
+    {
+      "key": "kn-44",
+      "name": "KN-44",
+      "description": "Fully automatic assault rifle. High rate of fire with moderate recoil."
+    },
+    {
+      "key": "krm 262",
+      "name": "KRM 262",
+      "description": "Pump-action shotgun. One shot one kill against enemies in close quarters."
+    },
+    {
+      "key": "kilo bolt-action",
+      "name": "Kilo Bolt-Action",
+      "description": "Bolt-action rifle. A vintage classic that is still extremely lethal in the hands of a skilled marksman."
+    },
+    {
+      "key": "lk24",
+      "name": "LK24",
+      "description": "Fully automatic assault rifle. High fire rate and effective at medium range."
+    },
+    {
+      "key": "locus",
+      "name": "Locus",
+      "description": "Bolt-action sniper rifle."
+    },
+    {
+      "key": "m13",
+      "name": "M13",
+      "description": "Assault rifle with an extremely high fire rate and strong headshot multiplier."
+    },
+    {
+      "key": "m16",
+      "name": "M16",
+      "description": "Semi-automatic with three round burst fire. Effective at medium to long range."
+    },
+    {
+      "key": "m21 ebr",
+      "name": "M21 EBR",
+      "description": "Higher rate of fire sniper rifle with better stability."
+    },
+    {
+      "key": "m4",
+      "name": "M4",
+      "description": "Fully automatic assault rifle. Medium range with high accuracy."
+    },
+    {
+      "key": "m4lmg",
+      "name": "M4LMG",
+      "description": "Fully automatic LMG. Versatile with good damage."
+    },
+    {
+      "key": "mk2",
+      "name": "MK2",
+      "description": "Highly accurate lever action rifle. Neutralize an enemy with one well-placed round to the head or chest."
+    },
+    {
+      "key": "msmc",
+      "name": "MSMC",
+      "description": "Fully automatic SMG. High rate of fire."
+    },
+    {
+      "key": "mx9",
+      "name": "MX9",
+      "description": "Fully automatic assault rifle with high fire rate. Effective at medium range."
+    },
+    {
+      "key": "man-o-war",
+      "name": "Man-O-War",
+      "description": "Fully automatic assault rifle. Slow rate of fire with high damage."
+    },
+    {
+      "key": "na-45",
+      "name": "NA-45",
+      "description": "Semi-automatic two round fire system. Primer (first round) explodes when the Catalyst (second round) hits nearby."
+    },
+    {
+      "key": "outlaw",
+      "name": "Outlaw",
+      "description": "Bolt-action sniper rifle. One-shot kill to the head and upper chest."
+    },
+    {
+      "key": "pdw-57",
+      "name": "PDW-57",
+      "description": "Fully automatic personal defense weapon. Increased range and large ammo capacity."
+    },
+    {
+      "key": "pp19 bizon",
+      "name": "PP19 Bizon",
+      "description": "Fully automatic. High rate of fire with reduced recoil."
+    },
+    {
+      "key": "peacekeeper mk2",
+      "name": "Peacekeeper MK2",
+      "description": "Fully automatic assault rifle. Superior handling and high rate of fire."
+    },
+    {
+      "key": "pharo",
+      "name": "Pharo",
+      "description": "Four round burst submachine gun. Reliable damage and accuracy."
+    },
+    {
+      "key": "qq9",
+      "name": "QQ9",
+      "description": "Fully automatic submachine gun. Increased range and reduced recoil."
+    },
+    {
+      "key": "qxr",
+      "name": "QXR",
+      "description": "Compact by design, this fully automatic weapon has a high rate of fire and low recoil."
+    },
+    {
+      "key": "r9-0",
+      "name": "R9-0",
+      "description": "Double barrels provide two rapid shots before each re-chamber."
+    },
+    {
+      "key": "rpd",
+      "name": "RPD",
+      "description": "Fully automatic LMG, suitable for medium & long range firefights."
+    },
+    {
+      "key": "rus-79u",
+      "name": "RUS-79U",
+      "description": "Fully automatic submachine gun with high damage."
+    },
+    {
+      "key": "razorback",
+      "name": "Razorback",
+      "description": "Fully automatic submachine gun. Best accuracy of its class, ideal for mid-range engagements."
+    },
+    {
+      "key": "rytec amr",
+      "name": "Rytec AMR",
+      "description": "Semi-automatic sniper rifle. Deadly from the belly up."
+    },
+    {
+      "key": "s36",
+      "name": "S36",
+      "description": "Fully automatic LMG. Highest rate of fire in its class."
+    },
+    {
+      "key": "sks",
+      "name": "SKS",
+      "description": "Lightweight, semi-automatic marksman rifle with fast fire rate."
+    },
+    {
+      "key": "sp-r 208",
+      "name": "SP-R 208",
+      "description": "This weapon's extensive military and civilian use gives rise to an abundance of customization."
+    },
+    {
+      "key": "striker",
+      "name": "Striker",
+      "description": "Semi-automatic shotgun with higher accuracy at medium and close range."
+    },
+    {
+      "key": "swordfish",
+      "name": "Swordfish",
+      "description": "Four-round burst fire rifle with long range, low damage attenuation, and strong lethal ability in one burst."
+    },
+    {
+      "key": "type 25",
+      "name": "Type 25",
+      "description": "Fully automatic assault rifle. High rate of fire with moderate recoil."
+    },
+    {
+      "key": "ul736",
+      "name": "UL736",
+      "description": "Fully automatic LMG, excellent for fire support."
+    },
+    {
+      "key": "xpr-50",
+      "name": "XPR-50",
+      "description": "Semi-automatic sniper rifle. Long Range with moderate recoil."
+    }
   ]
 }
