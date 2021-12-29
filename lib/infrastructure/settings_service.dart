@@ -3,14 +3,18 @@ import 'package:devicelocale/devicelocale.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/app_server_reset_time_type.dart';
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/models/settings/app_settings.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SettingsServiceImpl extends SettingsService {
+  final _appThemeKey = 'AppTheme';
   final _appLanguageKey = 'AppLanguage';
+  final _isFirstInstallKey = 'FirstInstall';
   final _serverResetTimeKey = 'ServerResetTimeKey';
   final _showSoldierDetailsKey = 'ShowSoldierDetailsKey';
   final _showWeaponDetailsKey = 'ShowWeaponDetailsKey';
+  final _doubleBackToCloseKey = 'DoubleBackToCloseKey';
   final _useTwentyFourHoursFormatKey = 'UseTwentyFourHoursFormat';
 
   bool _initialized = false;
@@ -18,10 +22,22 @@ class SettingsServiceImpl extends SettingsService {
   late SharedPreferences _prefs;
 
   @override
+  AppThemeType get appTheme => AppThemeType.values[_prefs.getInt(_appThemeKey)!];
+
+  @override
+  set appTheme(AppThemeType theme) => _prefs.setInt(_appThemeKey, theme.index);
+
+  @override
   AppLanguageType get language => AppLanguageType.values[_prefs.getInt(_appLanguageKey)!];
 
   @override
   set language(AppLanguageType lang) => _prefs.setInt(_appLanguageKey, lang.index);
+
+  @override
+  bool get isFirstInstall => _prefs.getBool(_isFirstInstallKey)!;
+
+  @override
+  set isFirstInstall(bool itIs) => _prefs.setBool(_isFirstInstallKey, itIs);
 
   @override
   bool get showSoldierDetails => _prefs.getBool(_showSoldierDetailsKey)!;
@@ -42,10 +58,31 @@ class SettingsServiceImpl extends SettingsService {
   set serverResetTime(AppServerResetTimeType time) => _prefs.setInt(_serverResetTimeKey, time.index);
 
   @override
+  bool get doubleBackToClose => _prefs.getBool(_doubleBackToCloseKey)!;
+
+  @override
+  set doubleBackToClose(bool value) => _prefs.setBool(_doubleBackToCloseKey, value);
+
+  @override
   bool get useTwentyFourHoursFormat => _prefs.getBool(_useTwentyFourHoursFormatKey)!;
 
   @override
   set useTwentyFourHoursFormat(bool value) => _prefs.setBool(_useTwentyFourHoursFormatKey, value);
+
+  @override
+  AppSettings get appSettings => AppSettings(
+    appTheme: appTheme,
+    useDarkAmoled: false,
+    appLanguage: language,
+    showSoldierDetails: showSoldierDetails,
+    showWeaponDetails: showWeaponDetails,
+    isFirstInstall: isFirstInstall,
+    serverResetTime: serverResetTime,
+    doubleBackToClose: doubleBackToClose,
+    useTwentyFourHoursFormat: useTwentyFourHoursFormat,
+  );
+
+  SettingsServiceImpl();
 
   @override
   Future<void> init() async {
@@ -53,6 +90,14 @@ class SettingsServiceImpl extends SettingsService {
       return;
     }
     _prefs = await SharedPreferences.getInstance();
+
+    if (_prefs.get(_isFirstInstallKey) == null) {
+      isFirstInstall = true;
+    }
+    
+    if (_prefs.get(_appThemeKey) == null) {
+      appTheme = AppThemeType.dark;
+    }
 
     if (_prefs.get(_appLanguageKey) == null) {
       language = await _getDefaultLangToUse();
@@ -68,6 +113,10 @@ class SettingsServiceImpl extends SettingsService {
 
     if (_prefs.get(_serverResetTimeKey) == null) {
       serverResetTime = AppServerResetTimeType.europe;
+    }
+
+    if (_prefs.get(_doubleBackToCloseKey) == null) {
+      doubleBackToClose = true;
     }
 
     if (_prefs.getBool(_useTwentyFourHoursFormatKey) == null) {

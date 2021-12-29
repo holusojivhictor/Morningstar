@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/presentation/main_tab_page.dart';
 import 'package:morningstar/presentation/splash/splash_page.dart';
+import 'package:morningstar/presentation/shared/extensions/app_theme_type_extensions.dart';
 
 import '../theme.dart';
 
@@ -17,7 +18,7 @@ class AppWidget extends StatelessWidget {
         loading: (_) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            darkTheme: MorningstarTheme.dark(),
+            theme: MorningstarTheme.dark(),
             home: const SplashPage(),
           );
         },
@@ -25,8 +26,7 @@ class AppWidget extends StatelessWidget {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
             title: s.appTitle,
-            theme: MorningstarTheme.light(),
-            darkTheme: MorningstarTheme.dark(),
+            theme: s.theme.getThemeData(s.theme),
             home: const MainTabPage(),
             scrollBehavior: MyCustomScrollBehaviour(),
           );

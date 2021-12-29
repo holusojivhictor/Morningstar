@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/domain/services/data_service.dart';
+import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/notification_service.dart';
@@ -84,15 +85,24 @@ class MorningStar extends StatelessWidget {
             final settingsService = getIt<SettingsService>();
             final localeService = getIt<LocaleService>();
             final telemetryService = getIt<TelemetryService>();
+            final deviceInfoService = getIt<DeviceInfoService>();
             return MainBloc(
               morningStarService,
               settingsService,
               localeService,
               telemetryService,
+              deviceInfoService,
               ctx.read<SoldiersBloc>(),
               ctx.read<WeaponsBloc>(),
               ctx.read<HomeBloc>(),
             )..add(const MainEvent.init());
+          },
+        ),
+        BlocProvider(
+          create: (ctx) {
+            final settingsService = getIt<SettingsService>();
+            final deviceInfoService = getIt<DeviceInfoService>();
+            return SettingsBloc(settingsService, deviceInfoService, ctx.read<MainBloc>(), ctx.read<HomeBloc>());
           },
         ),
         BlocProvider(

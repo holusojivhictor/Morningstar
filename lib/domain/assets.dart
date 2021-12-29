@@ -115,6 +115,26 @@ class Assets {
     }
   }
 
+  static String translateAppThemeType(AppThemeType theme) {
+    switch (theme) {
+      case AppThemeType.dark:
+        return 'Jet Black';
+      case AppThemeType.grey:
+        return 'Outer Space Black';
+      default:
+        throw Exception('The provided app theme type = $theme is not valid');
+    }
+  }
+
+  static String translateAppLanguageType(AppLanguageType language) {
+    switch (language) {
+      case AppLanguageType.english:
+        return 'English';
+      default:
+        throw Exception('The provided app language type = $language is not valid');
+    }
+  }
+
   static String translateReleasedUnreleasedType(ItemStatusType type) {
     switch (type) {
       case ItemStatusType.released:
@@ -171,6 +191,62 @@ class Assets {
         return 'Bonus';
       default:
         throw Exception('Invalid app notification type = $type');
+    }
+  }
+
+  static String translateAppServerResetTimeType(AppServerResetTimeType type) {
+    switch (type) {
+      case AppServerResetTimeType.northAmerica:
+        return 'North America';
+      case AppServerResetTimeType.europe:
+        return 'Europe';
+      case AppServerResetTimeType.asia:
+        return 'Asia';
+      default:
+        throw Exception('The provided server type = $type is not valid');
+    }
+  }
+
+  static String translateWeaponModel(WeaponModel model) {
+    switch (model) {
+      case WeaponModel.assault:
+        return 'Assault';
+      case WeaponModel.smg:
+        return 'SMG';
+      case WeaponModel.sniper:
+        return 'Sniper';
+      case WeaponModel.shotgun:
+        return 'Shotgun';
+      case WeaponModel.lmg:
+        return 'LMG';
+      case WeaponModel.marksman:
+        return 'Marksman';
+      case WeaponModel.pistol:
+        return 'Pistol';
+      case WeaponModel.axe:
+        return 'Axe';
+      case WeaponModel.baseMelee:
+        return 'Base Melee';
+      case WeaponModel.baseballBat:
+        return 'Baseball Bat';
+      case WeaponModel.launcher:
+        return 'Launcher';
+      case WeaponModel.knife:
+        return 'Knife';
+      case WeaponModel.machete:
+        return 'Machete';
+      case WeaponModel.shovel:
+        return 'Shovel';
+      case WeaponModel.sickle:
+        return 'Sickle';
+      case WeaponModel.wrench:
+        return 'Wrench';
+      case WeaponModel.lethal:
+        return 'Lethal';
+      case WeaponModel.tactical:
+        return 'Tactical';
+      default:
+        throw Exception('The provided weapon model = $model is not valid.');
     }
   }
 }

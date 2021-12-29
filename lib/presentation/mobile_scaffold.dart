@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/presentation/home/home_page.dart';
-import 'package:morningstar/presentation/map/map_page.dart';
 import 'package:morningstar/presentation/secondary/secondary_page.dart';
+import 'package:morningstar/presentation/settings/settings_page.dart';
 import 'package:morningstar/presentation/shared/extensions/focus_scope_node_extensions.dart';
 import 'package:morningstar/presentation/soldiers/soldiers_page.dart';
 import 'package:morningstar/presentation/weapons/weapons_page.dart';
@@ -49,7 +49,7 @@ class _MobileScaffoldState extends State<MobileScaffold> {
               SoldiersPage(),
               WeaponsPage(),
               SecondaryPage(),
-              MapPage(),
+              SettingsPage(),
             ],
           ),
         ),

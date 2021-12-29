@@ -1,10 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/shared/sliver_nothing_found.dart';
 import 'package:morningstar/presentation/shared/sliver_page_filter.dart';
 import 'package:morningstar/presentation/shared/sliver_scaffold_with_fab.dart';
+import 'package:morningstar/presentation/shared/utils/size_utils.dart';
+import 'package:morningstar/presentation/weapons/widgets/weapon_card.dart';
+import 'package:waterfall_flow/waterfall_flow.dart';
 
 class WeaponsPage extends StatefulWidget {
   final bool isInSelectionMode;
@@ -47,8 +51,26 @@ class _WeaponsPageState extends State<WeaponsPage> with AutomaticKeepAliveClient
               onPressed: () {},
               searchChanged: (v) => context.read<WeaponsBloc>().add(WeaponsEvent.searchChanged(search: v)),
             ),
-            if (state.weapons.isNotEmpty) const SliverNothingFound() else const SliverNothingFound(),
+            if (state.weapons.isNotEmpty) _buildGrid(context, state.weapons) else const SliverNothingFound(),
           ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildGrid(BuildContext context, List<WeaponCardModel> weapons) {
+    final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
+    return SliverPadding(
+      padding: const EdgeInsets.symmetric(horizontal: 5),
+      sliver: SliverWaterfallFlow(
+        gridDelegate: SliverWaterfallFlowDelegateWithFixedCrossAxisCount(
+          crossAxisCount: SizeUtils.getCrossAxisCountForGrids(context, isOnMainPage: !widget.isInSelectionMode),
+          crossAxisSpacing: isPortrait ? 10 : 5,
+          mainAxisSpacing: 5,
+        ),
+        delegate: SliverChildBuilderDelegate(
+            (context, index) => WeaponCard.item(weapon: weapons[index], isInSelectionMode: widget.isInSelectionMode),
+          childCount: weapons.length,
         ),
       ),
     );

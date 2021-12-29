@@ -43,6 +43,13 @@ class Styles {
     topRight: Radius.circular(10),
   );
 
+  static const mainWeaponCardBorderRadius = BorderRadius.only(
+    bottomLeft: Radius.circular(35),
+    bottomRight: Radius.circular(35),
+    topLeft: Radius.circular(10),
+    topRight: Radius.circular(10),
+  );
+
   static const videoPlayerBorderRadius = BorderRadius.only(
     bottomLeft: Radius.circular(25),
     bottomRight: Radius.circular(25),
@@ -53,6 +60,8 @@ class Styles {
   static final RoundedRectangleBorder cardShape = RoundedRectangleBorder(borderRadius: BorderRadius.circular(10));
   static const RoundedRectangleBorder mainCardShape = RoundedRectangleBorder(borderRadius: mainCardBorderRadius);
   static final RoundedRectangleBorder floatingCardShape = RoundedRectangleBorder(borderRadius: BorderRadius.circular(20));
+
+  static const RoundedRectangleBorder mainWeaponCardShape = RoundedRectangleBorder(borderRadius: mainWeaponCardBorderRadius);
 
   static const double cardThreeElevation = 3;
   static const double cardTenElevation = 10;

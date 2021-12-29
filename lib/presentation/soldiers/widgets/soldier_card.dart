@@ -12,7 +12,7 @@ import 'package:morningstar/presentation/shared/utils/toast_utils.dart';
 import 'package:morningstar/presentation/soldier/soldier_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
-import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
+import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
 
 class SoldierCard extends StatelessWidget {
   final String keyName;
@@ -112,8 +112,9 @@ class SoldierCard extends StatelessWidget {
                     child: Container(
                       height: height,
                       width: width,
-                      decoration: BoxDecoration(
-                        color: useBlandColor ? Colors.grey : elementType.getElementColorFromContext(context),
+                      decoration: ShapeDecoration(
+                        gradient: useBlandColor ? const LinearGradient(colors: [Colors.grey]) : rarity.getRarityGradient(),
+                        shape: const RoundedRectangleBorder(borderRadius: BorderRadius.zero),
                       ),
                     ),
                   ),

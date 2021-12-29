@@ -25801,102 +25801,122 @@
         {
           "name": "Blood Money",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_12946.png"
         },
         {
           "name": "Chrome Bones",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_13758.png"
         },
         {
           "name": "Circuit Board",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_9730.png"
         },
         {
           "name": "Color Spectrum",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_2747.png"
         },
         {
           "name": "Cosmos",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_1814.png"
         },
         {
           "name": "Crimson Knife",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_12142.png"
         },
         {
           "name": "Dark Matter",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_611.png"
         },
         {
           "name": "Fenrir",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_11259.png"
         },
         {
           "name": "Ferrofluid",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_11588.png"
         },
         {
           "name": "Forced Laughter",
           "elementType": "legendary",
-          "rarity": 5
+          "rarity": 5,
+          "imageUrl": "weapon_9406.png"
         },
         {
           "name": "Geometry",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_15251.png"
         },
         {
           "name": "Hot Heat",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_7628.png"
         },
         {
           "name": "Ignition",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_10234.png"
         },
         {
           "name": "Innovator",
           "elementType": "legendary",
-          "rarity": 5
+          "rarity": 5,
+          "imageUrl": "weapon_11197.png"
         },
         {
           "name": "Lava",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_640.png"
         },
         {
           "name": "Meteor Core",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_8895.png"
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_2425.png"
         },
         {
           "name": "Phobos",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_9616.png"
         },
         {
           "name": "Retro Nuclear",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_2863.png"
         },
         {
           "name": "Tourmaline",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_6639.png"
         }
       ],
       "camos": [
@@ -25904,559 +25924,652 @@
           "name": "Abominable",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5020.png"
         },
         {
           "name": "Aether Crystal",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_12665.png"
         },
         {
           "name": "Ammo Box",
           "elementType": "uncommon",
           "source": "Seasonal: Trench Broom",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_2991.png"
         },
         {
           "name": "Anaconda",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5043.png"
         },
         {
           "name": "Angles (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5013.png"
         },
         {
           "name": "Anniversary",
           "elementType": "rare",
           "source": "Anniversary LeaderboardSoldier Return Event (2021-03)Soldier Return Event (2021-05)Soldier Return Event (2021-09)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_7228.png"
         },
         {
           "name": "Arctic Abstract",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5015.png"
         },
         {
           "name": "Arctic Seafoam",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5012.png"
         },
         {
           "name": "Asphalt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5002.png"
         },
         {
           "name": "Autumn Dazzle",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5014.png"
         },
         {
           "name": "Birthstone",
           "elementType": "rare",
           "source": "Seasonal: Quick Hands",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_11066.png"
         },
         {
           "name": "Black Top (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5001.png"
         },
         {
           "name": "Bloodline",
           "elementType": "rare",
           "source": "Battle Pass: The Hunt (Premium)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_6273.png"
         },
         {
           "name": "Blue Iguana",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5040.png"
         },
         {
           "name": "Blue Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5026.png"
         },
         {
           "name": "Brains!",
           "elementType": "uncommon",
           "source": "Outbreak Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_13227.png"
         },
         {
           "name": "Bullsnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5044.png"
         },
         {
           "name": "Canopy",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5036.png"
         },
         {
           "name": "Catacombs",
           "elementType": "rare",
           "source": "Quartermaster Crate",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_3058.png"
         },
         {
           "name": "Chain Link",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4995.png"
         },
         {
           "name": "China Lake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4993.png"
         },
         {
           "name": "Chupacabra",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5041.png"
         },
         {
           "name": "Collapse",
           "elementType": "rare",
           "source": "Battle Pass: Day of Reckoning (Premium)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_10037.png"
         },
         {
           "name": "Commando",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4989.png"
         },
         {
           "name": "Cosmic Wave",
           "elementType": "rare",
           "source": "Fight For Humanity - Leaderboard Rewards",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_9525.png"
         },
         {
           "name": "Crime Scene",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5003.png"
         },
         {
           "name": "Crimson Moon",
           "elementType": "uncommon",
           "source": "Sanguine Survival Lucky Box",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_15349.png"
         },
         {
           "name": "Damascus",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_7068.png"
         },
         {
           "name": "Dank Forest",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5019.png"
         },
         {
           "name": "Default",
           "elementType": "common",
           "source": "Player Level Rewards (Season 9)",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5947.png"
         },
         {
           "name": "Desert Cat",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5024.png"
         },
         {
           "name": "Desert Hybrid",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5029.png"
         },
         {
           "name": "Desert Snake (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_3026.png"
         },
         {
           "name": "Diamond",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_8541.png"
         },
         {
           "name": "Dirt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4998.png"
         },
         {
           "name": "Drone",
           "elementType": "uncommon",
           "source": "Clan Store (2021-09)",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_14268.png"
         },
         {
           "name": "Faded Veil",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5021.png"
         },
         {
           "name": "Feral Beast",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5022.png"
         },
         {
           "name": "Foliage",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5006.png"
         },
         {
           "name": "Foxtail",
           "elementType": "uncommon",
           "source": "Voodoo Lion Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_13046.png"
         },
         {
           "name": "Frostbite (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5009.png"
         },
         {
           "name": "Gartersnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5046.png"
         },
         {
           "name": "Gecko",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5045.png"
         },
         {
           "name": "Gold",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5047.png"
         },
         {
           "name": "H2O (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_3027.png"
         },
         {
           "name": "Hard Water",
           "elementType": "uncommon",
           "source": "Monthly Login Calendar (2020-11)",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_7992.png"
         },
         {
           "name": "Hearth",
           "elementType": "rare",
           "source": "Snowy Slopes Crate",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_8860.png"
         },
         {
           "name": "Ice Breaker",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5010.png"
         },
         {
           "name": "Imprint",
           "elementType": "rare",
           "source": "Class ActSoldier Return Event (2021-07)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_10509.png"
         },
         {
           "name": "Infraggable",
           "elementType": "rare",
           "source": "Battle Pass: 2nd Anniversary (Free)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_14210.png"
         },
         {
           "name": "Kill Brush",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5032.png"
         },
         {
           "name": "Komodo",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5039.png"
         },
         {
           "name": "Marshland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5031.png"
         },
         {
           "name": "Meteors",
           "elementType": "rare",
           "source": "Credits Store Update (2020-02)Credits Store Update (2020-05-15)Credits Store Update (2020-06-12)Credits Store Update (2020-07-24)Credits Store Update (2020-08-16)Credits Store Update (2020-08-28)Credits Store Update (2020-09-10)Credits Store Update (2020-09-25)Credits Store Update (2020-10-15)Credits Store Update (2020-10-30)Soldier Return Event (2020-06 post-patch)Soldier Return Event (2020-06)Soldier Return Event (2020-08)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_133.png"
         },
         {
           "name": "Modern Woodland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5028.png"
         },
         {
           "name": "Moroccan Snake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4991.png"
         },
         {
           "name": "Moss (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4999.png"
         },
         {
           "name": "Mudslide",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5018.png"
         },
         {
           "name": "Navy Digital",
           "elementType": "uncommon",
           "source": "Season's End (2021-09)",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_14066.png"
         },
         {
           "name": "Neon Pink",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5004.png"
         },
         {
           "name": "Nightfall (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4996.png"
         },
         {
           "name": "Nightfrost",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5035.png"
         },
         {
           "name": "Nonconformist",
           "elementType": "uncommon",
           "source": "Charred Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_7917.png"
         },
         {
           "name": "Overgrown",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5017.png"
         },
         {
           "name": "Persisted",
           "elementType": "rare",
           "source": "Seasonal: Maximum Efficiency",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_2356.png"
         },
         {
           "name": "Pink Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5042.png"
         },
         {
           "name": "Pinstripe Suit",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4994.png"
         },
         {
           "name": "Pitter Patter",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4992.png"
         },
         {
           "name": "Platinum",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5048.png"
         },
         {
           "name": "Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5037.png"
         },
         {
           "name": "Rattlesnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5038.png"
         },
         {
           "name": "Red Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5025.png"
         },
         {
           "name": "Rip 'N Tear",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4990.png"
         },
         {
           "name": "Ropework",
           "elementType": "uncommon",
           "source": "Royal Flush Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_11855.png"
         },
         {
           "name": "Ruins",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5011.png"
         },
         {
           "name": "Runes",
           "elementType": "uncommon",
           "source": "Bitter Stinger Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_13735.png"
         },
         {
           "name": "Sand Dance",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5030.png"
         },
         {
           "name": "Sharp Edges",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5016.png"
         },
         {
           "name": "Skulls & Blood",
           "elementType": "rare",
           "source": "Series 5 Ranked Match Rewards",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_1727.png"
         },
         {
           "name": "Smoke",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_4997.png"
         },
         {
           "name": "Stalwart",
           "elementType": "rare",
           "source": "Battle Pass: Going Dark (Free)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_7968.png"
         },
         {
           "name": "Steel Firefly",
           "elementType": "rare",
           "source": "Counter Assault Friend Invite (2021-10)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_15077.png"
         },
         {
           "name": "Swamp (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5027.png"
         },
         {
           "name": "Tagged (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5000.png"
         },
         {
           "name": "Tiger Stripes",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5023.png"
         },
         {
           "name": "Trailblazer",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5005.png"
         },
         {
           "name": "Tundra",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5007.png"
         },
         {
           "name": "Undergrowth (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5008.png"
         },
         {
           "name": "Voltaic",
           "elementType": "rare",
           "source": "Battle Pass: New Order (Premium)",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_9306.png"
         },
         {
           "name": "Warcom Blues",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5034.png"
         },
         {
           "name": "Warcom Greens",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_5033.png"
         },
         {
           "name": "Warhead",
           "elementType": "uncommon",
           "source": "Explosive Romance Crate",
-          "rarity": 2
+          "rarity": 2,
+          "imageUrl": "weapon_9060.png"
         },
         {
           "name": "Wolves",
           "elementType": "rare",
           "source": "",
-          "rarity": 3
+          "rarity": 3,
+          "imageUrl": "weapon_15327.png"
         }
       ],
       "attachments": [
@@ -26731,7 +26844,7 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": null
+      "imageUrl": "weapon_5947.png"
     },
     {
       "key": "kn-44",
@@ -31718,391 +31831,456 @@
           "name": "Abominable",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Anaconda",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Angles (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Arctic Abstract",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Arctic Seafoam",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Asphalt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Autumn Dazzle",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Black Top (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Blue Iguana",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Blue Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Bullsnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Canopy",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Chain Link",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "China Lake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Chupacabra",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Commando",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Crime Scene",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Damascus",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Dank Forest",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Default",
           "elementType": "common",
           "source": "Seasonal: Deadly Weaponry",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Cat",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Hybrid",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Snake (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Diamond",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Dirt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Faded Veil",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Feral Beast",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Foliage",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Frostbite (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gartersnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gecko",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gold",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "H2O (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Ice Breaker",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Kill Brush",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Komodo",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Marshland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Modern Woodland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Moroccan Snake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Moss (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Mudslide",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Neon Pink",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Nightfall (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Nightfrost",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Overgrown",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pink Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pinstripe Suit",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pitter Patter",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Platinum",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Rattlesnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Red Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Rip 'N Tear",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Ruins",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Sand Dance",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Sharp Edges",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Smoke",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Swamp (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tagged (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tiger Stripes",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Trailblazer",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tundra",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Undergrowth (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Warcom Blues",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Warcom Greens",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         }
       ],
       "attachments": [
@@ -48493,12 +48671,14 @@
         {
           "name": "Hopper",
           "elementType": "legendary",
-          "rarity": 5
+          "rarity": 5,
+          "imageUrl": "weapon_14443.png"
         },
         {
           "name": "Master of Snakes",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_14212.png"
         }
       ],
       "camos": [
@@ -48506,395 +48686,460 @@
           "name": "Abominable",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14345.png"
         },
         {
           "name": "Anaconda",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14368.png"
         },
         {
           "name": "Angles (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14338.png"
         },
         {
           "name": "Arctic Abstract",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14340.png"
         },
         {
           "name": "Arctic Seafoam",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14337.png"
         },
         {
           "name": "Asphalt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14327.png"
         },
         {
           "name": "Autumn Dazzle",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14339.png"
         },
         {
           "name": "Black Top (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14326.png"
         },
         {
           "name": "Blue Iguana",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14365.png"
         },
         {
           "name": "Blue Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14351.png"
         },
         {
           "name": "Bullsnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14369.png"
         },
         {
           "name": "Canopy",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14361.png"
         },
         {
           "name": "Chain Link",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14319.png"
         },
         {
           "name": "China Lake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14317.png"
         },
         {
           "name": "Chupacabra",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14366.png"
         },
         {
           "name": "Commando",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14313.png"
         },
         {
           "name": "Crime Scene",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14328.png"
         },
         {
           "name": "Damascus",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14374.png"
         },
         {
           "name": "Dank Forest",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14344.png"
         },
         {
           "name": "Default",
           "elementType": "common",
           "source": "Battle Pass: 2nd Anniversary (Free)",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14175.png"
         },
         {
           "name": "Desert Cat",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14349.png"
         },
         {
           "name": "Desert Hybrid",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14354.png"
         },
         {
           "name": "Desert Snake (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14312.png"
         },
         {
           "name": "Diamond",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14375.png"
         },
         {
           "name": "Dirt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14323.png"
         },
         {
           "name": "Faded Veil",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14346.png"
         },
         {
           "name": "Feral Beast",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14347.png"
         },
         {
           "name": "Foliage",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14331.png"
         },
         {
           "name": "Frostbite (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14334.png"
         },
         {
           "name": "Gartersnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14371.png"
         },
         {
           "name": "Gecko",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14370.png"
         },
         {
           "name": "Gold",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14372.png"
         },
         {
           "name": "H2O (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14322.png"
         },
         {
           "name": "Ice Breaker",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14335.png"
         },
         {
           "name": "Kill Brush",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14357.png"
         },
         {
           "name": "Komodo",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14364.png"
         },
         {
           "name": "Marshland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14356.png"
         },
         {
           "name": "Modern Woodland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14353.png"
         },
         {
           "name": "Moroccan Snake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14315.png"
         },
         {
           "name": "Moss (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14324.png"
         },
         {
           "name": "Mudslide",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14343.png"
         },
         {
           "name": "Neon Pink",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14329.png"
         },
         {
           "name": "Nightfall (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14320.png"
         },
         {
           "name": "Nightfrost",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14360.png"
         },
         {
           "name": "Overgrown",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14342.png"
         },
         {
           "name": "Pink Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14367.png"
         },
         {
           "name": "Pinstripe Suit",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14318.png"
         },
         {
           "name": "Pitter Patter",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14316.png"
         },
         {
           "name": "Platinum",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14373.png"
         },
         {
           "name": "Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14362.png"
         },
         {
           "name": "Rattlesnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14363.png"
         },
         {
           "name": "Red Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14350.png"
         },
         {
           "name": "Rip 'N Tear",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14314.png"
         },
         {
           "name": "Ruins",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14336.png"
         },
         {
           "name": "Sand Dance",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14355.png"
         },
         {
           "name": "Sharp Edges",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14341.png"
         },
         {
           "name": "Smoke",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14321.png"
         },
         {
           "name": "Swamp (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14352.png"
         },
         {
           "name": "Tagged (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14325.png"
         },
         {
           "name": "Tiger Stripes",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14348.png"
         },
         {
           "name": "Trailblazer",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14330.png"
         },
         {
           "name": "Tundra",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14332.png"
         },
         {
           "name": "Undergrowth (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14333.png"
         },
         {
           "name": "Warcom Blues",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14359.png"
         },
         {
           "name": "Warcom Greens",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": "weapon_14358.png"
         }
       ],
       "attachments": [],
-      "imageUrl": null
+      "imageUrl": "weapon_14175.png"
     },
     {
       "key": "rpd",
@@ -56706,12 +56951,14 @@
         {
           "name": "Calaca",
           "elementType": "legendary",
-          "rarity": 5
+          "rarity": 5,
+          "imageUrl": "weapon_15289.png"
         },
         {
           "name": "MK2",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "imageUrl": "weapon_15072.png"
         }
       ],
       "camos": [
@@ -56719,391 +56966,456 @@
           "name": "Abominable",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Anaconda",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Angles (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Arctic Abstract",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Arctic Seafoam",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Asphalt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Autumn Dazzle",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Black Top (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Blue Iguana",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Blue Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Bullsnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Canopy",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Chain Link",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "China Lake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Chupacabra",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Commando",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Crime Scene",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Damascus",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Dank Forest",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Default",
           "elementType": "common",
           "source": "Battle Pass: Nightmare (Free)",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Cat",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Hybrid",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Desert Snake (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Diamond",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Dirt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Faded Veil",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Feral Beast",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Foliage",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Frostbite (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gartersnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gecko",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Gold",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "H2O (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Ice Breaker",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Kill Brush",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Komodo",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Marshland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Modern Woodland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Moroccan Snake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Moss (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Mudslide",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Neon Pink",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Nightfall (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Nightfrost",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Overgrown",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pink Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pinstripe Suit",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Pitter Patter",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Platinum",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Rattlesnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Red Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Rip 'N Tear",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Ruins",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Sand Dance",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Sharp Edges",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Smoke",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Swamp (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tagged (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tiger Stripes",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Trailblazer",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Tundra",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Undergrowth (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Warcom Blues",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         },
         {
           "name": "Warcom Greens",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "rarity": 1
+          "rarity": 1,
+          "imageUrl": null
         }
       ],
       "attachments": [],
