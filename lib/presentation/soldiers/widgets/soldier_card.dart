@@ -13,6 +13,7 @@ import 'package:morningstar/presentation/soldier/soldier_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
+import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
 class SoldierCard extends StatelessWidget {
   final String keyName;
@@ -23,7 +24,7 @@ class SoldierCard extends StatelessWidget {
   final bool isNew;
   final bool isComingSoon;
   final bool isInSelectionMode;
-  final bool useBlandColor;
+  final bool useSolidBackground;
   final bool topPickPage;
   final double? width;
   const SoldierCard({
@@ -36,7 +37,7 @@ class SoldierCard extends StatelessWidget {
     required this.isNew,
     required this.isComingSoon,
     this.isInSelectionMode = false,
-    this.useBlandColor = false,
+    this.useSolidBackground = false,
     this.topPickPage = false,
     this.width,
   }) : super(key: key);
@@ -45,7 +46,7 @@ class SoldierCard extends StatelessWidget {
     Key? key,
     required SoldierCardModel soldierModel,
     this.isInSelectionMode = false,
-    this.useBlandColor = false,
+    this.useSolidBackground = false,
     this.topPickPage = false,
     this.width,
   })  : keyName = soldierModel.key,
@@ -61,7 +62,7 @@ class SoldierCard extends StatelessWidget {
     Key? key,
     required TodayTopPickSoldierModel topPick,
     this.isInSelectionMode = false,
-    this.useBlandColor = false,
+    this.useSolidBackground = false,
     this.topPickPage = true,
     this.width,
   })  : keyName = topPick.key,
@@ -72,7 +73,6 @@ class SoldierCard extends StatelessWidget {
         name = topPick.name,
         rarity = topPick.stars,
         super(key: key);
-
 
   @override
   Widget build(BuildContext context) {
@@ -112,14 +112,20 @@ class SoldierCard extends StatelessWidget {
                     child: Container(
                       height: height,
                       width: width,
-                      decoration: ShapeDecoration(
-                        gradient: useBlandColor ? const LinearGradient(colors: [Colors.grey]) : rarity.getRarityGradient(),
-                        shape: const RoundedRectangleBorder(borderRadius: BorderRadius.zero),
-                      ),
+                      decoration: useSolidBackground
+                          ? BoxDecoration(
+                              color: elementType.getElementColorFromContext(context),
+                            )
+                          : ShapeDecoration(
+                              gradient: rarity.getRarityGradient(),
+                              shape: const RoundedRectangleBorder(borderRadius: BorderRadius.zero),
+                            ),
                     ),
                   ),
                   Positioned(
-                    left: topPickPage ? 8 : isPortrait ? 40 : 140,
+                    left: topPickPage
+                        ? 8
+                        : isPortrait ? 40 : 140,
                     bottom: 5,
                     child: Container(
                       height: height,
@@ -169,8 +175,7 @@ class SoldierCard extends StatelessWidget {
                       child: Text(
                         name,
                         overflow: TextOverflow.ellipsis,
-                        style: theme.textTheme.headline4!.copyWith(
-                            fontWeight: FontWeight.bold, letterSpacing: 0.15),
+                        style: theme.textTheme.headline4!.copyWith(fontWeight: FontWeight.bold, letterSpacing: 0.15),
                       ),
                     ),
                     Rarity(stars: rarity, starSize: 15),
@@ -189,7 +194,7 @@ class SoldierCard extends StatelessWidget {
       ToastUtils.showWarningToast(fToast, 'Coming soon');
       return;
     }
-    
+
     if (isInSelectionMode) {
       Navigator.pop(context, keyName);
       return;

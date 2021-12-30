@@ -40,26 +40,23 @@ class _VideoPlayerBoxState extends State<VideoPlayerBox> {
     final height = isPortrait ? mediaQuery.size.height * 0.265 : mediaQuery.size.height;
     final width = mediaQuery.size.width * 0.9;
     return SliverToBoxAdapter(
-      child: ClipRRect(
-        borderRadius: Styles.videoPlayerBorderRadius,
-        child: Padding(
-          padding: const EdgeInsets.only(top: 10),
-          child: SizedBox(
-            height: height,
-            width: width,
-            child: FutureBuilder(
-              future: _initializeVideoPlayerFuture,
-              builder: (context, snapshot) {
-                if (snapshot.connectionState == ConnectionState.done) {
-                  return AspectRatio(
-                    aspectRatio: _videoController.value.aspectRatio,
-                    child: ClipRect(child: VideoPlayer(_videoController), clipper: RectClipper()),
-                  );
-                } else {
-                  return const Loading();
-                }
-              },
-            ),
+      child: Padding(
+        padding: const EdgeInsets.only(top: 10),
+        child: SizedBox(
+          height: height,
+          width: width,
+          child: FutureBuilder(
+            future: _initializeVideoPlayerFuture,
+            builder: (context, snapshot) {
+              if (snapshot.connectionState == ConnectionState.done) {
+                return AspectRatio(
+                  aspectRatio: _videoController.value.aspectRatio,
+                  child: ClipRect(child: VideoPlayer(_videoController), clipper: RectClipper()),
+                );
+              } else {
+                return const Loading();
+              }
+            },
           ),
         ),
       ),

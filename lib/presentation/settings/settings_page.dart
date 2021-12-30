@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
+import 'widgets/about_settings_card.dart';
+import 'widgets/credits_settings_card.dart';
 import 'widgets/language_settings_card.dart';
 import 'widgets/other_settings.dart';
 import 'widgets/theme_settings_card.dart';
@@ -34,6 +36,8 @@ class _MobileLayout extends StatelessWidget {
         ThemeSettingsCard(),
         LanguageSettingsCard(),
         OtherSettings(),
+        AboutSettingsCard(),
+        CreditsSettingsCard(),
       ],
     );
   }
@@ -57,6 +61,7 @@ class _DesktopTabletLayout extends StatelessWidget {
                 children: const [
                   ThemeSettingsCard(),
                   LanguageSettingsCard(),
+                  AboutSettingsCard(),
                 ],
               ),
             ),
@@ -64,6 +69,7 @@ class _DesktopTabletLayout extends StatelessWidget {
               child: Column(
                 children: const [
                   OtherSettings(),
+                  CreditsSettingsCard(),
                 ],
               ),
             ),

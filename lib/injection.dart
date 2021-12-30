@@ -1,15 +1,19 @@
 import 'package:get_it/get_it.dart';
+import 'package:morningstar/domain/services/changelog_provider.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
+import 'package:morningstar/domain/services/network_service.dart';
 import 'package:morningstar/domain/services/notification_service.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
+import 'package:morningstar/infrastructure/changelog_provider.dart';
 import 'package:morningstar/infrastructure/data_service.dart';
 import 'package:morningstar/infrastructure/device_info_service.dart';
 import 'package:morningstar/infrastructure/locale_service.dart';
 import 'package:morningstar/infrastructure/morningstar_service.dart';
+import 'package:morningstar/infrastructure/network_service.dart';
 import 'package:morningstar/infrastructure/notification_service.dart';
 import 'package:morningstar/infrastructure/settings_service.dart';
 import 'package:morningstar/infrastructure/telemetry/telemetry_service.dart';
@@ -19,6 +23,11 @@ import 'application/bloc.dart';
 final GetIt getIt = GetIt.instance;
 
 class Injection {
+  static ChangelogBloc get changelogBloc {
+    final changelogProvider = getIt<ChangelogProvider>();
+    return ChangelogBloc(changelogProvider);
+  }
+
   static NotificationTimerBloc get notificationTimerBloc {
     return NotificationTimerBloc();
   }
@@ -42,6 +51,10 @@ class Injection {
   }
 
   static Future<void> init() async {
+    final networkService = NetworkServiceImpl();
+    networkService.init();
+    getIt.registerSingleton<NetworkService>(networkService);
+
     final deviceInfoService = DeviceInfoServiceImpl();
     getIt.registerSingleton<DeviceInfoService>(deviceInfoService);
     await deviceInfoService.init();
@@ -63,5 +76,8 @@ class Injection {
     final notificationService = NotificationServiceImpl();
     await notificationService.init();
     getIt.registerSingleton<NotificationService>(notificationService);
+
+    final changelogProvider = ChangelogProviderImpl(networkService);
+    getIt.registerSingleton<ChangelogProvider>(changelogProvider);
   }
 }

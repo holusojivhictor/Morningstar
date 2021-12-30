@@ -82,6 +82,9 @@ class Styles {
   static const double materialCardWidth = 220;
   static const double homeCardHeight = 170;
   static const double homeCardWidth = 280;
+
+  // TODO: Replace with App icon
+  static const String appIconPath = 'assets/items/logos/codm-logo.png';
 }
 
 TextTheme textTheme(BuildContext context) {

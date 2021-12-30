@@ -8,3 +8,5 @@ const languagesMap = {
 const serverResetHour = 4;
 
 const dailyCheckInResetDuration = Duration(hours: 24);
+
+const githubPage = 'https://github.com/holusojivhictor/Morningstar';

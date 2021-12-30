@@ -27,7 +27,7 @@ class AppWidget extends StatelessWidget {
             debugShowCheckedModeBanner: false,
             title: s.appTitle,
             theme: s.theme.getThemeData(s.theme),
-            home: const MainTabPage(),
+            home: MainTabPage(showChangelog: s.versionChanged),
             scrollBehavior: MyCustomScrollBehaviour(),
           );
         },

@@ -22,7 +22,7 @@ class OtherSettings extends StatelessWidget {
         children: <Widget>[
           Row(
             children: <Widget>[
-              const Icon(Icons.build),
+              const Icon(Icons.build, size: 20),
               Container(
                 margin: const EdgeInsets.only(left: 5),
                 child: Text('Others', style: theme.textTheme.headline6),

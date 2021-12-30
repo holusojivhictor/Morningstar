@@ -12,6 +12,12 @@ extension RarityExtension on int {
 
   List<Color> getRarityColors() {
     switch (this) {
+      case 6:
+        return const [
+          Color.fromARGB(255, 104, 32, 32),
+          Color.fromARGB(255, 157, 48, 49),
+          Color.fromARGB(255, 242, 133, 134),
+        ];
       case 5:
         return const [
           Color.fromARGB(255, 106, 83, 83),

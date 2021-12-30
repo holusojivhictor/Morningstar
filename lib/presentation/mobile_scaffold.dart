@@ -63,7 +63,7 @@ class _MobileScaffoldState extends State<MobileScaffold> {
           BottomNavigationBarItem(label: 'Soldiers',icon: Icon(Icons.people)),
           BottomNavigationBarItem(label: 'Weapons',icon: Icon(Icons.local_fire_department)),
           BottomNavigationBarItem(label: 'Extras',icon: Icon(Icons.local_police)),
-          BottomNavigationBarItem(label: 'Map',icon: Icon(Icons.map)),
+          BottomNavigationBarItem(label: 'Settings',icon: Icon(Icons.settings)),
         ],
         type: BottomNavigationBarType.fixed,
         onTap: (index) => _goToTab(index),

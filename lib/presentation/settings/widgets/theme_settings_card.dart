@@ -21,7 +21,7 @@ class ThemeSettingsCard extends StatelessWidget {
         children: <Widget>[
           Row(
             children: <Widget>[
-              const Icon(Icons.color_lens),
+              const Icon(Icons.color_lens, size: 20),
               Container(
                 margin: const EdgeInsets.only(left: 5),
                 child: Text(

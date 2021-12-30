@@ -12,6 +12,7 @@ extension AppThemeTypeExtensions on AppThemeType {
       case AppThemeType.grey:
         return MorningstarTheme.dark().copyWith(
           scaffoldBackgroundColor: Colors.grey[850],
+          dividerColor: Colors.grey[850],
         );
       default:
         throw Exception('Invalid theme type, = $theme');

@@ -23,7 +23,7 @@ class LanguageSettingsCard extends StatelessWidget {
         children: <Widget>[
           Row(
             children: <Widget>[
-              const Icon(Icons.language),
+              const Icon(Icons.language, size: 20),
               Container(
                 margin: const EdgeInsets.only(left: 5),
                 child: Text(

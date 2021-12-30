@@ -70,7 +70,7 @@ class _SoldiersPageState extends State<SoldiersPage> with AutomaticKeepAliveClie
           mainAxisSpacing: 5,
         ),
         delegate: SliverChildBuilderDelegate(
-              (context, index) => SoldierCard.item(soldierModel: soldiers[index], isInSelectionMode: widget.isInSelectionMode, useBlandColor: false),
+              (context, index) => SoldierCard.item(soldierModel: soldiers[index], isInSelectionMode: widget.isInSelectionMode, useSolidBackground: false),
           childCount: soldiers.length,
         ),
       ),
