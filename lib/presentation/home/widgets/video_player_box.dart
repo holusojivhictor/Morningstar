@@ -1,43 +1,17 @@
-import 'dart:async';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:morningstar/domain/assets.dart';
-import 'package:morningstar/presentation/shared/loading.dart';
-import 'package:morningstar/theme.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:morningstar/application/bloc.dart';
 import 'package:video_player/video_player.dart';
 
-class VideoPlayerBox extends StatefulWidget {
+class VideoPlayerBox extends StatelessWidget {
   const VideoPlayerBox({Key? key}) : super(key: key);
-
-  @override
-  State<VideoPlayerBox> createState() => _VideoPlayerBoxState();
-}
-
-class _VideoPlayerBoxState extends State<VideoPlayerBox> {
-  late VideoPlayerController _videoController;
-  late Future<void> _initializeVideoPlayerFuture;
-
-  @override
-  void initState() {
-    _videoController =  VideoPlayerController.asset(Assets.getVideoPath('home-playback.mp4'));
-    _initializeVideoPlayerFuture = _videoController.initialize();
-    _videoController.play();
-    _videoController.setLooping(true);
-    super.initState();
-  }
-
-  @override
-  void dispose() {
-    _videoController.dispose();
-    super.dispose();
-  }
 
   @override
   Widget build(BuildContext context) {
     final mediaQuery = MediaQuery.of(context);
     final isPortrait = mediaQuery.orientation == Orientation.portrait;
-    final height = isPortrait ? mediaQuery.size.height * 0.265 : mediaQuery.size.height;
+    final height = isPortrait ? mediaQuery.size.height * 0.298 : mediaQuery.size.height * 0.8;
     final width = mediaQuery.size.width * 0.9;
     return SliverToBoxAdapter(
       child: Padding(
@@ -45,17 +19,18 @@ class _VideoPlayerBoxState extends State<VideoPlayerBox> {
         child: SizedBox(
           height: height,
           width: width,
-          child: FutureBuilder(
-            future: _initializeVideoPlayerFuture,
-            builder: (context, snapshot) {
-              if (snapshot.connectionState == ConnectionState.done) {
-                return AspectRatio(
-                  aspectRatio: _videoController.value.aspectRatio,
-                  child: ClipRect(child: VideoPlayer(_videoController), clipper: RectClipper()),
-                );
-              } else {
-                return const Loading();
-              }
+          child: BlocBuilder<PreloadBloc, PreloadState>(
+            builder: (context, state) {
+              return ListView.builder(
+                shrinkWrap: true,
+                itemCount: 1,
+                itemBuilder: (context, index) {
+                  return AspectRatio(
+                    aspectRatio: isPortrait ? 1.75 : 16 / 7,
+                    child: ClipRect(child: VideoPlayer(state.controllers[0]!), clipper: RectClipper()),
+                  );
+                },
+              );
             },
           ),
         ),

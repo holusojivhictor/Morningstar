@@ -30,7 +30,7 @@ class _MobileLayout extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView(
-      padding: Styles.edgeInsetAll10,
+      padding: Styles.edgeInsetAll7,
       shrinkWrap: true,
       children: const [
         ThemeSettingsCard(),

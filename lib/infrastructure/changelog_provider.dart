@@ -7,7 +7,6 @@ const _defaultChangelog = '''
 #### N/A
 ''';
 
-// TODO: Change README to CHANGELOG
 const _url = 'https://raw.githubusercontent.com/holusojivhictor/Morningstar/main/Changelog.md';
 
 class ChangelogProviderImpl implements ChangelogProvider {

@@ -28,6 +28,10 @@ class Injection {
     return ChangelogBloc(changelogProvider);
   }
 
+  static PreloadBloc get preloadBloc {
+    return PreloadBloc();
+  }
+
   static NotificationTimerBloc get notificationTimerBloc {
     return NotificationTimerBloc();
   }

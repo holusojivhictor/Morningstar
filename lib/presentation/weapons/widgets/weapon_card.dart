@@ -93,6 +93,7 @@ class WeaponCard extends StatelessWidget {
                 alignment: AlignmentDirectional.topCenter,
                 fit: StackFit.passthrough,
                 children: [
+                  // TODO: Reduce fade in animation duration
                   FadeInImage(
                     width: imgWidth,
                     height: imgHeight,

@@ -42,6 +42,7 @@ class MorningStar extends StatelessWidget {
     return MultiBlocProvider(
       providers: [
         BlocProvider(create: (ctx) => MainTabBloc()),
+        BlocProvider(create: (ctx) => PreloadBloc()),
         BlocProvider(
           create: (ctx) {
             final morningStarService = getIt<MorningStarService>();
@@ -95,6 +96,7 @@ class MorningStar extends StatelessWidget {
               ctx.read<SoldiersBloc>(),
               ctx.read<WeaponsBloc>(),
               ctx.read<HomeBloc>(),
+              ctx.read<PreloadBloc>(),
             )..add(const MainEvent.init());
           },
         ),

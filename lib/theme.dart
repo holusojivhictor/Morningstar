@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 class Styles {
   static const edgeInsetAll15 = EdgeInsets.all(15);
   static const edgeInsetAll10 = EdgeInsets.all(10);
+  static const edgeInsetAll7 = EdgeInsets.all(7);
   static const edgeInsetAll5 = EdgeInsets.all(5);
   static const edgeInsetAll0 = EdgeInsets.zero;
   static const edgeInsetHorizontal16 = EdgeInsets.symmetric(horizontal: 16);

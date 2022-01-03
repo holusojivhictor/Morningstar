@@ -25,6 +25,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
   final SoldiersBloc _soldiersBloc;
   final WeaponsBloc _weaponsBloc;
   final HomeBloc _homeBloc;
+  final PreloadBloc _preloadBloc;
 
   MainBloc(
     this._morningStarService,
@@ -35,6 +36,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
     this._soldiersBloc,
     this._weaponsBloc,
     this._homeBloc,
+    this._preloadBloc,
   ) : super(const MainState.loading());
 
   _MainLoadedState get currentState => state as _MainLoadedState;
@@ -65,6 +67,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
 
     if (init) {
       await Future.delayed(const Duration(milliseconds: 600));
+      _preloadBloc.add(const PreloadEvent.initialize());
     }
     return state;
   }
