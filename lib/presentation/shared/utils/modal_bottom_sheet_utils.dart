@@ -4,6 +4,7 @@ import 'package:morningstar/presentation/shared/bottom_sheets/custom_bottom_shee
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:morningstar/presentation/soldiers/widgets/soldier_bottom_sheet.dart' as soldiers;
+import 'package:morningstar/presentation/weapons/widgets/weapon_bottom_sheet.dart' as weapons;
 import 'package:morningstar/presentation/notifications/widgets/add_edit_notification_bottom_sheet.dart' as notifications;
 
 class ModalBottomSheetUtils {
@@ -11,6 +12,8 @@ class ModalBottomSheetUtils {
     switch (type) {
       case EndDrawerItemType.soldiers:
         return const soldiers.SoldierBottomSheet();
+      case EndDrawerItemType.weapons:
+        return const weapons.WeaponBottomSheet();
       case EndDrawerItemType.notifications:
         assert(args != null);
         return notifications.AddEditNotificationBottomSheet.getWidgetFromArgs(context, args!);

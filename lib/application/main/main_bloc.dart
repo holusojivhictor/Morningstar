@@ -61,7 +61,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
     }
 
     final settings = _settingsService.appSettings;
-    await _telemetryService.trackInit();
+    await _telemetryService.trackInit(settings);
 
     final state = _loadThemeData(settings.appTheme);
 

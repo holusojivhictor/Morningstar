@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/enums/end_drawer_item_type.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/shared/sliver_nothing_found.dart';
 import 'package:morningstar/presentation/shared/sliver_page_filter.dart';
 import 'package:morningstar/presentation/shared/sliver_scaffold_with_fab.dart';
+import 'package:morningstar/presentation/shared/utils/modal_bottom_sheet_utils.dart';
 import 'package:morningstar/presentation/shared/utils/size_utils.dart';
 import 'package:morningstar/presentation/weapons/widgets/weapon_card.dart';
 import 'package:waterfall_flow/waterfall_flow.dart';
@@ -48,7 +50,7 @@ class _WeaponsPageState extends State<WeaponsPage> with AutomaticKeepAliveClient
             SliverPageFilter(
               search: state.search,
               title: 'Weapons',
-              onPressed: () {},
+              onPressed: () => ModalBottomSheetUtils.showAppModalBottomSheet(context, EndDrawerItemType.weapons),
               searchChanged: (v) => context.read<WeaponsBloc>().add(WeaponsEvent.searchChanged(search: v)),
             ),
             if (state.weapons.isNotEmpty) _buildGrid(context, state.weapons) else const SliverNothingFound(),

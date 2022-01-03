@@ -249,4 +249,17 @@ class Assets {
         throw Exception('The provided weapon model = $model is not valid.');
     }
   }
+
+  static String translateWeaponType(WeaponType type) {
+    switch (type) {
+      case WeaponType.primary:
+        return 'Primary';
+      case WeaponType.secondary:
+        return 'Secondary';
+      case WeaponType.throwable:
+        return 'Throwable';
+      default:
+        throw Exception('Invalid weapon type = $type');
+    }
+  }
 }

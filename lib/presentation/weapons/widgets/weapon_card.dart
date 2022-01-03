@@ -93,10 +93,10 @@ class WeaponCard extends StatelessWidget {
                 alignment: AlignmentDirectional.topCenter,
                 fit: StackFit.passthrough,
                 children: [
-                  // TODO: Reduce fade in animation duration
                   FadeInImage(
                     width: imgWidth,
                     height: imgHeight,
+                    fadeInDuration: const Duration(milliseconds: 500),
                     placeholder: MemoryImage(kTransparentImage),
                     image: AssetImage(image),
                   ),
@@ -130,7 +130,6 @@ class WeaponCard extends StatelessWidget {
                       if (withoutDetails || !settingsState.showWeaponDetails) {
                         return const SizedBox();
                       }
-
                       return Container(
                         margin: Styles.edgeInsetHorizontal16,
                         child: Column(

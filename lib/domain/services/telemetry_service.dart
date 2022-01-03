@@ -1,4 +1,5 @@
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/models/models.dart';
 
 abstract class TelemetryService {
   Future<void> initTelemetry();
@@ -7,9 +8,11 @@ abstract class TelemetryService {
 
   Future<void> trackTopPicksOpened();
 
-  Future<void> trackInit();
+  Future<void> trackInit(AppSettings settings);
 
   Future<void> trackSoldierLoaded(String value);
+
+  Future<void> trackWeaponLoaded(String value);
 
   Future<void> trackItemAddedToInventory(String key, int quantity);
 

@@ -95,6 +95,9 @@ flutter:
     - assets/db/
     - assets/cosmetics/
     - assets/weapons/
+    - assets/weapons/primary/
+    - assets/weapons/secondary/
+    - assets/weapons/throwable/
     - assets/i18n/
     - assets/elements/
     - assets/items/logos/

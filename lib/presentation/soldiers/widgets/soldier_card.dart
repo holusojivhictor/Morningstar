@@ -132,6 +132,7 @@ class SoldierCard extends StatelessWidget {
                       width: width,
                       alignment: Alignment.bottomRight,
                       child: FadeInImage(
+                        fadeInDuration: const Duration(milliseconds: 500),
                         placeholder: MemoryImage(kTransparentImage),
                         image: AssetImage(image),
                       ),

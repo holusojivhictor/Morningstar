@@ -1,5 +1,6 @@
 import 'package:enum_to_string/enum_to_string.dart';
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
 import 'package:morningstar/infrastructure/telemetry/flutter_appcenter_bundle.dart';
@@ -28,13 +29,26 @@ class TelemetryServiceImpl implements TelemetryService {
   }
 
   @override
-  Future<void> trackInit() async {
-    await trackEventAsync('Init');
+  Future<void> trackInit(AppSettings settings) async {
+    await trackEventAsync('Init', {
+      'Theme': EnumToString.convertToString(settings.appTheme),
+      'Language': EnumToString.convertToString(settings.appLanguage),
+      'ShowSoldierDetails': settings.showSoldierDetails.toString(),
+      'ShowWeaponDetails': settings.showWeaponDetails.toString(),
+      'IsFirstInstall': settings.isFirstInstall.toString(),
+      'ServerResetTime': EnumToString.convertToString(settings.serverResetTime),
+      'DoubleBackToClose': settings.doubleBackToClose.toString(),
+    });
   }
 
   @override
   Future<void> trackSoldierLoaded(String value) async {
     await trackEventAsync('Soldier-FromKey', {'Key': value});
+  }
+
+  @override
+  Future<void> trackWeaponLoaded(String value) async {
+    await trackEventAsync('Weapon-FromKey', {'Key': value});
   }
 
   @override
