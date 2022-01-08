@@ -3,7 +3,7 @@
     {
       "key": "ajax",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14607.png",
+      "imageUrl": "cosmetics_14607.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -17,7 +17,7 @@
     {
       "key": "ajax - convict",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_7375.png",
+      "imageUrl": "cosmetics_7375.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -31,7 +31,7 @@
     {
       "key": "ajax - malpractor",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15184.png",
+      "imageUrl": "cosmetics_15184.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -45,7 +45,7 @@
     {
       "key": "alex",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10030.png",
+      "imageUrl": "cosmetics_10030.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -59,7 +59,7 @@
     {
       "key": "alias",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10308.png",
+      "imageUrl": "cosmetics_10308.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -73,7 +73,7 @@
     {
       "key": "alias - battleworn",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14176.png",
+      "imageUrl": "cosmetics_14176.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -87,7 +87,7 @@
     {
       "key": "alias - deep diver",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12234.png",
+      "imageUrl": "cosmetics_12234.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -101,7 +101,7 @@
     {
       "key": "american bulldog",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_6058.png",
+      "imageUrl": "cosmetics_6058.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -115,7 +115,7 @@
     {
       "key": "archangel - militant",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12989.png",
+      "imageUrl": "cosmetics_12989.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -129,7 +129,7 @@
     {
       "key": "artery",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_708.png",
+      "imageUrl": "cosmetics_708.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -143,7 +143,7 @@
     {
       "key": "artery - lunar maria",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11655.png",
+      "imageUrl": "cosmetics_11655.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -157,7 +157,7 @@
     {
       "key": "artery - maiden of death",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14442.png",
+      "imageUrl": "cosmetics_14442.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -171,7 +171,7 @@
     {
       "key": "artery - nosferatu",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15035.png",
+      "imageUrl": "cosmetics_15035.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -185,7 +185,7 @@
     {
       "key": "battery - ardent",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12452.png",
+      "imageUrl": "cosmetics_12452.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -199,7 +199,7 @@
     {
       "key": "battery - indomitable",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14676.png",
+      "imageUrl": "cosmetics_14676.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -213,7 +213,7 @@
     {
       "key": "battery - queens guard",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_7397.png",
+      "imageUrl": "cosmetics_7397.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -227,7 +227,7 @@
     {
       "key": "battle hardened",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_2618.png",
+      "imageUrl": "cosmetics_2618.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -241,7 +241,7 @@
     {
       "key": "battle hardened - snow owl",
       "elementType": "rare",
-      "imageUrl": "assets/cosmetics/cosmetics_9085.png",
+      "imageUrl": "cosmetics_9085.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 3,
@@ -255,7 +255,7 @@
     {
       "key": "captain park",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_2085.png",
+      "imageUrl": "cosmetics_2085.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -269,7 +269,7 @@
     {
       "key": "carver butcher",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_3042.png",
+      "imageUrl": "cosmetics_3042.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -283,7 +283,7 @@
     {
       "key": "cassius - cold blood",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13460.png",
+      "imageUrl": "cosmetics_13460.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -297,7 +297,7 @@
     {
       "key": "charly - wolves",
       "elementType": "rare",
-      "imageUrl": "assets/cosmetics/cosmetics_15325.png",
+      "imageUrl": "cosmetics_15325.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 3,
@@ -311,7 +311,7 @@
     {
       "key": "competitor - alternate",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10848.png",
+      "imageUrl": "cosmetics_10848.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -325,7 +325,7 @@
     {
       "key": "dame",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12345.png",
+      "imageUrl": "cosmetics_12345.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -339,7 +339,7 @@
     {
       "key": "dame - usurper",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13827.png",
+      "imageUrl": "cosmetics_13827.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -353,7 +353,7 @@
     {
       "key": "dark shepherd",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_5916.png",
+      "imageUrl": "cosmetics_5916.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -367,7 +367,7 @@
     {
       "key": "dark shepherd - soul reaper",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10501.png",
+      "imageUrl": "cosmetics_10501.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -381,7 +381,7 @@
     {
       "key": "death angel alice",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_1091.png",
+      "imageUrl": "cosmetics_1091.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -395,7 +395,7 @@
     {
       "key": "demir",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13608.png",
+      "imageUrl": "cosmetics_13608.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -409,7 +409,7 @@
     {
       "key": "domino - lynx",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10810.png",
+      "imageUrl": "cosmetics_10810.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -423,7 +423,7 @@
     {
       "key": "domino - revolutionary",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12961.png",
+      "imageUrl": "cosmetics_12961.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -437,7 +437,7 @@
     {
       "key": "emma victorova - archangel",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_3004.png",
+      "imageUrl": "cosmetics_3004.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -451,7 +451,7 @@
     {
       "key": "ether - network",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_9498.png",
+      "imageUrl": "cosmetics_9498.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -465,7 +465,7 @@
     {
       "key": "ftl - second stage",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8420.png",
+      "imageUrl": "cosmetics_8420.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -479,7 +479,7 @@
     {
       "key": "farah - jinn",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14259.png",
+      "imageUrl": "cosmetics_14259.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -493,7 +493,7 @@
     {
       "key": "firebreak - searaven",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12548.png",
+      "imageUrl": "cosmetics_12548.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -507,7 +507,7 @@
     {
       "key": "frank woods",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8069.png",
+      "imageUrl": "cosmetics_8069.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -521,7 +521,7 @@
     {
       "key": "general shepherd",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14186.png",
+      "imageUrl": "cosmetics_14186.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -535,7 +535,7 @@
     {
       "key": "ghost - azrael",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14660.png",
+      "imageUrl": "cosmetics_14660.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -549,7 +549,7 @@
     {
       "key": "ghost - dark vision",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8746.png",
+      "imageUrl": "cosmetics_8746.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -563,7 +563,7 @@
     {
       "key": "ghost - jawbone",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_7931.png",
+      "imageUrl": "cosmetics_7931.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -577,7 +577,7 @@
     {
       "key": "ghost - retribution",
       "elementType": "legendary",
-      "imageUrl": "assets/cosmetics/cosmetics_12470.png",
+      "imageUrl": "cosmetics_12470.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 5,
@@ -591,7 +591,7 @@
     {
       "key": "golem - everglade",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14569.png",
+      "imageUrl": "cosmetics_14569.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -605,7 +605,7 @@
     {
       "key": "grinch - gilded assassin",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10098.png",
+      "imageUrl": "cosmetics_10098.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -619,7 +619,7 @@
     {
       "key": "grinch - polar sentry",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14058.png",
+      "imageUrl": "cosmetics_14058.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -633,7 +633,7 @@
     {
       "key": "gunzo - devil jester",
       "elementType": "legendary",
-      "imageUrl": "assets/cosmetics/cosmetics_15247.png",
+      "imageUrl": "cosmetics_15247.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 5,
@@ -647,7 +647,7 @@
     {
       "key": "hidora kai",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_7452.png",
+      "imageUrl": "cosmetics_7452.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -661,7 +661,7 @@
     {
       "key": "iskra - arachnis",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15045.png",
+      "imageUrl": "cosmetics_15045.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -675,7 +675,7 @@
     {
       "key": "keegan",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12329.png",
+      "imageUrl": "cosmetics_12329.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -689,7 +689,7 @@
     {
       "key": "kreuger - black hat",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11880.png",
+      "imageUrl": "cosmetics_11880.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -703,7 +703,7 @@
     {
       "key": "kreuger - ruptured steel",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10072.png",
+      "imageUrl": "cosmetics_10072.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -717,7 +717,7 @@
     {
       "key": "kreuger - the resistance",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11073.png",
+      "imageUrl": "cosmetics_11073.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -731,7 +731,7 @@
     {
       "key": "kreuger - vampire hunter",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15314.png",
+      "imageUrl": "cosmetics_15314.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -745,7 +745,7 @@
     {
       "key": "kryptis",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14908.png",
+      "imageUrl": "cosmetics_14908.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -759,7 +759,7 @@
     {
       "key": "mace - final guard",
       "elementType": "legendary",
-      "imageUrl": "assets/cosmetics/cosmetics_11052.png",
+      "imageUrl": "cosmetics_11052.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 5,
@@ -773,7 +773,7 @@
     {
       "key": "mace - the armorer",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8983.png",
+      "imageUrl": "cosmetics_8983.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -787,7 +787,7 @@
     {
       "key": "manta ray",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_2723.png",
+      "imageUrl": "cosmetics_2723.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -801,7 +801,7 @@
     {
       "key": "manta ray - silver infiltrator",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14032.png",
+      "imageUrl": "cosmetics_14032.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -815,7 +815,7 @@
     {
       "key": "mara - awakening",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10056.png",
+      "imageUrl": "cosmetics_10056.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -829,7 +829,7 @@
     {
       "key": "merc combat rig",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8164.png",
+      "imageUrl": "cosmetics_8164.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -843,7 +843,7 @@
     {
       "key": "mil-sim - ctsfo",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10181.png",
+      "imageUrl": "cosmetics_10181.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -857,7 +857,7 @@
     {
       "key": "minotaur - beach day",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15250.png",
+      "imageUrl": "cosmetics_15250.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -871,7 +871,7 @@
     {
       "key": "misty barton",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15331.png",
+      "imageUrl": "cosmetics_15331.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -885,7 +885,7 @@
     {
       "key": "morte - billy",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15178.png",
+      "imageUrl": "cosmetics_15178.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -899,7 +899,7 @@
     {
       "key": "nikto - scarecrow",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15061.png",
+      "imageUrl": "cosmetics_15061.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -913,7 +913,7 @@
     {
       "key": "nomad - the distraction",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_338.png",
+      "imageUrl": "cosmetics_338.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -927,7 +927,7 @@
     {
       "key": "otter - snow drift",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14869.png",
+      "imageUrl": "cosmetics_14869.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -941,7 +941,7 @@
     {
       "key": "outrider - going dark",
       "elementType": "rare",
-      "imageUrl": "assets/cosmetics/cosmetics_1570.png",
+      "imageUrl": "cosmetics_1570.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 3,
@@ -955,7 +955,7 @@
     {
       "key": "outrider - mystic",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_1036.png",
+      "imageUrl": "cosmetics_1036.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -969,7 +969,7 @@
     {
       "key": "park - spirit",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10605.png",
+      "imageUrl": "cosmetics_10605.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -983,7 +983,7 @@
     {
       "key": "phantom - null",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_9531.png",
+      "imageUrl": "cosmetics_9531.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -997,7 +997,7 @@
     {
       "key": "price - bravo 6",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14211.png",
+      "imageUrl": "cosmetics_14211.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1011,7 +1011,7 @@
     {
       "key": "price - the captain",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12953.png",
+      "imageUrl": "cosmetics_12953.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1025,7 +1025,7 @@
     {
       "key": "raines - bunyan",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_6789.png",
+      "imageUrl": "cosmetics_6789.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1039,7 +1039,7 @@
     {
       "key": "rambo",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11225.png",
+      "imageUrl": "cosmetics_11225.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1053,7 +1053,7 @@
     {
       "key": "reaper - the grinder",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_2314.png",
+      "imageUrl": "cosmetics_2314.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1067,7 +1067,7 @@
     {
       "key": "reznov",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_2921.png",
+      "imageUrl": "cosmetics_2921.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1081,7 +1081,7 @@
     {
       "key": "riggs",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15320.png",
+      "imageUrl": "cosmetics_15320.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1095,7 +1095,7 @@
     {
       "key": "rosa",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11739.png",
+      "imageUrl": "cosmetics_11739.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1109,7 +1109,7 @@
     {
       "key": "rosa - double agent",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_12945.png",
+      "imageUrl": "cosmetics_12945.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1123,7 +1123,7 @@
     {
       "key": "rott",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13296.png",
+      "imageUrl": "cosmetics_13296.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1137,7 +1137,7 @@
     {
       "key": "ruin - odin's omen",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13706.png",
+      "imageUrl": "cosmetics_13706.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1151,7 +1151,7 @@
     {
       "key": "scarlett rhodes - carmine",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11428.png",
+      "imageUrl": "cosmetics_11428.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1165,7 +1165,7 @@
     {
       "key": "scarlett rhodes - cutthroat",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10963.png",
+      "imageUrl": "cosmetics_10963.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1179,7 +1179,7 @@
     {
       "key": "scarlett rhodes - hallowmas",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15164.png",
+      "imageUrl": "cosmetics_15164.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1193,7 +1193,7 @@
     {
       "key": "scylla - dark quill",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14253.png",
+      "imageUrl": "cosmetics_14253.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1207,7 +1207,7 @@
     {
       "key": "scylla - dusted",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11442.png",
+      "imageUrl": "cosmetics_11442.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1221,7 +1221,7 @@
     {
       "key": "scylla - sleigher",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8829.png",
+      "imageUrl": "cosmetics_8829.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1235,7 +1235,7 @@
     {
       "key": "sentinel recon - primal",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8367.png",
+      "imageUrl": "cosmetics_8367.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1249,7 +1249,7 @@
     {
       "key": "seraph - kitty six",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_7627.png",
+      "imageUrl": "cosmetics_7627.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1263,7 +1263,7 @@
     {
       "key": "seraph - silver bullet",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8213.png",
+      "imageUrl": "cosmetics_8213.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1277,7 +1277,7 @@
     {
       "key": "siren - artifice",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_11196.png",
+      "imageUrl": "cosmetics_11196.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1291,7 +1291,7 @@
     {
       "key": "siren - hydrodynamic",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13393.png",
+      "imageUrl": "cosmetics_13393.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1305,7 +1305,7 @@
     {
       "key": "soap - esqueleto",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15288.png",
+      "imageUrl": "cosmetics_15288.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1319,7 +1319,7 @@
     {
       "key": "spectre - geist",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_296.png",
+      "imageUrl": "cosmetics_296.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1333,7 +1333,7 @@
     {
       "key": "spectre - the prepper",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_14274.png",
+      "imageUrl": "cosmetics_14274.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1347,7 +1347,7 @@
     {
       "key": "templar",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_8063.png",
+      "imageUrl": "cosmetics_8063.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1361,7 +1361,7 @@
     {
       "key": "urban tracker - exile",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_10141.png",
+      "imageUrl": "cosmetics_10141.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1375,7 +1375,7 @@
     {
       "key": "urban tracker - peacetime",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_15390.png",
+      "imageUrl": "cosmetics_15390.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1389,7 +1389,7 @@
     {
       "key": "vivian harris - b.a.t. agent",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_5949.png",
+      "imageUrl": "cosmetics_5949.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1403,7 +1403,7 @@
     {
       "key": "witch doctor - wrong medicine",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_9688.png",
+      "imageUrl": "cosmetics_9688.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,
@@ -1417,7 +1417,7 @@
     {
       "key": "zero - scorpion queen",
       "elementType": "epic",
-      "imageUrl": "assets/cosmetics/cosmetics_13713.png",
+      "imageUrl": "cosmetics_13713.png",
       "isNew": false,
       "isComingSoon": false,
       "rarity": 4,

@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';

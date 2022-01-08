@@ -1,4 +1,4 @@
 # Changelog
 
 
-## First Release, yay!
+## First release, yay!

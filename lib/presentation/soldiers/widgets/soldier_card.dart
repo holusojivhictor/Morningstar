@@ -1,6 +1,8 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
@@ -134,7 +136,7 @@ class SoldierCard extends StatelessWidget {
                       child: FadeInImage(
                         fadeInDuration: const Duration(milliseconds: 500),
                         placeholder: MemoryImage(kTransparentImage),
-                        image: AssetImage(image),
+                        image: CachedNetworkImageProvider('$imageUrl$image'),
                       ),
                     ),
                   ),

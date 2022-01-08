@@ -15,6 +15,7 @@ dependencies:
     sdk: flutter
 
   animated_text_kit: ^4.2.1
+  cached_network_image: ^3.2.0
   darq: ^1.1.1
   device_info_plus: ^3.1.1
   devicelocale: ^0.5.0
@@ -60,7 +61,6 @@ dependencies:
   tuple: ^2.0.0
   url_launcher: ^6.0.12
   version_tracker: ^2.1.1
-  video_player: ^2.2.7
   waterfall_flow: ^3.0.1
   webview_windows: ^0.0.8
   window_size:
@@ -103,3 +103,4 @@ flutter:
     - assets/items/logos/
     - assets/items/others/
     - assets/videos/
+    - assets/gif/

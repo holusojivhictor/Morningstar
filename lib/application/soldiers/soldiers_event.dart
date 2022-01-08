@@ -7,7 +7,7 @@ class SoldiersEvent with _$SoldiersEvent {
 }) = _Init;
 
   const factory SoldiersEvent.searchChanged({
-  required String search,
+    required String search,
   }) = _SearchChanged;
 
   const factory SoldiersEvent.elementTypeChanged(ElementType elementType) = _ElementTypesChanged;

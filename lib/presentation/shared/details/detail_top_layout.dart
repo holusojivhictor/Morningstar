@@ -1,5 +1,7 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 import 'constants.dart';
@@ -60,8 +62,8 @@ class DetailTopLayout extends StatelessWidget {
             ),
           Align(
             alignment: imgAlignment,
-            child: Image.asset(
-              image,
+            child: Image(
+              image: CachedNetworkImageProvider('$imageUrl$image'),
               fit: BoxFit.contain,
               filterQuality: FilterQuality.high,
             ),
@@ -126,8 +128,8 @@ class ShadowImage extends StatelessWidget {
         alignment: Alignment.topRight,
         child: Opacity(
           opacity: 0.3,
-          child: Image.asset(
-            secondImage ?? image,
+          child: Image(
+            image: CachedNetworkImageProvider('$imageUrl$image'),
             fit: BoxFit.contain,
             filterQuality: FilterQuality.high,
           ),
@@ -140,8 +142,8 @@ class ShadowImage extends StatelessWidget {
         transform: Matrix4.translationValues(isASmallImage ? 30 : 60, isASmallImage ? -10 : -30, 0.0),
         child: Opacity(
           opacity: 0.3,
-          child: Image.asset(
-            secondImage ?? image,
+          child: Image(
+            image: CachedNetworkImageProvider('$imageUrl$image'),
             fit: BoxFit.contain,
             filterQuality: FilterQuality.high,
           ),

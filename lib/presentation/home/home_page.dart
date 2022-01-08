@@ -10,7 +10,7 @@ import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'widgets/video_player_box.dart';
+import 'widgets/gif_image_box.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
       builder: (ctx, size) => CustomScrollView(
         slivers: [
           const SliverTodayMainTitle(),
-          const VideoPlayerBox(),
+          const GifImage(),
           _buildClickableTitle('Soldiers Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
           const SliverTodayTopPicksSoldiers(),
           _buildClickableTitle('Weapons Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
