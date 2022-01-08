@@ -8,6 +8,7 @@ import 'package:morningstar/domain/models/entities/inventory/inventory_item.dart
 import 'package:morningstar/domain/models/entities/inventory/inventory_used_item.dart';
 import 'package:morningstar/domain/models/entities/notifications/notification_base.dart';
 import 'package:morningstar/domain/models/entities/notifications/notification_custom.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/models/notifications/notification_item.dart';
 import 'package:morningstar/domain/models/soldiers/soldier_card_model.dart';
 import 'package:morningstar/domain/services/data_service.dart';
@@ -137,6 +138,16 @@ class DataServiceImpl implements DataService {
         .toList();
 
     return soldiers..sort((x, y) => x.name.compareTo(y.name));
+  }
+
+  @override
+  List<WeaponCardModel> getAllWeaponsInInventory() {
+    final weapons = _inventoryBox.values
+        .where((el) => el.type == ItemType.weapon.index)
+        .map((e) => _morningStarService.getWeaponForCard(e.itemKey))
+        .toList();
+
+    return weapons..sort((x, y) => x.name.compareTo(y.name));
   }
 
   @override

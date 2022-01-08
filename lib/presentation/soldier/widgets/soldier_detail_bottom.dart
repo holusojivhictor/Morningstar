@@ -16,7 +16,7 @@ class SoldierDetailBottom extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
-    return isPortrait ? const _PortraitLayout(soldierDescriptionHeight: 120) : const _LandscapeLayout();
+    return isPortrait ? const _PortraitLayout(soldierDescriptionHeight: 120) : const _LandscapeLayout(soldierDescriptionHeight: 120);
   }
 }
 
@@ -72,10 +72,19 @@ class _PortraitLayout extends StatelessWidget {
 }
 
 class _LandscapeLayout extends StatelessWidget {
-  const _LandscapeLayout({Key? key}) : super(key: key);
+  final double soldierDescriptionHeight;
+  const _LandscapeLayout({
+    Key? key,
+    this.soldierDescriptionHeight = 150,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
+    final mediaQuery = MediaQuery.of(context);
+    final isPortrait = mediaQuery.orientation == Orientation.portrait;
+    final device = getDeviceType(mediaQuery.size);
+    final descriptionWidth = (mediaQuery.size.width / (isPortrait ? 1 : 2)) / (device == DeviceScreenType.mobile ? 1.2 : 1.5);
+
     final tabs = [
       'Description',
     ];
@@ -96,6 +105,15 @@ class _LandscapeLayout extends StatelessWidget {
                       title: 'Description',
                       body: Container(margin: const EdgeInsets.symmetric(horizontal: 5), child: const Text('No description available')),
                       textColor: state.elementType.getElementColorFromContext(context),
+                    ),
+                  ),
+                  SizedBox(
+                    height: soldierDescriptionHeight,
+                    width: descriptionWidth,
+                    child: SoldierDetailGeneralCard(
+                      elementType: state.elementType,
+                      name: state.name,
+                      rarity: state.rarity,
                     ),
                   ),
                 ],

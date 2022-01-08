@@ -11,6 +11,8 @@ abstract class DataService {
 
   List<SoldierCardModel> getAllSoldiersInInventory();
 
+  List<WeaponCardModel> getAllWeaponsInInventory();
+
   Future<void> addItemToInventory(String key, ItemType type, int quantity);
 
   Future<void> updateItemInInventory(String key, ItemType type, int quantity);

@@ -1,12 +1,15 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/gradient_card.dart';
 import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
+import 'package:morningstar/presentation/weapon/weapon_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 
@@ -79,7 +82,7 @@ class WeaponCard extends StatelessWidget {
     final theme = Theme.of(context);
     return InkWell(
       borderRadius: Styles.mainWeaponCardBorderRadius,
-      onTap: () {},
+      onTap: () => _goToWeaponPage(context),
       child: GradientCard(
         clipBehavior: Clip.hardEdge,
         shape: Styles.mainWeaponCardShape,
@@ -98,7 +101,7 @@ class WeaponCard extends StatelessWidget {
                     height: imgHeight,
                     fadeInDuration: const Duration(milliseconds: 500),
                     placeholder: MemoryImage(kTransparentImage),
-                    image: AssetImage(image),
+                    image: CachedNetworkImageProvider('$weaponsImageUrl$image'),
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
@@ -175,5 +178,19 @@ class WeaponCard extends StatelessWidget {
       Color.fromARGB(255, 131, 108, 168),
       Color.fromARGB(255, 179, 131, 197),
     ];
+  }
+
+  Future<void> _goToWeaponPage(BuildContext context) async {
+    if (isInSelectionMode) {
+      Navigator.pop(context, keyName);
+      return;
+    }
+
+    final bloc = context.read<WeaponBloc>();
+    bloc.add(WeaponEvent.loadFromKey(key: keyName));
+    final route = MaterialPageRoute(builder: (c) => const WeaponPage());
+    await Navigator.push(context, route);
+    await route.completed;
+    bloc.pop();
   }
 }

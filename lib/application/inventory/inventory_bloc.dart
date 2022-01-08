@@ -18,12 +18,14 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
   final DataService _dataService;
   final TelemetryService _telemetryService;
   final SoldierBloc _soldierBloc;
+  final WeaponBloc _weaponBloc;
 
   InventoryBloc(
     this._morningStarService,
     this._dataService,
     this._telemetryService,
     this._soldierBloc,
+      this._weaponBloc,
   ) : super(const InventoryState.loading());
 
   @override
@@ -31,8 +33,9 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
     final s = await event.map(
       init: (_) async {
         final soldiers = _dataService.getAllSoldiersInInventory();
+        final weapons = _dataService.getAllWeaponsInInventory();
 
-        return InventoryState.loaded(soldiers: soldiers);
+        return InventoryState.loaded(soldiers: soldiers, weapons: weapons);
       },
       addSoldier: (e) async {
         await _telemetryService.trackItemAddedToInventory(e.key, 1);
@@ -42,6 +45,16 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
         return state.map(
           loading: (state) => state,
           loaded: (state) => state.copyWith.call(soldiers: _dataService.getAllSoldiersInInventory()),
+        );
+      },
+      addWeapon: (e) async {
+        await _telemetryService.trackItemAddedToInventory(e.key, 1);
+        await _dataService.addItemToInventory(e.key, ItemType.weapon, 1);
+        _weaponBloc.add(WeaponEvent.addedToInventory(key: e.key, wasAdded: true));
+
+        return state.map(
+          loading: (state) => state,
+          loaded: (state) => state.copyWith.call(weapons: _dataService.getAllWeaponsInInventory()),
         );
       },
       deleteSoldier: (e) async {
@@ -54,7 +67,17 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
           loaded: (state) => state.copyWith.call(soldiers: _dataService.getAllSoldiersInInventory()),
         );
       },
-      close: (_) async => const InventoryState.loaded(soldiers: []),
+      deleteWeapon: (e) async {
+        await _telemetryService.trackItemDeletedFromInventory(e.key);
+        await _dataService.deleteItemFromInventory(e.key, ItemType.weapon);
+        _weaponBloc.add(WeaponEvent.addedToInventory(key: e.key, wasAdded: false));
+
+        return state.map(
+          loading: (state) => state,
+          loaded: (state) => state.copyWith.call(weapons: _dataService.getAllWeaponsInInventory()),
+        );
+      },
+      close: (_) async => const InventoryState.loaded(soldiers: [], weapons: []),
       clearAllSoldiers: (_) async {
         await _telemetryService.trackItemsDeletedFromInventory(ItemType.soldier);
         await _dataService.deleteItemsFromInventory(ItemType.soldier);
@@ -62,6 +85,15 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
         return state.map(
           loading: (state) => state,
           loaded: (state) => state.copyWith.call(soldiers: []),
+        );
+      },
+      clearAllWeapons: (_) async {
+        await _telemetryService.trackItemsDeletedFromInventory(ItemType.weapon);
+        await _dataService.deleteItemsFromInventory(ItemType.weapon);
+
+        return state.map(
+          loading: (state) => state,
+          loaded: (state) => state.copyWith.call(weapons: []),
         );
       },
     );
@@ -72,7 +104,7 @@ class InventoryBloc extends Bloc<InventoryEvent, InventoryState> {
   List<String> getItemKeysToExclude() {
     final upcoming = _morningStarService.getUpComingKeys();
     return state.maybeMap(
-      loaded: (state) => state.soldiers.map((e) => e.key).toList() + upcoming,
+      loaded: (state) => state.soldiers.map((e) => e.key).toList() + state.weapons.map((e) => e.key).toList() + upcoming,
       orElse: () => upcoming,
     );
   }

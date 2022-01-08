@@ -136,7 +136,7 @@ class SoldierCard extends StatelessWidget {
                       child: FadeInImage(
                         fadeInDuration: const Duration(milliseconds: 500),
                         placeholder: MemoryImage(kTransparentImage),
-                        image: CachedNetworkImageProvider('$imageUrl$image'),
+                        image: CachedNetworkImageProvider('$soldiersImageUrl$image'),
                       ),
                     ),
                   ),

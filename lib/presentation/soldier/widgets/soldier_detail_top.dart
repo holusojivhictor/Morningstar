@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/application/inventory/inventory_bloc.dart';
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/presentation/shared/details/detail_top_layout.dart';
-import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
+import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/theme.dart';
 
@@ -18,13 +18,14 @@ class SoldierDetailTop extends StatelessWidget {
       builder: (ctx, state) => state.map(
         loading: (_) => const Loading(useScaffold: false),
         loaded: (state) => DetailTopLayout(
-          color: state.elementType.getElementColorFromContext(context),
+          gradient: state.rarity.getRarityGradient(),
           borderRadius: const BorderRadius.only(
             bottomRight: Radius.circular(20),
             bottomLeft: Radius.circular(20),
           ),
           image: state.imageUrl,
           name: state.name,
+          webUrl: soldiersImageUrl,
           secondImage: state.secondImage,
           soldierDescriptionHeight: 180,
           generalCard: SoldierDetailGeneralCard(

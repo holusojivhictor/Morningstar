@@ -11,4 +11,6 @@ const dailyCheckInResetDuration = Duration(hours: 24);
 
 const githubPage = 'https://github.com/holusojivhictor/Morningstar';
 
-const imageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/soldiers/';
+const soldiersImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/soldiers/';
+
+const weaponsImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/weapons/';

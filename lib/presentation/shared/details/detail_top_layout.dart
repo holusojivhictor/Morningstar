@@ -1,7 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:morningstar/domain/app_constants.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 import 'constants.dart';
@@ -11,9 +10,11 @@ class DetailTopLayout extends StatelessWidget {
   final String name;
   final String? secondImage;
   final Color? color;
+  final Gradient? gradient;
   final Widget generalCard;
   final Widget? appBar;
   final BorderRadius? borderRadius;
+  final String webUrl;
 
   final bool isASmallImage;
   final bool showShadowImage;
@@ -25,9 +26,11 @@ class DetailTopLayout extends StatelessWidget {
     required this.name,
     this.secondImage,
     this.color,
+    this.gradient,
     required this.generalCard,
     this.appBar,
     this.borderRadius,
+    required this.webUrl,
     this.isASmallImage = false,
     this.showShadowImage = true,
     this.soldierDescriptionHeight = 240,
@@ -48,6 +51,7 @@ class DetailTopLayout extends StatelessWidget {
       height: isPortrait ? getTopHeightForPortrait(context, isASmallImage) : null,
       decoration: BoxDecoration(
         color: color,
+        gradient: gradient,
         borderRadius: borderRadius,
       ),
       child: Stack(
@@ -57,13 +61,14 @@ class DetailTopLayout extends StatelessWidget {
           if (showShadowImage)
             ShadowImage(
               image: image,
+              webUrl: webUrl,
               secondImage: secondImage,
               isASmallImage: isASmallImage,
             ),
           Align(
             alignment: imgAlignment,
             child: Image(
-              image: CachedNetworkImageProvider('$imageUrl$image'),
+              image: CachedNetworkImageProvider('$webUrl$image'),
               fit: BoxFit.contain,
               filterQuality: FilterQuality.high,
             ),
@@ -112,11 +117,13 @@ class ShadowImage extends StatelessWidget {
   final String image;
   final String? secondImage;
   final bool isASmallImage;
+  final String webUrl;
   const ShadowImage({
     Key? key,
     required this.image,
     this.secondImage,
     this.isASmallImage = false,
+    required this.webUrl,
   }) : super(key: key);
 
   @override
@@ -129,7 +136,7 @@ class ShadowImage extends StatelessWidget {
         child: Opacity(
           opacity: 0.3,
           child: Image(
-            image: CachedNetworkImageProvider('$imageUrl$image'),
+            image: CachedNetworkImageProvider('$webUrl$image'),
             fit: BoxFit.contain,
             filterQuality: FilterQuality.high,
           ),
@@ -143,7 +150,7 @@ class ShadowImage extends StatelessWidget {
         child: Opacity(
           opacity: 0.3,
           child: Image(
-            image: CachedNetworkImageProvider('$imageUrl$image'),
+            image: CachedNetworkImageProvider('$webUrl$image'),
             fit: BoxFit.contain,
             filterQuality: FilterQuality.high,
           ),

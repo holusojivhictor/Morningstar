@@ -62,6 +62,13 @@ class Assets {
     return '$weaponsBasePath/$name';
   }
 
+  static String getWeaponCloudAll(String? name) {
+    if (name.isNullEmptyOrWhitespace) {
+      return noImageAvailableName;
+    }
+    return '$name';
+  }
+
   static String getTranslationPath(AppLanguageType languageType) {
     switch (languageType) {
       case AppLanguageType.english:
@@ -260,6 +267,17 @@ class Assets {
         return 'Throwable';
       default:
         throw Exception('Invalid weapon type = $type');
+    }
+  }
+
+  static String translateWeaponFilterType(WeaponFilterType type) {
+    switch (type) {
+      case WeaponFilterType.name:
+        return 'Name';
+      case WeaponFilterType.damage:
+        return 'Damage';
+      default:
+        throw Exception('Invalid weapon filter type = $type');
     }
   }
 }

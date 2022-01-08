@@ -15,7 +15,7 @@ class GifImage extends StatelessWidget {
     final width = mediaQuery.size.width;
     return SliverToBoxAdapter(
       child: Padding(
-        padding: const EdgeInsets.only(top: 10),
+        padding: const EdgeInsets.only(top: 5),
         child: SizedBox(
           height: height,
           width: width,
