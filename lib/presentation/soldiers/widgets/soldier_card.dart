@@ -125,9 +125,9 @@ class SoldierCard extends StatelessWidget {
                     ),
                   ),
                   Positioned(
-                    left: topPickPage
-                        ? 8
-                        : isPortrait ? 40 : 140,
+                    left: isNew
+                        ? topPickPage ? 8 : isPortrait ? 0 : 140
+                        : topPickPage ? 8 : isPortrait ? 40 : 140,
                     bottom: 5,
                     child: Container(
                       height: height,

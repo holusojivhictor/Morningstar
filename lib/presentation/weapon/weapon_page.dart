@@ -35,7 +35,6 @@ class _PortraitLayout extends StatelessWidget {
                 WeaponDetailTop(
                   name: state.name,
                   image: state.fullImage,
-
                 ),
                 WeaponDetailBottom(
                   name: state.name,

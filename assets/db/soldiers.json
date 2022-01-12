@@ -1327,7 +1327,7 @@
       "key": "gunzo - devil jester",
       "elementType": "legendary",
       "imageUrl": "cosmetics_15247.png",
-      "isNew": true,
+      "isNew": false,
       "isComingSoon": false,
       "rarity": 5,
       "secondImage": null
@@ -4595,6 +4595,348 @@
       "elementType": "epic",
       "imageUrl": "cosmetics_6203.png",
       "isNew": false,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ferg",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18670.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dark shepherd - half light",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18918.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "d-day - ambush",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18970.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "firebreak - basilisk",
+      "elementType": "legendary",
+      "imageUrl": "cosmetics_19046.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "golem - minimalist",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19062.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "spectre - pale beast",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18587.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "torque - king",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18116.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "reaper - naughty list",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18790.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zero - flocked",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18842.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "soap - cliffhanger",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19145.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "rodion - masquerade",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18367.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "atlas - crash",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19715.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "keegan - huntsman",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19841.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - pow bam zap",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_20000.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "vagr modir - whisper of winter",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19536.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "tengu - ice yai",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18955.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - firefrost",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_19500.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - exit glacier",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_19982.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 1 - bloodsucker",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_18795.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - shock and awe",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18552.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "outrider - techborn",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18845.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nyx",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19961.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 5 - geometry node",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18171.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "kva recon",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19599.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "merc 1 - breaker bolt",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_19632.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "dark angel alice - unchained punk",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19998.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "mil-sim - dark covenant brute",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19494.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "codename: lazarus",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18815.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "minotaur - scales",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19905.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "yegor - needleworked",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19806.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "stansfield",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19037.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "templar - unredeemed",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18679.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alice - rime",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18656.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - ground comms",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_18932.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "charly - green marble",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_18385.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "kreuger - purge",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19397.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "grinch - pipebomb",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_19052.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "iskra - killswitch",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_18595.png",
+      "isNew": true,
       "isComingSoon": false,
       "rarity": 4,
       "secondImage": null

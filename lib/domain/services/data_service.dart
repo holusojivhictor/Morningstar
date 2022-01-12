@@ -1,6 +1,5 @@
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
-import 'package:morningstar/domain/models/notifications/notification_item.dart';
 
 abstract class DataService {
   Future<void> init({String dir = 'morningstar_data'});

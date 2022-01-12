@@ -32550,7 +32550,7 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": null
+      "imageUrl": "weapon_16100.png"
     },
     {
       "key": "m16",
@@ -36383,7 +36383,7 @@
           "unlockLevel": 55
         }
       ],
-      "imageUrl": "weapon_5948.png"
+      "imageUrl": "weapon_476.png"
     },
     {
       "key": "m4lmg",
@@ -38388,7 +38388,7 @@
           "unlockLevel": 43
         }
       ],
-      "imageUrl": "weapon_8573.png"
+      "imageUrl": "weapon_11269.png"
     },
     {
       "key": "msmc",
@@ -57419,7 +57419,7 @@
         }
       ],
       "attachments": [],
-      "imageUrl": null
+      "imageUrl": "weapon_16112.png"
     },
     {
       "key": "type 25",

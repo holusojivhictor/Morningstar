@@ -2043,6 +2043,158 @@
     {
       "key": "zombie - wicht warden",
       "name": "Zombie - Wicht Warden"
+    },
+    {
+      "key": "ferg",
+      "name": "Ferg"
+    },
+    {
+      "key": "dark shepherd - half light",
+      "name": "Dark Shepherd - Half Light"
+    },
+    {
+      "key": "d-day - ambush",
+      "name": "D-Day - Ambush"
+    },
+    {
+      "key": "firebreak - basilisk",
+      "name": "Firebreak - Basilisk"
+    },
+    {
+      "key": "golem - minimalist",
+      "name": "Golem - Minimalist"
+    },
+    {
+      "key": "spectre - pale beast",
+      "name": "Spectre - Pale Beast"
+    },
+    {
+      "key": "torque - king",
+      "name": "Torque - King"
+    },
+    {
+      "key": "reaper - naughty list",
+      "name": "Reaper - Naughty List"
+    },
+    {
+      "key": "zero - flocked",
+      "name": "Zero - Flocked"
+    },
+    {
+      "key": "soap - cliffhanger",
+      "name": "Soap - Cliffhanger"
+    },
+    {
+      "key": "rodion - masquerade",
+      "name": "Rodion - Masquerade"
+    },
+    {
+      "key": "atlas - crash",
+      "name": "Atlas - Crash"
+    },
+    {
+      "key": "keegan - huntsman",
+      "name": "Keegan - Huntsman"
+    },
+    {
+      "key": "battery - pow bam zap",
+      "name": "Battery - Pow Bam Zap"
+    },
+    {
+      "key": "vagr modir - whisper of winter",
+      "name": "Vagr Modir - Whisper of Winter"
+    },
+    {
+      "key": "tengu - ice yai",
+      "name": "Tengu - Ice Yai"
+    },
+    {
+      "key": "special ops 4 - firefrost",
+      "name": "Special Ops 4 - Firefrost"
+    },
+    {
+      "key": "scout 2 - exit glacier",
+      "name": "Scout 2 - Exit Glacier"
+    },
+    {
+      "key": "special ops 1 - bloodsucker",
+      "name": "Special Ops 1 - Bloodsucker"
+    },
+    {
+      "key": "ruin - shock and awe",
+      "name": "Ruin - Shock and Awe"
+    },
+    {
+      "key": "outrider - techborn",
+      "name": "Outrider - Techborn"
+    },
+    {
+      "key": "nyx",
+      "name": "Nyx"
+    },
+    {
+      "key": "merc 5 - geometry node",
+      "name": "Merc 5 - Geometry Node"
+    },
+    {
+      "key": "kva recon",
+      "name": "KVA Recon"
+    },
+    {
+      "key": "merc 1 - breaker bolt",
+      "name": "Merc 1 - Breaker Bolt"
+    },
+    {
+      "key": "dark angel alice - unchained punk",
+      "name": "Dark Angel Alice - Unchained Punk"
+    },
+    {
+      "key": "mil-sim - dark covenant brute",
+      "name": "Mil-Sim - Dark Covenant Brute"
+    },
+    {
+      "key": "codename: lazarus",
+      "name": "Codename: Lazarus"
+    },
+    {
+      "key": "minotaur - scales",
+      "name": "Minotaur - Scales"
+    },
+    {
+      "key": "yegor - needleworked",
+      "name": "Yegor - Needleworked"
+    },
+    {
+      "key": "stansfield",
+      "name": "Stansfield"
+    },
+    {
+      "key": "templar - unredeemed",
+      "name": "Templar - Unredeemed"
+    },
+    {
+      "key": "alice - rime",
+      "name": "Alice - Rime"
+    },
+    {
+      "key": "battery - ground comms",
+      "name": "Battery - Ground Comms"
+    },
+    {
+      "key": "charly - green marble",
+      "name": "Charly - Green Marble"
+    },
+    {
+      "key": "kreuger - purge",
+      "name": "Kreuger - Purge"
+    },
+    {
+      "key": "grinch - pipebomb",
+      "name": "Grinch - Pipebomb"
+    },
+    {
+      "key": "iskra - killswitch",
+      "name": "Iskra - Killswitch"
     }
   ],
   "weapons": [

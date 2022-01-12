@@ -4,13 +4,7 @@ import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/enums.dart';
-import 'package:morningstar/domain/models/entities/inventory/inventory_item.dart';
-import 'package:morningstar/domain/models/entities/inventory/inventory_used_item.dart';
-import 'package:morningstar/domain/models/entities/notifications/notification_base.dart';
-import 'package:morningstar/domain/models/entities/notifications/notification_custom.dart';
 import 'package:morningstar/domain/models/models.dart';
-import 'package:morningstar/domain/models/notifications/notification_item.dart';
-import 'package:morningstar/domain/models/soldiers/soldier_card_model.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:synchronized/synchronized.dart';
@@ -34,8 +28,7 @@ class DataServiceImpl implements DataService {
       await Hive.initFlutter(dir);
       _registerAdapters();
       _inventoryBox = await Hive.openBox<InventoryItem>('inventory');
-      _inventoryUsedItemsBox =
-          await Hive.openBox<InventoryUsedItem>('inventoryUsedItems');
+      _inventoryUsedItemsBox = await Hive.openBox<InventoryUsedItem>('inventoryUsedItems');
 
       _notificationsCustomBox = await Hive.openBox('notificationsCustom');
     });
