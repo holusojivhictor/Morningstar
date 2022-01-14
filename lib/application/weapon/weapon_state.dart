@@ -18,8 +18,8 @@ class WeaponState with _$WeaponState {
     required double control,
     required String description,
     required bool isInInventory,
-    required List<WeaponFileBlueprintModel> blueprints,
-    required List<WeaponFileCamoModel> camos,
-    required List<WeaponFileAttachmentModel> attachments,
+    required List<WeaponBlueprintCardModel> blueprints,
+    required List<WeaponCamoCardModel> camos,
+    required List<WeaponAttachmentCardModel> attachments,
   }) = _LoadedState;
 }

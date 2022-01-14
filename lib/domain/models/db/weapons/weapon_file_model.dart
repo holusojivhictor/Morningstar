@@ -35,13 +35,15 @@ class WeaponFileModel with _$WeaponFileModel {
 
 @freezed
 class WeaponFileBlueprintModel with _$WeaponFileBlueprintModel {
-  String get fullImagePath => Assets.getWeaponPathAll(imageUrl);
+  String get fullImagePath => Assets.getWeaponCloudAll(imageUrl);
 
   factory WeaponFileBlueprintModel({
     required String name,
     required ElementType elementType,
     String? imageUrl,
     required int rarity,
+    required String weaponKey,
+    required bool isComingSoon,
   }) = _WeaponFileBlueprintModel;
 
   WeaponFileBlueprintModel._();
@@ -51,7 +53,7 @@ class WeaponFileBlueprintModel with _$WeaponFileBlueprintModel {
 
 @freezed
 class WeaponFileCamoModel with _$WeaponFileCamoModel {
-  String get fullImagePath => Assets.getWeaponPathAll(imageUrl);
+  String get fullImagePath => Assets.getWeaponCloudAll(imageUrl);
 
   factory WeaponFileCamoModel({
     required String name,

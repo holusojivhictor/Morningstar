@@ -1,24 +1,59 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/shared/scaffold_with_fab.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_detail_bottom.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_detail_top.dart';
 
-import 'widgets/weapon_detail_bottom.dart';
-import 'widgets/weapon_detail_top.dart';
+class WeaponBlueprintPage extends StatelessWidget {
+  final String name;
+  final String image;
+  final int rarity;
+  final ElementType elementType;
 
-class WeaponPage extends StatelessWidget {
-  const WeaponPage({Key? key}) : super(key: key);
+  const WeaponBlueprintPage({
+    Key? key,
+    required this.name,
+    required this.image,
+    required this.rarity,
+    required this.elementType,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
-    return isPortrait ? const _PortraitLayout() : const _LandscapeLayout();
+    final isPortrait =
+        MediaQuery.of(context).orientation == Orientation.portrait;
+    return isPortrait
+        ? _PortraitLayout(
+            name: name,
+            image: image,
+            rarity: rarity,
+            elementType: elementType,
+          )
+        : _LandscapeLayout(
+            name: name,
+            image: image,
+            rarity: rarity,
+            elementType: elementType,
+          );
   }
 }
 
 class _PortraitLayout extends StatelessWidget {
-  const _PortraitLayout({Key? key}) : super(key: key);
+  final String name;
+  final String image;
+  final int rarity;
+  final ElementType elementType;
+
+  const _PortraitLayout({
+    Key? key,
+    required this.name,
+    required this.image,
+    required this.rarity,
+    required this.elementType,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -26,18 +61,21 @@ class _PortraitLayout extends StatelessWidget {
       child: BlocBuilder<WeaponBloc, WeaponState>(
         builder: (context, state) {
           return state.map(
-            loading: (_) => const Loading(),
+            loading: (_) => const Loading(useScaffold: false),
             loaded: (state) => Stack(
               fit: StackFit.passthrough,
               clipBehavior: Clip.none,
               alignment: Alignment.topCenter,
               children: [
                 WeaponDetailTop(
-                  name: state.name,
-                  image: state.fullImage,
+                  name: name,
+                  image: image,
+                  rarity: rarity,
                 ),
                 WeaponDetailBottom(
-                  name: state.name,
+                  name: name,
+                  rarity: rarity,
+                  elementType: elementType,
                   description: state.description,
                   damage: state.damage,
                   accuracy: state.accuracy,
@@ -46,7 +84,8 @@ class _PortraitLayout extends StatelessWidget {
                   range: state.range,
                   mobility: state.mobility,
                   type: state.weaponType,
-                  blueprints: state.blueprints,
+                  blueprints: const [],
+                  isBlueprintPage: true,
                 ),
               ],
             ),
@@ -58,7 +97,18 @@ class _PortraitLayout extends StatelessWidget {
 }
 
 class _LandscapeLayout extends StatelessWidget {
-  const _LandscapeLayout({Key? key}) : super(key: key);
+  final String name;
+  final String image;
+  final int rarity;
+  final ElementType elementType;
+
+  const _LandscapeLayout({
+    Key? key,
+    required this.name,
+    required this.image,
+    required this.rarity,
+    required this.elementType,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -67,21 +117,24 @@ class _LandscapeLayout extends StatelessWidget {
         child: BlocBuilder<WeaponBloc, WeaponState>(
           builder: (context, state) {
             return state.map(
-              loading: (_) => const Loading(),
+              loading: (_) => const Loading(useScaffold: false),
               loaded: (state) => Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   Expanded(
                     flex: 40,
                     child: WeaponDetailTop(
-                      name: state.name,
-                      image: state.fullImage,
+                      name: name,
+                      image: image,
+                      rarity: rarity,
                     ),
                   ),
                   Expanded(
                     flex: 60,
                     child: WeaponDetailBottom(
-                      name: state.name,
+                      name: name,
+                      rarity: rarity,
+                      elementType: elementType,
                       description: state.description,
                       damage: state.damage,
                       accuracy: state.accuracy,
@@ -90,7 +143,8 @@ class _LandscapeLayout extends StatelessWidget {
                       range: state.range,
                       mobility: state.mobility,
                       type: state.weaponType,
-                      blueprints: state.blueprints,
+                      blueprints: const [],
+                      isBlueprintPage: true,
                     ),
                   ),
                 ],
@@ -102,5 +156,3 @@ class _LandscapeLayout extends StatelessWidget {
     );
   }
 }
-
-

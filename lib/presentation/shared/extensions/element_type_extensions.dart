@@ -33,6 +33,9 @@ extension ElementTypeExtensions on ElementType {
       case ElementType.legendary:
         color = useDarkColors ? const Color.fromARGB(alpha, 255, 165, 1) : const Color.fromARGB(alpha, 255, 196, 87);
         break;
+      case ElementType.mythic:
+        color = useDarkColors ? const Color.fromARGB(alpha, 157, 48, 49) : const Color.fromARGB(alpha, 242, 133, 134);
+        break;
       default:
         throw Exception('Invalid element type = ${this}');
     }

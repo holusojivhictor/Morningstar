@@ -71,9 +71,32 @@ class WeaponBloc extends PopBloc<WeaponEvent, WeaponState> {
       control: weapon.control,
       description: translation.description,
       isInInventory: isInInventory,
-      blueprints: weapon.blueprints,
-      camos: weapon.camos,
-      attachments: weapon.attachments,
+      blueprints: weapon.blueprints.map((blueprint) {
+        return WeaponBlueprintCardModel(
+          name: blueprint.name,
+          elementType: blueprint.elementType,
+          imageUrl: blueprint.imageUrl,
+          rarity: blueprint.rarity,
+          weaponKey: blueprint.weaponKey,
+          isComingSoon: blueprint.isComingSoon,
+        );
+      }).toList(),
+      camos: weapon.camos.map((camo) {
+        return WeaponCamoCardModel(
+          name: camo.name,
+          elementType: camo.elementType,
+          source: camo.source,
+          imageUrl: camo.imageUrl,
+          rarity: camo.rarity,
+        );
+      }).toList(),
+      attachments: weapon.attachments.map((attachment) {
+        return WeaponAttachmentCardModel(
+          name: attachment.name,
+          type: attachment.type,
+          unlockLevel: attachment.unlockLevel,
+        );
+      }).toList(),
     );
   }
 }

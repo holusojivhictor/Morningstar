@@ -14,6 +14,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
+  final int rarity;
+  final ElementType elementType;
   const WeaponDetailGeneralCard({
     Key? key,
     required this.name,
@@ -24,14 +26,16 @@ class WeaponDetailGeneralCard extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
+    required this.rarity,
+    required this.elementType,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return DetailGeneralCard(
       itemName: name,
-      color: ElementType.epic.getElementColorFromContext(context),
-      rarity: 1,
+      color: elementType.getElementColorFromContext(context),
+      rarity: rarity,
       children: [
         ItemDescription(
           title: 'Type',

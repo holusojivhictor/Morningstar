@@ -16,73 +16,97 @@
           "name": "Al Rukh",
           "elementType": "epic",
           "imageUrl": "weapon_12488.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Byakko",
           "elementType": "epic",
           "imageUrl": "weapon_7970.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Dame Fortuna",
           "elementType": "epic",
           "imageUrl": "weapon_10880.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Durandal",
           "elementType": "legendary",
           "imageUrl": "weapon_8064.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Kinetic",
           "elementType": "epic",
           "imageUrl": "weapon_10780.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Matchstick",
           "elementType": "epic",
           "imageUrl": "weapon_9651.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Ripper",
           "elementType": "legendary",
           "imageUrl": "weapon_13200.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Steel Blue",
           "elementType": "epic",
           "imageUrl": "weapon_11614.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Tree Topper",
           "elementType": "epic",
           "imageUrl": "weapon_8473.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Volksfrei Issued",
           "elementType": "epic",
           "imageUrl": "weapon_11217.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Western Crown",
           "elementType": "epic",
           "imageUrl": "weapon_11435.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         },
         {
           "name": "Wreck Diver",
           "elementType": "epic",
           "imageUrl": "weapon_12099.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "agr 556",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -872,133 +896,177 @@
           "name": "Artillery",
           "elementType": "epic",
           "imageUrl": "weapon_5912.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Deep Tech",
           "elementType": "epic",
           "imageUrl": "weapon_13395.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Frostbrand",
           "elementType": "epic",
           "imageUrl": "weapon_8946.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Graveyard Watch",
           "elementType": "epic",
           "imageUrl": "weapon_10475.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Jade",
           "elementType": "epic",
           "imageUrl": "weapon_1616.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Koi Pond",
           "elementType": "epic",
           "imageUrl": "weapon_11025.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Kuromaku",
           "elementType": "legendary",
           "imageUrl": "weapon_10804.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Life and Death",
           "elementType": "epic",
           "imageUrl": "weapon_11226.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Metallic Mist",
           "elementType": "epic",
           "imageUrl": "weapon_326.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Mirage",
           "elementType": "epic",
           "imageUrl": "weapon_77.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Paranormal Prize",
           "elementType": "epic",
           "imageUrl": "weapon_15318.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Pumpkin Head",
           "elementType": "legendary",
           "imageUrl": "weapon_548.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_944.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Rogue Intel",
           "elementType": "epic",
           "imageUrl": "weapon_10304.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Shore Leave",
           "elementType": "epic",
           "imageUrl": "weapon_14308.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Stakeholder",
           "elementType": "epic",
           "imageUrl": "weapon_8214.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Steel Blue",
           "elementType": "epic",
           "imageUrl": "weapon_495.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Tank",
           "elementType": "epic",
           "imageUrl": "weapon_1168.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Trial and Error",
           "elementType": "epic",
           "imageUrl": "weapon_2566.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Woodland Strife",
           "elementType": "epic",
           "imageUrl": "weapon_6495.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Wrath Black & Gold",
           "elementType": "legendary",
           "imageUrl": "weapon_1033.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         },
         {
           "name": "Year of Ox",
           "elementType": "epic",
           "imageUrl": "weapon_9583.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak-47",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -2327,192 +2395,256 @@
           "name": "Aesir",
           "elementType": "legendary",
           "imageUrl": "weapon_13707.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Armor Plated",
           "elementType": "epic",
           "imageUrl": "weapon_3043.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Barricade",
           "elementType": "epic",
           "imageUrl": "weapon_1656.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Bengal",
           "elementType": "epic",
           "imageUrl": "weapon_375.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "BiSH",
           "elementType": "epic",
           "imageUrl": "weapon_7484.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Calligraphy",
           "elementType": "epic",
           "imageUrl": "weapon_10779.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Emergence",
           "elementType": "epic",
           "imageUrl": "weapon_10527.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Holidays",
           "elementType": "legendary",
           "imageUrl": "weapon_967.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Kit Bag",
           "elementType": "epic",
           "imageUrl": "weapon_2333.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Magmacomb",
           "elementType": "epic",
           "imageUrl": "weapon_496.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Medieval",
           "elementType": "epic",
           "imageUrl": "weapon_670.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Meltdown",
           "elementType": "legendary",
           "imageUrl": "weapon_1821.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Moonstone",
           "elementType": "epic",
           "imageUrl": "weapon_8703.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Munitions",
           "elementType": "epic",
           "imageUrl": "weapon_11495.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Neon Lotus",
           "elementType": "epic",
           "imageUrl": "weapon_7265.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Nightwind",
           "elementType": "epic",
           "imageUrl": "weapon_12563.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Nightwind Black",
           "elementType": "epic",
           "imageUrl": "weapon_12564.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Nightwind Red",
           "elementType": "epic",
           "imageUrl": "weapon_12562.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Nightwind Silver",
           "elementType": "epic",
           "imageUrl": "weapon_12563.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Outcast",
           "elementType": "epic",
           "imageUrl": "weapon_7697.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Revolt",
           "elementType": "epic",
           "imageUrl": "weapon_10264.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Rhinestone",
           "elementType": "epic",
           "imageUrl": "weapon_12451.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Sakura Storm",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Smart Rifle",
           "elementType": "epic",
           "imageUrl": "weapon_290.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Snake Bite",
           "elementType": "epic",
           "imageUrl": "weapon_2592.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Sprite Ops",
           "elementType": "epic",
           "imageUrl": "weapon_9421.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Subtropic",
           "elementType": "epic",
           "imageUrl": "weapon_6857.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Tank Wheels",
           "elementType": "epic",
           "imageUrl": "weapon_14571.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Un-Official Merch",
           "elementType": "epic",
           "imageUrl": "weapon_14438.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "VHS Glitch",
           "elementType": "epic",
           "imageUrl": "weapon_11240.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Wrapped",
           "elementType": "epic",
           "imageUrl": "weapon_14995.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         },
         {
           "name": "Year of the Rat",
           "elementType": "epic",
           "imageUrl": "weapon_1321.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ak117",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -3708,49 +3840,65 @@
           "name": "Countdown",
           "elementType": "epic",
           "imageUrl": "weapon_14941.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Double Edge",
           "elementType": "mythic",
           "imageUrl": "weapon_10470.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Judgement",
           "elementType": "epic",
           "imageUrl": "weapon_10057.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Plasma Explosion",
           "elementType": "epic",
           "imageUrl": "weapon_14276.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_12228.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Pollinator",
           "elementType": "epic",
           "imageUrl": "weapon_14144.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Radion Burst",
           "elementType": "epic",
           "imageUrl": "weapon_12383.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_13678.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "as val",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -4516,103 +4664,137 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14689.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Abyssal Agent",
           "elementType": "legendary",
           "imageUrl": "weapon_12549.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Assembly",
           "elementType": "epic",
           "imageUrl": "weapon_2508.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_554.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Bomb Baby",
           "elementType": "epic",
           "imageUrl": "weapon_9047.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Bunker Buster",
           "elementType": "legendary",
           "imageUrl": "weapon_5917.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Direct Heat",
           "elementType": "epic",
           "imageUrl": "weapon_7904.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Doomed Drake",
           "elementType": "epic",
           "imageUrl": "weapon_1546.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_270.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Misha",
           "elementType": "epic",
           "imageUrl": "weapon_9066.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Mitosis",
           "elementType": "epic",
           "imageUrl": "weapon_10100.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
           "imageUrl": "weapon_2912.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Plasma",
           "elementType": "epic",
           "imageUrl": "weapon_2049.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Scabbard",
           "elementType": "epic",
           "imageUrl": "weapon_10558.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Strafing Run",
           "elementType": "epic",
           "imageUrl": "weapon_6254.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Tomb Trapper",
           "elementType": "epic",
           "imageUrl": "weapon_13024.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         },
         {
           "name": "Volution",
           "elementType": "epic",
           "imageUrl": "weapon_11736.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "asm10",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -5772,115 +5954,153 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14693.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_1854.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Cannibal",
           "elementType": "epic",
           "imageUrl": "weapon_6691.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Exosphere",
           "elementType": "epic",
           "imageUrl": "weapon_11653.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Foxfire",
           "elementType": "legendary",
           "imageUrl": "weapon_10964.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Graveyard Watch",
           "elementType": "epic",
           "imageUrl": "weapon_10474.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_8.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "High Voltage",
           "elementType": "epic",
           "imageUrl": "weapon_7508.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Hot Spot",
           "elementType": "epic",
           "imageUrl": "weapon_2994.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Koi Pond",
           "elementType": "epic",
           "imageUrl": "weapon_11026.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Regicide",
           "elementType": "epic",
           "imageUrl": "weapon_12342.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Ruby",
           "elementType": "epic",
           "imageUrl": "weapon_6086.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Sakura Storm",
           "elementType": "epic",
           "imageUrl": "weapon_11203.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Sleet Serpent",
           "elementType": "epic",
           "imageUrl": "weapon_14675.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Sprite Ops",
           "elementType": "epic",
           "imageUrl": "weapon_11767.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Steel Blue",
           "elementType": "epic",
           "imageUrl": "weapon_491.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Tokyo Rain",
           "elementType": "epic",
           "imageUrl": "weapon_12568.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Visceral",
           "elementType": "epic",
           "imageUrl": "weapon_8370.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         },
         {
           "name": "Zero-G",
           "elementType": "epic",
           "imageUrl": "weapon_8409.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "arctic .50",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -7018,97 +7238,129 @@
           "name": "Championship Purple",
           "elementType": "epic",
           "imageUrl": "weapon_2047.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Counter Stealth Unit",
           "elementType": "epic",
           "imageUrl": "weapon_11971.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Data Miner",
           "elementType": "epic",
           "imageUrl": "weapon_10029.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Firecracker",
           "elementType": "epic",
           "imageUrl": "weapon_2067.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Flash Freeze",
           "elementType": "legendary",
           "imageUrl": "weapon_14059.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Gimmick",
           "elementType": "epic",
           "imageUrl": "weapon_2538.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Going Kawaii",
           "elementType": "epic",
           "imageUrl": "weapon_8130.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Guardian Spirit",
           "elementType": "epic",
           "imageUrl": "weapon_10959.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "New Year '20",
           "elementType": "epic",
           "imageUrl": "weapon_1031.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
           "imageUrl": "weapon_6417.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Odyssey",
           "elementType": "epic",
           "imageUrl": "weapon_6546.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Ready to Blow",
           "elementType": "epic",
           "imageUrl": "weapon_12489.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Space Race",
           "elementType": "legendary",
           "imageUrl": "weapon_9105.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Vapor Sunset",
           "elementType": "epic",
           "imageUrl": "weapon_14913.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Wasteland",
           "elementType": "epic",
           "imageUrl": "weapon_2247.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         },
         {
           "name": "Wild West",
           "elementType": "epic",
           "imageUrl": "weapon_143.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "bk57",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -8269,37 +8521,49 @@
           "name": "Citrine",
           "elementType": "epic",
           "imageUrl": "weapon_7698.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_1462.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         },
         {
           "name": "Fool's Gold",
           "elementType": "epic",
           "imageUrl": "weapon_10236.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         },
         {
           "name": "Pantomime",
           "elementType": "epic",
           "imageUrl": "weapon_7601.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_1305.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         },
         {
           "name": "Top Dog",
           "elementType": "epic",
           "imageUrl": "weapon_8770.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "by15",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -9439,43 +9703,57 @@
           "name": "Barrier Break",
           "elementType": "epic",
           "imageUrl": "weapon_13207.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Confession",
           "elementType": "epic",
           "imageUrl": "weapon_15174.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Red Death",
           "elementType": "legendary",
           "imageUrl": "weapon_12346.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Street Venom",
           "elementType": "epic",
           "imageUrl": "weapon_12991.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Tattered Shot",
           "elementType": "epic",
           "imageUrl": "weapon_14177.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Torpedo",
           "elementType": "epic",
           "imageUrl": "weapon_11992.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         },
         {
           "name": "Vector Pop",
           "elementType": "epic",
           "imageUrl": "weapon_14625.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cr-56 amax",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -10241,55 +10519,73 @@
           "name": "CQB",
           "elementType": "epic",
           "imageUrl": "weapon_590.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Chevalier",
           "elementType": "epic",
           "imageUrl": "weapon_8059.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Demon Fury",
           "elementType": "epic",
           "imageUrl": "weapon_10938.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Moonstone",
           "elementType": "epic",
           "imageUrl": "weapon_353.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Oil Spill",
           "elementType": "epic",
           "imageUrl": "weapon_7365.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Onomatopoeia",
           "elementType": "epic",
           "imageUrl": "weapon_15410.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Silver Ghoul",
           "elementType": "epic",
           "imageUrl": "weapon_1857.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Starstruck",
           "elementType": "epic",
           "imageUrl": "weapon_7224.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         },
         {
           "name": "Tourmaline",
           "elementType": "epic",
           "imageUrl": "weapon_6638.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chicom",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -11331,61 +11627,81 @@
           "name": "Become War",
           "elementType": "epic",
           "imageUrl": "weapon_11227.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Chain Reaction",
           "elementType": "legendary",
           "imageUrl": "weapon_1945.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Collateral",
           "elementType": "epic",
           "imageUrl": "weapon_6859.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Firewall (Unique)",
           "elementType": "epic",
           "imageUrl": "weapon_12382.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Fortress",
           "elementType": "epic",
           "imageUrl": "weapon_2925.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Klondike",
           "elementType": "epic",
           "imageUrl": "weapon_10263.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_13680.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Rules of the Game",
           "elementType": "legendary",
           "imageUrl": "weapon_15179.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Slicked",
           "elementType": "epic",
           "imageUrl": "weapon_12625.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         },
         {
           "name": "Visceral",
           "elementType": "epic",
           "imageUrl": "weapon_10868.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "chopper",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -12310,67 +12626,89 @@
           "name": "Atlas Corporation",
           "elementType": "epic",
           "imageUrl": "weapon_9514.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Automaton Waster",
           "elementType": "epic",
           "imageUrl": "weapon_14275.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Cherry Blossom",
           "elementType": "epic",
           "imageUrl": "weapon_8907.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Cordis Die",
           "elementType": "epic",
           "imageUrl": "weapon_9515.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Dragon Maw",
           "elementType": "epic",
           "imageUrl": "weapon_10611.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Punchline",
           "elementType": "epic",
           "imageUrl": "weapon_8081.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Strafing Run",
           "elementType": "epic",
           "imageUrl": "weapon_3044.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Tech Noir",
           "elementType": "epic",
           "imageUrl": "weapon_9289.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Technic Razor",
           "elementType": "epic",
           "imageUrl": "weapon_10148.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Third Rail",
           "elementType": "epic",
           "imageUrl": "weapon_6842.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         },
         {
           "name": "Zero-G",
           "elementType": "legendary",
           "imageUrl": "weapon_86.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "cordite",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -13283,97 +13621,129 @@
           "name": "Advanced Artillery",
           "elementType": "legendary",
           "imageUrl": "weapon_14835.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Black Market",
           "elementType": "epic",
           "imageUrl": "weapon_12952.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Blue Screen",
           "elementType": "epic",
           "imageUrl": "weapon_9708.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Dark Glow",
           "elementType": "epic",
           "imageUrl": "weapon_8006.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_907.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Fatigue",
           "elementType": "epic",
           "imageUrl": "weapon_2762.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_15254.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_271.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Holidays",
           "elementType": "legendary",
           "imageUrl": "weapon_679.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Neon Burst",
           "elementType": "epic",
           "imageUrl": "weapon_7252.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_1301.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Strafing Run",
           "elementType": "epic",
           "imageUrl": "weapon_6006.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Surgical Incision",
           "elementType": "epic",
           "imageUrl": "weapon_15185.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Sweet Sniper",
           "elementType": "epic",
           "imageUrl": "weapon_8906.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Tiger's Eye",
           "elementType": "epic",
           "imageUrl": "weapon_6368.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         },
         {
           "name": "Zealot",
           "elementType": "legendary",
           "imageUrl": "weapon_6746.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "dl q33",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -14461,121 +14831,161 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14690.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Altered Human",
           "elementType": "epic",
           "imageUrl": "weapon_15332.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Basecamp",
           "elementType": "epic",
           "imageUrl": "weapon_6136.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Chained",
           "elementType": "epic",
           "imageUrl": "weapon_2342.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Circuit Board",
           "elementType": "epic",
           "imageUrl": "weapon_9969.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Comrade",
           "elementType": "epic",
           "imageUrl": "weapon_9068.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Cyber Security",
           "elementType": "epic",
           "imageUrl": "weapon_9453.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_15253.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Gold Glitter",
           "elementType": "epic",
           "imageUrl": "weapon_8996.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Metallurgy",
           "elementType": "epic",
           "imageUrl": "weapon_11056.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Mother of Pearl",
           "elementType": "epic",
           "imageUrl": "weapon_13628.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Noir",
           "elementType": "epic",
           "imageUrl": "weapon_8283.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Purebred",
           "elementType": "legendary",
           "imageUrl": "weapon_13297.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Rebreather",
           "elementType": "epic",
           "imageUrl": "weapon_11984.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Revolt",
           "elementType": "epic",
           "imageUrl": "weapon_11072.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Sludge",
           "elementType": "epic",
           "imageUrl": "weapon_10519.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Tactical Prowl",
           "elementType": "epic",
           "imageUrl": "weapon_15386.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Wastelander",
           "elementType": "epic",
           "imageUrl": "weapon_11667.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Wicked Claw",
           "elementType": "legendary",
           "imageUrl": "weapon_8266.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         },
         {
           "name": "Widower",
           "elementType": "epic",
           "imageUrl": "weapon_10182.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "dr-h",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -15512,61 +15922,81 @@
           "name": "Cold Air",
           "elementType": "epic",
           "imageUrl": "weapon_8944.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Demon Eyes",
           "elementType": "epic",
           "imageUrl": "weapon_6302.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Dissension",
           "elementType": "epic",
           "imageUrl": "weapon_9522.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Firestorm",
           "elementType": "epic",
           "imageUrl": "weapon_13946.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Full Moon",
           "elementType": "epic",
           "imageUrl": "weapon_8212.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Natural Causes",
           "elementType": "legendary",
           "imageUrl": "weapon_6427.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Reverberation",
           "elementType": "epic",
           "imageUrl": "weapon_14954.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Sleeping Dragon",
           "elementType": "epic",
           "imageUrl": "weapon_10811.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Spyware",
           "elementType": "epic",
           "imageUrl": "weapon_9443.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         },
         {
           "name": "Steam Clock",
           "elementType": "epic",
           "imageUrl": "weapon_11759.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "echo",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -16413,55 +16843,73 @@
           "name": "Ghost of the Sea",
           "elementType": "epic",
           "imageUrl": "weapon_12230.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Insurgency",
           "elementType": "epic",
           "imageUrl": "weapon_10353.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Iron Chariot",
           "elementType": "epic",
           "imageUrl": "weapon_11896.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Kuudere",
           "elementType": "epic",
           "imageUrl": "weapon_10878.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Munitions",
           "elementType": "epic",
           "imageUrl": "weapon_11704.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Patchwork",
           "elementType": "epic",
           "imageUrl": "weapon_10975.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Rogue Agent",
           "elementType": "epic",
           "imageUrl": "weapon_9326.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Superhighway",
           "elementType": "legendary",
           "imageUrl": "weapon_9499.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         },
         {
           "name": "Undead Watcher",
           "elementType": "epic",
           "imageUrl": "weapon_13313.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fr .556",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -17259,55 +17707,73 @@
           "name": "Ascended",
           "elementType": "mythic",
           "imageUrl": "weapon_7682.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Death Engine",
           "elementType": "epic",
           "imageUrl": "weapon_9728.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Firestorm",
           "elementType": "epic",
           "imageUrl": "weapon_13901.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Knife Arts",
           "elementType": "epic",
           "imageUrl": "weapon_13714.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Midnight",
           "elementType": "epic",
           "imageUrl": "weapon_8718.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Royal Coffer",
           "elementType": "epic",
           "imageUrl": "weapon_8986.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Stampede",
           "elementType": "epic",
           "imageUrl": "weapon_11897.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Venom Coil",
           "elementType": "legendary",
           "imageUrl": "weapon_14909.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         },
         {
           "name": "Verdant",
           "elementType": "epic",
           "imageUrl": "weapon_7274.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "fennec",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -18136,61 +18602,81 @@
           "name": "Blue Mercury",
           "elementType": "epic",
           "imageUrl": "weapon_8192.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Kitsune",
           "elementType": "epic",
           "imageUrl": "weapon_9579.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Pack Warrior",
           "elementType": "epic",
           "imageUrl": "weapon_8774.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Sakura Storm",
           "elementType": "epic",
           "imageUrl": "weapon_10812.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Scion",
           "elementType": "epic",
           "imageUrl": "weapon_6264.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Snake Bite",
           "elementType": "epic",
           "imageUrl": "weapon_2593.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Sprite Ops",
           "elementType": "epic",
           "imageUrl": "weapon_9422.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Tactical Unicorn",
           "elementType": "legendary",
           "imageUrl": "weapon_894.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Tank Wheels",
           "elementType": "epic",
           "imageUrl": "weapon_14615.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "gks",
+          "isComingSoon": false
         },
         {
           "name": "Wanderer",
           "elementType": "legendary",
           "imageUrl": "weapon_10142.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "gks",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -19069,79 +19555,105 @@
           "name": "Bear Fist",
           "elementType": "epic",
           "imageUrl": "weapon_13325.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_7932.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Capacitor",
           "elementType": "epic",
           "imageUrl": "weapon_9298.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Dragon Dance",
           "elementType": "epic",
           "imageUrl": "weapon_853.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Ferrofluid",
           "elementType": "epic",
           "imageUrl": "weapon_11589.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Glow Fly",
           "elementType": "epic",
           "imageUrl": "weapon_11075.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Halberd",
           "elementType": "epic",
           "imageUrl": "weapon_13831.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Lead Launcher",
           "elementType": "epic",
           "imageUrl": "weapon_14614.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Mob Boss",
           "elementType": "epic",
           "imageUrl": "weapon_2883.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Moonstone",
           "elementType": "epic",
           "imageUrl": "weapon_14377.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "New Horizon",
           "elementType": "epic",
           "imageUrl": "weapon_9100.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Porcelain Yakuza",
           "elementType": "epic",
           "imageUrl": "weapon_10799.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         },
         {
           "name": "Swarm",
           "elementType": "legendary",
           "imageUrl": "weapon_6607.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "hbra3",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -20068,127 +20580,169 @@
           "name": "All Angles",
           "elementType": "epic",
           "imageUrl": "weapon_12960.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Ballista",
           "elementType": "epic",
           "imageUrl": "weapon_1856.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_552.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Bloody Vengeance",
           "elementType": "epic",
           "imageUrl": "weapon_710.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Collateral",
           "elementType": "epic",
           "imageUrl": "weapon_6791.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Cyberdrill",
           "elementType": "epic",
           "imageUrl": "weapon_14870.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Cybersick",
           "elementType": "epic",
           "imageUrl": "weapon_9317.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Effigy",
           "elementType": "epic",
           "imageUrl": "weapon_11149.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_911.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Flytrap",
           "elementType": "epic",
           "imageUrl": "weapon_6337.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_657.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Ghoul Bound",
           "elementType": "legendary",
           "imageUrl": "weapon_15315.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Gold Glitter",
           "elementType": "epic",
           "imageUrl": "weapon_7509.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Gold Standard",
           "elementType": "legendary",
           "imageUrl": "weapon_6059.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_1612.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Lava",
           "elementType": "epic",
           "imageUrl": "weapon_641.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Living Rust",
           "elementType": "epic",
           "imageUrl": "weapon_2319.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Meltdown",
           "elementType": "epic",
           "imageUrl": "weapon_1820.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Static Discharge",
           "elementType": "epic",
           "imageUrl": "weapon_9454.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Supermax",
           "elementType": "epic",
           "imageUrl": "weapon_7379.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         },
         {
           "name": "Werewolf Fighter",
           "elementType": "epic",
           "imageUrl": "weapon_1282.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hg 40",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -21350,24 +21904,32 @@
           "name": "Skeletal Ignition",
           "elementType": "epic",
           "imageUrl": "weapon_15044.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hs0405",
+          "isComingSoon": false
         },
         {
           "name": "Spray Bomb",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hs0405",
+          "isComingSoon": false
         },
         {
           "name": "Stone Mason",
           "elementType": "epic",
           "imageUrl": "weapon_10843.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hs0405",
+          "isComingSoon": false
         },
         {
           "name": "Tank",
           "elementType": "epic",
           "imageUrl": "weapon_870.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hs0405",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -22404,7 +22966,9 @@
           "name": "Ooze",
           "elementType": "epic",
           "imageUrl": "weapon_13184.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hs2126",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -23309,55 +23873,73 @@
           "name": "Chrome Wave",
           "elementType": "epic",
           "imageUrl": "weapon_2012.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_905.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Insurgent",
           "elementType": "epic",
           "imageUrl": "weapon_9178.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Jumper Cable",
           "elementType": "epic",
           "imageUrl": "weapon_10020.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Maximum Security",
           "elementType": "legendary",
           "imageUrl": "weapon_7376.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Nettle Bloom",
           "elementType": "epic",
           "imageUrl": "weapon_13382.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Pseudoscience",
           "elementType": "epic",
           "imageUrl": "weapon_5950.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Spray Bomb",
           "elementType": "epic",
           "imageUrl": "weapon_14782.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         },
         {
           "name": "Target Lock",
           "elementType": "epic",
           "imageUrl": "weapon_8291.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hvk-30",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -24272,25 +24854,33 @@
           "name": "Phage",
           "elementType": "epic",
           "imageUrl": "weapon_15188.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hades",
+          "isComingSoon": false
         },
         {
           "name": "Piercing Hawk",
           "elementType": "epic",
           "imageUrl": "weapon_14233.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hades",
+          "isComingSoon": false
         },
         {
           "name": "Shoulder Cannon",
           "elementType": "epic",
           "imageUrl": "weapon_13643.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "hades",
+          "isComingSoon": false
         },
         {
           "name": "Void Sender",
           "elementType": "legendary",
           "imageUrl": "weapon_13828.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "hades",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -25002,49 +25592,65 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14691.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Anodized",
           "elementType": "epic",
           "imageUrl": "weapon_14197.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Chromium Claw",
           "elementType": "epic",
           "imageUrl": "weapon_14871.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Dark Frontier",
           "elementType": "mythic",
           "imageUrl": "weapon_11887.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Fool Square",
           "elementType": "epic",
           "imageUrl": "weapon_13495.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Spilled",
           "elementType": "epic",
           "imageUrl": "weapon_14996.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Surface Tension",
           "elementType": "epic",
           "imageUrl": "weapon_13759.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         },
         {
           "name": "Vector Pop",
           "elementType": "epic",
           "imageUrl": "weapon_14626.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "holger 26",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -25802,121 +26408,161 @@
           "name": "Blood Money",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_12946.png"
+          "imageUrl": "weapon_12946.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Chrome Bones",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_13758.png"
+          "imageUrl": "weapon_13758.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Circuit Board",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_9730.png"
+          "imageUrl": "weapon_9730.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Color Spectrum",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_2747.png"
+          "imageUrl": "weapon_2747.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Cosmos",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_1814.png"
+          "imageUrl": "weapon_1814.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Crimson Knife",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_12142.png"
+          "imageUrl": "weapon_12142.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Dark Matter",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_611.png"
+          "imageUrl": "weapon_611.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Fenrir",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_11259.png"
+          "imageUrl": "weapon_11259.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Ferrofluid",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_11588.png"
+          "imageUrl": "weapon_11588.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Forced Laughter",
           "elementType": "legendary",
           "rarity": 5,
-          "imageUrl": "weapon_9406.png"
+          "imageUrl": "weapon_9406.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_15251.png"
+          "imageUrl": "weapon_15251.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Hot Heat",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_7628.png"
+          "imageUrl": "weapon_7628.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Ignition",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_10234.png"
+          "imageUrl": "weapon_10234.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Innovator",
           "elementType": "legendary",
           "rarity": 5,
-          "imageUrl": "weapon_11197.png"
+          "imageUrl": "weapon_11197.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Lava",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_640.png"
+          "imageUrl": "weapon_640.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Meteor Core",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_8895.png"
+          "imageUrl": "weapon_8895.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_2425.png"
+          "imageUrl": "weapon_2425.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Phobos",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_9616.png"
+          "imageUrl": "weapon_9616.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Retro Nuclear",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_2863.png"
+          "imageUrl": "weapon_2863.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         },
         {
           "name": "Tourmaline",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_6639.png"
+          "imageUrl": "weapon_6639.png",
+          "weaponKey": "icr-1",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -26862,91 +27508,121 @@
           "name": "Bats Reunion",
           "elementType": "epic",
           "imageUrl": "weapon_15337.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_7961.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Championship Mindset",
           "elementType": "epic",
           "imageUrl": "weapon_11467.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Color Spectrum",
           "elementType": "legendary",
           "imageUrl": "weapon_919.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Dance of Death",
           "elementType": "legendary",
           "imageUrl": "weapon_11583.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "ENOC",
           "elementType": "epic",
           "imageUrl": "weapon_13647.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_910.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Giftwrapped",
           "elementType": "epic",
           "imageUrl": "weapon_8850.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Golden Talon",
           "elementType": "epic",
           "imageUrl": "weapon_10010.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Imperial Guard",
           "elementType": "epic",
           "imageUrl": "weapon_13900.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Living Rust",
           "elementType": "epic",
           "imageUrl": "weapon_2305.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Silver Patriot",
           "elementType": "epic",
           "imageUrl": "weapon_14263.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Swindler",
           "elementType": "epic",
           "imageUrl": "weapon_11836.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Tourmaline",
           "elementType": "epic",
           "imageUrl": "weapon_6961.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         },
         {
           "name": "Untamed",
           "elementType": "epic",
           "imageUrl": "weapon_6366.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kn-44",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -27879,49 +28555,65 @@
           "name": "Cutting Edge",
           "elementType": "epic",
           "imageUrl": "weapon_11193.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Eagle Claw",
           "elementType": "epic",
           "imageUrl": "weapon_10044.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Future Buzz",
           "elementType": "epic",
           "imageUrl": "weapon_9710.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Joy Buzzsaw",
           "elementType": "epic",
           "imageUrl": "weapon_8082.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Lava",
           "elementType": "epic",
           "imageUrl": "weapon_642.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Point And Click",
           "elementType": "epic",
           "imageUrl": "weapon_7245.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Revolution",
           "elementType": "epic",
           "imageUrl": "weapon_5951.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         },
         {
           "name": "Waterproof",
           "elementType": "epic",
           "imageUrl": "weapon_12552.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "krm 262",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -28720,43 +29412,57 @@
           "name": "Constable",
           "elementType": "epic",
           "imageUrl": "weapon_11638.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Dealer",
           "elementType": "epic",
           "imageUrl": "weapon_7298.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Digital Death",
           "elementType": "epic",
           "imageUrl": "weapon_8419.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Lazarus",
           "elementType": "epic",
           "imageUrl": "weapon_2960.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Pane",
           "elementType": "epic",
           "imageUrl": "weapon_14107.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Railgun",
           "elementType": "legendary",
           "imageUrl": "weapon_6845.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         },
         {
           "name": "Trap Shooter",
           "elementType": "epic",
           "imageUrl": "weapon_10083.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "kilo bolt-action",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -29537,127 +30243,169 @@
           "name": "Antivenom",
           "elementType": "epic",
           "imageUrl": "weapon_1667.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Backwoods",
           "elementType": "epic",
           "imageUrl": "weapon_6287.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Bengal",
           "elementType": "epic",
           "imageUrl": "weapon_477.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Bitmap",
           "elementType": "epic",
           "imageUrl": "weapon_14914.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "CQB",
           "elementType": "epic",
           "imageUrl": "weapon_603.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Championship Purple",
           "elementType": "epic",
           "imageUrl": "weapon_2046.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Chromatic City",
           "elementType": "epic",
           "imageUrl": "weapon_13993.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Citrine",
           "elementType": "epic",
           "imageUrl": "weapon_7558.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Cyberspace",
           "elementType": "epic",
           "imageUrl": "weapon_842.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Down Range",
           "elementType": "epic",
           "imageUrl": "weapon_13715.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Emergence",
           "elementType": "epic",
           "imageUrl": "weapon_10149.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Firehook",
           "elementType": "epic",
           "imageUrl": "weapon_13989.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_216.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Idol Star",
           "elementType": "legendary",
           "imageUrl": "weapon_15391.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Justicar",
           "elementType": "legendary",
           "imageUrl": "weapon_2068.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Last Stand",
           "elementType": "epic",
           "imageUrl": "weapon_11074.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Magnetic Pulse",
           "elementType": "epic",
           "imageUrl": "weapon_8167.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Nosebleed",
           "elementType": "epic",
           "imageUrl": "weapon_8908.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Royal Crimson",
           "elementType": "epic",
           "imageUrl": "weapon_696.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Sharkbait",
           "elementType": "epic",
           "imageUrl": "weapon_6916.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         },
         {
           "name": "Viking",
           "elementType": "epic",
           "imageUrl": "weapon_1139.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "lk24",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -30858,91 +31606,121 @@
           "name": "All Business",
           "elementType": "epic",
           "imageUrl": "weapon_7388.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Ancient Mist",
           "elementType": "epic",
           "imageUrl": "weapon_13702.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Carbon Cut",
           "elementType": "epic",
           "imageUrl": "weapon_9304.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Cosmos",
           "elementType": "epic",
           "imageUrl": "weapon_1240.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Floating Lotus",
           "elementType": "epic",
           "imageUrl": "weapon_11160.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Hot Spot",
           "elementType": "epic",
           "imageUrl": "weapon_1890.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Junk Punk",
           "elementType": "epic",
           "imageUrl": "weapon_2451.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Neptune",
           "elementType": "legendary",
           "imageUrl": "weapon_12235.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Plasma Explosion",
           "elementType": "epic",
           "imageUrl": "weapon_15172.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_12229.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Revolt",
           "elementType": "epic",
           "imageUrl": "weapon_10354.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Saloon Sniper",
           "elementType": "epic",
           "imageUrl": "weapon_11494.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Schism",
           "elementType": "epic",
           "imageUrl": "weapon_8188.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Tank Wheels",
           "elementType": "epic",
           "imageUrl": "weapon_14572.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         },
         {
           "name": "Unstoppable",
           "elementType": "epic",
           "imageUrl": "weapon_12623.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "locus",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -31823,7 +32601,9 @@
           "name": "Morningstar",
           "elementType": "mythic",
           "imageUrl": "weapon_14667.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "m13",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -32568,85 +33348,113 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14688.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Alligator Alley",
           "elementType": "epic",
           "imageUrl": "weapon_6856.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Bloody Vengeance",
           "elementType": "epic",
           "imageUrl": "weapon_707.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Chrome Wave",
           "elementType": "epic",
           "imageUrl": "weapon_2013.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "FUBAR",
           "elementType": "epic",
           "imageUrl": "weapon_2945.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Fright Night",
           "elementType": "epic",
           "imageUrl": "weapon_7455.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Gold Glitter",
           "elementType": "epic",
           "imageUrl": "weapon_7629.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Heavy Duty",
           "elementType": "epic",
           "imageUrl": "weapon_2509.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Patriotic",
           "elementType": "epic",
           "imageUrl": "weapon_12244.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_11646.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Pumpkin Repeater",
           "elementType": "epic",
           "imageUrl": "weapon_15163.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Ruby",
           "elementType": "epic",
           "imageUrl": "weapon_6205.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "The Stripe",
           "elementType": "epic",
           "imageUrl": "weapon_12059.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         },
         {
           "name": "Valentine",
           "elementType": "epic",
           "imageUrl": "weapon_1234.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m16",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -33882,43 +34690,57 @@
           "name": "Cardboard",
           "elementType": "epic",
           "imageUrl": "weapon_10456.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Citrine",
           "elementType": "epic",
           "imageUrl": "weapon_7878.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Flesh Wound (Unique)",
           "elementType": "epic",
           "imageUrl": "weapon_6496.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Magmacomb",
           "elementType": "epic",
           "imageUrl": "weapon_492.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Oil Spill",
           "elementType": "epic",
           "imageUrl": "weapon_2697.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Politician",
           "elementType": "epic",
           "imageUrl": "weapon_2884.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         },
         {
           "name": "Royal Crimson",
           "elementType": "epic",
           "imageUrl": "weapon_128.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m21 ebr",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -34919,151 +35741,201 @@
           "name": "Back Scratcher",
           "elementType": "epic",
           "imageUrl": "weapon_1659.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_169.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "CQB",
           "elementType": "epic",
           "imageUrl": "weapon_1017.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Court Jester",
           "elementType": "legendary",
           "imageUrl": "weapon_7598.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Dangerous Waters",
           "elementType": "epic",
           "imageUrl": "weapon_12100.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Enchanted Carbine",
           "elementType": "epic",
           "imageUrl": "weapon_892.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Eruption",
           "elementType": "epic",
           "imageUrl": "weapon_1464.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Feral Stalker",
           "elementType": "epic",
           "imageUrl": "weapon_6624.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Jade",
           "elementType": "epic",
           "imageUrl": "weapon_113.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Living Rust",
           "elementType": "epic",
           "imageUrl": "weapon_2329.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Magmacomb",
           "elementType": "epic",
           "imageUrl": "weapon_493.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Minotaur",
           "elementType": "epic",
           "imageUrl": "weapon_1399.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Munitions",
           "elementType": "epic",
           "imageUrl": "weapon_12132.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Outcast Vengeance",
           "elementType": "epic",
           "imageUrl": "weapon_13609.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Radar",
           "elementType": "epic",
           "imageUrl": "weapon_8193.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Sickle",
           "elementType": "epic",
           "imageUrl": "weapon_2565.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Silver Ghoul",
           "elementType": "epic",
           "imageUrl": "weapon_1789.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Six Feet",
           "elementType": "epic",
           "imageUrl": "weapon_10497.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Smart Rifle",
           "elementType": "epic",
           "imageUrl": "weapon_306.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Spurred",
           "elementType": "epic",
           "imageUrl": "weapon_11431.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Teal Steal",
           "elementType": "epic",
           "imageUrl": "weapon_99.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "The Breakup",
           "elementType": "epic",
           "imageUrl": "weapon_10877.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Vengeance",
           "elementType": "epic",
           "imageUrl": "weapon_12467.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Werewolf Fighter",
           "elementType": "epic",
           "imageUrl": "weapon_1224.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         },
         {
           "name": "Wicked Whisper",
           "elementType": "epic",
           "imageUrl": "weapon_11943.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -36401,90 +37273,120 @@
           "name": "Bamboo Shoot",
           "elementType": "epic",
           "imageUrl": "weapon_10781.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_169.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Checkpoint",
           "elementType": "epic",
           "imageUrl": "weapon_10048.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Deadly Helix",
           "elementType": "epic",
           "imageUrl": "weapon_14904.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_207.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Hot Spot",
           "elementType": "epic",
           "imageUrl": "weapon_1891.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Medieval",
           "elementType": "epic",
           "imageUrl": "weapon_604.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Moonstone",
           "elementType": "epic",
           "imageUrl": "weapon_39.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Munitions",
           "elementType": "epic",
           "imageUrl": "weapon_12132.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Ooze",
           "elementType": "epic",
           "imageUrl": "weapon_2302.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_11644.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Revolution",
           "elementType": "epic",
           "imageUrl": "weapon_6137.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Salamander",
           "elementType": "legendary",
           "imageUrl": "weapon_13986.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Slagged",
           "elementType": "epic",
           "imageUrl": "weapon_2652.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         },
         {
           "name": "Vector Pop",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "m4lmg",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -37664,31 +38566,41 @@
           "name": "Brushstroke",
           "elementType": "epic",
           "imageUrl": "weapon_11443.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mk2",
+          "isComingSoon": false
         },
         {
           "name": "Constrictor",
           "elementType": "epic",
           "imageUrl": "weapon_13254.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mk2",
+          "isComingSoon": false
         },
         {
           "name": "Future Sharpshooter",
           "elementType": "epic",
           "imageUrl": "weapon_14204.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mk2",
+          "isComingSoon": false
         },
         {
           "name": "Helix Grade",
           "elementType": "legendary",
           "imageUrl": "weapon_11740.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "mk2",
+          "isComingSoon": false
         },
         {
           "name": "Patriotic",
           "elementType": "epic",
           "imageUrl": "weapon_12245.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mk2",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -38406,85 +39318,113 @@
           "name": "Bitter Burst",
           "elementType": "epic",
           "imageUrl": "weapon_8927.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Collateral",
           "elementType": "epic",
           "imageUrl": "weapon_14769.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Covert Mini",
           "elementType": "epic",
           "imageUrl": "weapon_8070.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_5.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Hot Rod",
           "elementType": "epic",
           "imageUrl": "weapon_7313.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Jade",
           "elementType": "epic",
           "imageUrl": "weapon_114.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Ooze",
           "elementType": "epic",
           "imageUrl": "weapon_1668.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Rosie",
           "elementType": "epic",
           "imageUrl": "weapon_5924.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Scrap Metal",
           "elementType": "epic",
           "imageUrl": "weapon_2452.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Space Station",
           "elementType": "legendary",
           "imageUrl": "weapon_836.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Spores",
           "elementType": "epic",
           "imageUrl": "weapon_6424.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Sub Mecha",
           "elementType": "epic",
           "imageUrl": "weapon_14915.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Wasteland",
           "elementType": "epic",
           "imageUrl": "weapon_1730.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         },
         {
           "name": "Wild West",
           "elementType": "epic",
           "imageUrl": "weapon_232.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "msmc",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -39634,37 +40574,49 @@
           "name": "Heartless",
           "elementType": "legendary",
           "imageUrl": "weapon_13461.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         },
         {
           "name": "Phage",
           "elementType": "epic",
           "imageUrl": "weapon_15187.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         },
         {
           "name": "Second Round",
           "elementType": "epic",
           "imageUrl": "weapon_14133.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         },
         {
           "name": "Spilled",
           "elementType": "epic",
           "imageUrl": "weapon_14997.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         },
         {
           "name": "Stone Serpent",
           "elementType": "epic",
           "imageUrl": "weapon_12969.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         },
         {
           "name": "Viaje de la Muerte",
           "elementType": "epic",
           "imageUrl": "weapon_15291.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "mx9",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -40383,121 +41335,161 @@
           "name": "Bloodbath",
           "elementType": "epic",
           "imageUrl": "weapon_12278.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Cardinal",
           "elementType": "epic",
           "imageUrl": "weapon_6204.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Circuit Board",
           "elementType": "epic",
           "imageUrl": "weapon_9729.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Constrictor",
           "elementType": "epic",
           "imageUrl": "weapon_13253.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Dark Flare",
           "elementType": "epic",
           "imageUrl": "weapon_7982.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Death Scythe",
           "elementType": "legendary",
           "imageUrl": "weapon_10502.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Dream Crystal",
           "elementType": "legendary",
           "imageUrl": "weapon_989.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Enteroctopus",
           "elementType": "epic",
           "imageUrl": "weapon_12428.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Five Knights",
           "elementType": "epic",
           "imageUrl": "weapon_10953.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Hazardous (Epic)",
           "elementType": "epic",
           "imageUrl": "weapon_13203.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Ice Crystal",
           "elementType": "epic",
           "imageUrl": "weapon_8948.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Industrial Revolution",
           "elementType": "epic",
           "imageUrl": "weapon_239.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
           "imageUrl": "weapon_2548.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Pack Leader",
           "elementType": "epic",
           "imageUrl": "weapon_8748.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Red Action",
           "elementType": "epic",
           "imageUrl": "weapon_13679.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Sakura Storm",
           "elementType": "epic",
           "imageUrl": "weapon_10986.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Tiger's Eye",
           "elementType": "epic",
           "imageUrl": "weapon_6692.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "UAC",
           "elementType": "epic",
           "imageUrl": "weapon_10970.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Vicious Party",
           "elementType": "epic",
           "imageUrl": "weapon_15244.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         },
         {
           "name": "Zilch",
           "elementType": "epic",
           "imageUrl": "weapon_6005.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "man-o-war",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -41349,25 +42341,33 @@
           "name": "Frozen Sun",
           "elementType": "epic",
           "imageUrl": "weapon_14062.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "na-45",
+          "isComingSoon": false
         },
         {
           "name": "Insignia",
           "elementType": "epic",
           "imageUrl": "weapon_10099.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "na-45",
+          "isComingSoon": false
         },
         {
           "name": "Lycanthrope",
           "elementType": "legendary",
           "imageUrl": "weapon_7467.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "na-45",
+          "isComingSoon": false
         },
         {
           "name": "Munitions",
           "elementType": "epic",
           "imageUrl": "weapon_11496.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "na-45",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -42146,55 +43146,73 @@
           "name": "Arctic Threat",
           "elementType": "epic",
           "imageUrl": "weapon_8989.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Ascending",
           "elementType": "epic",
           "imageUrl": "weapon_7684.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Breach",
           "elementType": "epic",
           "imageUrl": "weapon_9502.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_192.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "High Noon",
           "elementType": "legendary",
           "imageUrl": "weapon_7.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Radar",
           "elementType": "epic",
           "imageUrl": "weapon_8732.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Stampede",
           "elementType": "epic",
           "imageUrl": "weapon_11837.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Wire Bead",
           "elementType": "epic",
           "imageUrl": "weapon_13282.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         },
         {
           "name": "Wyrm",
           "elementType": "epic",
           "imageUrl": "weapon_13464.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "outlaw",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -42992,85 +44010,113 @@
           "name": "Airspace",
           "elementType": "epic",
           "imageUrl": "weapon_10334.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Beekeeper",
           "elementType": "epic",
           "imageUrl": "weapon_6604.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Desktopper",
           "elementType": "epic",
           "imageUrl": "weapon_9623.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Gag",
           "elementType": "epic",
           "imageUrl": "weapon_12311.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Heat Stroke",
           "elementType": "epic",
           "imageUrl": "weapon_272.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Hive Motor",
           "elementType": "epic",
           "imageUrl": "weapon_14075.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Hot Spot",
           "elementType": "epic",
           "imageUrl": "weapon_1834.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Medieval",
           "elementType": "epic",
           "imageUrl": "weapon_605.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Murder",
           "elementType": "epic",
           "imageUrl": "weapon_11668.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Narcissist",
           "elementType": "epic",
           "imageUrl": "weapon_6054.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Ooze",
           "elementType": "epic",
           "imageUrl": "weapon_13185.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Royal Crimson",
           "elementType": "epic",
           "imageUrl": "weapon_129.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Stalker",
           "elementType": "epic",
           "imageUrl": "weapon_12331.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         },
         {
           "name": "Toxic Waste",
           "elementType": "legendary",
           "imageUrl": "weapon_1754.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "pdw-57",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -44267,49 +45313,65 @@
           "name": "Cybernetic Heartbreak",
           "elementType": "epic",
           "imageUrl": "weapon_14668.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Devilfish",
           "elementType": "epic",
           "imageUrl": "weapon_11986.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Enteroctopus",
           "elementType": "epic",
           "imageUrl": "weapon_12429.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Flora",
           "elementType": "epic",
           "imageUrl": "weapon_13420.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Haunted Haystack",
           "elementType": "epic",
           "imageUrl": "weapon_15065.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Invocation",
           "elementType": "legendary",
           "imageUrl": "weapon_11146.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Pack Hunter",
           "elementType": "epic",
           "imageUrl": "weapon_13770.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         },
         {
           "name": "Yokai",
           "elementType": "epic",
           "imageUrl": "weapon_10566.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pp19 bizon",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -45046,49 +46108,65 @@
           "name": "Artifact",
           "elementType": "mythic",
           "imageUrl": "weapon_8891.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Blast Off",
           "elementType": "epic",
           "imageUrl": "weapon_8783.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Debris Field",
           "elementType": "epic",
           "imageUrl": "weapon_14830.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Divine Presence",
           "elementType": "epic",
           "imageUrl": "weapon_10985.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Moon Glow",
           "elementType": "epic",
           "imageUrl": "weapon_14036.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Plasma Explosion",
           "elementType": "epic",
           "imageUrl": "weapon_15405.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Runic Fire",
           "elementType": "epic",
           "imageUrl": "weapon_13996.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         },
         {
           "name": "Spine Rattle",
           "elementType": "epic",
           "imageUrl": "weapon_15058.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "peacekeeper mk2",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -45891,37 +46969,49 @@
           "name": "Cruise Missile",
           "elementType": "epic",
           "imageUrl": "weapon_6085.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         },
         {
           "name": "Dream Crystal",
           "elementType": "legendary",
           "imageUrl": "weapon_1007.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         },
         {
           "name": "Echolocation",
           "elementType": "epic",
           "imageUrl": "weapon_6547.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_15252.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         },
         {
           "name": "Mirage",
           "elementType": "epic",
           "imageUrl": "weapon_1183.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         },
         {
           "name": "Pharao",
           "elementType": "epic",
           "imageUrl": "weapon_13057.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "pharo",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -46821,90 +47911,120 @@
           "name": "Black Gold",
           "elementType": "epic",
           "imageUrl": "weapon_7948.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Bullet Ants",
           "elementType": "epic",
           "imageUrl": "weapon_13326.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Cyclone",
           "elementType": "epic",
           "imageUrl": "weapon_9709.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Dune Fire",
           "elementType": "epic",
           "imageUrl": "weapon_14570.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "ENOC",
           "elementType": "epic",
           "imageUrl": "weapon_13648.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Eye Candy",
           "elementType": "epic",
           "imageUrl": "weapon_2970.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Flood",
           "elementType": "epic",
           "imageUrl": "weapon_1665.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Melting Point",
           "elementType": "legendary",
           "imageUrl": "weapon_2647.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Merrymaker",
           "elementType": "epic",
           "imageUrl": "weapon_8833.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Mire",
           "elementType": "epic",
           "imageUrl": "weapon_9692.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Monkey in the Wrench",
           "elementType": "epic",
           "imageUrl": "weapon_11216.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Moonlight",
           "elementType": "legendary",
           "imageUrl": "weapon_14033.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Neon Grunge",
           "elementType": "epic",
           "imageUrl": "weapon_7236.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Sigr\u00fan",
           "elementType": "legendary",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         },
         {
           "name": "Trendsetter",
           "elementType": "epic",
           "imageUrl": "weapon_2952.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qq9",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -47821,84 +48941,112 @@
           "name": "2nd Anniversary Limited",
           "elementType": "epic",
           "imageUrl": "weapon_14692.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Close Catch",
           "elementType": "epic",
           "imageUrl": "weapon_11976.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Federation Army",
           "elementType": "epic",
           "imageUrl": "weapon_12378.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Flanker",
           "elementType": "epic",
           "imageUrl": "weapon_10465.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Masked Warrior",
           "elementType": "epic",
           "imageUrl": "weapon_12362.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_11645.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Prototype Omega",
           "elementType": "epic",
           "imageUrl": "weapon_13635.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Rebirth",
           "elementType": "epic",
           "imageUrl": "weapon_11473.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Roaring Steel",
           "elementType": "epic",
           "imageUrl": "weapon_10069.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Sakura Storm",
           "elementType": "epic",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Scorching Sun",
           "elementType": "epic",
           "imageUrl": "weapon_10560.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Secret Santa",
           "elementType": "legendary",
           "imageUrl": "weapon_8832.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Surgical Incision",
           "elementType": "epic",
           "imageUrl": "weapon_15186.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         },
         {
           "name": "Tsundere",
           "elementType": "epic",
           "imageUrl": "weapon_10879.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "qxr",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -48672,13 +49820,17 @@
           "name": "Hopper",
           "elementType": "legendary",
           "rarity": 5,
-          "imageUrl": "weapon_14443.png"
+          "imageUrl": "weapon_14443.png",
+          "weaponKey": "r9-0",
+          "isComingSoon": false
         },
         {
           "name": "Master of Snakes",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_14212.png"
+          "imageUrl": "weapon_14212.png",
+          "weaponKey": "r9-0",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -49157,55 +50309,73 @@
           "name": "Carnivorous",
           "elementType": "epic",
           "imageUrl": "weapon_6280.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Cyberspace",
           "elementType": "epic",
           "imageUrl": "weapon_844.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Festive",
           "elementType": "epic",
           "imageUrl": "weapon_8851.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Ghostyard",
           "elementType": "epic",
           "imageUrl": "weapon_12330.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Mainframe",
           "elementType": "epic",
           "imageUrl": "weapon_9624.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Mirage",
           "elementType": "epic",
           "imageUrl": "weapon_74.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Orbit",
           "elementType": "epic",
           "imageUrl": "weapon_87.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Practical Joker",
           "elementType": "legendary",
           "imageUrl": "weapon_2546.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         },
         {
           "name": "Werewolf Fighter",
           "elementType": "epic",
           "imageUrl": "weapon_1223.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rpd",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -50323,121 +51493,161 @@
           "name": "Barricade",
           "elementType": "epic",
           "imageUrl": "weapon_1643.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Black Knight",
           "elementType": "epic",
           "imageUrl": "weapon_7398.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Bomb Baby",
           "elementType": "epic",
           "imageUrl": "weapon_9046.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Bullet Ants",
           "elementType": "epic",
           "imageUrl": "weapon_13383.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Cagebreaker",
           "elementType": "epic",
           "imageUrl": "weapon_12911.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Cardboard",
           "elementType": "epic",
           "imageUrl": "weapon_881.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Dangerous Waters",
           "elementType": "epic",
           "imageUrl": "weapon_12279.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Dusk",
           "elementType": "epic",
           "imageUrl": "weapon_10235.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Dustkicker",
           "elementType": "legendary",
           "imageUrl": "weapon_76.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Hard Spike",
           "elementType": "epic",
           "imageUrl": "weapon_14185.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Karuta",
           "elementType": "epic",
           "imageUrl": "weapon_10549.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Moonstone",
           "elementType": "epic",
           "imageUrl": "weapon_2478.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Nuclear Fallout",
           "elementType": "epic",
           "imageUrl": "weapon_2426.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Playmaker",
           "elementType": "epic",
           "imageUrl": "weapon_11648.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Steel Blue",
           "elementType": "epic",
           "imageUrl": "weapon_11615.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Strafing Run",
           "elementType": "epic",
           "imageUrl": "weapon_8378.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Troika",
           "elementType": "epic",
           "imageUrl": "weapon_8755.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Viking",
           "elementType": "epic",
           "imageUrl": "weapon_494.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "Wretched",
           "elementType": "epic",
           "imageUrl": "weapon_11415.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         },
         {
           "name": "ZX 7000",
           "elementType": "legendary",
           "imageUrl": "weapon_7887.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "rus-79u",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -51545,79 +52755,105 @@
           "name": "Boreal Aegis",
           "elementType": "legendary",
           "imageUrl": "weapon_11656.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Cosmos",
           "elementType": "epic",
           "imageUrl": "weapon_978.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Dark Matter",
           "elementType": "epic",
           "imageUrl": "weapon_2236.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Ghoul Bot",
           "elementType": "epic",
           "imageUrl": "weapon_14970.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Necessary Diplomacy",
           "elementType": "legendary",
           "imageUrl": "weapon_9071.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Noir",
           "elementType": "epic",
           "imageUrl": "weapon_8421.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Royal Guilt",
           "elementType": "epic",
           "imageUrl": "weapon_12453.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Ruby",
           "elementType": "epic",
           "imageUrl": "weapon_8172.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Sapphire",
           "elementType": "epic",
           "imageUrl": "weapon_8186.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Stirrup",
           "elementType": "epic",
           "imageUrl": "weapon_11406.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Vagabond",
           "elementType": "epic",
           "imageUrl": "weapon_10137.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Wicked Whisper",
           "elementType": "epic",
           "imageUrl": "weapon_7470.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         },
         {
           "name": "Wrath Black & Gold",
           "elementType": "epic",
           "imageUrl": "weapon_6189.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "razorback",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -52469,13 +53705,17 @@
           "name": "Nautilus",
           "elementType": "mythic",
           "imageUrl": "weapon_13398.png",
-          "rarity": 6
+          "rarity": 6,
+          "weaponKey": "rytec amr",
+          "isComingSoon": false
         },
         {
           "name": "Revati",
           "elementType": "epic",
           "imageUrl": "weapon_13617.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "rytec amr",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -53136,55 +54376,73 @@
           "name": "Dive Bomb",
           "elementType": "epic",
           "imageUrl": "weapon_2998.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Heartbreaker",
           "elementType": "epic",
           "imageUrl": "weapon_7315.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Heavy Duty",
           "elementType": "epic",
           "imageUrl": "weapon_457.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Hoard",
           "elementType": "epic",
           "imageUrl": "weapon_13300.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Phobos",
           "elementType": "legendary",
           "imageUrl": "weapon_954.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Quartz",
           "elementType": "epic",
           "imageUrl": "weapon_7399.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Ritual",
           "elementType": "epic",
           "imageUrl": "weapon_6743.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Slapstick",
           "elementType": "epic",
           "imageUrl": "weapon_9414.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         },
         {
           "name": "Vagabond",
           "elementType": "epic",
           "imageUrl": "weapon_10138.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "s36",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -54283,37 +55541,49 @@
           "name": "Malpractice",
           "elementType": "epic",
           "imageUrl": "weapon_11586.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sks",
+          "isComingSoon": false
         },
         {
           "name": "Meteoric",
           "elementType": "epic",
           "imageUrl": "weapon_14662.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sks",
+          "isComingSoon": false
         },
         {
           "name": "Pack Hunter",
           "elementType": "epic",
           "imageUrl": "weapon_13769.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sks",
+          "isComingSoon": false
         },
         {
           "name": "Particle Splitter",
           "elementType": "legendary",
           "imageUrl": "weapon_9689.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "sks",
+          "isComingSoon": false
         },
         {
           "name": "Robot Samurai",
           "elementType": "epic",
           "imageUrl": "weapon_11159.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sks",
+          "isComingSoon": false
         },
         {
           "name": "Technic Turret",
           "elementType": "epic",
           "imageUrl": "weapon_13817.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sks",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -55046,37 +56316,49 @@
           "name": "Counter Spy",
           "elementType": "legendary",
           "imageUrl": "weapon_10309.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         },
         {
           "name": "Dragon Head",
           "elementType": "epic",
           "imageUrl": "weapon_10610.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         },
         {
           "name": "Ethereal",
           "elementType": "epic",
           "imageUrl": "weapon_12364.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         },
         {
           "name": "Flora",
           "elementType": "epic",
           "imageUrl": "weapon_13025.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         },
         {
           "name": "Long Serpent",
           "elementType": "epic",
           "imageUrl": "weapon_13995.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         },
         {
           "name": "Lost Gothic",
           "elementType": "epic",
           "imageUrl": "weapon_11886.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "sp-r 208",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -55841,25 +57123,33 @@
           "name": "Aeronaut",
           "elementType": "epic",
           "imageUrl": "weapon_2938.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "striker",
+          "isComingSoon": false
         },
         {
           "name": "Barricade",
           "elementType": "epic",
           "imageUrl": "weapon_1652.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "striker",
+          "isComingSoon": false
         },
         {
           "name": "New Year '20",
           "elementType": "epic",
           "imageUrl": "weapon_1220.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "striker",
+          "isComingSoon": false
         },
         {
           "name": "Pastel Poison",
           "elementType": "epic",
           "imageUrl": "weapon_6858.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "striker",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -56952,13 +58242,17 @@
           "name": "Calaca",
           "elementType": "legendary",
           "rarity": 5,
-          "imageUrl": "weapon_15289.png"
+          "imageUrl": "weapon_15289.png",
+          "weaponKey": "swordfish",
+          "isComingSoon": false
         },
         {
           "name": "MK2",
           "elementType": "epic",
           "rarity": 4,
-          "imageUrl": "weapon_15072.png"
+          "imageUrl": "weapon_15072.png",
+          "weaponKey": "swordfish",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -57437,127 +58731,169 @@
           "name": "Bloody Vengeance",
           "elementType": "legendary",
           "imageUrl": "weapon_709.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Cardboard",
           "elementType": "epic",
           "imageUrl": "weapon_884.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Cutting Edge",
           "elementType": "epic",
           "imageUrl": "weapon_11192.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Cyberspace",
           "elementType": "epic",
           "imageUrl": "weapon_1739.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Defibrilator",
           "elementType": "epic",
           "imageUrl": "weapon_9211.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Demise",
           "elementType": "epic",
           "imageUrl": "weapon_2763.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_1182.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Heartbreaker",
           "elementType": "epic",
           "imageUrl": "weapon_7316.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Infiltrate",
           "elementType": "epic",
           "imageUrl": "weapon_7941.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Jungle Militia",
           "elementType": "epic",
           "imageUrl": "weapon_12963.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Lost Treasure",
           "elementType": "epic",
           "imageUrl": "weapon_14770.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Magnetic Engine",
           "elementType": "legendary",
           "imageUrl": "weapon_12621.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Moonlight Rime",
           "elementType": "epic",
           "imageUrl": "weapon_13580.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Oni",
           "elementType": "epic",
           "imageUrl": "weapon_10543.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Password Protected",
           "elementType": "epic",
           "imageUrl": "weapon_9622.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Ruby",
           "elementType": "epic",
           "imageUrl": "weapon_2886.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Sanguine",
           "elementType": "epic",
           "imageUrl": "weapon_10324.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Silver Ghoul",
           "elementType": "epic",
           "imageUrl": "weapon_1788.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Steel Blue",
           "elementType": "epic",
           "imageUrl": "weapon_11616.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Summerburst",
           "elementType": "epic",
           "imageUrl": "weapon_13283.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         },
         {
           "name": "Thermonuclear",
           "elementType": "epic",
           "imageUrl": "weapon_1946.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "type 25",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -58600,85 +59936,113 @@
           "name": "All Out War",
           "elementType": "epic",
           "imageUrl": "weapon_9652.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Cat's Clan",
           "elementType": "epic",
           "imageUrl": "weapon_14074.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Contamination",
           "elementType": "epic",
           "imageUrl": "weapon_1747.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Depth Charge",
           "elementType": "legendary",
           "imageUrl": "weapon_2999.png",
-          "rarity": 5
+          "rarity": 5,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Direct Heat",
           "elementType": "epic",
           "imageUrl": "weapon_7903.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Forester",
           "elementType": "epic",
           "imageUrl": "weapon_6790.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Gourd Loader",
           "elementType": "epic",
           "imageUrl": "weapon_15036.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Meteor Shower",
           "elementType": "epic",
           "imageUrl": "weapon_856.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Oil Spill",
           "elementType": "epic",
           "imageUrl": "weapon_2698.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Quartz",
           "elementType": "epic",
           "imageUrl": "weapon_6918.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Solar Wind",
           "elementType": "epic",
           "imageUrl": "weapon_9704.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Teal Steal",
           "elementType": "epic",
           "imageUrl": "weapon_991.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "Wasteland",
           "elementType": "epic",
           "imageUrl": "weapon_2246.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         },
         {
           "name": "X Marks the Spot",
           "elementType": "epic",
           "imageUrl": "weapon_13419.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "ul736",
+          "isComingSoon": false
         }
       ],
       "camos": [
@@ -59798,43 +61162,57 @@
           "name": "Arachnophobia",
           "elementType": "epic",
           "imageUrl": "weapon_6294.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Dark Tech",
           "elementType": "epic",
           "imageUrl": "weapon_8269.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Dragon Brood",
           "elementType": "epic",
           "imageUrl": "weapon_14780.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Geometry",
           "elementType": "epic",
           "imageUrl": "weapon_669.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Marquis",
           "elementType": "epic",
           "imageUrl": "weapon_2885.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Ooze",
           "elementType": "epic",
           "imageUrl": "weapon_13183.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         },
         {
           "name": "Sunspot",
           "elementType": "epic",
           "imageUrl": "weapon_1545.png",
-          "rarity": 4
+          "rarity": 4,
+          "weaponKey": "xpr-50",
+          "isComingSoon": false
         }
       ],
       "camos": [

@@ -10,16 +10,17 @@ import 'package:morningstar/theme.dart';
 class WeaponDetailTop extends StatelessWidget {
   final String name;
   final String image;
+  final int rarity;
 
   const WeaponDetailTop({
     Key? key,
     required this.name,
     required this.image,
+    this.rarity = 4,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    const rarity = 4;
     final mediaQuery = MediaQuery.of(context);
     final isPortrait = mediaQuery.orientation == Orientation.portrait;
     return DetailTopLayout(

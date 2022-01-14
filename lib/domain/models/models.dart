@@ -16,3 +16,6 @@ export 'weapons/weapon_card_model.dart';
 export 'db/weapons/weapon_file_model.dart';
 export 'db/translations/translation_weapon_file.dart';
 export 'settings/app_settings.dart';
+export 'db/weapons/weapon_blueprint_card_model.dart';
+export 'db/weapons/weapon_camo_card_model.dart';
+export 'db/weapons/weapon_attachment_card_model.dart';

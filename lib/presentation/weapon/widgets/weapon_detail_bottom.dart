@@ -1,8 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/models/db/weapons/weapon_file_model.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/details/detail_bottom_portrait_layout.dart';
 import 'package:morningstar/presentation/shared/details/detail_tab_landscape_layout.dart';
 import 'package:morningstar/presentation/shared/item_description_detail.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_detail_blueprint_build.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
@@ -18,6 +21,10 @@ class WeaponDetailBottom extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
+  final List<WeaponBlueprintCardModel> blueprints;
+  final bool isBlueprintPage;
+  final int rarity;
+  final ElementType elementType;
 
   const WeaponDetailBottom({
     Key? key,
@@ -30,6 +37,10 @@ class WeaponDetailBottom extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
+    required this.blueprints,
+    this.isBlueprintPage = false,
+    this.rarity = 1,
+    this.elementType = ElementType.epic,
   }) : super(key: key);
 
   @override
@@ -46,6 +57,10 @@ class WeaponDetailBottom extends StatelessWidget {
       fireRate: fireRate,
       mobility: mobility,
       control: control,
+      blueprints: blueprints,
+      isBlueprintPage: isBlueprintPage,
+      rarity: rarity,
+      elementType: elementType,
     ) :  _LandscapeLayout(
       name: name,
       weaponDescriptionHeight: 220,
@@ -57,6 +72,8 @@ class WeaponDetailBottom extends StatelessWidget {
       fireRate: fireRate,
       mobility: mobility,
       control: control,
+      rarity: rarity,
+      elementType: elementType,
     );
   }
 }
@@ -72,6 +89,10 @@ class _PortraitLayout extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
+  final List<WeaponBlueprintCardModel> blueprints;
+  final bool isBlueprintPage;
+  final int rarity;
+  final ElementType elementType;
 
   const _PortraitLayout({
     Key? key,
@@ -85,6 +106,10 @@ class _PortraitLayout extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
+    required this.blueprints,
+    required this.isBlueprintPage,
+    required this.rarity,
+    required this.elementType,
   }) : super(key: key);
 
   @override
@@ -109,6 +134,8 @@ class _PortraitLayout extends StatelessWidget {
             fireRate: fireRate,
             mobility: mobility,
             control: control,
+            rarity: rarity,
+            elementType: elementType,
           ),
         ),
         Container(
@@ -125,6 +152,17 @@ class _PortraitLayout extends StatelessWidget {
             textColor: ElementType.epic.getElementColorFromContext(context),
           ),
         ),
+        if (!isBlueprintPage && blueprints.isNotEmpty)
+          ItemDescriptionDetail(
+            title: 'Blueprints',
+            body: Container(
+              margin: const EdgeInsets.symmetric(horizontal: 5),
+              child: Blueprints(
+                blueprints: blueprints,
+              ),
+            ),
+            textColor: ElementType.epic.getElementColorFromContext(context),
+          ),
       ],
     );
   }
@@ -141,6 +179,8 @@ class _LandscapeLayout extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
+  final int rarity;
+  final ElementType elementType;
 
   const _LandscapeLayout({
     Key? key,
@@ -154,6 +194,8 @@ class _LandscapeLayout extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
+    required this.rarity,
+    required this.elementType,
   }) : super(key: key);
 
   @override
@@ -202,6 +244,8 @@ class _LandscapeLayout extends StatelessWidget {
                   fireRate: fireRate,
                   mobility: mobility,
                   control: control,
+                  rarity: rarity,
+                  elementType: elementType,
                 ),
               ),
             ],

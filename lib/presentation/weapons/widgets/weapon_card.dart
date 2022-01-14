@@ -8,8 +8,10 @@ import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/gradient_card.dart';
 import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dart';
+import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/weapon/weapon_page.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_blueprint_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 
@@ -17,9 +19,11 @@ class WeaponCard extends StatelessWidget {
   final String keyName;
   final String image;
   final String name;
+  final int rarity;
   final double? damage;
   final WeaponType? type;
   final WeaponModel? model;
+  final ElementType elementType;
   final bool isComingSoon;
 
   final double imgWidth;
@@ -27,21 +31,25 @@ class WeaponCard extends StatelessWidget {
   final bool withoutDetails;
   final bool isInSelectionMode;
   final bool withElevation;
+  final bool isBlueprint;
 
   const WeaponCard({
     Key? key,
     required this.keyName,
     required this.image,
     required this.name,
+    required this.rarity,
     required this.damage,
     required this.type,
     required this.model,
+    required this.elementType,
     required this.isComingSoon,
     this.imgHeight = 140,
     this.imgWidth = 160,
     this.isInSelectionMode = false,
     this.withElevation = true,
   })  : withoutDetails = false,
+        isBlueprint = false,
         super(key: key);
 
   const WeaponCard.withoutDetails({
@@ -50,6 +58,8 @@ class WeaponCard extends StatelessWidget {
     required this.image,
     required this.name,
     required this.isComingSoon,
+    this.rarity = 4,
+    this.elementType = ElementType.epic,
     this.imgHeight = 140,
     this.imgWidth = 160,
   })  : model = null,
@@ -58,6 +68,27 @@ class WeaponCard extends StatelessWidget {
         withoutDetails = true,
         isInSelectionMode = false,
         withElevation = false,
+        isBlueprint = false,
+        super(key: key);
+
+  WeaponCard.blueprints({
+    Key? key,
+    required WeaponBlueprintCardModel blueprint,
+    this.imgHeight = 140,
+    this.imgWidth = 160,
+    this.isInSelectionMode = false,
+    this.withElevation = true,
+  })  : rarity = blueprint.rarity,
+        keyName = blueprint.weaponKey,
+        damage = null,
+        image = blueprint.imagePath,
+        name = blueprint.name,
+        model = null,
+        type = null,
+        elementType = blueprint.elementType,
+        isComingSoon = false,
+        withoutDetails = true,
+        isBlueprint = true,
         super(key: key);
 
   WeaponCard.item({
@@ -65,6 +96,8 @@ class WeaponCard extends StatelessWidget {
     required WeaponCardModel weapon,
     this.imgHeight = 140,
     this.imgWidth = 160,
+    this.rarity = 4,
+    this.elementType = ElementType.epic,
     this.isInSelectionMode = false,
     this.withElevation = true,
   })  : keyName = weapon.key,
@@ -75,6 +108,7 @@ class WeaponCard extends StatelessWidget {
         type = weapon.type,
         isComingSoon = weapon.isComingSoon,
         withoutDetails = false,
+        isBlueprint = false,
         super(key: key);
 
   @override
@@ -82,12 +116,14 @@ class WeaponCard extends StatelessWidget {
     final theme = Theme.of(context);
     return InkWell(
       borderRadius: Styles.mainWeaponCardBorderRadius,
-      onTap: () => _goToWeaponPage(context),
+      onTap: () => isBlueprint
+          ? _goToBlueprintPage(context, name: name, image: image, rarity: rarity, elementType: elementType)
+          : _goToWeaponPage(context),
       child: GradientCard(
         clipBehavior: Clip.hardEdge,
         shape: Styles.mainWeaponCardShape,
         elevation: withElevation ? Styles.cardTenElevation : 0,
-        gradient: getRarityGradient(),
+        gradient: rarity.getRarityGradient(),
         child: Padding(
           padding: Styles.edgeInsetAll5,
           child: Column(
@@ -114,17 +150,16 @@ class WeaponCard extends StatelessWidget {
                   ),
                 ],
               ),
-              if (!withoutDetails)
-                Center(
-                  child: Tooltip(
-                    message: name,
-                    child: Text(
-                      name,
-                      overflow: TextOverflow.ellipsis,
-                      style: theme.textTheme.headline4!.copyWith(fontWeight: FontWeight.bold, color: Colors.white),
-                    ),
+              Center(
+                child: Tooltip(
+                  message: name,
+                  child: Text(
+                    name,
+                    overflow: TextOverflow.ellipsis,
+                    style: theme.textTheme.headline4!.copyWith(fontWeight: FontWeight.bold, color: Colors.white),
                   ),
                 ),
+              ),
               BlocBuilder<SettingsBloc, SettingsState>(
                 builder: (context, state) {
                   return state.map(
@@ -192,5 +227,25 @@ class WeaponCard extends StatelessWidget {
     await Navigator.push(context, route);
     await route.completed;
     bloc.pop();
+  }
+
+  Future<void> _goToBlueprintPage(BuildContext context, {
+    required String name,
+    required String image,
+    required int rarity,
+    required ElementType elementType,
+  }) async {
+
+    final bloc = context.read<WeaponBloc>();
+    bloc.add(WeaponEvent.loadFromKey(key: keyName));
+    final route = MaterialPageRoute(builder: (ct) => WeaponBlueprintPage(
+      name: name,
+      image: image,
+      rarity: rarity,
+      elementType: elementType,
+    ));
+
+    await Navigator.push(context, route);
+    await route.completed;
   }
 }
