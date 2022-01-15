@@ -5,7 +5,6 @@ import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/db/weapons/weapons_file.dart';
-import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 
@@ -56,8 +55,8 @@ class MorningStarServiceImpl implements MorningStarService {
   @override
   List<TodayTopPickSoldierModel> getTopPickSoldiers(int day) {
     final iterable = day == DateTime.sunday
-        ? _topPicksFile.topPicks.where((t) => t.days.isNotEmpty)
-        : _topPicksFile.topPicks.where((t) => t.days.contains(day));
+        ? _topPicksFile.soldiers.where((t) => t.days.isNotEmpty)
+        : _topPicksFile.soldiers.where((t) => t.days.contains(day));
 
     return iterable.map((e) {
       final translation = _translationFile.soldiers.firstWhere((t) => t.key == e.key);
@@ -69,6 +68,32 @@ class MorningStarServiceImpl implements MorningStarService {
         stars: e.rarity,
         elementType: e.elementType,
         isNew: e.isNew,
+        isComingSoon: e.isComingSoon,
+      );
+    }).toList();
+  }
+
+  @override
+  List<TodayTopPickWeaponModel> getTopPickWeapons(int day) {
+    final iterable = day == DateTime.sunday
+        ? _topPicksFile.weapons.where((t) => t.days.isNotEmpty)
+        : _topPicksFile.weapons.where((t) => t.days.contains(day));
+
+    return iterable.map((e) {
+      final translation = _translationFile.weapons.firstWhere((t) => t.key == e.key);
+
+      return TodayTopPickWeaponModel.fromDays(
+        key: e.key,
+        imageUrl: e.fullImagePath,
+        name: translation.name,
+        damage: e.damage,
+        accuracy: e.accuracy,
+        range: e.range,
+        fireRate: e.fireRate,
+        mobility: e.mobility,
+        control: e.control,
+        type: e.type,
+        model: e.model,
         isComingSoon: e.isComingSoon,
       );
     }).toList();

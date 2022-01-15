@@ -1,8 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/presentation/shared/item_description_detail.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
-import 'package:morningstar/presentation/shared/scaffold_with_fab.dart';
+import 'package:morningstar/presentation/shared/sliver_scaffold_with_fab.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_detail_blueprint_build.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_detail_camo_build.dart';
+import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
 import 'widgets/weapon_detail_bottom.dart';
 import 'widgets/weapon_detail_top.dart';
@@ -22,37 +27,71 @@ class _PortraitLayout extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ScaffoldWithFab(
-      child: BlocBuilder<WeaponBloc, WeaponState>(
-        builder: (context, state) {
-          return state.map(
-            loading: (_) => const Loading(),
-            loaded: (state) => Stack(
-              fit: StackFit.passthrough,
-              clipBehavior: Clip.none,
-              alignment: Alignment.topCenter,
-              children: [
-                WeaponDetailTop(
-                  name: state.name,
-                  image: state.fullImage,
+    return BlocBuilder<WeaponBloc, WeaponState>(
+      builder: (context, state) {
+        return state.map(
+          loading: (_) => const Loading(),
+          loaded: (state) => SliverScaffoldWithFab(
+            backgroundColor: Theme.of(context).cardColor,
+            slivers:  [
+              SliverToBoxAdapter(
+                child: Stack(
+                  fit: StackFit.passthrough,
+                  clipBehavior: Clip.none,
+                  alignment: Alignment.topCenter,
+                  children: [
+                    WeaponDetailTop(
+                      name: state.name,
+                      image: state.fullImage,
+                    ),
+                    WeaponDetailBottom(
+                      name: state.name,
+                      description: state.description,
+                      damage: state.damage,
+                      accuracy: state.accuracy,
+                      control: state.control,
+                      fireRate: state.fireRate,
+                      range: state.range,
+                      mobility: state.mobility,
+                      type: state.weaponType,
+                    ),
+                  ],
                 ),
-                WeaponDetailBottom(
-                  name: state.name,
-                  description: state.description,
-                  damage: state.damage,
-                  accuracy: state.accuracy,
-                  control: state.control,
-                  fireRate: state.fireRate,
-                  range: state.range,
-                  mobility: state.mobility,
-                  type: state.weaponType,
+              ),
+              SliverToBoxAdapter(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 10),
+                  child: ItemDescriptionTitle(
+                    title: 'Blueprints',
+                    textColor: ElementType.epic.getElementColorFromContext(context),
+                  ),
+                ),
+              ),
+              SliverPadding(
+                padding: const EdgeInsets.symmetric(horizontal: 5),
+                sliver: WeaponDetailBlueprintBuild(
                   blueprints: state.blueprints,
                 ),
-              ],
-            ),
-          );
-        },
-      ),
+              ),
+              SliverToBoxAdapter(
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                  child: ItemDescriptionTitle(
+                    title: 'Camos',
+                    textColor: ElementType.epic.getElementColorFromContext(context),
+                  ),
+                ),
+              ),
+              SliverPadding(
+                padding: const EdgeInsets.symmetric(horizontal: 5),
+                sliver: WeaponDetailCamoBuild(
+                  camos: state.camos,
+                ),
+              ),
+            ],
+          ),
+        );
+      },
     );
   }
 }
@@ -90,7 +129,6 @@ class _LandscapeLayout extends StatelessWidget {
                       range: state.range,
                       mobility: state.mobility,
                       type: state.weaponType,
-                      blueprints: state.blueprints,
                     ),
                   ),
                 ],

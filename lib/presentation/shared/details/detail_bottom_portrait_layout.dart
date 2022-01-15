@@ -25,6 +25,7 @@ class DetailBottomPortraitLayout extends StatelessWidget {
       child: Card(
         margin: EdgeInsets.only(top: maxTopHeight),
         shape: Styles.cardItemDetailShape,
+        elevation: 0,
         child: Padding(
           padding: Styles.edgeInsetAll10,
           child: Column(

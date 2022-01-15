@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:morningstar/domain/enums/enums.dart';
-import 'package:morningstar/domain/models/db/weapons/weapon_file_model.dart';
-import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/details/detail_bottom_portrait_layout.dart';
 import 'package:morningstar/presentation/shared/details/detail_tab_landscape_layout.dart';
 import 'package:morningstar/presentation/shared/item_description_detail.dart';
-import 'package:morningstar/presentation/weapon/widgets/weapon_detail_blueprint_build.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
@@ -21,8 +18,7 @@ class WeaponDetailBottom extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
-  final List<WeaponBlueprintCardModel> blueprints;
-  final bool isBlueprintPage;
+  final bool isBuildPage;
   final int rarity;
   final ElementType elementType;
 
@@ -37,8 +33,7 @@ class WeaponDetailBottom extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
-    required this.blueprints,
-    this.isBlueprintPage = false,
+    this.isBuildPage = false,
     this.rarity = 1,
     this.elementType = ElementType.epic,
   }) : super(key: key);
@@ -57,8 +52,7 @@ class WeaponDetailBottom extends StatelessWidget {
       fireRate: fireRate,
       mobility: mobility,
       control: control,
-      blueprints: blueprints,
-      isBlueprintPage: isBlueprintPage,
+      isBuildPage: isBuildPage,
       rarity: rarity,
       elementType: elementType,
     ) :  _LandscapeLayout(
@@ -89,8 +83,7 @@ class _PortraitLayout extends StatelessWidget {
   final double fireRate;
   final double mobility;
   final double control;
-  final List<WeaponBlueprintCardModel> blueprints;
-  final bool isBlueprintPage;
+  final bool isBuildPage;
   final int rarity;
   final ElementType elementType;
 
@@ -106,8 +99,7 @@ class _PortraitLayout extends StatelessWidget {
     required this.fireRate,
     required this.mobility,
     required this.control,
-    required this.blueprints,
-    required this.isBlueprintPage,
+    required this.isBuildPage,
     required this.rarity,
     required this.elementType,
   }) : super(key: key);
@@ -149,20 +141,9 @@ class _PortraitLayout extends StatelessWidget {
                 style: theme.textTheme.headline3,
               ),
             ),
-            textColor: ElementType.epic.getElementColorFromContext(context),
+            textColor: elementType.getElementColorFromContext(context),
           ),
         ),
-        if (!isBlueprintPage && blueprints.isNotEmpty)
-          ItemDescriptionDetail(
-            title: 'Blueprints',
-            body: Container(
-              margin: const EdgeInsets.symmetric(horizontal: 5),
-              child: Blueprints(
-                blueprints: blueprints,
-              ),
-            ),
-            textColor: ElementType.epic.getElementColorFromContext(context),
-          ),
       ],
     );
   }
@@ -229,7 +210,7 @@ class _LandscapeLayout extends StatelessWidget {
                       style: theme.textTheme.headline3,
                     ),
                   ),
-                  textColor: ElementType.epic.getElementColorFromContext(context),
+                  textColor: elementType.getElementColorFromContext(context),
                 ),
               ),
               SizedBox(

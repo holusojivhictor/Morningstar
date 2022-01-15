@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
@@ -34,10 +34,12 @@ class HomeBloc extends Bloc<HomeEvent, HomeState> {
 
   HomeState _buildInitialState(int day) {
     final soldierTopPicks = _morningStarService.getTopPickSoldiers(day);
+    final weaponTopPicks = _morningStarService.getTopPickWeapons(day);
     final dayName = _localeService.getDayNameFromDay(day);
 
     return HomeState.loaded(
       soldierTopPicks: soldierTopPicks,
+      weaponTopPicks: weaponTopPicks,
       day: day,
       dayName: dayName,
     );

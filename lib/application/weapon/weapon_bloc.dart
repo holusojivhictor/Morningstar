@@ -88,6 +88,8 @@ class WeaponBloc extends PopBloc<WeaponEvent, WeaponState> {
           source: camo.source,
           imageUrl: camo.imageUrl,
           rarity: camo.rarity,
+          weaponKey: camo.weaponKey,
+          isComingSoon: camo.isComingSoon,
         );
       }).toList(),
       attachments: weapon.attachments.map((attachment) {

@@ -11,7 +11,7 @@ import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dar
 import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/weapon/weapon_page.dart';
-import 'package:morningstar/presentation/weapon/widgets/weapon_blueprint_page.dart';
+import 'package:morningstar/presentation/weapon/widgets/weapon_build_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 
@@ -31,7 +31,7 @@ class WeaponCard extends StatelessWidget {
   final bool withoutDetails;
   final bool isInSelectionMode;
   final bool withElevation;
-  final bool isBlueprint;
+  final bool isBuild;
 
   const WeaponCard({
     Key? key,
@@ -49,7 +49,7 @@ class WeaponCard extends StatelessWidget {
     this.isInSelectionMode = false,
     this.withElevation = true,
   })  : withoutDetails = false,
-        isBlueprint = false,
+        isBuild = false,
         super(key: key);
 
   const WeaponCard.withoutDetails({
@@ -68,7 +68,7 @@ class WeaponCard extends StatelessWidget {
         withoutDetails = true,
         isInSelectionMode = false,
         withElevation = false,
-        isBlueprint = false,
+        isBuild = false,
         super(key: key);
 
   WeaponCard.blueprints({
@@ -88,7 +88,27 @@ class WeaponCard extends StatelessWidget {
         elementType = blueprint.elementType,
         isComingSoon = false,
         withoutDetails = true,
-        isBlueprint = true,
+        isBuild = true,
+        super(key: key);
+
+  WeaponCard.camos({
+    Key? key,
+    required WeaponCamoCardModel camo,
+    this.imgHeight = 140,
+    this.imgWidth = 160,
+    this.isInSelectionMode = false,
+    this.withElevation = true,
+  })  : rarity = camo.rarity,
+        keyName = camo.weaponKey,
+        damage = null,
+        image = camo.imagePath,
+        name = camo.name,
+        model = null,
+        type = null,
+        elementType = camo.elementType,
+        isComingSoon = false,
+        withoutDetails = true,
+        isBuild = true,
         super(key: key);
 
   WeaponCard.item({
@@ -108,7 +128,27 @@ class WeaponCard extends StatelessWidget {
         type = weapon.type,
         isComingSoon = weapon.isComingSoon,
         withoutDetails = false,
-        isBlueprint = false,
+        isBuild = false,
+        super(key: key);
+
+  WeaponCard.days({
+    Key? key,
+    required TodayTopPickWeaponModel topPick,
+    this.imgHeight = 140,
+    this.imgWidth = 160,
+    this.rarity = 4,
+    this.elementType = ElementType.epic,
+    this.isInSelectionMode = false,
+    this.withElevation = true,
+  })  : keyName = topPick.key,
+        damage = topPick.damage,
+        image = topPick.imageUrl,
+        name = topPick.name,
+        model = topPick.model,
+        type = topPick.type,
+        isComingSoon = topPick.isComingSoon,
+        withoutDetails = true,
+        isBuild = false,
         super(key: key);
 
   @override
@@ -116,8 +156,8 @@ class WeaponCard extends StatelessWidget {
     final theme = Theme.of(context);
     return InkWell(
       borderRadius: Styles.mainWeaponCardBorderRadius,
-      onTap: () => isBlueprint
-          ? _goToBlueprintPage(context, name: name, image: image, rarity: rarity, elementType: elementType)
+      onTap: () => isBuild
+          ? _goToBuildPage(context, name: name, image: image, rarity: rarity, elementType: elementType)
           : _goToWeaponPage(context),
       child: GradientCard(
         clipBehavior: Clip.hardEdge,
@@ -229,7 +269,7 @@ class WeaponCard extends StatelessWidget {
     bloc.pop();
   }
 
-  Future<void> _goToBlueprintPage(BuildContext context, {
+  Future<void> _goToBuildPage(BuildContext context, {
     required String name,
     required String image,
     required int rarity,
@@ -238,7 +278,7 @@ class WeaponCard extends StatelessWidget {
 
     final bloc = context.read<WeaponBloc>();
     bloc.add(WeaponEvent.loadFromKey(key: keyName));
-    final route = MaterialPageRoute(builder: (ct) => WeaponBlueprintPage(
+    final route = MaterialPageRoute(builder: (ct) => WeaponBuildPage(
       name: name,
       image: image,
       rarity: rarity,

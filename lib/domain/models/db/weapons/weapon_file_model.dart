@@ -61,6 +61,8 @@ class WeaponFileCamoModel with _$WeaponFileCamoModel {
     required String source,
     String? imageUrl,
     required int rarity,
+    required String weaponKey,
+    required bool isComingSoon,
   }) = _WeaponFileCamoModel;
 
   WeaponFileCamoModel._();

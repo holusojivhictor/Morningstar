@@ -29,6 +29,7 @@ abstract class MorningStarService {
   List<String> getUpComingKeys();
 
   List<TodayTopPickSoldierModel> getTopPickSoldiers(int day);
+  List<TodayTopPickWeaponModel> getTopPickWeapons(int day);
 
   String getItemImageFromNotificationType(String itemKey, AppNotificationType notificationType, {AppNotificationItemType? notificationItemType});
   String getItemImageFromNotificationItemType(String itemKey, AppNotificationItemType notificationItemType);

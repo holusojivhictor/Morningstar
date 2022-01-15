@@ -1,7 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
 import 'package:bloc/bloc.dart';
-import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
+import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
 
@@ -31,9 +31,11 @@ class TodayTopPicksBloc extends Bloc<TodayTopPicksEvent, TodayTopPicksState> {
     final s = event.when(
       init: () {
         final soldierPicks = <TodayTopPickSoldierModel>[];
+        final weaponPicks = <TodayTopPickWeaponModel>[];
 
         for (final day in days) {
           final soldierPicksForDay = _morningStarService.getTopPickSoldiers(day);
+          final weaponPicksForDay = _morningStarService.getTopPickWeapons(day);
 
           for (final soldierPick in soldierPicksForDay) {
             if (soldierPicks.any((s) => s.name == soldierPick.name)) {
@@ -41,9 +43,16 @@ class TodayTopPicksBloc extends Bloc<TodayTopPicksEvent, TodayTopPicksState> {
             }
             soldierPicks.add(soldierPick);
           }
+
+          for (final weaponPick in weaponPicksForDay) {
+            if (weaponPicks.any((w) => w.name == weaponPick.name)) {
+              continue;
+            }
+            weaponPicks.add(weaponPick);
+          }
         }
 
-        return TodayTopPicksState.loaded(topPicksSoldiers: soldierPicks);
+        return TodayTopPicksState.loaded(topPicksSoldiers: soldierPicks, topPicksWeapons: weaponPicks);
       },
     );
 

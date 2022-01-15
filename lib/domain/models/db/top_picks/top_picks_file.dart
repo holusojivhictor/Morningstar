@@ -1,16 +1,18 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import 'top_pick_file_model.dart';
+import '../../models.dart';
 
 part 'top_picks_file.freezed.dart';
 part 'top_picks_file.g.dart';
 
 @freezed
 class TopPicksFile with _$TopPicksFile {
-  List<TopPickFileModel> get topPicks => topPicksSoldiers;
+  List<TopPickSoldierFileModel> get soldiers => topPicksSoldiers;
+  List<TopPickWeaponFileModel> get weapons => topPicksWeapons;
 
   factory TopPicksFile({
-    required List<TopPickFileModel> topPicksSoldiers,
+    required List<TopPickSoldierFileModel> topPicksSoldiers,
+    required List<TopPickWeaponFileModel> topPicksWeapons,
   }) = _TopPicksFile;
 
   TopPicksFile._();

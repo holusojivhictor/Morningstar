@@ -80,6 +80,7 @@ class Styles {
   }
 
   static const double materialCardHeight = 360;
+  static const double materialWeaponCardHeight = 180;
   static const double materialCardWidth = 220;
   static const double homeCardHeight = 170;
   static const double homeCardWidth = 280;

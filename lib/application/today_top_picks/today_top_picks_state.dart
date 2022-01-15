@@ -5,5 +5,6 @@ class TodayTopPicksState with _$TodayTopPicksState {
   const factory TodayTopPicksState.loading() =_LoadingState;
   const factory TodayTopPicksState.loaded({
     required List<TodayTopPickSoldierModel> topPicksSoldiers,
+    required List<TodayTopPickWeaponModel> topPicksWeapons,
   }) = _LoadedState;
 }

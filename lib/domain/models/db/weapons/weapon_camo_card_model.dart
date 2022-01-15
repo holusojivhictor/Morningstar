@@ -10,6 +10,8 @@ class WeaponCamoCardModel {
   final String source;
   final String? imageUrl;
   final int rarity;
+  final String weaponKey;
+  final bool isComingSoon;
 
   WeaponCamoCardModel({
     required this.name,
@@ -17,5 +19,7 @@ class WeaponCamoCardModel {
     required this.source,
     required this.imageUrl,
     required this.rarity,
+    required this.weaponKey,
+    required this.isComingSoon,
   });
 }

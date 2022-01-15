@@ -1,12 +1,12 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
-part 'top_pick_file_model.freezed.dart';
-part 'top_pick_file_model.g.dart';
+part 'top_pick_soldier_file_model.freezed.dart';
+part 'top_pick_soldier_file_model.g.dart';
 
 @freezed
-class TopPickFileModel with _$TopPickFileModel {
-  factory TopPickFileModel({
+class TopPickSoldierFileModel with _$TopPickSoldierFileModel {
+  factory TopPickSoldierFileModel({
     required String key,
     required int rarity,
     required String imageUrl,
@@ -17,9 +17,9 @@ class TopPickFileModel with _$TopPickFileModel {
     required bool isNew,
     required List<int> days,
     required bool hasSiblings,
-  }) = _TopPickFileModel;
+  }) = _TopPickSoldierFileModel;
 
-  TopPickFileModel._();
+  TopPickSoldierFileModel._();
 
-  factory TopPickFileModel.fromJson(Map<String, dynamic> json) => _$TopPickFileModelFromJson(json);
+  factory TopPickSoldierFileModel.fromJson(Map<String, dynamic> json) => _$TopPickSoldierFileModelFromJson(json);
 }

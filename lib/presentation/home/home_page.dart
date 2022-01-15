@@ -5,6 +5,7 @@ import 'package:morningstar/presentation/home/widgets/notifications_card.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_main_title.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_main_title.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_soldiers.dart';
+import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_weapons.dart';
 import 'package:morningstar/presentation/today_top_picks/today_top_picks_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
@@ -34,6 +35,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
           _buildClickableTitle('Soldiers Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
           const SliverTodayTopPicksSoldiers(),
           _buildClickableTitle('Weapons Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
+          const SliverTodayTopPicksWeapons(),
           const SliverMainTitle(title: 'Tools'),
           SliverToBoxAdapter(
             child: SizedBox(
