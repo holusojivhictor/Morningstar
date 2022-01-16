@@ -1,9 +1,11 @@
 import 'package:collection/collection.dart' show IterableExtension;
+import 'package:morningstar/presentation/shared/extensions/iterable_extensions.dart';
 import 'package:darq/darq.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/models/entities/tier_list/tier_list_item.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
@@ -14,6 +16,7 @@ class DataServiceImpl implements DataService {
 
   late Box<InventoryItem> _inventoryBox;
   late Box<InventoryUsedItem> _inventoryUsedItemsBox;
+  late Box<TierListItem> _tierListBox;
 
   late Box<NotificationCustom> _notificationsCustomBox;
 
@@ -29,6 +32,7 @@ class DataServiceImpl implements DataService {
       _registerAdapters();
       _inventoryBox = await Hive.openBox<InventoryItem>('inventory');
       _inventoryUsedItemsBox = await Hive.openBox<InventoryUsedItem>('inventoryUsedItems');
+      _tierListBox = await Hive.openBox<TierListItem>('tierList');
 
       _notificationsCustomBox = await Hive.openBox('notificationsCustom');
     });
@@ -39,6 +43,7 @@ class DataServiceImpl implements DataService {
     await _deleteAllLock.synchronized(() async {
       await _inventoryBox.clear();
       await _inventoryUsedItemsBox.clear();
+      await _tierListBox.clear();
 
       await _notificationsCustomBox.clear();
     });
@@ -150,6 +155,31 @@ class DataServiceImpl implements DataService {
 
   InventoryItem? _getItemFromInventory(String key, ItemType type) {
     return _inventoryBox.values.firstWhereOrNull((el) => el.itemKey == key && el.type == type.index);
+  }
+
+  @override
+  List<TierListRowModel> getTierList() {
+    final values = _tierListBox.values.toList()..sort((x, y) => x.position.compareTo(y.position));
+    return values.map((e) {
+      final weapons = e.weaponKeys.map((e) {
+        final weapon = _morningStarService.getWeapon(e);
+        return ItemCommon(weapon.key, weapon.fullImagePath);
+      }).toList();
+      return TierListRowModel.row(tierText: e.text, tierColor: e.color, items: weapons);
+    }).toList();
+  }
+
+  @override
+  Future<void> saveTierList(List<TierListRowModel> tierList) async {
+    await deleteTierList();
+    final toSave = tierList.mapIndex((e, i) => TierListItem(e.tierText, e.tierColor, i, e.items.map((i) => i.key).toList())).toList();
+    await _tierListBox.addAll(toSave);
+  }
+
+  @override
+  Future<void> deleteTierList() async {
+    final keys = _tierListBox.values.map((e) => e.key);
+    await _tierListBox.deleteAll(keys);
   }
 
   @override
@@ -372,5 +402,6 @@ class DataServiceImpl implements DataService {
     Hive.registerAdapter(InventoryItemAdapter());
     Hive.registerAdapter(InventoryUsedItemAdapter());
     Hive.registerAdapter(NotificationCustomAdapter());
+    Hive.registerAdapter(TierListItemAdapter());
   }
 }

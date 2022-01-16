@@ -14,6 +14,10 @@ abstract class TelemetryService {
 
   Future<void> trackWeaponLoaded(String value);
 
+  Future<void> trackTierListOpened();
+
+  Future<void> trackTierListBuilderScreenshotTaken();
+
   Future<void> trackItemAddedToInventory(String key, int quantity);
 
   Future<void> trackItemUpdatedInInventory(String key, int quantity);

@@ -100,6 +100,50 @@ class MorningStarServiceImpl implements MorningStarService {
   }
 
   @override
+  List<TierListRowModel> getDefaultWeaponTierList(List<int> colors) {
+    assert(colors.length == 7);
+
+    final sssTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'sss')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final ssTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'ss')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final sTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 's')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final aTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'a')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final bTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'b')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final cTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'c')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+    final dTier = _weaponsFile.weapons
+        .where((weapon) => !weapon.isComingSoon && weapon.tier == 'd')
+        .map((weapon) => ItemCommon(weapon.key, Assets.getWeaponCloudAll(weapon.imageUrl)))
+        .toList();
+
+    return <TierListRowModel>[
+      TierListRowModel.row(tierText: 'SSS', tierColor: colors.first, items: sssTier),
+      TierListRowModel.row(tierText: 'SS', tierColor: colors[1], items: ssTier),
+      TierListRowModel.row(tierText: 'S', tierColor: colors[2], items: sTier),
+      TierListRowModel.row(tierText: 'A', tierColor: colors[3], items: aTier),
+      TierListRowModel.row(tierText: 'B', tierColor: colors[4], items: bTier),
+      TierListRowModel.row(tierText: 'C', tierColor: colors[5], items: cTier),
+      TierListRowModel.row(tierText: 'D', tierColor: colors.last, items: dTier),
+    ];
+  }
+
+  @override
   List<WeaponCardModel> getWeaponsForCard() {
     return _weaponsFile.weapons.map((e) => _toWeaponForCard(e)).toList();
   }

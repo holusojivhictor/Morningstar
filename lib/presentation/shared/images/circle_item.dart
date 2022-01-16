@@ -1,4 +1,6 @@
+import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:transparent_image/transparent_image.dart';
 
 class CircleItem extends StatelessWidget {
@@ -7,6 +9,7 @@ class CircleItem extends StatelessWidget {
   final bool forDrag;
   final bool imageSizeTimesTwo;
   final Function(String)? onTap;
+  final bool isTierItem;
 
   const CircleItem({
     Key? key,
@@ -15,6 +18,7 @@ class CircleItem extends StatelessWidget {
     this.forDrag = false,
     this.imageSizeTimesTwo = true,
     this.onTap,
+    this.isTierItem = false,
   }) : super(key: key);
 
   @override
@@ -23,16 +27,26 @@ class CircleItem extends StatelessWidget {
     final size = imageSizeTimesTwo ? radius * 2 : radius;
     final avatar = CircleAvatar(
       radius: radius,
-      backgroundColor: Colors.transparent,
+      backgroundColor: isTierItem ? Colors.black.withOpacity(0.1) : Colors.transparent,
       child: ClipOval(
-        child: FadeInImage(
-          placeholder: MemoryImage(kTransparentImage),
-          image: AssetImage(image),
-          fit: BoxFit.cover,
-          alignment: Alignment.topCenter,
-          height: size,
-          width: size,
-        ),
+        child: isTierItem
+            ? FadeInImage(
+                fadeInDuration: const Duration(milliseconds: 300),
+                placeholder: MemoryImage(kTransparentImage),
+                image: CachedNetworkImageProvider('$weaponsImageUrl$image'),
+                fit: BoxFit.contain,
+                alignment: Alignment.center,
+                height: size,
+                width: size,
+              )
+            : FadeInImage(
+                placeholder: MemoryImage(kTransparentImage),
+                image: AssetImage(image),
+                fit: BoxFit.cover,
+                alignment: Alignment.topCenter,
+                height: size,
+                width: size,
+              ),
       ),
     );
 

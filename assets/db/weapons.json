@@ -1028,7 +1028,8 @@
           "unlockLevel": 49
         }
       ],
-      "imageUrl": "weapon_7746.png"
+      "imageUrl": "weapon_7746.png",
+      "tier": "d"
     },
     {
       "key": "ak-47",
@@ -2821,7 +2822,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_440.png"
+      "imageUrl": "weapon_440.png",
+      "tier": "a"
     },
     {
       "key": "ak117",
@@ -4522,7 +4524,8 @@
           "unlockLevel": 55
         }
       ],
-      "imageUrl": "weapon_429.png"
+      "imageUrl": "weapon_429.png",
+      "tier": "b"
     },
     {
       "key": "as val",
@@ -5492,7 +5495,8 @@
           "unlockLevel": 47
         }
       ],
-      "imageUrl": "weapon_9838.png"
+      "imageUrl": "weapon_9838.png",
+      "tier": "s"
     },
     {
       "key": "asm10",
@@ -7032,7 +7036,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_410.png"
+      "imageUrl": "weapon_410.png",
+      "tier": "a"
     },
     {
       "key": "arctic .50",
@@ -8584,7 +8589,8 @@
           "unlockLevel": 36
         }
       ],
-      "imageUrl": "weapon_426.png"
+      "imageUrl": "weapon_426.png",
+      "tier": "sss"
     },
     {
       "key": "bk57",
@@ -10113,7 +10119,8 @@
           "unlockLevel": 53
         }
       ],
-      "imageUrl": "weapon_6077.png"
+      "imageUrl": "weapon_6077.png",
+      "tier": "d"
     },
     {
       "key": "by15",
@@ -11545,7 +11552,8 @@
           "unlockLevel": 50
         }
       ],
-      "imageUrl": "weapon_443.png"
+      "imageUrl": "weapon_443.png",
+      "tier": "a"
     },
     {
       "key": "cr-56 amax",
@@ -12497,7 +12505,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_11957.png"
+      "imageUrl": "weapon_11957.png",
+      "tier": "ss"
     },
     {
       "key": "chicom",
@@ -13827,7 +13836,8 @@
           "unlockLevel": 48
         }
       ],
-      "imageUrl": "weapon_6079.png"
+      "imageUrl": "weapon_6079.png",
+      "tier": "s"
     },
     {
       "key": "chopper",
@@ -15006,7 +15016,8 @@
           "unlockLevel": 55
         }
       ],
-      "imageUrl": "weapon_1957.png"
+      "imageUrl": "weapon_1957.png",
+      "tier": "s"
     },
     {
       "key": "cordite",
@@ -16189,7 +16200,8 @@
           "unlockLevel": 46
         }
       ],
-      "imageUrl": "weapon_30.png"
+      "imageUrl": "weapon_30.png",
+      "tier": "b"
     },
     {
       "key": "dl q33",
@@ -17657,7 +17669,8 @@
           "unlockLevel": 33
         }
       ],
-      "imageUrl": "weapon_475.png"
+      "imageUrl": "weapon_475.png",
+      "tier": "sss"
     },
     {
       "key": "dr-h",
@@ -18930,7 +18943,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_2320.png"
+      "imageUrl": "weapon_2320.png",
+      "tier": "sss"
     },
     {
       "key": "echo",
@@ -20023,7 +20037,8 @@
           "unlockLevel": 45
         }
       ],
-      "imageUrl": "weapon_6281.png"
+      "imageUrl": "weapon_6281.png",
+      "tier": "ss"
     },
     {
       "key": "fr .556",
@@ -21035,7 +21050,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_9223.png"
+      "imageUrl": "weapon_9223.png",
+      "tier": "sss"
     },
     {
       "key": "fennec",
@@ -22084,7 +22100,8 @@
           "unlockLevel": 53
         }
       ],
-      "imageUrl": "weapon_7205.png"
+      "imageUrl": "weapon_7205.png",
+      "tier": "a"
     },
     {
       "key": "gks",
@@ -23211,7 +23228,8 @@
           "unlockLevel": 49
         }
       ],
-      "imageUrl": "weapon_1144.png"
+      "imageUrl": "weapon_1144.png",
+      "tier": "c"
     },
     {
       "key": "hbra3",
@@ -24418,7 +24436,8 @@
           "unlockLevel": 53
         }
       ],
-      "imageUrl": "weapon_2357.png"
+      "imageUrl": "weapon_2357.png",
+      "tier": "c"
     },
     {
       "key": "hg 40",
@@ -25994,7 +26013,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_435.png"
+      "imageUrl": "weapon_435.png",
+      "tier": "b"
     },
     {
       "key": "hs0405",
@@ -27288,7 +27308,8 @@
           "unlockLevel": 41
         }
       ],
-      "imageUrl": "weapon_6082.png"
+      "imageUrl": "weapon_6082.png",
+      "tier": "c"
     },
     {
       "key": "hs2126",
@@ -28385,7 +28406,8 @@
           "unlockLevel": 44
         }
       ],
-      "imageUrl": "weapon_6076.png"
+      "imageUrl": "weapon_6076.png",
+      "tier": "c"
     },
     {
       "key": "hvk-30",
@@ -29546,7 +29568,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_1851.png"
+      "imageUrl": "weapon_1851.png",
+      "tier": "ss"
     },
     {
       "key": "hades",
@@ -30416,7 +30439,8 @@
           "unlockLevel": 46
         }
       ],
-      "imageUrl": "weapon_13497.png"
+      "imageUrl": "weapon_13497.png",
+      "tier": "ss"
     },
     {
       "key": "holger 26",
@@ -31370,7 +31394,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_11270.png"
+      "imageUrl": "weapon_11270.png",
+      "tier": "c"
     },
     {
       "key": "icr-1",
@@ -32656,7 +32681,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_5947.png"
+      "imageUrl": "weapon_5947.png",
+      "tier": "s"
     },
     {
       "key": "kn-44",
@@ -33887,7 +33913,8 @@
           "unlockLevel": 53
         }
       ],
-      "imageUrl": "weapon_1486.png"
+      "imageUrl": "weapon_1486.png",
+      "tier": "sss"
     },
     {
       "key": "krm 262",
@@ -34898,7 +34925,8 @@
           "unlockLevel": 48
         }
       ],
-      "imageUrl": "weapon_2557.png"
+      "imageUrl": "weapon_2557.png",
+      "tier": "ss"
     },
     {
       "key": "kilo bolt-action",
@@ -35895,7 +35923,8 @@
           "unlockLevel": 35
         }
       ],
-      "imageUrl": "weapon_2939.png"
+      "imageUrl": "weapon_2939.png",
+      "tier": "a"
     },
     {
       "key": "lk24",
@@ -37520,7 +37549,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_424.png"
+      "imageUrl": "weapon_424.png",
+      "tier": "a"
     },
     {
       "key": "locus",
@@ -38711,7 +38741,8 @@
           "unlockLevel": 35
         }
       ],
-      "imageUrl": "weapon_25.png"
+      "imageUrl": "weapon_25.png",
+      "tier": "ss"
     },
     {
       "key": "m13",
@@ -39588,7 +39619,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_16100.png"
+      "imageUrl": "weapon_16100.png",
+      "tier": "ss"
     },
     {
       "key": "m16",
@@ -41202,7 +41234,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_6081.png"
+      "imageUrl": "weapon_6081.png",
+      "tier": "d"
     },
     {
       "key": "m21 ebr",
@@ -42479,7 +42512,8 @@
           "unlockLevel": 38
         }
       ],
-      "imageUrl": "weapon_439.png"
+      "imageUrl": "weapon_439.png",
+      "tier": "d"
     },
     {
       "key": "m4",
@@ -44309,7 +44343,8 @@
           "unlockLevel": 55
         }
       ],
-      "imageUrl": "weapon_476.png"
+      "imageUrl": "weapon_476.png",
+      "tier": "ss"
     },
     {
       "key": "m4lmg",
@@ -45862,7 +45897,8 @@
           "unlockLevel": 48
         }
       ],
-      "imageUrl": "weapon_5948.png"
+      "imageUrl": "weapon_5948.png",
+      "tier": "ss"
     },
     {
       "key": "mk2",
@@ -46752,7 +46788,8 @@
           "unlockLevel": 43
         }
       ],
-      "imageUrl": "weapon_11269.png"
+      "imageUrl": "weapon_11269.png",
+      "tier": "d"
     },
     {
       "key": "msmc",
@@ -48258,7 +48295,8 @@
           "unlockLevel": 50
         }
       ],
-      "imageUrl": "weapon_6080.png"
+      "imageUrl": "weapon_6080.png",
+      "tier": "ss"
     },
     {
       "key": "mx9",
@@ -49153,7 +49191,8 @@
           "unlockLevel": 46
         }
       ],
-      "imageUrl": "weapon_12934.png"
+      "imageUrl": "weapon_12934.png",
+      "tier": "d"
     },
     {
       "key": "man-o-war",
@@ -50321,7 +50360,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_1721.png"
+      "imageUrl": "weapon_1721.png",
+      "tier": "sss"
     },
     {
       "key": "na-45",
@@ -51290,7 +51330,8 @@
           "unlockLevel": 37
         }
       ],
-      "imageUrl": "weapon_7206.png"
+      "imageUrl": "weapon_7206.png",
+      "tier": "a"
     },
     {
       "key": "outlaw",
@@ -52322,7 +52363,8 @@
           "unlockLevel": 38
         }
       ],
-      "imageUrl": "weapon_201.png"
+      "imageUrl": "weapon_201.png",
+      "tier": "b"
     },
     {
       "key": "pdw-57",
@@ -53897,7 +53939,8 @@
           "unlockLevel": 44
         }
       ],
-      "imageUrl": "weapon_422.png"
+      "imageUrl": "weapon_422.png",
+      "tier": "c"
     },
     {
       "key": "pp19 bizon",
@@ -54834,7 +54877,8 @@
           "unlockLevel": 44
         }
       ],
-      "imageUrl": "weapon_10536.png"
+      "imageUrl": "weapon_10536.png",
+      "tier": "sss"
     },
     {
       "key": "peacekeeper mk2",
@@ -55843,7 +55887,8 @@
           "unlockLevel": 53
         }
       ],
-      "imageUrl": "weapon_8573.png"
+      "imageUrl": "weapon_8573.png",
+      "tier": "c"
     },
     {
       "key": "pharo",
@@ -56965,7 +57010,8 @@
           "unlockLevel": 49
         }
       ],
-      "imageUrl": "weapon_16.png"
+      "imageUrl": "weapon_16.png",
+      "tier": "sss"
     },
     {
       "key": "qq9",
@@ -58177,7 +58223,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_1628.png"
+      "imageUrl": "weapon_1628.png",
+      "tier": "sss"
     },
     {
       "key": "qxr",
@@ -59200,7 +59247,8 @@
           "unlockLevel": 50
         }
       ],
-      "imageUrl": "weapon_8574.png"
+      "imageUrl": "weapon_8574.png",
+      "tier": "b"
     },
     {
       "key": "r9-0",
@@ -59819,7 +59867,8 @@
         }
       ],
       "attachments": [],
-      "imageUrl": "weapon_14175.png"
+      "imageUrl": "weapon_14175.png",
+      "tier": "b"
     },
     {
       "key": "rpd",
@@ -61241,7 +61290,8 @@
           "unlockLevel": 52
         }
       ],
-      "imageUrl": "weapon_441.png"
+      "imageUrl": "weapon_441.png",
+      "tier": "ss"
     },
     {
       "key": "rus-79u",
@@ -62741,7 +62791,8 @@
           "unlockLevel": 50
         }
       ],
-      "imageUrl": "weapon_444.png"
+      "imageUrl": "weapon_444.png",
+      "tier": "s"
     },
     {
       "key": "razorback",
@@ -63863,7 +63914,8 @@
           "unlockLevel": 44
         }
       ],
-      "imageUrl": "weapon_6083.png"
+      "imageUrl": "weapon_6083.png",
+      "tier": "a"
     },
     {
       "key": "rytec amr",
@@ -64670,7 +64722,8 @@
           "unlockLevel": 33
         }
       ],
-      "imageUrl": "weapon_12896.png"
+      "imageUrl": "weapon_12896.png",
+      "tier": "s"
     },
     {
       "key": "s36",
@@ -66069,7 +66122,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_413.png"
+      "imageUrl": "weapon_413.png",
+      "tier": "c"
     },
     {
       "key": "sks",
@@ -66992,7 +67046,8 @@
           "unlockLevel": 39
         }
       ],
-      "imageUrl": "weapon_9222.png"
+      "imageUrl": "weapon_9222.png",
+      "tier": "sss"
     },
     {
       "key": "sp-r 208",
@@ -67939,7 +67994,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_9839.png"
+      "imageUrl": "weapon_9839.png",
+      "tier": "a"
     },
     {
       "key": "striker",
@@ -69302,7 +69358,8 @@
           "unlockLevel": 44
         }
       ],
-      "imageUrl": "weapon_432.png"
+      "imageUrl": "weapon_432.png",
+      "tier": "d"
     },
     {
       "key": "swordfish",
@@ -69921,7 +69978,8 @@
         }
       ],
       "attachments": [],
-      "imageUrl": "weapon_16112.png"
+      "imageUrl": "weapon_16112.png",
+      "tier": "c"
     },
     {
       "key": "type 25",
@@ -71340,7 +71398,8 @@
           "unlockLevel": 54
         }
       ],
-      "imageUrl": "weapon_416.png"
+      "imageUrl": "weapon_416.png",
+      "tier": "d"
     },
     {
       "key": "ul736",
@@ -72806,7 +72865,8 @@
           "unlockLevel": 51
         }
       ],
-      "imageUrl": "weapon_414.png"
+      "imageUrl": "weapon_414.png",
+      "tier": "ss"
     },
     {
       "key": "xpr-50",
@@ -73974,7 +74034,8 @@
           "unlockLevel": 38
         }
       ],
-      "imageUrl": "weapon_6078.png"
+      "imageUrl": "weapon_6078.png",
+      "tier": "a"
     }
   ]
 }

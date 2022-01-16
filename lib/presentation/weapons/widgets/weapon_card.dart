@@ -157,7 +157,7 @@ class WeaponCard extends StatelessWidget {
     return InkWell(
       borderRadius: Styles.mainWeaponCardBorderRadius,
       onTap: () => isBuild
-          ? _goToBuildPage(context, name: name, image: image, rarity: rarity, elementType: elementType)
+          ? _goToBuildPage(context)
           : _goToWeaponPage(context),
       child: GradientCard(
         clipBehavior: Clip.hardEdge,
@@ -269,13 +269,7 @@ class WeaponCard extends StatelessWidget {
     bloc.pop();
   }
 
-  Future<void> _goToBuildPage(BuildContext context, {
-    required String name,
-    required String image,
-    required int rarity,
-    required ElementType elementType,
-  }) async {
-
+  Future<void> _goToBuildPage(BuildContext context) async {
     final bloc = context.read<WeaponBloc>();
     bloc.add(WeaponEvent.loadFromKey(key: keyName));
     final route = MaterialPageRoute(builder: (ct) => WeaponBuildPage(

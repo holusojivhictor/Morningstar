@@ -13,6 +13,7 @@ abstract class MorningStarService {
   SoldierCardModel getSoldierForCard(String key);
   SoldierFileModel getSoldier(String key);
   List<String> getUpcomingSoldiersKeys();
+  List<TierListRowModel> getDefaultWeaponTierList(List<int> colors);
 
   List<WeaponCardModel> getWeaponsForCard();
   WeaponCardModel getWeaponForCard(String key);

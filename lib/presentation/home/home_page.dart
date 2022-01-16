@@ -6,6 +6,7 @@ import 'package:morningstar/presentation/home/widgets/sliver_main_title.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_main_title.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_soldiers.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_weapons.dart';
+import 'package:morningstar/presentation/home/widgets/tier_list_card.dart';
 import 'package:morningstar/presentation/today_top_picks/today_top_picks_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
@@ -48,6 +49,18 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
               ),
             ),
           ),
+          const SliverMainTitle(title: 'More'),
+          SliverToBoxAdapter(
+            child: SizedBox(
+              height: Styles.homeCardHeight,
+              child: ListView.builder(
+                physics: const BouncingScrollPhysics(),
+                scrollDirection: Axis.horizontal,
+                itemCount: 1,
+                itemBuilder: (context, index) => _buildMoreSectionMenu(index),
+              ),
+            ),
+          ),
         ],
       ),
     );
@@ -59,6 +72,15 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
         return const MyInventoryCard(iconToTheLeft: true);
       case 1:
         return const NotificationsCard(iconToTheLeft: true);
+      default:
+        throw Exception('Invalid tool section');
+    }
+  }
+
+  Widget _buildMoreSectionMenu(int index) {
+    switch (index) {
+      case 0:
+        return const TierListCard(iconToTheLeft: true);
       default:
         throw Exception('Invalid tool section');
     }

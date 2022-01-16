@@ -23,6 +23,7 @@ class WeaponFileModel with _$WeaponFileModel {
     required double mobility,
     required double control,
     required bool isComingSoon,
+    required String tier,
     required List<WeaponFileBlueprintModel> blueprints,
     required List<WeaponFileCamoModel> camos,
     required List<WeaponFileAttachmentModel> attachments,

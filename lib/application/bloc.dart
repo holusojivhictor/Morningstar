@@ -13,3 +13,5 @@ export 'settings/settings_bloc.dart';
 export 'changelog/changelog_bloc.dart';
 export 'video_preload/preload_bloc.dart';
 export 'weapon/weapon_bloc.dart';
+export 'tier_list/tier_list_bloc.dart';
+export 'tier_list_form/tier_list_form_bloc.dart';

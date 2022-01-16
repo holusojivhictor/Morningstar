@@ -22,6 +22,12 @@ abstract class DataService {
 
   bool isItemInInventory(String key, ItemType type);
 
+  List<TierListRowModel> getTierList();
+
+  Future<void> saveTierList(List<TierListRowModel> tierList);
+
+  Future<void> deleteTierList();
+
   List<NotificationItem> getAllNotifications();
 
   NotificationItem getNotification(int key, AppNotificationType type);

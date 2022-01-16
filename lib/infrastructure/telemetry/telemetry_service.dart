@@ -52,6 +52,12 @@ class TelemetryServiceImpl implements TelemetryService {
   }
 
   @override
+  Future<void> trackTierListOpened() => trackEventAsync('TierListBuilder-Opened');
+  
+  @override
+  Future<void> trackTierListBuilderScreenshotTaken() => trackEventAsync('TierListBuilder-ScreenshotTaken');
+
+  @override
   Future<void> trackItemAddedToInventory(String key, int quantity) => trackEventAsync('MyInventory-Added', {'Key_Qty': '${key}_$quantity'});
 
   @override

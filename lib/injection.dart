@@ -32,6 +32,17 @@ class Injection {
     return PreloadBloc();
   }
 
+  static TierListBloc get tierListBloc {
+    final morningStarService = getIt<MorningStarService>();
+    final dataService = getIt<DataService>();
+    final telemetryService = getIt<TelemetryService>();
+    return TierListBloc(morningStarService, dataService, telemetryService);
+  }
+
+  static TierListFormBloc get tierListFormBloc {
+    return TierListFormBloc();
+  }
+
   static NotificationTimerBloc get notificationTimerBloc {
     return NotificationTimerBloc();
   }
