@@ -5,15 +5,16 @@ import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
 import 'package:morningstar/infrastructure/telemetry/flutter_appcenter_bundle.dart';
 
+import 'secrets.dart';
+
 class TelemetryServiceImpl implements TelemetryService {
   final DeviceInfoService _deviceInfoService;
 
   TelemetryServiceImpl(this._deviceInfoService);
 
-  // Only call this function from main.dart
   @override
   Future<void> initTelemetry() async {
-    // await AppCenter.startAsync(appSecretAndroid: Secrets.appCenterKey, appSecretIOS: '');
+    await AppCenter.startAsync(appSecretAndroid: Secrets.appCenterKey, appSecretIOS: '');
   }
 
   @override

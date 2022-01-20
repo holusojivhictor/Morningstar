@@ -27,6 +27,7 @@ class TodayTopPicksBloc extends Bloc<TodayTopPicksEvent, TodayTopPicksState> {
 
   @override
   Stream<TodayTopPicksState> mapEventToState(TodayTopPicksEvent event) async* {
+    // TODO: Implement telemetry with app secret
     await _telemetryService.trackTopPicksOpened();
     final s = event.when(
       init: () {

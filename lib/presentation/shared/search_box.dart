@@ -42,7 +42,7 @@ class _SearchBoxState extends State<SearchBox> {
     final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
     final maxWidth = MediaQuery.of(context).size.width;
     final device = getDeviceType(MediaQuery.of(context).size);
-    final maxSize = device == DeviceScreenType.mobile && isPortrait ? maxWidth : maxWidth * 0.7;
+    final maxSize = device == DeviceScreenType.mobile && isPortrait ? maxWidth : maxWidth * 0.98;
 
     return Container(
       constraints: BoxConstraints(maxWidth: maxSize),

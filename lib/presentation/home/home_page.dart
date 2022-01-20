@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/presentation/home/widgets/my_inventory_card.dart';
 import 'package:morningstar/presentation/home/widgets/notifications_card.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_main_title.dart';
@@ -10,7 +9,6 @@ import 'package:morningstar/presentation/home/widgets/tier_list_card.dart';
 import 'package:morningstar/presentation/today_top_picks/today_top_picks_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'widgets/gif_image_box.dart';
 
@@ -28,11 +26,13 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
   @override
   Widget build(BuildContext context) {
     super.build(context);
+    final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
     return ResponsiveBuilder(
       builder: (ctx, size) => CustomScrollView(
         slivers: [
           const SliverTodayMainTitle(),
-          const GifImage(),
+          if (isPortrait)
+            const GifImage(),
           _buildClickableTitle('Soldiers Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
           const SliverTodayTopPicksSoldiers(),
           _buildClickableTitle('Weapons Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
@@ -114,7 +114,6 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
   }
 
   Future<void> _goToTopPicksPage(BuildContext context) async {
-    context.read<TodayTopPicksBloc>().add(const TodayTopPicksEvent.init());
     await Navigator.push(context, MaterialPageRoute(builder: (_) => const TodayTopPicksPage()));
   }
 }

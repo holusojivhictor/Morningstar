@@ -43,6 +43,7 @@ class _MainTabPageState extends State<MainTabPage> with SingleTickerProviderStat
     context.read<SoldiersBloc>().add(const SoldiersEvent.init());
     context.read<WeaponsBloc>().add(const WeaponsEvent.init());
     context.read<SettingsBloc>().add(const SettingsEvent.init());
+    context.read<TodayTopPicksBloc>().add(const TodayTopPicksEvent.init());
 
     if (widget.showChangelog) {
       WidgetsBinding.instance?.addPostFrameCallback((_) {
