@@ -238,23 +238,6 @@ class WeaponCard extends StatelessWidget {
     );
   }
 
-  LinearGradient getRarityGradient() {
-    final colors = getRarityColors();
-    return LinearGradient(
-      colors: colors,
-      begin: Alignment.topLeft,
-      end: Alignment.bottomRight,
-    );
-  }
-
-  List<Color> getRarityColors() {
-    return const [
-      Color.fromARGB(255, 92, 85, 131),
-      Color.fromARGB(255, 131, 108, 168),
-      Color.fromARGB(255, 179, 131, 197),
-    ];
-  }
-
   Future<void> _goToWeaponPage(BuildContext context) async {
     if (isInSelectionMode) {
       Navigator.pop(context, keyName);
@@ -270,8 +253,6 @@ class WeaponCard extends StatelessWidget {
   }
 
   Future<void> _goToBuildPage(BuildContext context) async {
-    final bloc = context.read<WeaponBloc>();
-    bloc.add(WeaponEvent.loadFromKey(key: keyName));
     final route = MaterialPageRoute(builder: (ct) => WeaponBuildPage(
       name: name,
       image: image,

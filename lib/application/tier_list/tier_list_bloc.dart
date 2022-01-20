@@ -1,6 +1,7 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/domain/services/data_service.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
 
@@ -16,6 +17,7 @@ class TierListBloc extends Bloc<TierListEvent, TierListState> {
   final MorningStarService _morningStarService;
   final DataService _dataService;
   final TelemetryService _telemetryService;
+  final LoggingService _loggingService;
 
   static final List<int> defaultColors = [
     0xfff44336,
@@ -29,7 +31,7 @@ class TierListBloc extends Bloc<TierListEvent, TierListState> {
 
   _LoadedState get currentState => state as _LoadedState;
 
-  TierListBloc(this._morningStarService, this._dataService, this._telemetryService) : super(_initialState);
+  TierListBloc(this._morningStarService, this._dataService, this._telemetryService, this._loggingService) : super(_initialState);
 
   @override
   Stream<TierListState> mapEventToState(TierListEvent event) async* {
@@ -50,8 +52,7 @@ class TierListBloc extends Bloc<TierListEvent, TierListState> {
           await _telemetryService.trackTierListBuilderScreenshotTaken();
           return _init(false);
         } else {
-          // ignore: avoid_print
-          print('Something went wrong while taking the screenshot');
+          _loggingService.error(runtimeType, 'Something went wrong while taking the tier list builder screenshot', e.ex, e.trace);
         }
 
         return currentState;

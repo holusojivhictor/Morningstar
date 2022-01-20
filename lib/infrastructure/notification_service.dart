@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_native_timezone/flutter_native_timezone.dart';
 import 'package:morningstar/domain/enums/enums.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/notification_service.dart';
 import 'package:timezone/timezone.dart' as tz;
 import 'package:timezone/data/latest_all.dart' as tz;
@@ -17,10 +18,12 @@ const _largeIcon = 'morningstar';
 const _fallbackTimeZone = 'Africa/Accra';
 
 class NotificationServiceImpl implements NotificationService {
+  final LoggingService _loggingService;
+
   final _flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
   late tz.Location _location;
 
-  NotificationServiceImpl();
+  NotificationServiceImpl(this._loggingService);
 
   @override
   Future<void> init() async {
@@ -34,9 +37,11 @@ class NotificationServiceImpl implements NotificationService {
       _location = tz.getLocation(currentTimeZone);
       tz.setLocalLocation(_location);
     } on tz.LocationNotFoundException catch (e) {
+      _loggingService.info(runtimeType, 'init: ${e.msg}, assigning the generic one.');
       //https://github.com/srawlins/timezone/issues/92
       _setDefaultTimeZone();
     } catch (e, s) {
+      _loggingService.error(runtimeType, 'init: Failed to get timezone or device is GMT or UTC, assigning the generic one.', e, s);
       _setDefaultTimeZone();
     }
   }
@@ -55,8 +60,7 @@ class NotificationServiceImpl implements NotificationService {
       final initializationSettings = InitializationSettings(android: initializationSettingsAndroid, iOS: initializationSettingsIOS);
       await _flutterLocalNotificationsPlugin.initialize(initializationSettings, onSelectNotification: onSelectNotification);
     } catch (e, s) {
-      // ignore: avoid_print
-      print('Unknown error occurred');
+      _loggingService.error(runtimeType, 'registerCallBacks: Unknown error occurred', e, s);
     }
   }
 

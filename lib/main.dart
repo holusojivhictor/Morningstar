@@ -6,6 +6,7 @@ import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/notification_service.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
@@ -90,12 +91,14 @@ class MorningStar extends StatelessWidget {
         ),
         BlocProvider(
           create: (ctx) {
+            final loggingService = getIt<LoggingService>();
             final morningStarService = getIt<MorningStarService>();
             final settingsService = getIt<SettingsService>();
             final localeService = getIt<LocaleService>();
             final telemetryService = getIt<TelemetryService>();
             final deviceInfoService = getIt<DeviceInfoService>();
             return MainBloc(
+              loggingService,
               morningStarService,
               settingsService,
               localeService,

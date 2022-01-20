@@ -1,0 +1,64 @@
+{
+  "name": "MorningstarFont",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4ebdf8e31260f03f2acf032e72502a4e",
+      "css": "bat_sword",
+      "code": 59675,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "274e659f9ccac668d365a734ea278c3b",
+      "css": "croc_sword",
+      "code": 59767,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "2a8542d683382a2f8e39ebb89db925b5",
+      "css": "dervish_swords",
+      "code": 59792,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "1594f941b806425f95be463ec0ef3adc",
+      "css": "spinning_sword",
+      "code": 60083,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "7fde84f9b0dff3b64d7ba983adac872c",
+      "css": "car",
+      "code": 61881,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "2676c2da5d2994f33c87845a819da783",
+      "css": "diamond",
+      "code": 59794,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "92073a8bc806ba62629dbf6867f4f3c7",
+      "css": "venomous_snake",
+      "code": 60127,
+      "src": "rpgawesome"
+    },
+    {
+      "uid": "b1cf2ad1fe14e7d82e4da6aa496a548d",
+      "css": "truck_monster",
+      "code": 63035,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "e9f1a4a3968111eab72aacfdce5a3d9f",
+      "css": "home",
+      "code": 62303,
+      "src": "octicons"
+    }
+  ]
+}

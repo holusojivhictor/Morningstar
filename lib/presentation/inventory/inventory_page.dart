@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:morningstar/presentation/inventory/widgets/soldiers_inventory_tab_page.dart';
 import 'package:morningstar/presentation/inventory/widgets/weapons_inventory_tab_page.dart';
+import 'package:morningstar/presentation/shared/morningstar_font_icons.dart';
 
 import 'widgets/clear_all_dialog.dart';
 
@@ -9,7 +10,7 @@ class InventoryPage extends StatelessWidget {
 
   final tabs = const [
     Tab(icon: Icon(Icons.people, color: Colors.yellowAccent)),
-    Tab(icon: Icon(Icons.local_fire_department, color: Colors.yellowAccent)),
+    Tab(icon: Icon(MorningstarFont.spinning_sword, color: Colors.yellowAccent, size: 23)),
   ];
 
   @override

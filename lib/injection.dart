@@ -3,20 +3,13 @@ import 'package:morningstar/domain/services/changelog_provider.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/network_service.dart';
 import 'package:morningstar/domain/services/notification_service.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
 import 'package:morningstar/domain/services/telemetry_service.dart';
-import 'package:morningstar/infrastructure/changelog_provider.dart';
-import 'package:morningstar/infrastructure/data_service.dart';
-import 'package:morningstar/infrastructure/device_info_service.dart';
-import 'package:morningstar/infrastructure/locale_service.dart';
-import 'package:morningstar/infrastructure/morningstar_service.dart';
-import 'package:morningstar/infrastructure/network_service.dart';
-import 'package:morningstar/infrastructure/notification_service.dart';
-import 'package:morningstar/infrastructure/settings_service.dart';
-import 'package:morningstar/infrastructure/telemetry/telemetry_service.dart';
+import 'package:morningstar/infrastructure/infrastructure.dart';
 
 import 'application/bloc.dart';
 
@@ -36,7 +29,8 @@ class Injection {
     final morningStarService = getIt<MorningStarService>();
     final dataService = getIt<DataService>();
     final telemetryService = getIt<TelemetryService>();
-    return TierListBloc(morningStarService, dataService, telemetryService);
+    final loggingService = getIt<LoggingService>();
+    return TierListBloc(morningStarService, dataService, telemetryService, loggingService);
   }
 
   static TierListFormBloc get tierListFormBloc {
@@ -62,7 +56,8 @@ class Injection {
     final localeService = getIt<LocaleService>();
     final telemetryService = getIt<TelemetryService>();
     final settingsService = getIt<SettingsService>();
-    return NotificationBloc(dataService, notificationService, morningStarService, localeService, telemetryService, settingsService, bloc);
+    final loggingService = getIt<LoggingService>();
+    return NotificationBloc(dataService, notificationService, morningStarService, localeService, telemetryService, settingsService, loggingService, bloc);
   }
 
   static Future<void> init() async {
@@ -78,7 +73,10 @@ class Injection {
     getIt.registerSingleton<TelemetryService>(telemetryService);
     await telemetryService.initTelemetry();
 
-    final settingsService = SettingsServiceImpl();
+    final loggingService = LoggingServiceImpl(getIt<TelemetryService>(), deviceInfoService);
+    getIt.registerSingleton<LoggingService>(loggingService);
+
+    final settingsService = SettingsServiceImpl(loggingService);
     await settingsService.init();
     getIt.registerSingleton<SettingsService>(settingsService);
     getIt.registerSingleton<LocaleService>(LocaleServiceImpl(getIt<SettingsService>()));
@@ -88,11 +86,11 @@ class Injection {
     await dataService.init();
     getIt.registerSingleton<DataService>(dataService);
 
-    final notificationService = NotificationServiceImpl();
+    final notificationService = NotificationServiceImpl(loggingService);
     await notificationService.init();
     getIt.registerSingleton<NotificationService>(notificationService);
 
-    final changelogProvider = ChangelogProviderImpl(networkService);
+    final changelogProvider = ChangelogProviderImpl(loggingService, networkService);
     getIt.registerSingleton<ChangelogProvider>(changelogProvider);
   }
 }

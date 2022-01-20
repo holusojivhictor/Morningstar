@@ -1,5 +1,6 @@
 import 'package:http/http.dart' as http;
 import 'package:morningstar/domain/services/changelog_provider.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/network_service.dart';
 
 const _defaultChangelog = '''
@@ -10,9 +11,10 @@ const _defaultChangelog = '''
 const _url = 'https://raw.githubusercontent.com/holusojivhictor/Morningstar/main/Changelog.md';
 
 class ChangelogProviderImpl implements ChangelogProvider {
+  final LoggingService _loggingService;
   final NetworkService _networkService;
 
-  ChangelogProviderImpl(this._networkService);
+  ChangelogProviderImpl(this._loggingService, this._networkService);
 
   @override
   Future<String> load() async {
@@ -26,7 +28,8 @@ class ChangelogProviderImpl implements ChangelogProvider {
       }
 
       return response.body;
-    } catch (e) {
+    } catch (e, s) {
+      _loggingService.error(runtimeType, 'Unknown error occurred while loading changelog', e, s);
       return _defaultChangelog;
     }
   }

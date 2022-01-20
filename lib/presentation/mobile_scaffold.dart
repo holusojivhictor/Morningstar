@@ -5,6 +5,7 @@ import 'package:morningstar/presentation/home/home_page.dart';
 import 'package:morningstar/presentation/secondary/secondary_page.dart';
 import 'package:morningstar/presentation/settings/settings_page.dart';
 import 'package:morningstar/presentation/shared/extensions/focus_scope_node_extensions.dart';
+import 'package:morningstar/presentation/shared/morningstar_font_icons.dart';
 import 'package:morningstar/presentation/soldiers/soldiers_page.dart';
 import 'package:morningstar/presentation/weapons/weapons_page.dart';
 
@@ -61,8 +62,8 @@ class _MobileScaffoldState extends State<MobileScaffold> {
         items: const [
           BottomNavigationBarItem(label: 'Home',icon: Icon(Icons.home)),
           BottomNavigationBarItem(label: 'Soldiers',icon: Icon(Icons.people)),
-          BottomNavigationBarItem(label: 'Weapons',icon: Icon(Icons.local_fire_department)),
-          BottomNavigationBarItem(label: 'Extras',icon: Icon(Icons.local_police)),
+          BottomNavigationBarItem(label: 'Weapons',icon: Icon(MorningstarFont.spinning_sword, size: 23)),
+          BottomNavigationBarItem(label: 'Extras',icon: Icon(Icons.local_fire_department)),
           BottomNavigationBarItem(label: 'Settings',icon: Icon(Icons.settings)),
         ],
         type: BottomNavigationBarType.fixed,

@@ -7,6 +7,7 @@ import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/domain/extensions/string_extensions.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/morningstar_service.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
@@ -31,6 +32,7 @@ class NotificationBloc extends Bloc<NotificationEvent, NotificationState> {
   final LocaleService _localeService;
   final TelemetryService _telemetryService;
   final SettingsService _settingsService;
+  final LoggingService _loggingService;
 
   final NotificationsBloc _notificationsBloc;
 
@@ -47,6 +49,7 @@ class NotificationBloc extends Bloc<NotificationEvent, NotificationState> {
     this._localeService,
     this._telemetryService,
     this._settingsService,
+    this._loggingService,
     this._notificationsBloc,
   ) : super(_initialState);
 
@@ -235,8 +238,7 @@ class NotificationBloc extends Bloc<NotificationEvent, NotificationState> {
         await _telemetryService.trackNotificationUpdated(state.type);
       }
     } catch (e, s) {
-      // ignore: avoid_print
-      print('Unknown error occurred while saving changes');
+      _loggingService.error(runtimeType, '_saveChanges: Unknown error while saving changes', e, s);
     }
     
     _notificationsBloc.add(const NotificationsEvent.init());

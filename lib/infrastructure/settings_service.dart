@@ -1,9 +1,9 @@
 import 'package:collection/collection.dart' show IterableExtension;
 import 'package:devicelocale/devicelocale.dart';
 import 'package:morningstar/domain/app_constants.dart';
-import 'package:morningstar/domain/enums/app_server_reset_time_type.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/settings/app_settings.dart';
+import 'package:morningstar/domain/services/logging_service.dart';
 import 'package:morningstar/domain/services/settings_service.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -20,6 +20,9 @@ class SettingsServiceImpl extends SettingsService {
   bool _initialized = false;
 
   late SharedPreferences _prefs;
+  final LoggingService _logger;
+
+  SettingsServiceImpl(this._logger);
 
   @override
   AppThemeType get appTheme => AppThemeType.values[_prefs.getInt(_appThemeKey)!];
@@ -82,20 +85,25 @@ class SettingsServiceImpl extends SettingsService {
     useTwentyFourHoursFormat: useTwentyFourHoursFormat,
   );
 
-  SettingsServiceImpl();
 
   @override
   Future<void> init() async {
     if (_initialized) {
+      _logger.info(runtimeType, 'Settings are already initialized!');
       return;
     }
+
+    _logger.info(runtimeType, 'Initializing settings...Getting shared preferences instance...');
+
     _prefs = await SharedPreferences.getInstance();
 
     if (_prefs.get(_isFirstInstallKey) == null) {
+      _logger.info(runtimeType, 'This is the first install of the app');
       isFirstInstall = true;
     }
     
     if (_prefs.get(_appThemeKey) == null) {
+      _logger.info(runtimeType, 'Setting dark as the default theme');
       appTheme = AppThemeType.dark;
     }
 
@@ -104,41 +112,62 @@ class SettingsServiceImpl extends SettingsService {
     }
     
     if (_prefs.get(_showSoldierDetailsKey) == null) {
+      _logger.info(runtimeType, 'Character details are shown by default');
       showSoldierDetails = true;
     }
     
     if (_prefs.get(_showWeaponDetailsKey) == null) {
+      _logger.info(runtimeType, 'Weapon details are shown by default');
       showWeaponDetails = true;
     }
 
     if (_prefs.get(_serverResetTimeKey) == null) {
+      _logger.info(runtimeType, 'The server reset time will be ${AppServerResetTimeType.europe} by default');
       serverResetTime = AppServerResetTimeType.europe;
     }
 
     if (_prefs.get(_doubleBackToCloseKey) == null) {
+      _logger.info(runtimeType, 'Double back to close will be set to its default (true)');
       doubleBackToClose = true;
     }
 
     if (_prefs.getBool(_useTwentyFourHoursFormatKey) == null) {
+      _logger.info(runtimeType, 'Use Twenty four hours date format will be set to its default (false)');
       useTwentyFourHoursFormat = false;
     }
 
     _initialized = true;
+    _logger.info(runtimeType, 'Settings were initialized successfully');
   }
 
   Future<AppLanguageType> _getDefaultLangToUse() async {
     try {
+      _logger.info(runtimeType, '_getDefaultLangToUse: Trying to retrieve device lang...');
       final deviceLocale = await Devicelocale.currentAsLocale;
       if (deviceLocale == null) {
+        _logger.warning(
+          runtimeType,
+          "_getDefaultLangToUse: Couldn't retrieve the device locale, defaulting to english",
+        );
         return AppLanguageType.english;
       }
 
       final appLang = languagesMap.entries.firstWhereOrNull((val) => val.value.code == deviceLocale.languageCode);
       if (appLang == null) {
+        _logger.info(
+          runtimeType,
+          "_getDefaultLangToUse: Couldn't find an appropriate app language for = ${deviceLocale.languageCode}_${deviceLocale.countryCode}, defaulting to english",
+        );
         return AppLanguageType.english;
       }
+
+      _logger.info(
+        runtimeType,
+        '_getDefaultLangToUse: Found an appropriate language to use for = ${deviceLocale.languageCode}_${deviceLocale.countryCode}, that is = ${appLang.key}',
+      );
       return appLang.key;
-    } catch (e) {
+    } catch (e, s) {
+      _logger.error(runtimeType, '_getDefaultLangToUse: Unknown error occurred', e, s);
       return AppLanguageType.english;
     }
   }

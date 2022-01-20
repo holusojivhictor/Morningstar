@@ -89,7 +89,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
   uses-material-design: true
 
   assets:
@@ -105,3 +104,12 @@ flutter:
     - assets/items/others/
     - assets/videos/
     - assets/gif/
+
+
+  fonts:
+    - family: MorningstarFont
+      fonts:
+        - asset: assets/fonts/MorningstarFont.ttf
+
+flutter_intl:
+  enabled: true
