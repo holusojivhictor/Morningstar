@@ -14,3 +14,5 @@ const githubPage = 'https://github.com/holusojivhictor/Morningstar';
 const soldiersImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/soldiers/';
 
 const weaponsImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/weapons/';
+
+const comicsImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/comics/';

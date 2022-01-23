@@ -14,3 +14,4 @@ export 'weapon_model.dart';
 export 'weapon_filter_type.dart';
 export 'attachment_type.dart';
 export 'app_theme_type.dart';
+export 'comic_season_type.dart';

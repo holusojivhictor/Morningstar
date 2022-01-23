@@ -7,6 +7,8 @@ abstract class MorningStarService {
   Future<void> initSoldiers();
   Future<void> initWeapons();
   Future<void> initTopPicks();
+  Future<void> initComics();
+  Future<void> initVehicles();
   Future<void> initTranslations(AppLanguageType languageType);
 
   List<SoldierCardModel> getSoldiersForCard();

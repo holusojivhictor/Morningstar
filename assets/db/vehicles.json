@@ -1,0 +1,4999 @@
+{
+  "vehicles": [
+    {
+      "key": "orv",
+      "name": "ORV",
+      "imageUrl": "vehicle_11.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Abstract Foil",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9565.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Accelerator",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9017.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Acid Helix",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8025.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Airstrike",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2628.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Alleyway",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10199.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "BDU",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8793.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bad to the Bone",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13068.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11565.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bloodsucker",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15009.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blossom Branch",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11125.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Camo",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7503.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Scratch",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13585.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Wave",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1386.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brains!",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13236.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "British Red",
+          "elementType": "rare",
+          "imageUrl": "vehicle_562.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Chrome",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11716.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Steel",
+          "elementType": "rare",
+          "imageUrl": "vehicle_344.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Buckles & Spurs",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11555.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Buckskin",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11258.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cash Flow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13362.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cerulean",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8310.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cogged",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14289.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7571.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Collapse",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10036.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Colorweave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13579.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Compound",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13365.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Connection",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9467.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cosmic Wave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9764.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cosmonaut",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6960.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Covenant",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15078.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crackle",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8398.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crisis",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10460.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crossed Cables",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7526.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cumulus",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11014.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cyber Crystal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9558.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Danger Zone",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1596.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Denim",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11523.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Depth Metal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10916.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Depths",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9540.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desert Sunset",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11439.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Doubloons",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12555.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Duct Tape",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10291.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Duel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11188.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Easter '20",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2111.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Electric Wilds",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9372.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eternal Youth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9602.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Experimental Toxin",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15199.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eyes in the Dark",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13969.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fashion Purple",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_267.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Festival",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10905.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Forward Motion",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7949.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graceful Gold",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7737.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Grating",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2679.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gridiron Football",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1488.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hard Water",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7939.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Head Trauma",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10208.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Heliotrope",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7356.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Holidays",
+          "elementType": "epic",
+          "imageUrl": "vehicle_2112.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Immortal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12587.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Impulse",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8437.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13162.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Inferno",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10624.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Iron Hunter",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11752.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Isometric",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1845.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Jaguar",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13249.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "KDR",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14192.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Keelhauler",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15365.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Knockout",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9551.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Leather & Lead",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11892.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lens",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14044.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7577.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lighthouse",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12084.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Luxury",
+          "elementType": "epic",
+          "imageUrl": "vehicle_7564.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Meteors",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2847.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Naval Mine",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12112.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Night Vision",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13615.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ocean Current",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12396.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Opening Ceremony",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9596.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Overpower",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11448.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Palanquin",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11117.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Paper Fan",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10604.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pocket Shock",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8045.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Posh",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8328.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Purple Prism",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8327.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Radion Burst",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12524.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rainforest",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13339.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Raven's Wing",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13676.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rebar",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14949.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Reflective",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6901.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rose Cinder",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15229.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Royal Flush",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7278.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Runic Axe",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14009.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ruptured Steel",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10075.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sand Dunes",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_27.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Shipwrecked",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2731.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Skulls & Blood",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1736.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sleight of Hand",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7415.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snow Owl",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9087.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snow Stream",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8762.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snowflakes",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1162.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Special Operations",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11980.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Splinterburst",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8337.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Steam Engine",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11681.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tagged",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8252.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Taped",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2395.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Topography",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11718.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tracker",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8497.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Trance",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9701.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Urban Yellow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8472.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Warhead",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9031.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wasteland Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2362.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Water Lantern",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11174.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Worn Yellow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2415.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wrecked",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2322.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Snow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_433.png",
+          "rarity": 2,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "motorcycle",
+      "name": "Motorcycle",
+      "imageUrl": "vehicle_18.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Abstract Foil",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9566.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Accelerator",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9014.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Adaptable",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6569.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Arctic Digital",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2364.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Backdraft",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9191.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bad to the Bone",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13069.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11562.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bioluminescence",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12149.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blend",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14848.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bombastic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10161.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bootstraps",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11508.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brain Freeze",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8974.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_3084.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bubblegum",
+          "elementType": "epic",
+          "imageUrl": "vehicle_10881.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Burnt Ruin",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14131.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "CODM",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7270.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Caramelo",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13656.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Card Armor",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10563.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Chem Lab",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1922.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coiled",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10366.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7570.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Compound",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13364.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cut Wave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12095.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cyberline",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7645.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Tech",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8274.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Deadly Helix",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14911.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Decay",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1931.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desert Sunset",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11423.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desolate",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2389.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desperate Measures",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2379.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dogfur",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14817.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "E-Waste",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10343.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eternal Youth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9601.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eyes in the Dark",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13966.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Festival",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10906.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "First Horseman",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2277.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fool Square",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13490.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gas Cloud",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9988.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ghillie",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14088.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Giraffe",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6588.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Going Dark",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6351.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gold Bar",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8987.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gray Skies",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2943.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Groovy",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11236.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Halberd",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13823.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Haunted",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10258.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Horseshoe",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11697.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hounded",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15372.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Impulse",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8436.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Indomitable",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14680.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Industrial Revolution",
+          "elementType": "rare",
+          "imageUrl": "vehicle_243.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13159.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Insulated",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8823.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Jaguar",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13248.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Kapow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7438.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Killer Whale",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12420.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Knockout",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9553.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Last Will",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10325.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lattice",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2492.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lens",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14045.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7576.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lighthouse",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12093.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Liquid Mercury",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10646.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lovestruck",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7334.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lunar Tide",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8389.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Luxury",
+          "elementType": "epic",
+          "imageUrl": "vehicle_7566.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Minos",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8345.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Monarch",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6681.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Moonlight Wisp",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8231.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Mosaic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12973.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Moss Rock",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6045.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Motherboard",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9377.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Navy Digital",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14065.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Neon Army",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7623.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nightfall",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2684.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nine Round",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7978.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Old News",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_5978.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Overpower",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11451.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Oxidized",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1779.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Palanquin",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11118.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Paranormal Prize",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15310.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Phobos",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9617.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Plated Gray",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6314.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Posh",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8332.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Propaganda",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6226.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Radion Burst",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12525.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Red Sun",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10638.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Refined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11111.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Regicide",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12348.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rewind",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11769.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sewed Leather",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6158.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Shipwrecked",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2732.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Shrine",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10840.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snow Stream",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8779.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14242.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Steam Powered",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11543.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Street Art",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13017.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Supernova",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9665.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tangled Web",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1950.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Taped Flecktarn",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6518.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tire Chains",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8801.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Urban Yellow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1704.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Vaporwave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9647.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Voltaic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9322.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Volution",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11742.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wanted",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11748.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Warhead",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9030.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wasteland Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2327.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Waterfall",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13075.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Winterwood",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8727.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wolves",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13624.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Fabric",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7605.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Zebra",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6408.png",
+          "rarity": 2,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "boat",
+      "name": "Boat",
+      "imageUrl": "vehicle_7.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Abstract Foil",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9568.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Acid Helix",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8019.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Adaptable",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6570.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11564.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bioluminescence",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12531.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Black Marble",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10381.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blood in the Water",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6200.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blossom Branch",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11124.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Graffiti",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2116.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brains!",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13235.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Breakup",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8100.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Buckles & Spurs",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11556.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bullet Point",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6176.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Caution",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1631.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cerulean",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8309.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cogged",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15265.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7569.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Commonwealth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2633.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Conifer",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9090.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crossed Cables",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7525.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cyber Crystal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9559.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cyberline",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7646.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Flower",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_15049.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Light",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7615.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Denim",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11524.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Depths",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9541.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desert Snake",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_211.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dream Glacier",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1393.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Droplets",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10339.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Duel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11189.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Easter '20",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2110.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eternal Youth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9600.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fashion Purple",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2079.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Feathered Mail",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13728.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fireflies",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2003.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "First Horseman",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2276.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Forest Fiber",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6733.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Forest Floor",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6324.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gas Cloud",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9986.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ghost of the Sea",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12239.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Going Dark",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1574.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graceful Blue",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6898.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graceful Gold",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7736.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gravestone",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2804.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gray Skies",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2946.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Great Wave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10891.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gridiron Football",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2109.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Guarana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12972.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hard Water",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7996.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Head Trauma",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10209.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hearts",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1340.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hereafter",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8879.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Holy Blue",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1994.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hounded",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15373.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13157.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Iron Hunter",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11753.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Irradiated Amethyst",
+          "elementType": "rare",
+          "imageUrl": "vehicle_659.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Killer Whale",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12421.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Knockout",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9552.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Last Will",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10320.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Show",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9361.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7575.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lost in Time",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13038.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "MacTavish",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1135.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Meteors",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_661.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Minos",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8344.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Moonlight Wisp",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8232.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Navigator",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12369.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Navy Digital",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13807.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Opening Ceremony",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9595.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pagoda",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10999.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Paper Star",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11043.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Permafrost",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8493.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Phantom Limb",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9994.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Posh",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8330.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Razor Barb",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14139.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Reindeer",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1117.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Reticulated",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2832.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ripped and Torn",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15309.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rock Cairn",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11103.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sandbox",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_702.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Scale Up",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12152.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sea Serpent",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11088.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Severed",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10593.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14240.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "St. Patrick's Day",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1134.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Stalwart",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8001.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Static Electricity",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7457.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Street Art",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13019.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Swamp",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6537.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tagged",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8253.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Taped",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2394.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tin Stitched",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1771.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tire Chains",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8800.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tropics",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2737.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Uncertain",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8459.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Upper Hand",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6812.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wagon Wheel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11256.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Warhead",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9029.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wasteland Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2375.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Waterfall",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13074.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Winterwood",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8721.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wiremass",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9484.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Worn Yellow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2414.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Snow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_430.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Zagged",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10919.png",
+          "rarity": 2,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "snowboard",
+      "name": "Snowboard",
+      "imageUrl": "vehicle_8882.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Accelerator",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9013.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bad to the Bone",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13066.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Breaker Bolt",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14884.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cypher Glitch",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14610.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Deep Vein",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15344.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Default",
+          "elementType": "common",
+          "imageUrl": "vehicle_8882.png",
+          "rarity": 1,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graffiti",
+          "elementType": "epic",
+          "imageUrl": "vehicle_10192.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hounded",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15374.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Radion Burst",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12522.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rune Weave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13802.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sand Storm",
+          "elementType": "legendary",
+          "imageUrl": "vehicle_11541.png",
+          "rarity": 5,
+          "isComingSoon": false
+        },
+        {
+          "name": "Shuttle",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14656.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Slapstick",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9407.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14252.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wolves",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13639.png",
+          "rarity": 3,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "helicopter",
+      "name": "Helicopter",
+      "imageUrl": "vehicle_23.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Accelerator",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9015.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Airstrike",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2627.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Alleyway",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10201.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Angles",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6125.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Anniversary",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7222.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Apparition",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15068.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Artisan",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11538.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "BDU",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8794.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bad to the Bone",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13067.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11563.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Battle Dressed",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2957.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Graffiti",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_975.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bolted Metal",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6247.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Boom Scrawl",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2410.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Breakup",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8099.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Broken Road",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14162.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bronze Arrow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8155.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Yellow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1696.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bug Spray",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6715.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "CODM",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7253.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Catacombs",
+          "elementType": "rare",
+          "imageUrl": "vehicle_3064.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Caution",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1634.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Chem Lab",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1921.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Clout",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12966.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7568.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Collapse",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10053.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Concrete Lightning",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8120.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Copperhead",
+          "elementType": "rare",
+          "imageUrl": "vehicle_703.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cosmic Wave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9765.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crawlers",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13220.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cumulus",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11013.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Light",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7616.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Deep Vein",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15407.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Direct Fire Support",
+          "elementType": "legendary",
+          "imageUrl": "vehicle_13752.png",
+          "rarity": 5,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dogfur",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14816.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dotted Scale",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14584.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Doubloons",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12475.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "E-Waste",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10342.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eyes in the Dark",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13968.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fashion Purple",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2078.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fiber Mesh",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6663.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fission",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9022.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Flannel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11925.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fragment",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14659.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "G-Series",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2669.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Glitch",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7548.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Going Dark",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1573.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graceful Blue",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7243.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Grating",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2678.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gray Skies",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2872.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Great White",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12502.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Green Terror",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7714.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gridiron Football",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2108.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hard Water",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7999.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Haunted",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10259.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Holy Blue",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1995.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Honeycomb",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6832.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Horseshoe",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11696.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Immortal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12588.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13167.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Iridescent",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6766.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ivory Tickler",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11849.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Jungle Cat",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6390.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Jungle Snake",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13434.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Keelhauler",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15367.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Knockout",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9550.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Labyrinth",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8303.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Show",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9352.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7574.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lunar Tide",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8388.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Luxury",
+          "elementType": "epic",
+          "imageUrl": "vehicle_7565.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Meteors",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_660.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Mosaic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13467.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Navy Digital",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13818.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Opening Ceremony",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9594.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Orange",
+          "elementType": "rare",
+          "imageUrl": "vehicle_262.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Overpower",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11453.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Palanquin",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11119.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Paper Fan",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10571.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Parasol",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10825.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Persisted",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7502.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Plated Gray",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6320.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Purple Prism",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8326.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Radion Burst",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12523.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Raven's Wing",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13810.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Reticulated",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1617.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ripped Camo",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11894.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Royal Flush",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7284.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ruptured Steel",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10077.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Scale Up",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12151.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Scratched",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2809.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Section",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1150.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Side Scale",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11154.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snowblind",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8889.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14246.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Special Operations",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11989.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Splinterburst",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8338.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Street Art",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13013.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tangled Web",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1835.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tarnished",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2497.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Task Force 141",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1375.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tracker",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8753.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Urban Blue Navy",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13990.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wagon Wheel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11249.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wanted",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11665.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Warmth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9681.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Winterwood",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8724.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Woodland",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6025.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Abstract",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10127.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Fabric",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7584.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Snake",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1273.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Snow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_452.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Zero-G",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8414.png",
+          "rarity": 4,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "antelope a20",
+      "name": "Antelope A20",
+      "imageUrl": "vehicle_3.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Accelerator",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9016.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Alleyway",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10200.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11561.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bioluminescence",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12529.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bloodline",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6299.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bloody",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_15398.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blossom Branch",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11123.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Broken Road",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14195.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bronze Arrow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8418.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brush Stroke",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12605.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Yellow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1695.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bug Spray",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6714.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bunker",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9206.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cactus",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11910.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Catacombs",
+          "elementType": "rare",
+          "imageUrl": "vehicle_3065.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Caution",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1602.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Clout",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12957.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7572.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Concrete Lightning",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8121.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Conifer",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9091.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Construct",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9535.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Copilot",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6107.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cosmonaut",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1980.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Court Blue",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7668.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crackle",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8399.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cyber Crystal",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9560.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Decay",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1930.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Desolate",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2390.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eyes in the Dark",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13967.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fenrir",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11268.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fire Squad",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13913.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fission",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9023.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Flannel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11926.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Freight Train",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6765.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gas Cloud",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10027.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graffiti",
+          "elementType": "epic",
+          "imageUrl": "vehicle_10193.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Great White",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12292.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Head Trauma",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10207.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Heliotrope",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7357.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hexoglyph",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13755.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Horde",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13306.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Icefall",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8961.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13164.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Insulated",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8822.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Keelhauler",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15366.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Labyrinth",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8304.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lattice",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2491.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Show",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9358.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7578.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lingering",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10176.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Minos",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8346.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Monarch",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6682.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nakatomi Security",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11223.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Night Vision",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13596.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nightfall",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2683.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Obstacle",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2877.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Old News",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_5977.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Overpower",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11449.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pathripper",
+          "elementType": "legendary",
+          "imageUrl": "vehicle_14608.png",
+          "rarity": 5,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pocket Shock",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8046.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Posh",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8329.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Refined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11112.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rewind",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_9756.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ripped and Torn",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15308.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rock Cairn",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11102.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ropework",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11864.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Royal Flush",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7281.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rune Weave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13801.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ruptured Steel",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10074.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Rust Trim",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10113.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Scratched",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2808.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sewed Leather",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6157.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sewed Snake",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2984.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Shrine",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10839.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sleight of Hand",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7416.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snowblind",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8993.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Static Electricity",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7585.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Synapse",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9359.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tin Stitched",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1770.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tire Chains",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8802.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Topography",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11719.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Uncertain",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8460.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Upper Hand",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6813.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Volley",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_15329.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wagon Wheel",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11413.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Warship",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12088.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wasteland Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2323.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Waterfall",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13073.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wintergreen",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8845.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Woodland",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6026.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wyrm",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13462.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Zagged",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10918.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Zebra",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6409.png",
+          "rarity": 2,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "atv",
+      "name": "ATV",
+      "imageUrl": "vehicle_25.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Alarm",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8471.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Alaska",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1111.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Angles",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6126.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Anniversary",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6908.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Arctic Digital",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2559.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bandana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13411.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Birthstone",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10649.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bloodline",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6279.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bloody",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_15401.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Camo",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2285.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Blue Graffiti",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2115.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Boom Scrawl",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2409.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Brushed Red",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_3085.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bullet Point",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6177.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Burial Ground",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9008.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Burnt Ruin",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14138.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8159.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Colorweave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14064.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Commonwealth",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2632.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Copperhead",
+          "elementType": "rare",
+          "imageUrl": "vehicle_29.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Covenant",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14989.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Crisis",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10232.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cut Wave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12322.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Flower",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_14978.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Dark Victorian",
+          "elementType": "rare",
+          "imageUrl": "vehicle_210.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Eyes in the Dark",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12486.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fashion Purple",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2077.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fiber Mesh",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6662.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fine Art",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12931.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Flowing Bronze",
+          "elementType": "rare",
+          "imageUrl": "vehicle_66.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Forest Fiber",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6734.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Freight Train",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6852.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Giraffe",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6589.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gravestone",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2803.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gray Skies",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2878.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gridiron Football",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2107.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Guarana",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13469.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Halloween",
+          "elementType": "rare",
+          "imageUrl": "vehicle_544.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hazardous",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1884.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hearts",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1339.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Honeycomb",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6831.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Horde",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13307.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infected",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_13169.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Infraggable",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14151.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Iron Hunter",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11491.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Leather & Lead",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11762.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lighthouse",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_11952.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Malware",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_887.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Meteors",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_665.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Mosaic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13377.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Moss Rock",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6044.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Navigator",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_12554.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nine Round",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8374.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Orange",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1437.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Override",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9509.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Oxidized",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1778.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Paper Fan",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_10591.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Plated Gray",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6291.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Propaganda",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6225.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pulsar",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2106.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Radioactive",
+          "elementType": "rare",
+          "imageUrl": "vehicle_1657.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Raven's Wing",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13809.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Reticulated",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1151.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ripped Camo",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10218.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Royal Flush",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7279.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Ruptured Steel",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10076.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sand Dunes",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_288.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Scatter Force",
+          "elementType": "rare",
+          "imageUrl": "vehicle_11531.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Side Scale",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10955.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Slate",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_1578.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snowblind",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8846.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Snowframe",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9111.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14238.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Street Art",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13022.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Strongbox",
+          "elementType": "rare",
+          "imageUrl": "vehicle_5973.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Swamp",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6538.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tarnished",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2496.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tracker",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_8495.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Tropics",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_2736.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Turquoise",
+          "elementType": "rare",
+          "imageUrl": "vehicle_105.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Urban Orange",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7501.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wavelength",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6356.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Yellow Snow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_436.png",
+          "rarity": 2,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "cargo truck",
+      "name": "Cargo Truck",
+      "imageUrl": "vehicle_10005.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "American Pastime",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12249.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Default",
+          "elementType": "common",
+          "imageUrl": "vehicle_10005.png",
+          "rarity": 1,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graffiti",
+          "elementType": "epic",
+          "imageUrl": "vehicle_10191.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hazardous (Epic)",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13204.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lost Gothic",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11885.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Pain Train",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15182.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Palanquin",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11116.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Steam Powered",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11544.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Waterproof",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12553.png",
+          "rarity": 4,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "muscle car",
+      "name": "Muscle Car",
+      "imageUrl": "vehicle_12923.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Apparition",
+          "elementType": "rare",
+          "imageUrl": "vehicle_15054.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bad to the Bone",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13065.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Default",
+          "elementType": "common",
+          "imageUrl": "vehicle_12923.png",
+          "rarity": 1,
+          "isComingSoon": false
+        },
+        {
+          "name": "KDR",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14208.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Keelhauler",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15368.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Umber",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14814.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Un-Official Merch",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14445.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Viaje de la Muerte",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15285.png",
+          "rarity": 4,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "tank",
+      "name": "Tank",
+      "imageUrl": "vehicle_2482.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "BDU",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8792.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Battle Dressed",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2937.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bioluminescence",
+          "elementType": "rare",
+          "imageUrl": "vehicle_12530.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Bolted Metal",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6246.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Burial Ground",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8991.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Card Armor",
+          "elementType": "rare",
+          "imageUrl": "vehicle_10554.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Cash Flow",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14792.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Coined",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7567.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Comeback",
+          "elementType": "epic",
+          "imageUrl": "vehicle_12464.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Copilot",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6106.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Countdown",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14944.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Court Blue",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7669.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Default",
+          "elementType": "common",
+          "imageUrl": "vehicle_2482.png",
+          "rarity": 1,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fire Squad",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14042.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Fission",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9021.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Forward Motion",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7966.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Frozen Sun",
+          "elementType": "epic",
+          "imageUrl": "vehicle_14060.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Going Dark",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6350.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Graceful Blue",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_6894.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Gulag Tech",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8786.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hephaestus",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8892.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Hoard",
+          "elementType": "epic",
+          "imageUrl": "vehicle_13301.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Jungle Cat",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6389.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Kapow",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7439.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Keelhauler",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15364.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Knockout",
+          "elementType": "epic",
+          "imageUrl": "vehicle_9549.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Last Stand (Unique)",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11233.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Light Strips",
+          "elementType": "uncommon",
+          "imageUrl": "vehicle_7573.png",
+          "rarity": 2,
+          "isComingSoon": false
+        },
+        {
+          "name": "Lovestruck",
+          "elementType": "rare",
+          "imageUrl": "vehicle_7333.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Luxury",
+          "elementType": "epic",
+          "imageUrl": "vehicle_7563.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Nine Round",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8375.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Palanquin",
+          "elementType": "epic",
+          "imageUrl": "vehicle_11115.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Posh",
+          "elementType": "epic",
+          "imageUrl": "vehicle_8331.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Sewed Snake",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6201.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Soaring Talon",
+          "elementType": "rare",
+          "imageUrl": "vehicle_14244.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Splinterburst",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8336.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Step Right Up!",
+          "elementType": "epic",
+          "imageUrl": "vehicle_15246.png",
+          "rarity": 4,
+          "isComingSoon": false
+        },
+        {
+          "name": "Street Art",
+          "elementType": "rare",
+          "imageUrl": "vehicle_13015.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Strongbox",
+          "elementType": "rare",
+          "imageUrl": "vehicle_5972.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Taped Flecktarn",
+          "elementType": "rare",
+          "imageUrl": "vehicle_6519.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Undead Crusade",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2977.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Vaporwave",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9646.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Voltaic",
+          "elementType": "rare",
+          "imageUrl": "vehicle_9305.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Winterwood",
+          "elementType": "rare",
+          "imageUrl": "vehicle_8722.png",
+          "rarity": 3,
+          "isComingSoon": false
+        },
+        {
+          "name": "Wrecked",
+          "elementType": "rare",
+          "imageUrl": "vehicle_2307.png",
+          "rarity": 3,
+          "isComingSoon": false
+        }
+      ]
+    },
+    {
+      "key": "rally car",
+      "name": "Rally Car",
+      "imageUrl": "vehicle_14449.png",
+      "isComingSoon": false,
+      "camos": [
+        {
+          "name": "Default",
+          "elementType": "common",
+          "imageUrl": "vehicle_14449.png",
+          "rarity": 1,
+          "isComingSoon": false
+        }
+      ]
+    }
+  ]
+}

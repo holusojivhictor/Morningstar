@@ -1,3 +1,4 @@
+import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'extensions/string_extensions.dart';
 
@@ -6,6 +7,8 @@ class Assets {
   static String soldiersDbPath = '$dbPath/soldiers.json';
   static String weaponsDbPath = '$dbPath/weapons.json';
   static String topPicksDbPath = '$dbPath/top_picks.json';
+  static String comicsDbPath = '$dbPath/comics.json';
+  static String vehiclesDbPath = '$dbPath/vehicles.json';
   static String translationsBasePath = 'assets/i18n';
   static String elementsBasePath = 'assets/elements';
 
@@ -30,6 +33,7 @@ class Assets {
   // Videos
   static String videosBasePath = 'assets/videos';
 
+
   static String getVideoPath(String name) => '$videosBasePath/$name';
 
   static String getCODMLogoPath(String name) => '$logosBasePath/$name';
@@ -42,6 +46,8 @@ class Assets {
 
   static String getThrowable(String name) => '$throwableBasePath/$name';
 
+  static String getComicBasePath(String folder, String name) => '$comicsImageUrl/$folder/$name';
+
   static String getWeaponPath(String name, WeaponType type) {
     switch (type) {
       case WeaponType.primary:
@@ -52,6 +58,45 @@ class Assets {
         return getThrowable(name);
       default:
         throw Exception('Invalid weapon type = $type');
+    }
+  }
+
+  static String getComicPath(String name, ComicSeasonType type) {
+    switch (type) {
+      case ComicSeasonType.six:
+        return getComicBasePath('six', name);
+      case ComicSeasonType.seven:
+        return getComicBasePath('seven', name);
+      case ComicSeasonType.eight:
+        return getComicBasePath('eight', name);
+      case ComicSeasonType.nine:
+        return getComicBasePath('nine', name);
+      case ComicSeasonType.ten:
+        return getComicBasePath('ten', name);
+      case ComicSeasonType.eleven:
+        return getComicBasePath('eleven', name);
+      case ComicSeasonType.twelve:
+        return getComicBasePath('twelve', name);
+      case ComicSeasonType.thirteen:
+        return getComicBasePath('thirteen', name);
+      case ComicSeasonType.fourteen:
+        return getComicBasePath('fourteen', name);
+      case ComicSeasonType.fifteen:
+        return getComicBasePath('fifteen', name);
+      case ComicSeasonType.sixteen:
+        return getComicBasePath('sixteen', name);
+      case ComicSeasonType.seventeen:
+        return getComicBasePath('seventeen', name);
+      case ComicSeasonType.eighteen:
+        return getComicBasePath('eighteen', name);
+      case ComicSeasonType.nineteen:
+        return getComicBasePath('nineteen', name);
+      case ComicSeasonType.twenty:
+        return getComicBasePath('twenty', name);
+      case ComicSeasonType.twentyOne:
+        return getComicBasePath('twentyOne', name);
+      default:
+        throw Exception('Invalid comic season type = $type');
     }
   }
 

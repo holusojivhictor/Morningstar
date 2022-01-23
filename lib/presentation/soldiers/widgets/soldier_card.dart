@@ -5,7 +5,6 @@ import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
-import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dart';
 import 'package:morningstar/presentation/shared/images/element_image.dart';

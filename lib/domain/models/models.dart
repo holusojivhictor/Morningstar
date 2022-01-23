@@ -24,3 +24,7 @@ export 'home/today_top_pick_weapon_model.dart';
 export 'home/today_top_pick_soldier_model.dart';
 export 'items/item_common.dart';
 export 'tier_list/tier_list_row_model.dart';
+export 'db/comics/comic_file_model.dart';
+export 'db/comics/comics_file.dart';
+export 'db/vehicles/vehicle_file_model.dart';
+export 'db/vehicles/vehicles_file.dart';

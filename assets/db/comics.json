@@ -1,0 +1,5126 @@
+{
+  "comics":[
+    {
+      "name": "Once Upon a Time in the West",
+      "season": "six",
+      "cover": "s06-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s06-01.jpg",
+          "season": "six"
+        },
+        {
+          "number": 2,
+          "image": "s06-02.jpg",
+          "season": "six"
+        },
+        {
+          "number": 3,
+          "image": "s06-03.jpg",
+          "season": "six"
+        },
+        {
+          "number": 4,
+          "image": "s06-04.jpg",
+          "season": "six"
+        },
+        {
+          "number": 5,
+          "image": "s06-05.jpg",
+          "season": "six"
+        },
+        {
+          "number": 6,
+          "image": "s06-06.jpg",
+          "season": "six"
+        },
+        {
+          "number": 7,
+          "image": "s06-07.jpg",
+          "season": "six"
+        },
+        {
+          "number": 8,
+          "image": "s06-08.jpg",
+          "season": "six"
+        },
+        {
+          "number": 9,
+          "image": "s06-09.jpg",
+          "season": "six"
+        },
+        {
+          "number": 10,
+          "image": "s06-10.jpg",
+          "season": "six"
+        },
+        {
+          "number": 11,
+          "image": "s06-11.jpg",
+          "season": "six"
+        },
+        {
+          "number": 12,
+          "image": "s06-12.jpg",
+          "season": "six"
+        },
+        {
+          "number": 13,
+          "image": "s06-13.jpg",
+          "season": "six"
+        },
+        {
+          "number": 14,
+          "image": "s06-14.jpg",
+          "season": "six"
+        },
+        {
+          "number": 15,
+          "image": "s06-15.jpg",
+          "season": "six"
+        },
+        {
+          "number": 16,
+          "image": "s06-16.jpg",
+          "season": "six"
+        },
+        {
+          "number": 17,
+          "image": "s06-17.jpg",
+          "season": "six"
+        },
+        {
+          "number": 18,
+          "image": "s06-18.jpg",
+          "season": "six"
+        },
+        {
+          "number": 19,
+          "image": "s06-19.jpg",
+          "season": "six"
+        },
+        {
+          "number": 20,
+          "image": "s06-20.jpg",
+          "season": "six"
+        },
+        {
+          "number": 21,
+          "image": "s06-21.jpg",
+          "season": "six"
+        },
+        {
+          "number": 22,
+          "image": "s06-22.jpg",
+          "season": "six"
+        },
+        {
+          "number": 23,
+          "image": "s06-23.jpg",
+          "season": "six"
+        },
+        {
+          "number": 24,
+          "image": "s06-24.jpg",
+          "season": "six"
+        }
+      ]
+    },
+    {
+      "name": "Radioactive Agent",
+      "season": "seven",
+      "cover": "s07-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s07-01.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 2,
+          "image": "s07-02.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 3,
+          "image": "s07-03.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 4,
+          "image": "s07-04.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 5,
+          "image": "s07-05.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 6,
+          "image": "s07-06.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 7,
+          "image": "s07-07.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 8,
+          "image": "s07-08.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 9,
+          "image": "s07-09.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 10,
+          "image": "s07-10.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 11,
+          "image": "s07-11.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 12,
+          "image": "s07-12.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 13,
+          "image": "s07-13.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 14,
+          "image": "s07-14.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 15,
+          "image": "s07-15.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 16,
+          "image": "s07-16.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 17,
+          "image": "s07-17.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 18,
+          "image": "s07-18.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 19,
+          "image": "s07-19.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 20,
+          "image": "s07-20.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 21,
+          "image": "s07-21.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 22,
+          "image": "s07-22.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 23,
+          "image": "s07-23.jpg",
+          "season": "seven"
+        },
+        {
+          "number": 24,
+          "image": "s07-24.jpg",
+          "season": "seven"
+        }
+      ]
+    },
+    {
+      "name": "The Forge",
+      "season": "eight",
+      "cover": "s08-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s08-01.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 2,
+          "image": "s08-02.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 3,
+          "image": "s08-03.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 4,
+          "image": "s08-04.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 5,
+          "image": "s08-05.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 6,
+          "image": "s08-06.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 7,
+          "image": "s08-07.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 8,
+          "image": "s08-08.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 9,
+          "image": "s08-09.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 10,
+          "image": "s08-10.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 11,
+          "image": "s08-11.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 12,
+          "image": "s08-12.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 13,
+          "image": "s08-13.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 14,
+          "image": "s08-14.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 15,
+          "image": "s08-15.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 16,
+          "image": "s08-16.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 17,
+          "image": "s08-17.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 18,
+          "image": "s08-18.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 19,
+          "image": "s08-19.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 20,
+          "image": "s08-20.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 21,
+          "image": "s08-21.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 22,
+          "image": "s08-22.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 23,
+          "image": "s08-23.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 24,
+          "image": "s08-24.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 25,
+          "image": "s08-25.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 26,
+          "image": "s08-26.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 27,
+          "image": "s08-27.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 28,
+          "image": "s08-28.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 29,
+          "image": "s08-29.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 30,
+          "image": "s08-30.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 31,
+          "image": "s08-31.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 32,
+          "image": "s08-32.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 33,
+          "image": "s08-33.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 34,
+          "image": "s08-34.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 35,
+          "image": "s08-35.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 36,
+          "image": "s08-36.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 37,
+          "image": "s08-37.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 38,
+          "image": "s08-38.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 39,
+          "image": "s08-39.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 40,
+          "image": "s08-40.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 41,
+          "image": "s08-41.jpg",
+          "season": "eight"
+        },
+        {
+          "number": 42,
+          "image": "s08-42.jpg",
+          "season": "eight"
+        }
+      ]
+    },
+    {
+      "name": "Conquest",
+      "season": "nine",
+      "cover": "s09-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s09-01.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 2,
+          "image": "s09-02.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 3,
+          "image": "s09-03.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 4,
+          "image": "s09-04.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 5,
+          "image": "s09-05.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 6,
+          "image": "s09-06.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 7,
+          "image": "s09-07.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 8,
+          "image": "s09-08.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 9,
+          "image": "s09-09.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 10,
+          "image": "s09-10.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 11,
+          "image": "s09-11.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 12,
+          "image": "s09-12.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 13,
+          "image": "s09-13.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 14,
+          "image": "s09-14.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 15,
+          "image": "s09-15.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 16,
+          "image": "s09-16.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 17,
+          "image": "s09-17.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 18,
+          "image": "s09-18.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 19,
+          "image": "s09-19.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 20,
+          "image": "s09-20.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 21,
+          "image": "s09-21.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 22,
+          "image": "s09-22.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 23,
+          "image": "s09-23.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 24,
+          "image": "s09-24.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 25,
+          "image": "s09-25.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 26,
+          "image": "s09-26.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 27,
+          "image": "s09-27.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 28,
+          "image": "s09-28.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 29,
+          "image": "s09-29.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 30,
+          "image": "s09-30.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 31,
+          "image": "s09-31.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 32,
+          "image": "s09-32.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 33,
+          "image": "s09-33.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 34,
+          "image": "s09-34.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 35,
+          "image": "s09-35.jpg",
+          "season": "nine"
+        },
+        {
+          "number": 36,
+          "image": "s09-36.jpg",
+          "season": "nine"
+        }
+      ]
+    },
+    {
+      "name": "The Hunt",
+      "season": "ten",
+      "cover": "s10-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s10-01.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 2,
+          "image": "s10-02.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 3,
+          "image": "s10-03.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 4,
+          "image": "s10-04.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 5,
+          "image": "s10-05.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 6,
+          "image": "s10-06.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 7,
+          "image": "s10-07.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 8,
+          "image": "s10-08.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 9,
+          "image": "s10-09.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 10,
+          "image": "s10-10.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 11,
+          "image": "s10-11.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 12,
+          "image": "s10-12.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 13,
+          "image": "s10-13.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 14,
+          "image": "s10-14.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 15,
+          "image": "s10-15.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 16,
+          "image": "s10-16.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 17,
+          "image": "s10-17.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 18,
+          "image": "s10-18.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 19,
+          "image": "s10-19.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 20,
+          "image": "s10-20.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 21,
+          "image": "s10-21.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 22,
+          "image": "s10-22.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 23,
+          "image": "s10-23.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 24,
+          "image": "s10-24.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 25,
+          "image": "s10-25.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 26,
+          "image": "s10-26.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 27,
+          "image": "s10-27.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 28,
+          "image": "s10-28.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 29,
+          "image": "s10-29.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 30,
+          "image": "s10-30.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 31,
+          "image": "s10-31.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 32,
+          "image": "s10-32.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 33,
+          "image": "s10-33.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 34,
+          "image": "s10-34.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 35,
+          "image": "s10-35.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 36,
+          "image": "s10-36.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 37,
+          "image": "s10-37.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 38,
+          "image": "s10-38.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 39,
+          "image": "s10-39.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 40,
+          "image": "s10-40.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 41,
+          "image": "s10-41.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 42,
+          "image": "s10-42.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 43,
+          "image": "s10-43.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 44,
+          "image": "s10-44.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 45,
+          "image": "s10-45.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 46,
+          "image": "s10-46.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 47,
+          "image": "s10-47.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 48,
+          "image": "s10-48.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 49,
+          "image": "s10-49.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 50,
+          "image": "s10-50.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 51,
+          "image": "s10-51.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 52,
+          "image": "s10-52.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 53,
+          "image": "s10-53.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 54,
+          "image": "s10-54.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 55,
+          "image": "s10-55.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 56,
+          "image": "s10-56.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 57,
+          "image": "s10-57.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 58,
+          "image": "s10-58.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 59,
+          "image": "s10-59.jpg",
+          "season": "ten"
+        },
+        {
+          "number": 60,
+          "image": "s10-60.jpg",
+          "season": "ten"
+        }
+      ]
+    },
+    {
+      "name": "Anniversary",
+      "season": "eleven",
+      "cover": "s11-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s11-01.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 2,
+          "image": "s11-02.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 3,
+          "image": "s11-03.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 4,
+          "image": "s11-04.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 5,
+          "image": "s11-05.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 6,
+          "image": "s11-06.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 7,
+          "image": "s11-07.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 8,
+          "image": "s11-08.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 9,
+          "image": "s11-09.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 10,
+          "image": "s11-10.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 11,
+          "image": "s11-11.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 12,
+          "image": "s11-12.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 13,
+          "image": "s11-13.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 14,
+          "image": "s11-14.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 15,
+          "image": "s11-15.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 16,
+          "image": "s11-16.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 17,
+          "image": "s11-17.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 18,
+          "image": "s11-18.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 19,
+          "image": "s11-19.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 20,
+          "image": "s11-20.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 21,
+          "image": "s11-21.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 22,
+          "image": "s11-22.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 23,
+          "image": "s11-23.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 24,
+          "image": "s11-24.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 25,
+          "image": "s11-25.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 26,
+          "image": "s11-26.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 27,
+          "image": "s11-27.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 28,
+          "image": "s11-28.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 29,
+          "image": "s11-29.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 30,
+          "image": "s11-30.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 31,
+          "image": "s11-31.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 32,
+          "image": "s11-32.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 33,
+          "image": "s11-33.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 34,
+          "image": "s11-34.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 35,
+          "image": "s11-35.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 36,
+          "image": "s11-36.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 37,
+          "image": "s11-37.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 38,
+          "image": "s11-38.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 39,
+          "image": "s11-39.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 40,
+          "image": "s11-40.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 41,
+          "image": "s11-41.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 42,
+          "image": "s11-42.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 43,
+          "image": "s11-43.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 44,
+          "image": "s11-44.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 45,
+          "image": "s11-45.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 46,
+          "image": "s11-46.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 47,
+          "image": "s11-47.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 48,
+          "image": "s11-48.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 49,
+          "image": "s11-49.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 50,
+          "image": "s11-50.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 51,
+          "image": "s11-51.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 52,
+          "image": "s11-52.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 53,
+          "image": "s11-53.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 54,
+          "image": "s11-54.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 55,
+          "image": "s11-55.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 56,
+          "image": "s11-56.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 57,
+          "image": "s11-57.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 58,
+          "image": "s11-58.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 59,
+          "image": "s11-59.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 60,
+          "image": "s11-60.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 61,
+          "image": "s11-61.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 62,
+          "image": "s11-62.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 63,
+          "image": "s11-63.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 64,
+          "image": "s11-64.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 65,
+          "image": "s11-65.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 66,
+          "image": "s11-66.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 67,
+          "image": "s11-67.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 68,
+          "image": "s11-68.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 69,
+          "image": "s11-69.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 70,
+          "image": "s11-70.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 71,
+          "image": "s11-71.jpg",
+          "season": "eleven"
+        },
+        {
+          "number": 72,
+          "image": "s11-72.jpg",
+          "season": "eleven"
+        }
+      ]
+    },
+    {
+      "name": "Going Dark",
+      "season": "twelve",
+      "cover": "s12-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s12-01.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 2,
+          "image": "s12-02.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 3,
+          "image": "s12-03.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 4,
+          "image": "s12-04.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 5,
+          "image": "s12-05.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 6,
+          "image": "s12-06.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 7,
+          "image": "s12-07.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 8,
+          "image": "s12-08.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 9,
+          "image": "s12-09.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 10,
+          "image": "s12-10.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 11,
+          "image": "s12-11.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 12,
+          "image": "s12-12.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 13,
+          "image": "s12-13.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 14,
+          "image": "s12-14.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 15,
+          "image": "s12-15.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 16,
+          "image": "s12-16.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 17,
+          "image": "s12-17.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 18,
+          "image": "s12-18.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 19,
+          "image": "s12-19.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 20,
+          "image": "s12-20.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 21,
+          "image": "s12-21.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 22,
+          "image": "s12-22.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 23,
+          "image": "s12-23.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 24,
+          "image": "s12-24.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 25,
+          "image": "s12-25.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 26,
+          "image": "s12-26.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 27,
+          "image": "s12-27.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 28,
+          "image": "s12-28.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 29,
+          "image": "s12-29.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 30,
+          "image": "s12-30.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 31,
+          "image": "s12-31.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 32,
+          "image": "s12-32.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 33,
+          "image": "s12-33.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 34,
+          "image": "s12-34.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 35,
+          "image": "s12-35.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 36,
+          "image": "s12-36.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 37,
+          "image": "s12-37.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 38,
+          "image": "s12-38.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 39,
+          "image": "s12-39.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 40,
+          "image": "s12-40.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 41,
+          "image": "s12-41.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 42,
+          "image": "s12-42.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 43,
+          "image": "s12-43.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 44,
+          "image": "s12-44.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 45,
+          "image": "s12-45.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 46,
+          "image": "s12-46.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 47,
+          "image": "s12-47.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 48,
+          "image": "s12-48.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 49,
+          "image": "s12-49.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 50,
+          "image": "s12-50.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 51,
+          "image": "s12-51.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 52,
+          "image": "s12-52.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 53,
+          "image": "s12-53.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 54,
+          "image": "s12-54.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 55,
+          "image": "s12-55.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 56,
+          "image": "s12-56.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 57,
+          "image": "s12-57.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 58,
+          "image": "s12-58.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 59,
+          "image": "s12-59.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 60,
+          "image": "s12-60.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 61,
+          "image": "s12-61.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 62,
+          "image": "s12-62.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 63,
+          "image": "s12-63.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 64,
+          "image": "s12-64.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 65,
+          "image": "s12-65.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 66,
+          "image": "s12-66.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 67,
+          "image": "s12-67.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 68,
+          "image": "s12-68.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 69,
+          "image": "s12-69.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 70,
+          "image": "s12-70.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 71,
+          "image": "s12-71.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 72,
+          "image": "s12-72.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 73,
+          "image": "s12-73.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 74,
+          "image": "s12-74.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 75,
+          "image": "s12-75.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 76,
+          "image": "s12-76.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 77,
+          "image": "s12-77.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 78,
+          "image": "s12-78.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 79,
+          "image": "s12-79.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 80,
+          "image": "s12-80.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 81,
+          "image": "s12-81.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 82,
+          "image": "s12-82.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 83,
+          "image": "s12-83.jpg",
+          "season": "twelve"
+        },
+        {
+          "number": 84,
+          "image": "s12-84.jpg",
+          "season": "twelve"
+        }
+      ]
+    },
+    {
+      "name": "Winter War",
+      "season": "thirteen",
+      "cover": "s13-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s13-01.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 2,
+          "image": "s13-02.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 3,
+          "image": "s13-03.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 4,
+          "image": "s13-04.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 5,
+          "image": "s13-05.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 6,
+          "image": "s13-06.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 7,
+          "image": "s13-07.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 8,
+          "image": "s13-08.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 9,
+          "image": "s13-09.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 10,
+          "image": "s13-10.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 11,
+          "image": "s13-11.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 12,
+          "image": "s13-12.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 13,
+          "image": "s13-13.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 14,
+          "image": "s13-14.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 15,
+          "image": "s13-15.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 16,
+          "image": "s13-16.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 17,
+          "image": "s13-17.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 18,
+          "image": "s13-18.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 19,
+          "image": "s13-19.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 20,
+          "image": "s13-20.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 21,
+          "image": "s13-21.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 22,
+          "image": "s13-22.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 23,
+          "image": "s13-23.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 24,
+          "image": "s13-24.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 25,
+          "image": "s13-25.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 26,
+          "image": "s13-26.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 27,
+          "image": "s13-27.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 28,
+          "image": "s13-28.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 29,
+          "image": "s13-29.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 30,
+          "image": "s13-30.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 31,
+          "image": "s13-31.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 32,
+          "image": "s13-32.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 33,
+          "image": "s13-33.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 34,
+          "image": "s13-34.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 35,
+          "image": "s13-35.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 36,
+          "image": "s13-36.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 37,
+          "image": "s13-37.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 38,
+          "image": "s13-38.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 39,
+          "image": "s13-39.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 40,
+          "image": "s13-40.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 41,
+          "image": "s13-41.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 42,
+          "image": "s13-42.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 43,
+          "image": "s13-43.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 44,
+          "image": "s13-44.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 45,
+          "image": "s13-45.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 46,
+          "image": "s13-46.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 47,
+          "image": "s13-47.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 48,
+          "image": "s13-48.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 49,
+          "image": "s13-49.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 50,
+          "image": "s13-50.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 51,
+          "image": "s13-51.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 52,
+          "image": "s13-52.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 53,
+          "image": "s13-53.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 54,
+          "image": "s13-54.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 55,
+          "image": "s13-55.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 56,
+          "image": "s13-56.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 57,
+          "image": "s13-57.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 58,
+          "image": "s13-58.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 59,
+          "image": "s13-59.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 60,
+          "image": "s13-60.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 61,
+          "image": "s13-61.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 62,
+          "image": "s13-62.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 63,
+          "image": "s13-63.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 64,
+          "image": "s13-64.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 65,
+          "image": "s13-65.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 66,
+          "image": "s13-66.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 67,
+          "image": "s13-67.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 68,
+          "image": "s13-68.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 69,
+          "image": "s13-69.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 70,
+          "image": "s13-70.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 71,
+          "image": "s13-71.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 72,
+          "image": "s13-72.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 73,
+          "image": "s13-73.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 74,
+          "image": "s13-74.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 75,
+          "image": "s13-75.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 76,
+          "image": "s13-76.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 77,
+          "image": "s13-77.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 78,
+          "image": "s13-78.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 79,
+          "image": "s13-79.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 80,
+          "image": "s13-80.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 81,
+          "image": "s13-81.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 82,
+          "image": "s13-82.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 83,
+          "image": "s13-83.jpg",
+          "season": "thirteen"
+        },
+        {
+          "number": 84,
+          "image": "s13-84.jpg",
+          "season": "thirteen"
+        }
+      ]
+    },
+    {
+      "name": "New Order",
+      "season": "fourteen",
+      "cover": "s14-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s14-01.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 2,
+          "image": "s14-02.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 3,
+          "image": "s14-03.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 4,
+          "image": "s14-04.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 5,
+          "image": "s14-05.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 6,
+          "image": "s14-06.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 7,
+          "image": "s14-07.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 8,
+          "image": "s14-08.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 9,
+          "image": "s14-09.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 10,
+          "image": "s14-10.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 11,
+          "image": "s14-11.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 12,
+          "image": "s14-12.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 13,
+          "image": "s14-13.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 14,
+          "image": "s14-14.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 15,
+          "image": "s14-15.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 16,
+          "image": "s14-16.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 17,
+          "image": "s14-17.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 18,
+          "image": "s14-18.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 19,
+          "image": "s14-19.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 20,
+          "image": "s14-20.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 21,
+          "image": "s14-21.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 22,
+          "image": "s14-22.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 23,
+          "image": "s14-23.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 24,
+          "image": "s14-24.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 25,
+          "image": "s14-25.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 26,
+          "image": "s14-26.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 27,
+          "image": "s14-27.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 28,
+          "image": "s14-28.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 29,
+          "image": "s14-29.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 30,
+          "image": "s14-30.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 31,
+          "image": "s14-31.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 32,
+          "image": "s14-32.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 33,
+          "image": "s14-33.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 34,
+          "image": "s14-34.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 35,
+          "image": "s14-35.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 36,
+          "image": "s14-36.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 37,
+          "image": "s14-37.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 38,
+          "image": "s14-38.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 39,
+          "image": "s14-39.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 40,
+          "image": "s14-40.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 41,
+          "image": "s14-41.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 42,
+          "image": "s14-42.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 43,
+          "image": "s14-43.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 44,
+          "image": "s14-44.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 45,
+          "image": "s14-45.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 46,
+          "image": "s14-46.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 47,
+          "image": "s14-47.jpg",
+          "season": "fourteen"
+        },
+        {
+          "number": 48,
+          "image": "s14-48.jpg",
+          "season": "fourteen"
+        }
+      ]
+    },
+    {
+      "name": "Day of Reckoning",
+      "season": "fifteen",
+      "cover": "s15-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s15-01.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 2,
+          "image": "s15-02.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 3,
+          "image": "s15-03.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 4,
+          "image": "s15-04.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 5,
+          "image": "s15-05.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 6,
+          "image": "s15-06.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 7,
+          "image": "s15-07.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 8,
+          "image": "s15-08.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 9,
+          "image": "s15-09.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 10,
+          "image": "s15-10.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 11,
+          "image": "s15-11.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 12,
+          "image": "s15-12.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 13,
+          "image": "s15-13.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 14,
+          "image": "s15-14.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 15,
+          "image": "s15-15.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 16,
+          "image": "s15-16.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 17,
+          "image": "s15-17.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 18,
+          "image": "s15-18.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 19,
+          "image": "s15-19.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 20,
+          "image": "s15-20.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 21,
+          "image": "s15-21.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 22,
+          "image": "s15-22.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 23,
+          "image": "s15-23.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 24,
+          "image": "s15-24.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 25,
+          "image": "s15-25.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 26,
+          "image": "s15-26.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 27,
+          "image": "s15-27.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 28,
+          "image": "s15-28.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 29,
+          "image": "s15-29.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 30,
+          "image": "s15-30.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 31,
+          "image": "s15-31.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 32,
+          "image": "s15-32.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 33,
+          "image": "s15-33.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 34,
+          "image": "s15-34.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 35,
+          "image": "s15-35.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 36,
+          "image": "s15-36.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 37,
+          "image": "s15-37.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 38,
+          "image": "s15-38.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 39,
+          "image": "s15-39.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 40,
+          "image": "s15-40.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 41,
+          "image": "s15-41.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 42,
+          "image": "s15-42.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 43,
+          "image": "s15-43.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 44,
+          "image": "s15-44.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 45,
+          "image": "s15-45.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 46,
+          "image": "s15-46.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 47,
+          "image": "s15-47.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 48,
+          "image": "s15-48.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 49,
+          "image": "s15-49.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 50,
+          "image": "s15-50.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 51,
+          "image": "s15-51.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 52,
+          "image": "s15-52.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 53,
+          "image": "s15-53.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 54,
+          "image": "s15-54.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 55,
+          "image": "s15-55.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 56,
+          "image": "s15-56.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 57,
+          "image": "s15-57.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 58,
+          "image": "s15-58.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 59,
+          "image": "s15-59.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 60,
+          "image": "s15-60.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 61,
+          "image": "s15-61.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 62,
+          "image": "s15-62.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 63,
+          "image": "s15-63.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 64,
+          "image": "s15-64.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 65,
+          "image": "s15-65.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 66,
+          "image": "s15-66.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 67,
+          "image": "s15-67.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 68,
+          "image": "s15-68.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 69,
+          "image": "s15-69.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 70,
+          "image": "s15-70.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 71,
+          "image": "s15-71.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 72,
+          "image": "s15-72.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 73,
+          "image": "s15-73.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 74,
+          "image": "s15-74.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 75,
+          "image": "s15-75.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 76,
+          "image": "s15-76.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 77,
+          "image": "s15-77.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 78,
+          "image": "s15-78.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 79,
+          "image": "s15-79.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 80,
+          "image": "s15-80.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 81,
+          "image": "s15-81.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 82,
+          "image": "s15-82.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 83,
+          "image": "s15-83.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 84,
+          "image": "s15-84.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 85,
+          "image": "s15-85.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 86,
+          "image": "s15-86.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 87,
+          "image": "s15-87.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 88,
+          "image": "s15-88.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 89,
+          "image": "s15-89.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 90,
+          "image": "s15-90.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 91,
+          "image": "s15-91.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 92,
+          "image": "s15-92.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 93,
+          "image": "s15-93.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 94,
+          "image": "s15-94.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 95,
+          "image": "s15-95.jpg",
+          "season": "fifteen"
+        },
+        {
+          "number": 96,
+          "image": "s15-96.jpg",
+          "season": "fifteen"
+        }
+      ]
+    },
+    {
+      "name": "Tokyo Escape",
+      "season": "sixteen",
+      "cover": "s16-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s16-01.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 2,
+          "image": "s16-02.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 3,
+          "image": "s16-03.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 4,
+          "image": "s16-04.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 5,
+          "image": "s16-05.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 6,
+          "image": "s16-06.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 7,
+          "image": "s16-07.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 8,
+          "image": "s16-08.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 9,
+          "image": "s16-09.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 10,
+          "image": "s16-10.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 11,
+          "image": "s16-11.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 12,
+          "image": "s16-12.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 13,
+          "image": "s16-13.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 14,
+          "image": "s16-14.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 15,
+          "image": "s16-15.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 16,
+          "image": "s16-16.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 17,
+          "image": "s16-17.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 18,
+          "image": "s16-18.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 19,
+          "image": "s16-19.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 20,
+          "image": "s16-20.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 21,
+          "image": "s16-21.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 22,
+          "image": "s16-22.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 23,
+          "image": "s16-23.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 24,
+          "image": "s16-24.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 25,
+          "image": "s16-25.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 26,
+          "image": "s16-26.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 27,
+          "image": "s16-27.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 28,
+          "image": "s16-28.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 29,
+          "image": "s16-29.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 30,
+          "image": "s16-30.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 31,
+          "image": "s16-31.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 32,
+          "image": "s16-32.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 33,
+          "image": "s16-33.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 34,
+          "image": "s16-34.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 35,
+          "image": "s16-35.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 36,
+          "image": "s16-36.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 37,
+          "image": "s16-37.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 38,
+          "image": "s16-38.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 39,
+          "image": "s16-39.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 40,
+          "image": "s16-40.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 41,
+          "image": "s16-41.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 42,
+          "image": "s16-42.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 43,
+          "image": "s16-43.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 44,
+          "image": "s16-44.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 45,
+          "image": "s16-45.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 46,
+          "image": "s16-46.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 47,
+          "image": "s16-47.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 48,
+          "image": "s16-48.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 49,
+          "image": "s16-49.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 50,
+          "image": "s16-50.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 51,
+          "image": "s16-51.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 52,
+          "image": "s16-52.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 53,
+          "image": "s16-53.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 54,
+          "image": "s16-54.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 55,
+          "image": "s16-55.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 56,
+          "image": "s16-56.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 57,
+          "image": "s16-57.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 58,
+          "image": "s16-58.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 59,
+          "image": "s16-59.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 60,
+          "image": "s16-60.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 61,
+          "image": "s16-61.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 62,
+          "image": "s16-62.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 63,
+          "image": "s16-63.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 64,
+          "image": "s16-64.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 65,
+          "image": "s16-65.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 66,
+          "image": "s16-66.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 67,
+          "image": "s16-67.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 68,
+          "image": "s16-68.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 69,
+          "image": "s16-69.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 70,
+          "image": "s16-70.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 71,
+          "image": "s16-71.jpg",
+          "season": "sixteen"
+        },
+        {
+          "number": 72,
+          "image": "s16-72.jpg",
+          "season": "sixteen"
+        }
+      ]
+    },
+    {
+      "name": "Spurned and Burned",
+      "season": "seventeen",
+      "cover": "s17-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s17-01.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 2,
+          "image": "s17-02.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 3,
+          "image": "s17-03.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 4,
+          "image": "s17-04.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 5,
+          "image": "s17-05.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 6,
+          "image": "s17-06.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 7,
+          "image": "s17-07.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 8,
+          "image": "s17-08.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 9,
+          "image": "s17-09.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 10,
+          "image": "s17-10.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 11,
+          "image": "s17-11.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 12,
+          "image": "s17-12.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 13,
+          "image": "s17-13.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 14,
+          "image": "s17-14.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 15,
+          "image": "s17-15.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 16,
+          "image": "s17-16.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 17,
+          "image": "s17-17.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 18,
+          "image": "s17-18.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 19,
+          "image": "s17-19.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 20,
+          "image": "s17-20.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 21,
+          "image": "s17-21.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 22,
+          "image": "s17-22.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 23,
+          "image": "s17-23.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 24,
+          "image": "s17-24.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 25,
+          "image": "s17-25.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 26,
+          "image": "s17-26.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 27,
+          "image": "s17-27.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 28,
+          "image": "s17-28.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 29,
+          "image": "s17-29.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 30,
+          "image": "s17-30.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 31,
+          "image": "s17-31.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 32,
+          "image": "s17-32.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 33,
+          "image": "s17-33.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 34,
+          "image": "s17-34.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 35,
+          "image": "s17-35.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 36,
+          "image": "s17-36.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 37,
+          "image": "s17-37.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 38,
+          "image": "s17-38.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 39,
+          "image": "s17-39.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 40,
+          "image": "s17-40.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 41,
+          "image": "s17-41.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 42,
+          "image": "s17-42.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 43,
+          "image": "s17-43.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 44,
+          "image": "s17-44.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 45,
+          "image": "s17-45.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 46,
+          "image": "s17-46.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 47,
+          "image": "s17-47.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 48,
+          "image": "s17-48.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 49,
+          "image": "s17-49.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 50,
+          "image": "s17-50.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 51,
+          "image": "s17-51.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 52,
+          "image": "s17-52.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 53,
+          "image": "s17-53.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 54,
+          "image": "s17-54.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 55,
+          "image": "s17-55.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 56,
+          "image": "s17-56.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 57,
+          "image": "s17-57.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 58,
+          "image": "s17-58.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 59,
+          "image": "s17-59.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 60,
+          "image": "s17-60.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 61,
+          "image": "s17-61.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 62,
+          "image": "s17-62.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 63,
+          "image": "s17-63.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 64,
+          "image": "s17-64.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 65,
+          "image": "s17-65.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 66,
+          "image": "s17-66.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 67,
+          "image": "s17-67.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 68,
+          "image": "s17-68.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 69,
+          "image": "s17-69.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 70,
+          "image": "s17-70.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 71,
+          "image": "s17-71.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 72,
+          "image": "s17-72.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 73,
+          "image": "s17-73.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 74,
+          "image": "s17-74.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 75,
+          "image": "s17-75.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 76,
+          "image": "s17-76.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 77,
+          "image": "s17-77.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 78,
+          "image": "s17-78.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 79,
+          "image": "s17-79.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 80,
+          "image": "s17-80.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 81,
+          "image": "s17-81.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 82,
+          "image": "s17-82.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 83,
+          "image": "s17-83.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 84,
+          "image": "s17-84.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 85,
+          "image": "s17-85.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 86,
+          "image": "s17-86.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 87,
+          "image": "s17-87.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 88,
+          "image": "s17-88.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 89,
+          "image": "s17-89.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 90,
+          "image": "s17-90.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 91,
+          "image": "s17-91.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 92,
+          "image": "s17-92.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 93,
+          "image": "s17-93.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 94,
+          "image": "s17-94.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 95,
+          "image": "s17-95.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 96,
+          "image": "s17-96.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 97,
+          "image": "s17-97.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 98,
+          "image": "s17-98.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 99,
+          "image": "s17-99.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 100,
+          "image": "s17-100.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 101,
+          "image": "s17-101.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 102,
+          "image": "s17-102.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 103,
+          "image": "s17-103.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 104,
+          "image": "s17-104.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 105,
+          "image": "s17-105.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 106,
+          "image": "s17-106.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 107,
+          "image": "s17-107.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 108,
+          "image": "s17-108.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 109,
+          "image": "s17-109.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 110,
+          "image": "s17-110.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 111,
+          "image": "s17-111.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 112,
+          "image": "s17-112.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 113,
+          "image": "s17-113.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 114,
+          "image": "s17-114.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 115,
+          "image": "s17-115.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 116,
+          "image": "s17-116.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 117,
+          "image": "s17-117.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 118,
+          "image": "s17-118.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 119,
+          "image": "s17-119.jpg",
+          "season": "seventeen"
+        },
+        {
+          "number": 120,
+          "image": "s17-120.jpg",
+          "season": "seventeen"
+        }
+      ]
+    },
+    {
+      "name": "In Deep Water",
+      "season": "eighteen",
+      "cover": "s18-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s18-01.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 2,
+          "image": "s18-02.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 3,
+          "image": "s18-03.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 4,
+          "image": "s18-04.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 5,
+          "image": "s18-05.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 6,
+          "image": "s18-06.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 7,
+          "image": "s18-07.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 8,
+          "image": "s18-08.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 9,
+          "image": "s18-09.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 10,
+          "image": "s18-10.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 11,
+          "image": "s18-11.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 12,
+          "image": "s18-12.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 13,
+          "image": "s18-13.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 14,
+          "image": "s18-14.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 15,
+          "image": "s18-15.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 16,
+          "image": "s18-16.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 17,
+          "image": "s18-17.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 18,
+          "image": "s18-18.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 19,
+          "image": "s18-19.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 20,
+          "image": "s18-20.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 21,
+          "image": "s18-21.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 22,
+          "image": "s18-22.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 23,
+          "image": "s18-23.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 24,
+          "image": "s18-24.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 25,
+          "image": "s18-25.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 26,
+          "image": "s18-26.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 27,
+          "image": "s18-27.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 28,
+          "image": "s18-28.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 29,
+          "image": "s18-29.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 30,
+          "image": "s18-30.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 31,
+          "image": "s18-31.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 32,
+          "image": "s18-32.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 33,
+          "image": "s18-33.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 34,
+          "image": "s18-34.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 35,
+          "image": "s18-35.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 36,
+          "image": "s18-36.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 37,
+          "image": "s18-37.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 38,
+          "image": "s18-38.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 39,
+          "image": "s18-39.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 40,
+          "image": "s18-40.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 41,
+          "image": "s18-41.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 42,
+          "image": "s18-42.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 43,
+          "image": "s18-43.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 44,
+          "image": "s18-44.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 45,
+          "image": "s18-45.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 46,
+          "image": "s18-46.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 47,
+          "image": "s18-47.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 48,
+          "image": "s18-48.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 49,
+          "image": "s18-49.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 50,
+          "image": "s18-50.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 51,
+          "image": "s18-51.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 52,
+          "image": "s18-52.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 53,
+          "image": "s18-53.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 54,
+          "image": "s18-54.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 55,
+          "image": "s18-55.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 56,
+          "image": "s18-56.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 57,
+          "image": "s18-57.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 58,
+          "image": "s18-58.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 59,
+          "image": "s18-59.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 60,
+          "image": "s18-60.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 61,
+          "image": "s18-61.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 62,
+          "image": "s18-62.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 63,
+          "image": "s18-63.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 64,
+          "image": "s18-64.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 65,
+          "image": "s18-65.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 66,
+          "image": "s18-66.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 67,
+          "image": "s18-67.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 68,
+          "image": "s18-68.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 69,
+          "image": "s18-69.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 70,
+          "image": "s18-70.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 71,
+          "image": "s18-71.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 72,
+          "image": "s18-72.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 73,
+          "image": "s18-73.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 74,
+          "image": "s18-74.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 75,
+          "image": "s18-75.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 76,
+          "image": "s18-76.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 77,
+          "image": "s18-77.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 78,
+          "image": "s18-78.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 79,
+          "image": "s18-79.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 80,
+          "image": "s18-80.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 81,
+          "image": "s18-81.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 82,
+          "image": "s18-82.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 83,
+          "image": "s18-83.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 84,
+          "image": "s18-84.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 85,
+          "image": "s18-85.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 86,
+          "image": "s18-86.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 87,
+          "image": "s18-87.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 88,
+          "image": "s18-88.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 89,
+          "image": "s18-89.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 90,
+          "image": "s18-90.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 91,
+          "image": "s18-91.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 92,
+          "image": "s18-92.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 93,
+          "image": "s18-93.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 94,
+          "image": "s18-94.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 95,
+          "image": "s18-95.jpg",
+          "season": "eighteen"
+        },
+        {
+          "number": 96,
+          "image": "s18-96.jpg",
+          "season": "eighteen"
+        }
+      ]
+    },
+    {
+      "name": "The Heat",
+      "season": "nineteen",
+      "cover": "s19-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s19-01.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 2,
+          "image": "s19-02.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 3,
+          "image": "s19-03.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 4,
+          "image": "s19-04.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 5,
+          "image": "s19-05.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 6,
+          "image": "s19-06.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 7,
+          "image": "s19-07.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 8,
+          "image": "s19-08.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 9,
+          "image": "s19-09.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 10,
+          "image": "s19-10.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 11,
+          "image": "s19-11.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 12,
+          "image": "s19-12.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 13,
+          "image": "s19-13.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 14,
+          "image": "s19-14.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 15,
+          "image": "s19-15.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 16,
+          "image": "s19-16.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 17,
+          "image": "s19-17.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 18,
+          "image": "s19-18.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 19,
+          "image": "s19-19.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 20,
+          "image": "s19-20.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 21,
+          "image": "s19-21.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 22,
+          "image": "s19-22.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 23,
+          "image": "s19-23.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 24,
+          "image": "s19-24.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 25,
+          "image": "s19-25.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 26,
+          "image": "s19-26.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 27,
+          "image": "s19-27.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 28,
+          "image": "s19-28.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 29,
+          "image": "s19-29.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 30,
+          "image": "s19-30.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 31,
+          "image": "s19-31.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 32,
+          "image": "s19-32.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 33,
+          "image": "s19-33.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 34,
+          "image": "s19-34.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 35,
+          "image": "s19-35.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 36,
+          "image": "s19-36.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 37,
+          "image": "s19-37.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 38,
+          "image": "s19-38.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 39,
+          "image": "s19-39.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 40,
+          "image": "s19-40.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 41,
+          "image": "s19-41.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 42,
+          "image": "s19-42.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 43,
+          "image": "s19-43.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 44,
+          "image": "s19-44.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 45,
+          "image": "s19-45.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 46,
+          "image": "s19-46.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 47,
+          "image": "s19-47.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 48,
+          "image": "s19-48.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 49,
+          "image": "s19-49.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 50,
+          "image": "s19-50.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 51,
+          "image": "s19-51.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 52,
+          "image": "s19-52.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 53,
+          "image": "s19-53.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 54,
+          "image": "s19-54.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 55,
+          "image": "s19-55.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 56,
+          "image": "s19-56.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 57,
+          "image": "s19-57.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 58,
+          "image": "s19-58.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 59,
+          "image": "s19-59.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 60,
+          "image": "s19-60.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 61,
+          "image": "s19-61.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 62,
+          "image": "s19-62.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 63,
+          "image": "s19-63.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 64,
+          "image": "s19-64.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 65,
+          "image": "s19-65.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 66,
+          "image": "s19-66.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 67,
+          "image": "s19-67.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 68,
+          "image": "s19-68.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 69,
+          "image": "s19-69.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 70,
+          "image": "s19-70.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 71,
+          "image": "s19-71.jpg",
+          "season": "nineteen"
+        },
+        {
+          "number": 72,
+          "image": "s19-72.jpg",
+          "season": "nineteen"
+        }
+      ]
+    },
+    {
+      "name": "Undead Siege",
+      "season": "twenty",
+      "cover": "s20-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s20-01.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 2,
+          "image": "s20-02.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 3,
+          "image": "s20-03.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 4,
+          "image": "s20-04.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 5,
+          "image": "s20-05.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 6,
+          "image": "s20-06.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 7,
+          "image": "s20-07.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 8,
+          "image": "s20-08.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 9,
+          "image": "s20-09.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 10,
+          "image": "s20-10.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 11,
+          "image": "s20-11.jpg",
+          "season": "twenty"
+        },
+        {
+          "number": 12,
+          "image": "s20-12.jpg",
+          "season": "twenty"
+        }
+      ]
+    },
+    {
+      "name": "Elite of the Elite",
+      "season": "twentyOne",
+      "cover": "s21-01.jpg",
+      "pages": [
+        {
+          "number": 1,
+          "image": "s21-01.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 2,
+          "image": "s21-02.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 3,
+          "image": "s21-03.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 4,
+          "image": "s21-04.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 5,
+          "image": "s21-05.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 6,
+          "image": "s21-06.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 7,
+          "image": "s21-07.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 8,
+          "image": "s21-08.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 9,
+          "image": "s21-09.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 10,
+          "image": "s21-10.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 11,
+          "image": "s21-11.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 12,
+          "image": "s21-12.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 13,
+          "image": "s21-13.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 14,
+          "image": "s21-14.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 15,
+          "image": "s21-15.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 16,
+          "image": "s21-16.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 17,
+          "image": "s21-17.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 18,
+          "image": "s21-18.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 19,
+          "image": "s21-19.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 20,
+          "image": "s21-20.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 21,
+          "image": "s21-21.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 22,
+          "image": "s21-22.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 23,
+          "image": "s21-23.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 24,
+          "image": "s21-24.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 25,
+          "image": "s21-25.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 26,
+          "image": "s21-26.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 27,
+          "image": "s21-27.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 28,
+          "image": "s21-28.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 29,
+          "image": "s21-29.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 30,
+          "image": "s21-30.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 31,
+          "image": "s21-31.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 32,
+          "image": "s21-32.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 33,
+          "image": "s21-33.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 34,
+          "image": "s21-34.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 35,
+          "image": "s21-35.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 36,
+          "image": "s21-36.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 37,
+          "image": "s21-37.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 38,
+          "image": "s21-38.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 39,
+          "image": "s21-39.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 40,
+          "image": "s21-40.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 41,
+          "image": "s21-41.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 42,
+          "image": "s21-42.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 43,
+          "image": "s21-43.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 44,
+          "image": "s21-44.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 45,
+          "image": "s21-45.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 46,
+          "image": "s21-46.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 47,
+          "image": "s21-47.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 48,
+          "image": "s21-48.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 49,
+          "image": "s21-49.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 50,
+          "image": "s21-50.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 51,
+          "image": "s21-51.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 52,
+          "image": "s21-52.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 53,
+          "image": "s21-53.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 54,
+          "image": "s21-54.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 55,
+          "image": "s21-55.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 56,
+          "image": "s21-56.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 57,
+          "image": "s21-57.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 58,
+          "image": "s21-58.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 59,
+          "image": "s21-59.jpg",
+          "season": "twentyOne"
+        },
+        {
+          "number": 60,
+          "image": "s21-60.jpg",
+          "season": "twentyOne"
+        }
+      ]
+    }
+  ]
+}

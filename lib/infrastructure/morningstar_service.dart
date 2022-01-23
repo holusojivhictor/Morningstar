@@ -13,6 +13,8 @@ class MorningStarServiceImpl implements MorningStarService {
   late WeaponsFile _weaponsFile;
   late TranslationFile _translationFile;
   late TopPicksFile _topPicksFile;
+  late ComicsFile _comicsFile;
+  late VehiclesFile _vehiclesFile;
 
   @override
   Future<void> init(AppLanguageType languageType) async {
@@ -50,6 +52,20 @@ class MorningStarServiceImpl implements MorningStarService {
     final jsonStr = await rootBundle.loadString(Assets.topPicksDbPath);
     final json = jsonDecode(jsonStr) as Map<String, dynamic>;
     _topPicksFile = TopPicksFile.fromJson(json);
+  }
+
+  @override
+  Future<void> initComics() async {
+    final jsonStr = await rootBundle.loadString(Assets.comicsDbPath);
+    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+    _comicsFile = ComicsFile.fromJson(json);
+  }
+
+  @override
+  Future<void> initVehicles() async {
+    final jsonStr = await rootBundle.loadString(Assets.vehiclesDbPath);
+    final json = jsonDecode(jsonStr) as Map<String, dynamic>;
+    _vehiclesFile = VehiclesFile.fromJson(json);
   }
 
   @override
