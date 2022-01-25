@@ -71,7 +71,7 @@ class WeaponCard extends StatelessWidget {
         isBuild = false,
         super(key: key);
 
-  WeaponCard.blueprints({
+  WeaponCard.blueprint({
     Key? key,
     required WeaponBlueprintCardModel blueprint,
     this.imgHeight = 140,
@@ -91,7 +91,7 @@ class WeaponCard extends StatelessWidget {
         isBuild = true,
         super(key: key);
 
-  WeaponCard.camos({
+  WeaponCard.camo({
     Key? key,
     required WeaponCamoCardModel camo,
     this.imgHeight = 140,

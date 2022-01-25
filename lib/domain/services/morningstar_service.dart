@@ -1,5 +1,4 @@
 import 'package:morningstar/domain/enums/enums.dart';
-import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
 import 'package:morningstar/domain/models/models.dart';
 
 abstract class MorningStarService {
@@ -16,6 +15,10 @@ abstract class MorningStarService {
   SoldierFileModel getSoldier(String key);
   List<String> getUpcomingSoldiersKeys();
   List<TierListRowModel> getDefaultWeaponTierList(List<int> colors);
+
+  List<VehicleCardModel> getVehiclesForCard();
+  VehicleCardModel getVehicleForCard(String key);
+  VehicleFileModel getVehicle(String key);
 
   List<WeaponCardModel> getWeaponsForCard();
   WeaponCardModel getWeaponForCard(String key);

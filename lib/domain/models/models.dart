@@ -28,3 +28,5 @@ export 'db/comics/comic_file_model.dart';
 export 'db/comics/comics_file.dart';
 export 'db/vehicles/vehicle_file_model.dart';
 export 'db/vehicles/vehicles_file.dart';
+export 'vehicles/vehicle_card_model.dart';
+export 'db/vehicles/vehicle_camo_card_model.dart';

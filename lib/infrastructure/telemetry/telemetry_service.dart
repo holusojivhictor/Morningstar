@@ -53,6 +53,11 @@ class TelemetryServiceImpl implements TelemetryService {
   }
 
   @override
+  Future<void> trackVehicleLoaded(String value) async {
+    await trackEventAsync('Vehicle-FromKey', {'Key': value});
+  }
+
+  @override
   Future<void> trackTierListOpened() => trackEventAsync('TierListBuilder-Opened');
   
   @override

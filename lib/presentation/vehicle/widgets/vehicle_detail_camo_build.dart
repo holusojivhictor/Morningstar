@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/utils/size_utils.dart';
-import 'package:morningstar/presentation/weapons/widgets/weapon_card.dart';
+import 'package:morningstar/presentation/vehicles/widgets/vehicle_card.dart';
 import 'package:waterfall_flow/waterfall_flow.dart';
 
-class WeaponDetailBlueprintBuild extends StatelessWidget {
-  final List<WeaponBlueprintCardModel> blueprints;
-  const WeaponDetailBlueprintBuild({
+class VehicleDetailCamoBuild extends StatelessWidget {
+  final List<VehicleCamoCardModel> camos;
+  const VehicleDetailCamoBuild({
     Key? key,
-    required this.blueprints,
+    required this.camos,
   }) : super(key: key);
 
   @override
@@ -17,8 +17,8 @@ class WeaponDetailBlueprintBuild extends StatelessWidget {
 
     return SliverWaterfallFlow(
       delegate: SliverChildBuilderDelegate(
-            (context, index) => WeaponCard.blueprint(blueprint: blueprints[index]),
-        childCount: blueprints.length,
+            (context, index) => VehicleCard.camo(camo: camos[index]),
+        childCount: camos.length,
       ),
       gridDelegate: SliverWaterfallFlowDelegateWithFixedCrossAxisCount(
         crossAxisCount: SizeUtils.getCrossAxisCountForGrids(context),

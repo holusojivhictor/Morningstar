@@ -16,3 +16,5 @@ const soldiersImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/soldie
 const weaponsImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/weapons/';
 
 const comicsImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/comics/';
+
+const vehiclesImageUrl = 'https://morningstar.nyc3.digitaloceanspaces.com/vehicles/';

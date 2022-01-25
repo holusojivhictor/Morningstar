@@ -6,6 +6,7 @@ import 'package:morningstar/presentation/home/widgets/sliver_today_main_title.da
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_soldiers.dart';
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_weapons.dart';
 import 'package:morningstar/presentation/home/widgets/tier_list_card.dart';
+import 'package:morningstar/presentation/home/widgets/vehicle_page_card.dart';
 import 'package:morningstar/presentation/today_top_picks/today_top_picks_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
@@ -56,7 +57,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
               child: ListView.builder(
                 physics: const BouncingScrollPhysics(),
                 scrollDirection: Axis.horizontal,
-                itemCount: 1,
+                itemCount: 2,
                 itemBuilder: (context, index) => _buildMoreSectionMenu(index),
               ),
             ),
@@ -81,6 +82,8 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
     switch (index) {
       case 0:
         return const TierListCard(iconToTheLeft: true);
+      case 1:
+        return const VehiclePageCard(iconToTheLeft: true);
       default:
         throw Exception('Invalid tool section');
     }

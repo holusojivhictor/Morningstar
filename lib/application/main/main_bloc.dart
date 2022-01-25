@@ -26,6 +26,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
 
   final SoldiersBloc _soldiersBloc;
   final WeaponsBloc _weaponsBloc;
+  final VehiclesBloc _vehiclesBloc;
   final HomeBloc _homeBloc;
   final PreloadBloc _preloadBloc;
 
@@ -38,6 +39,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
     this._deviceInfoService,
     this._soldiersBloc,
     this._weaponsBloc,
+    this._vehiclesBloc,
     this._homeBloc,
     this._preloadBloc,
   ) : super(const MainState.loading());
@@ -62,6 +64,7 @@ class MainBloc extends Bloc<MainEvent, MainState> {
       _logger.info(runtimeType, '_init: Language changed, reloading all the required blocs...');
       _soldiersBloc.add(const SoldiersEvent.init());
       _weaponsBloc.add(const WeaponsEvent.init());
+      _vehiclesBloc.add(const VehiclesEvent.init());
       _homeBloc.add(const HomeEvent.init());
     }
 

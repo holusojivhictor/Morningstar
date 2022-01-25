@@ -8,10 +8,12 @@ import 'constants.dart';
 class DetailBottomPortraitLayout extends StatelessWidget {
   final List<Widget> children;
   final bool isASmallImage;
+  final bool isVehicle;
   const DetailBottomPortraitLayout({
     Key? key,
     required this.children,
     this.isASmallImage = true,
+    this.isVehicle = false,
   }) : super(key: key);
 
   @override
@@ -23,7 +25,7 @@ class DetailBottomPortraitLayout extends StatelessWidget {
     return SizedBox(
       width: width,
       child: Card(
-        margin: EdgeInsets.only(top: maxTopHeight),
+        margin: EdgeInsets.only(top: !isVehicle ? maxTopHeight : maxTopHeight + 20),
         shape: Styles.cardItemDetailShape,
         elevation: 0,
         child: Padding(

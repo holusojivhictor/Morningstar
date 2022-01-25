@@ -17,7 +17,7 @@ class WeaponDetailCamoBuild extends StatelessWidget {
 
     return SliverWaterfallFlow(
       delegate: SliverChildBuilderDelegate(
-            (context, index) => WeaponCard.camos(camo: camos[index]),
+            (context, index) => WeaponCard.camo(camo: camos[index]),
         childCount: camos.length,
       ),
       gridDelegate: SliverWaterfallFlowDelegateWithFixedCrossAxisCount(

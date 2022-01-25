@@ -22,6 +22,8 @@ class MorningStarServiceImpl implements MorningStarService {
       initSoldiers(),
       initWeapons(),
       initTopPicks(),
+      initComics(),
+      initVehicles(),
       initTranslations(languageType),
     ]);
   }
@@ -186,6 +188,23 @@ class MorningStarServiceImpl implements MorningStarService {
   }
 
   @override
+  List<VehicleCardModel> getVehiclesForCard() {
+    return _vehiclesFile.allVehicles.map((e) => _toVehicleForCard(e)).toList();
+  }
+
+  @override
+  VehicleCardModel getVehicleForCard(String key) {
+    final vehicle = _vehiclesFile.allVehicles.firstWhere((el) => el.key == key);
+    return _toVehicleForCard(vehicle);
+  }
+
+  @override
+  VehicleFileModel getVehicle(String key) {
+    return _vehiclesFile.allVehicles.firstWhere((element) => element.key == key);
+  }
+
+
+  @override
   SoldierCardModel getSoldierForCard(String key) {
     final soldier = _soldiersFile.soldiers.firstWhere((el) => el.key == key);
     return _toSoldierForCard(soldier);
@@ -220,6 +239,15 @@ class MorningStarServiceImpl implements MorningStarService {
       type: weapon.type,
       model: weapon.model,
       isComingSoon: weapon.isComingSoon,
+    );
+  }
+
+  VehicleCardModel _toVehicleForCard(VehicleFileModel vehicle) {
+    return VehicleCardModel(
+      key: vehicle.key,
+      name: vehicle.name,
+      imageUrl: vehicle.imageUrl,
+      isComingSoon: vehicle.isComingSoon,
     );
   }
 
