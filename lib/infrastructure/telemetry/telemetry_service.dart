@@ -58,6 +58,11 @@ class TelemetryServiceImpl implements TelemetryService {
   }
 
   @override
+  Future<void> trackComicLoaded(String value) async {
+    await trackEventAsync('Comic-FromKey', {'Key': value});
+  }
+
+  @override
   Future<void> trackTierListOpened() => trackEventAsync('TierListBuilder-Opened');
   
   @override

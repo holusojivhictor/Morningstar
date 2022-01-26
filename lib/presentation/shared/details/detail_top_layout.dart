@@ -17,6 +17,7 @@ class DetailTopLayout extends StatelessWidget {
 
   final bool isASmallImage;
   final bool showShadowImage;
+  final bool useMargin;
   final double soldierDescriptionHeight;
 
   const DetailTopLayout({
@@ -32,6 +33,7 @@ class DetailTopLayout extends StatelessWidget {
     required this.webUrl,
     this.isASmallImage = false,
     this.showShadowImage = true,
+    this.useMargin = false,
     this.soldierDescriptionHeight = 240,
   }) : super(key: key);
 
@@ -45,7 +47,8 @@ class DetailTopLayout extends StatelessWidget {
             : Alignment.bottomLeft
         : Alignment.center;
     return Container(
-      height: isPortrait ? getTopHeightForPortrait(context, isASmallImage) : null,
+      height:
+      isPortrait ? getTopHeightForPortrait(context, isASmallImage) : null,
       decoration: BoxDecoration(
         color: color,
         gradient: gradient,
@@ -62,14 +65,25 @@ class DetailTopLayout extends StatelessWidget {
               secondImage: secondImage,
               isASmallImage: isASmallImage,
             ),
-          Align(
-            alignment: imgAlignment,
-            child: Image(
-              image: CachedNetworkImageProvider('$webUrl$image'),
-              fit: BoxFit.contain,
-              filterQuality: FilterQuality.high,
-            ),
-          ),
+          useMargin
+              ? Align(
+                  alignment: imgAlignment,
+                  child: Image(
+                    height: 280,
+                    width: 280,
+                    image: CachedNetworkImageProvider('$webUrl$image'),
+                    fit: BoxFit.contain,
+                    filterQuality: FilterQuality.high,
+                  ),
+                )
+              : Align(
+                  alignment: imgAlignment,
+                  child: Image(
+                    image: CachedNetworkImageProvider('$webUrl$image'),
+                    fit: BoxFit.contain,
+                    filterQuality: FilterQuality.high,
+                  ),
+                ),
           if (!isASmallImage)
             Positioned(
               top: 45.0,
@@ -146,4 +160,3 @@ class ShadowImage extends StatelessWidget {
     );
   }
 }
-

@@ -11,7 +11,7 @@ class ModalSheetSeparator extends StatelessWidget {
         margin: const EdgeInsets.only(bottom: 5),
         child: SizedBox(
           width: 100,
-          height: 8,
+          height: 6,
           child: DecoratedBox(
             decoration: BoxDecoration(
               color: theme.primaryColor,

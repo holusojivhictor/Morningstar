@@ -20,6 +20,10 @@ abstract class MorningStarService {
   VehicleCardModel getVehicleForCard(String key);
   VehicleFileModel getVehicle(String key);
 
+  List<ComicCardModel> getComicsForCard();
+  ComicCardModel getComicForCard(String name);
+  ComicFileModel getComic(String name);
+
   List<WeaponCardModel> getWeaponsForCard();
   WeaponCardModel getWeaponForCard(String key);
   WeaponFileModel getWeapon(String key);

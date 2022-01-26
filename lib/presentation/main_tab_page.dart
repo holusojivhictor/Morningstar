@@ -28,7 +28,7 @@ class _MainTabPageState extends State<MainTabPage> with SingleTickerProviderStat
   void initState() {
     _tabController = TabController(
       initialIndex: _defaultIndex,
-      length: 5,
+      length: 4,
       vsync: this,
     );
     super.initState();
@@ -42,6 +42,7 @@ class _MainTabPageState extends State<MainTabPage> with SingleTickerProviderStat
     context.read<HomeBloc>().add(const HomeEvent.init());
     context.read<SoldiersBloc>().add(const SoldiersEvent.init());
     context.read<WeaponsBloc>().add(const WeaponsEvent.init());
+    context.read<ComicsBloc>().add(const ComicsEvent.init());
     context.read<SettingsBloc>().add(const SettingsEvent.init());
     context.read<VehiclesBloc>().add(const VehiclesEvent.init());
     context.read<TodayTopPicksBloc>().add(const TodayTopPicksEvent.init());

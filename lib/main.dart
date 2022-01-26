@@ -3,7 +3,6 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/application/vehicle/vehicle_bloc.dart';
 import 'package:morningstar/domain/services/data_service.dart';
 import 'package:morningstar/domain/services/device_info_service.dart';
 import 'package:morningstar/domain/services/locale_service.dart';
@@ -99,6 +98,19 @@ class MorningStar extends StatelessWidget {
         BlocProvider(
           create: (ctx) {
             final morningStarService = getIt<MorningStarService>();
+            return ComicsBloc(morningStarService);
+          },
+        ),
+        BlocProvider(
+          create: (ctx) {
+            final morningStarService = getIt<MorningStarService>();
+            final telemetryService = getIt<TelemetryService>();
+            return ComicBloc(morningStarService, telemetryService);
+          },
+        ),
+        BlocProvider(
+          create: (ctx) {
+            final morningStarService = getIt<MorningStarService>();
             final telemetryService = getIt<TelemetryService>();
             return TodayTopPicksBloc(morningStarService, telemetryService);
           },
@@ -120,6 +132,7 @@ class MorningStar extends StatelessWidget {
               deviceInfoService,
               ctx.read<SoldiersBloc>(),
               ctx.read<WeaponsBloc>(),
+              ctx.read<ComicsBloc>(),
               ctx.read<VehiclesBloc>(),
               ctx.read<HomeBloc>(),
               ctx.read<PreloadBloc>(),

@@ -4,17 +4,18 @@ import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/shared/mixins/app_fab_mixin.dart';
 import 'package:morningstar/presentation/shared/utils/size_utils.dart';
-import 'package:morningstar/presentation/vehicles/widgets/vehicle_card.dart';
 import 'package:waterfall_flow/waterfall_flow.dart';
 
-class VehiclesPage extends StatefulWidget {
-  const VehiclesPage({Key? key}) : super(key: key);
+import 'widgets/comic_card.dart';
+
+class ComicsPage extends StatefulWidget {
+  const ComicsPage({Key? key}) : super(key: key);
 
   @override
-  _VehiclesPageState createState() => _VehiclesPageState();
+  _ComicsPageState createState() => _ComicsPageState();
 }
 
-class _VehiclesPageState extends State<VehiclesPage> with SingleTickerProviderStateMixin, AppFabMixin {
+class _ComicsPageState extends State<ComicsPage> with SingleTickerProviderStateMixin, AppFabMixin {
   @override
   bool get isInitiallyVisible => true;
 
@@ -28,14 +29,14 @@ class _VehiclesPageState extends State<VehiclesPage> with SingleTickerProviderSt
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 5),
       child: Scaffold(
-        appBar: AppBar(title: const Text('Vehicles')),
-        body: BlocBuilder<VehiclesBloc, VehiclesState>(
+        appBar: AppBar(title: const Text('Comics')),
+        body: BlocBuilder<ComicsBloc, ComicsState>(
           builder: (ctx, state) => state.map(
             loading: (_) => const Loading(useScaffold: false),
             loaded: (state) => WaterfallFlow.builder(
               controller: scrollController,
-              itemCount: state.vehicles.length,
-              itemBuilder: (context, index) => VehicleCard.item(vehicle: state.vehicles[index]),
+              itemCount: state.comics.length,
+              itemBuilder: (context, index) => ComicCard.item(comic: state.comics[index]),
               gridDelegate: SliverWaterfallFlowDelegateWithFixedCrossAxisCount(
                 crossAxisCount: SizeUtils.getCrossAxisCountForGrids(context, isOnMainPage: true),
                 crossAxisSpacing: isPortrait ? 10 : 5,

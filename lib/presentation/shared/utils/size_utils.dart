@@ -15,8 +15,7 @@ class SizeUtils {
     bool itemIsSmall = false,
     bool isOnMainPage = false,
   }) {
-    final isPortrait =
-        MediaQuery.of(context).orientation == Orientation.portrait;
+    final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
     final size = MediaQuery.of(context).size;
     var deviceType = getDeviceType(size);
     final refinedSize = getRefinedSize(size);

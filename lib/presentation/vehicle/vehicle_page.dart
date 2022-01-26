@@ -42,6 +42,7 @@ class _PortraitLayout extends StatelessWidget {
                     VehicleDetailTop(
                       name: state.name,
                       image: state.imageUrl,
+                      useMargin: true,
                     ),
                     VehicleDetailBottom(
                       name: state.name,
@@ -54,7 +55,7 @@ class _PortraitLayout extends StatelessWidget {
                   padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                   child: ItemDescriptionTitle(
                     title: 'Camos',
-                    textColor: ElementType.epic.getElementColorFromContext(context),
+                    textColor: ElementType.common.getElementColorFromContext(context),
                   ),
                 ),
               ),

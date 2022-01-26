@@ -46,7 +46,7 @@ class Assets {
 
   static String getThrowable(String name) => '$throwableBasePath/$name';
 
-  static String getComicBasePath(String folder, String name) => '$comicsImageUrl/$folder/$name';
+  static String getComicBasePath(String folder, String name) => '$comicsImageUrl$folder/$name';
 
   static String getWeaponPath(String name, WeaponType type) {
     switch (type) {
@@ -299,6 +299,46 @@ class Assets {
         return 'Tactical';
       default:
         throw Exception('The provided weapon model = $model is not valid.');
+    }
+  }
+
+  static String translateComicSeasonType(ComicSeasonType type) {
+    const season = 'Season';
+    switch (type) {
+      case ComicSeasonType.six:
+        return '$season 6';
+      case ComicSeasonType.seven:
+        return '$season 7';
+      case ComicSeasonType.eight:
+        return '$season 8';
+      case ComicSeasonType.nine:
+        return '$season 9';
+      case ComicSeasonType.ten:
+        return '$season 10';
+      case ComicSeasonType.eleven:
+        return '$season 11';
+      case ComicSeasonType.twelve:
+        return '$season 12';
+      case ComicSeasonType.thirteen:
+        return '$season 13';
+      case ComicSeasonType.fourteen:
+        return '$season 1/2021';
+      case ComicSeasonType.fifteen:
+        return '$season 2/2021';
+      case ComicSeasonType.sixteen:
+        return '$season 3/2021';
+      case ComicSeasonType.seventeen:
+        return '$season 4/2021';
+      case ComicSeasonType.eighteen:
+        return '$season 5/2021';
+      case ComicSeasonType.nineteen:
+        return '$season 6/2021';
+      case ComicSeasonType.twenty:
+        return '$season 6a/2021';
+      case ComicSeasonType.twentyOne:
+        return '$season 7/2021';
+      default:
+        throw Exception('Invalid comic season type = $type');
     }
   }
 

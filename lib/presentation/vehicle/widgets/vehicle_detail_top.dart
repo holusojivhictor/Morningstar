@@ -1,22 +1,20 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/presentation/shared/details/detail_top_layout.dart';
 import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
-import 'package:morningstar/presentation/shared/loading.dart';
-import 'package:morningstar/theme.dart';
 
 class VehicleDetailTop extends StatelessWidget {
   final String name;
   final String image;
   final int rarity;
+  final bool useMargin;
 
   const VehicleDetailTop({
     Key? key,
     required this.name,
     required this.image,
     this.rarity = 1,
+    this.useMargin = false,
   }) : super(key: key);
 
   @override
@@ -27,6 +25,7 @@ class VehicleDetailTop extends StatelessWidget {
       image: image,
       secondImage: image,
       name: name,
+      useMargin: useMargin,
       webUrl: vehiclesImageUrl,
       gradient: rarity.getRarityGradient(),
       borderRadius: const BorderRadius.only(

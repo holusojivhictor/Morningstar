@@ -17,3 +17,5 @@ export 'tier_list/tier_list_bloc.dart';
 export 'tier_list_form/tier_list_form_bloc.dart';
 export 'vehicles/vehicles_bloc.dart';
 export 'vehicle/vehicle_bloc.dart';
+export 'comics/comics_bloc.dart';
+export 'comic/comic_bloc.dart';

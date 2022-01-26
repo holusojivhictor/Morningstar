@@ -210,6 +210,23 @@ class MorningStarServiceImpl implements MorningStarService {
     return _toSoldierForCard(soldier);
   }
 
+  @override
+  List<ComicCardModel> getComicsForCard() {
+    return _comicsFile.allComics.map((e) => _toComicForCard(e)).toList();
+  }
+
+  @override
+  ComicCardModel getComicForCard(String name) {
+    final comic = _comicsFile.allComics.firstWhere((el) => el.name == name);
+    return _toComicForCard(comic);
+  }
+
+  @override
+  ComicFileModel getComic(String name) {
+    return _comicsFile.allComics.firstWhere((element) => element.name == name);
+  }
+
+
   SoldierCardModel _toSoldierForCard(SoldierFileModel soldier) {
     final translation = getSoldierTranslation(soldier.key);
 
@@ -248,6 +265,14 @@ class MorningStarServiceImpl implements MorningStarService {
       name: vehicle.name,
       imageUrl: vehicle.imageUrl,
       isComingSoon: vehicle.isComingSoon,
+    );
+  }
+
+  ComicCardModel _toComicForCard(ComicFileModel comic) {
+    return ComicCardModel(
+      name: comic.name,
+      season: comic.season,
+      cover: comic.cover,
     );
   }
 

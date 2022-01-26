@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
 import 'package:morningstar/presentation/home/home_page.dart';
-import 'package:morningstar/presentation/secondary/secondary_page.dart';
 import 'package:morningstar/presentation/settings/settings_page.dart';
 import 'package:morningstar/presentation/shared/extensions/focus_scope_node_extensions.dart';
 import 'package:morningstar/presentation/shared/morningstar_font_icons.dart';
@@ -49,7 +48,6 @@ class _MobileScaffoldState extends State<MobileScaffold> {
               HomePage(),
               SoldiersPage(),
               WeaponsPage(),
-              SecondaryPage(),
               SettingsPage(),
             ],
           ),
@@ -63,7 +61,6 @@ class _MobileScaffoldState extends State<MobileScaffold> {
           BottomNavigationBarItem(label: 'Home',icon: Icon(Icons.home)),
           BottomNavigationBarItem(label: 'Soldiers',icon: Icon(Icons.people)),
           BottomNavigationBarItem(label: 'Weapons',icon: Icon(MorningstarFont.spinning_sword, size: 23)),
-          BottomNavigationBarItem(label: 'Extras',icon: Icon(Icons.local_fire_department)),
           BottomNavigationBarItem(label: 'Settings',icon: Icon(Icons.settings)),
         ],
         type: BottomNavigationBarType.fixed,
