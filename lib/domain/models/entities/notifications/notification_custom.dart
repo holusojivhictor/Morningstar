@@ -1,5 +1,4 @@
 import 'package:hive/hive.dart';
-import 'package:morningstar/domain/enums/app_notification_type.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/entities/notifications/notification_base.dart';
 

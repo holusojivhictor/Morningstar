@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:morningstar/application/bloc.dart';
+import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/presentation/home/widgets/comics_page_card.dart';
 import 'package:morningstar/presentation/home/widgets/my_inventory_card.dart';
 import 'package:morningstar/presentation/home/widgets/notifications_card.dart';
@@ -8,6 +11,7 @@ import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_sol
 import 'package:morningstar/presentation/home/widgets/sliver_today_top_picks_weapons.dart';
 import 'package:morningstar/presentation/home/widgets/tier_list_card.dart';
 import 'package:morningstar/presentation/home/widgets/vehicles_page_card.dart';
+import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/today_top_picks/today_top_picks_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
@@ -34,7 +38,17 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
         slivers: [
           const SliverTodayMainTitle(),
           if (isPortrait)
-            const GifImage(),
+            BlocBuilder<SettingsBloc, SettingsState>(
+              builder: (ct, state) => state.map(
+                loading: (_) => const SliverToBoxAdapter(child: Loading(useScaffold: false)),
+                loaded: (settingsState) {
+                  if (settingsState.currentTheme == AppThemeType.grey) {
+                    return const SliverToBoxAdapter(child: SizedBox());
+                  }
+                  return const GifImage();
+                },
+              ),
+            ),
           _buildClickableTitle('Soldiers Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),
           const SliverTodayTopPicksSoldiers(),
           _buildClickableTitle('Weapons Top Picks', 'See all', context, onClick: () => _goToTopPicksPage(context)),

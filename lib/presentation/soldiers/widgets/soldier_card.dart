@@ -98,7 +98,6 @@ class SoldierCard extends StatelessWidget {
         color: Colors.transparent,
         shadowColor: Colors.transparent,
         child: Column(
-          // crossAxisAlignment: CrossAxisAlignment.stretch,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             SizedBox(
@@ -126,7 +125,7 @@ class SoldierCard extends StatelessWidget {
                   Positioned(
                     left: isNew
                         ? topPickPage ? 8 : isPortrait ? 0 : 140
-                        : topPickPage ? 8 : isPortrait ? 40 : 140,
+                        : topPickPage ? 8 : isPortrait ? 35 : 140,
                     bottom: 5,
                     child: Container(
                       height: height,

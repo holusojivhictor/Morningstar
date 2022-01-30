@@ -54,13 +54,14 @@ class _MobileScaffoldState extends State<MobileScaffold> {
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
+        iconSize: 22,
         backgroundColor: Theme.of(context).dividerColor,
         currentIndex: _index,
         showUnselectedLabels: true,
         items: const [
           BottomNavigationBarItem(label: 'Home',icon: Icon(Icons.home)),
           BottomNavigationBarItem(label: 'Soldiers',icon: Icon(Icons.people)),
-          BottomNavigationBarItem(label: 'Weapons',icon: Icon(MorningstarFont.spinning_sword, size: 23)),
+          BottomNavigationBarItem(label: 'Weapons',icon: Icon(MorningstarFont.spinning_sword)),
           BottomNavigationBarItem(label: 'Settings',icon: Icon(Icons.settings)),
         ],
         type: BottomNavigationBarType.fixed,

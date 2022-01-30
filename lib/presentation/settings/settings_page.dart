@@ -3,6 +3,7 @@ import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 
 import 'widgets/about_settings_card.dart';
+import 'widgets/content_creators_card.dart';
 import 'widgets/credits_settings_card.dart';
 import 'widgets/language_settings_card.dart';
 import 'widgets/other_settings.dart';
@@ -37,6 +38,7 @@ class _MobileLayout extends StatelessWidget {
         LanguageSettingsCard(),
         OtherSettings(),
         AboutSettingsCard(),
+        ContentCreatorsCard(),
         CreditsSettingsCard(),
       ],
     );
@@ -69,6 +71,7 @@ class _DesktopTabletLayout extends StatelessWidget {
               child: Column(
                 children: const [
                   OtherSettings(),
+                  ContentCreatorsCard(),
                   CreditsSettingsCard(),
                 ],
               ),

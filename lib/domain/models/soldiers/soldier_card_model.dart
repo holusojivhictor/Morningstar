@@ -1,8 +1,6 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
-import '../../assets.dart';
-
 part 'soldier_card_model.freezed.dart';
 
 @freezed

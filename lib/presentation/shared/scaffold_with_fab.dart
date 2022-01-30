@@ -6,11 +6,13 @@ import 'mixins/app_fab_mixin.dart';
 class ScaffoldWithFab extends StatefulWidget {
   final Widget child;
   final PreferredSizeWidget? appbar;
+  final Color? color;
 
   const ScaffoldWithFab({
     Key? key,
     required this.child,
     this.appbar,
+    this.color,
   }) : super(key: key);
 
   @override
@@ -26,6 +28,7 @@ class _ScaffoldWithFabState extends State<ScaffoldWithFab> with SingleTickerProv
       },
       child: Scaffold(
         appBar: widget.appbar,
+        backgroundColor: widget.color,
         body: SafeArea(
           child: SingleChildScrollView(
             controller: scrollController,

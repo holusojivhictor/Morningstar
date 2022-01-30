@@ -1,7 +1,6 @@
 import 'package:collection/collection.dart' show IterableExtension;
 import 'package:morningstar/presentation/shared/extensions/iterable_extensions.dart';
 import 'package:darq/darq.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/enums.dart';
