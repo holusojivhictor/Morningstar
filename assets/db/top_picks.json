@@ -1,20 +1,6 @@
 {
   "topPicksSoldiers": [
     {
-      "key": "ajax",
-      "elementType": "epic",
-      "imageUrl": "cosmetics_14607.png",
-      "isNew": false,
-      "isComingSoon": false,
-      "rarity": 4,
-      "secondImage": null,
-      "type": "soldier",
-      "hasSiblings": false,
-      "days": [
-        4
-      ]
-    },
-    {
       "key": "ajax - convict",
       "elementType": "epic",
       "imageUrl": "cosmetics_7375.png",

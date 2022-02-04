@@ -3,7 +3,9 @@ import 'package:morningstar/domain/enums/enums.dart';
 import '../../../assets.dart';
 
 class WeaponBlueprintCardModel {
-  String get imagePath => Assets.getWeaponCloudAll(imageUrl);
+  String get imageCloudPath => Assets.getWeaponCloudAll(imageUrl);
+
+  String get imagePath => Assets.getImageCloudPath(AssetType.weapon, imageUrl);
 
   final String name;
   final ElementType elementType;

@@ -8,10 +8,11 @@
 
     <queries>
         <package android:name="com.google.android.youtube" />
+        <package android:name="com.google.android.gm" />
     </queries>
 
    <application
-        android:name="io.flutter.app.FlutterApplication"
+        android:name="${applicationName}"
         android:label="morningstar"
         android:icon="@mipmap/launcher_icon"
         android:requestLegacyExternalStorage="true"

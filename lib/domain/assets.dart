@@ -114,6 +114,17 @@ class Assets {
     return '$name';
   }
 
+  static String getImageCloudPath(AssetType type, String? name) {
+    switch (type) {
+      case AssetType.soldier:
+        return 'soldiers/$name';
+      case AssetType.weapon:
+        return name != null ? 'weapons/$name' : 'weapons/$noImageAvailableName';
+      default:
+        throw Exception('Invalid asset type = $type');
+    }
+  }
+
   static String getTranslationPath(AppLanguageType languageType) {
     switch (languageType) {
       case AppLanguageType.english:

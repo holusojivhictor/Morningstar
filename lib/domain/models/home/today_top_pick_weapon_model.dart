@@ -1,6 +1,10 @@
 import 'package:morningstar/domain/enums/enums.dart';
 
+import '../../assets.dart';
+
 class TodayTopPickWeaponModel {
+  String get imagePath => Assets.getImageCloudPath(AssetType.weapon, imageUrl);
+
   final String key;
   final String imageUrl;
   final String name;

@@ -42538,7 +42538,7 @@
         {
           "name": "Black Gold",
           "elementType": "epic",
-          "imageUrl": "weapon_169.png",
+          "imageUrl": "weapon_1037.png",
           "rarity": 4,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42626,7 +42626,7 @@
         {
           "name": "Munitions",
           "elementType": "epic",
-          "imageUrl": "weapon_12132.png",
+          "imageUrl": "weapon_11703.png",
           "rarity": 4,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42733,7 +42733,7 @@
           "name": "Abominable",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4712.png",
+          "imageUrl": "weapon_3680.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42742,7 +42742,7 @@
           "name": "Aether Crystal",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "imageUrl": "weapon_12660.png",
+          "imageUrl": "weapon_12643.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42751,7 +42751,7 @@
           "name": "Anaconda",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4735.png",
+          "imageUrl": "weapon_3703.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42760,7 +42760,7 @@
           "name": "Angles (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4705.png",
+          "imageUrl": "weapon_3673.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42778,7 +42778,7 @@
           "name": "Arctic Abstract",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4707.png",
+          "imageUrl": "weapon_3675.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42787,7 +42787,7 @@
           "name": "Arctic Seafoam",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4704.png",
+          "imageUrl": "weapon_3672.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42796,7 +42796,7 @@
           "name": "Asphalt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4694.png",
+          "imageUrl": "weapon_3662.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42814,7 +42814,7 @@
           "name": "Autumn Dazzle",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4706.png",
+          "imageUrl": "weapon_3674.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42841,7 +42841,7 @@
           "name": "Black Top (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4693.png",
+          "imageUrl": "weapon_3661.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42859,7 +42859,7 @@
           "name": "Blue Iguana",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4732.png",
+          "imageUrl": "weapon_3700.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42877,7 +42877,7 @@
           "name": "Blue Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4718.png",
+          "imageUrl": "weapon_3686.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42913,7 +42913,7 @@
           "name": "Brush Stroke",
           "elementType": "uncommon",
           "source": "Nihonga Crate",
-          "imageUrl": "weapon_12596.png",
+          "imageUrl": "weapon_12594.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42940,7 +42940,7 @@
           "name": "Bullsnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4736.png",
+          "imageUrl": "weapon_3704.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42958,7 +42958,7 @@
           "name": "Canopy",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4728.png",
+          "imageUrl": "weapon_3696.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42976,7 +42976,7 @@
           "name": "Chain Link",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4686.png",
+          "imageUrl": "weapon_3654.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -42994,7 +42994,7 @@
           "name": "China Lake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4684.png",
+          "imageUrl": "weapon_3652.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43003,7 +43003,7 @@
           "name": "Chupacabra",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4733.png",
+          "imageUrl": "weapon_3701.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43039,7 +43039,7 @@
           "name": "Colorweave",
           "elementType": "rare",
           "source": "Sugar Rush",
-          "imageUrl": "weapon_13583.png",
+          "imageUrl": "weapon_13572.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43048,7 +43048,7 @@
           "name": "Commando",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4680.png",
+          "imageUrl": "weapon_3648.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43075,7 +43075,7 @@
           "name": "Crime Scene",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4695.png",
+          "imageUrl": "weapon_3663.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43111,7 +43111,7 @@
           "name": "Damascus",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "imageUrl": "weapon_7063.png",
+          "imageUrl": "weapon_7046.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43120,7 +43120,7 @@
           "name": "Dank Forest",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4711.png",
+          "imageUrl": "weapon_3679.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43129,7 +43129,7 @@
           "name": "Default",
           "elementType": "common",
           "source": "Default New Player EquipmentPlayer Level Rewards (Season 9)",
-          "imageUrl": "weapon_5948.png",
+          "imageUrl": "weapon_476.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43147,7 +43147,7 @@
           "name": "Desert Cat",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4716.png",
+          "imageUrl": "weapon_3684.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43156,7 +43156,7 @@
           "name": "Desert Hybrid",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4721.png",
+          "imageUrl": "weapon_3689.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43165,7 +43165,7 @@
           "name": "Desert Snake (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4679.png",
+          "imageUrl": "weapon_3021.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43174,7 +43174,7 @@
           "name": "Diamond",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "imageUrl": "weapon_8536.png",
+          "imageUrl": "weapon_8519.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43183,7 +43183,7 @@
           "name": "Dirt",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4690.png",
+          "imageUrl": "weapon_3658.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43219,7 +43219,7 @@
           "name": "Faded Veil",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4713.png",
+          "imageUrl": "weapon_3681.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43246,7 +43246,7 @@
           "name": "Feral Beast",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4714.png",
+          "imageUrl": "weapon_3682.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43264,7 +43264,7 @@
           "name": "Foliage",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4698.png",
+          "imageUrl": "weapon_3666.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43282,7 +43282,7 @@
           "name": "Frostbite",
           "elementType": "uncommon",
           "source": "Solid Core Crate",
-          "imageUrl": "weapon_4701.png",
+          "imageUrl": null,
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43291,7 +43291,7 @@
           "name": "Frostbite (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4701.png",
+          "imageUrl": "weapon_3669.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43309,7 +43309,7 @@
           "name": "Gartersnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4738.png",
+          "imageUrl": "weapon_3706.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43318,7 +43318,7 @@
           "name": "Gecko",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4737.png",
+          "imageUrl": "weapon_3705.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43327,7 +43327,7 @@
           "name": "Glacier",
           "elementType": "rare",
           "source": "Dream Crystal Draw",
-          "imageUrl": "weapon_982.png",
+          "imageUrl": "weapon_987.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43336,7 +43336,7 @@
           "name": "Gold",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "imageUrl": "weapon_7724.png",
+          "imageUrl": "weapon_3707.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43354,7 +43354,7 @@
           "name": "Gridiron Football",
           "elementType": "uncommon",
           "source": "Bravery Crate 1Bravery Crate 2Bravery Crate 3Bravery Crate 4",
-          "imageUrl": "weapon_2227.png",
+          "imageUrl": "weapon_629.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43372,7 +43372,7 @@
           "name": "H2O (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4689.png",
+          "imageUrl": "weapon_3657.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43381,7 +43381,7 @@
           "name": "Halloween",
           "elementType": "rare",
           "source": "Halloween Lucky Draw (2019)Day of the Dead Bundle",
-          "imageUrl": "weapon_6771.png",
+          "imageUrl": "weapon_546.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43408,7 +43408,7 @@
           "name": "Hearts",
           "elementType": "uncommon",
           "source": "Marching OrdersSoldier Return Event (2020-06)",
-          "imageUrl": "weapon_1449.png",
+          "imageUrl": "weapon_1468.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43453,7 +43453,7 @@
           "name": "Ice Breaker",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4702.png",
+          "imageUrl": "weapon_3670.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43489,7 +43489,7 @@
           "name": "Kill Brush",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4724.png",
+          "imageUrl": "weapon_3692.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43507,7 +43507,7 @@
           "name": "Komodo",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4731.png",
+          "imageUrl": "weapon_3699.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43525,7 +43525,7 @@
           "name": "Mar",
           "elementType": "uncommon",
           "source": "Bonus Point",
-          "imageUrl": "weapon_4723.png",
+          "imageUrl": "weapon_3691.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43534,7 +43534,7 @@
           "name": "Marshland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4723.png",
+          "imageUrl": "weapon_3691.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43552,7 +43552,7 @@
           "name": "Meteors",
           "elementType": "uncommon",
           "source": "Celebration Crate",
-          "imageUrl": "weapon_6002.png",
+          "imageUrl": "weapon_1507.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43561,7 +43561,7 @@
           "name": "Modern Woodland",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4720.png",
+          "imageUrl": "weapon_3688.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43570,7 +43570,7 @@
           "name": "Moroccan Snake",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4682.png",
+          "imageUrl": "weapon_3650.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43579,7 +43579,7 @@
           "name": "Mosaic",
           "elementType": "rare",
           "source": "Summertime Skirmish",
-          "imageUrl": "weapon_13273.png",
+          "imageUrl": "weapon_13320.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43588,7 +43588,7 @@
           "name": "Moss (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4691.png",
+          "imageUrl": "weapon_3659.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43606,7 +43606,7 @@
           "name": "Mudslide",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4710.png",
+          "imageUrl": "weapon_3678.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43615,7 +43615,7 @@
           "name": "Neon Pink",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4696.png",
+          "imageUrl": "weapon_3664.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43624,7 +43624,7 @@
           "name": "Nightfall (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4687.png",
+          "imageUrl": "weapon_3655.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43633,7 +43633,7 @@
           "name": "Nightfrost",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4727.png",
+          "imageUrl": "weapon_3695.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43642,7 +43642,7 @@
           "name": "Nine Round",
           "elementType": "rare",
           "source": "Surviving Alcatraz",
-          "imageUrl": "weapon_8191.png",
+          "imageUrl": "weapon_7979.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43660,7 +43660,7 @@
           "name": "Overgrown",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4709.png",
+          "imageUrl": "weapon_3677.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43687,7 +43687,7 @@
           "name": "Pink Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4734.png",
+          "imageUrl": "weapon_3702.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43696,7 +43696,7 @@
           "name": "Pinstripe Suit",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4685.png",
+          "imageUrl": "weapon_3653.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43705,7 +43705,7 @@
           "name": "Pitter Patter",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4683.png",
+          "imageUrl": "weapon_3651.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43723,7 +43723,7 @@
           "name": "Platinum",
           "elementType": "common",
           "source": "Grindable Camos: Completionist Camo",
-          "imageUrl": "weapon_4740.png",
+          "imageUrl": "weapon_3708.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43732,7 +43732,7 @@
           "name": "Python",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4729.png",
+          "imageUrl": "weapon_3697.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43741,7 +43741,7 @@
           "name": "Rattlesnake",
           "elementType": "common",
           "source": "Grindable Camos: Reptile Camo",
-          "imageUrl": "weapon_4730.png",
+          "imageUrl": "weapon_3698.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43768,7 +43768,7 @@
           "name": "Red Tiger",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4717.png",
+          "imageUrl": "weapon_3685.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43786,7 +43786,7 @@
           "name": "Reticulated",
           "elementType": "uncommon",
           "source": "Credits Store Update (2020-05-15)Credits Store Update (2020-06-12)",
-          "imageUrl": "weapon_1743.png",
+          "imageUrl": "weapon_131.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43804,7 +43804,7 @@
           "name": "Rip 'N Tear",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4681.png",
+          "imageUrl": "weapon_3649.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43813,7 +43813,7 @@
           "name": "Ruins",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4703.png",
+          "imageUrl": "weapon_3671.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43822,7 +43822,7 @@
           "name": "Sand Dance",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4722.png",
+          "imageUrl": "weapon_3690.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43831,7 +43831,7 @@
           "name": "Sandbox",
           "elementType": "uncommon",
           "source": "Heat Wave Crate",
-          "imageUrl": "weapon_1195.png",
+          "imageUrl": "weapon_283.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43849,7 +43849,7 @@
           "name": "Sharp Edges",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4708.png",
+          "imageUrl": "weapon_3676.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43867,7 +43867,7 @@
           "name": "Smoke",
           "elementType": "common",
           "source": "Grindable Camos: Sand Camo",
-          "imageUrl": "weapon_4688.png",
+          "imageUrl": "weapon_3656.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43885,7 +43885,7 @@
           "name": "St. Patrick's Day",
           "elementType": "uncommon",
           "source": "Season 3 Daily Crate",
-          "imageUrl": "weapon_1457.png",
+          "imageUrl": "weapon_656.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43903,7 +43903,7 @@
           "name": "Swamp (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4719.png",
+          "imageUrl": "weapon_3687.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43921,7 +43921,7 @@
           "name": "Tagged (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4692.png",
+          "imageUrl": "weapon_3660.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43930,7 +43930,7 @@
           "name": "Tiger Stripes",
           "elementType": "common",
           "source": "Grindable Camos: Tiger Camo",
-          "imageUrl": "weapon_4715.png",
+          "imageUrl": "weapon_3683.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43948,7 +43948,7 @@
           "name": "Trailblazer",
           "elementType": "common",
           "source": "Grindable Camos: Dragon Camo",
-          "imageUrl": "weapon_4697.png",
+          "imageUrl": "weapon_3665.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43984,7 +43984,7 @@
           "name": "Tundra",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4699.png",
+          "imageUrl": "weapon_3667.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -43993,7 +43993,7 @@
           "name": "Uncertain",
           "elementType": "uncommon",
           "source": "Credits Store Update (2021-02-19)Credits Store Update (2021-03-10)Credits Store Update (2021-03-26)Credits Store Update (2021-04-17)Credits Store Update (2021-05-07)Credits Store Update (2021-05-27)Credits Store Update (2021-06-11)Credits Store Update (2021-06-29)Credits Store Update (2021-07-16)Credits Store Update (2021-07-30)Credits Store Update (2021-08-13)Credits Store Update (2021-08-26)Credits Store Update (2021-09-10)Credits Store Update (2021-09-23)Credits Store Update (2021-10-08)",
-          "imageUrl": "weapon_8445.png",
+          "imageUrl": "weapon_9707.png",
           "rarity": 2,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -44002,7 +44002,7 @@
           "name": "Undergrowth (Grindable)",
           "elementType": "common",
           "source": "Grindable Camos: Splinter Camo",
-          "imageUrl": "weapon_4700.png",
+          "imageUrl": "weapon_3668.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -44011,7 +44011,7 @@
           "name": "Urban Waste",
           "elementType": "rare",
           "source": "Hot Spot Crate",
-          "imageUrl": "weapon_1895.png",
+          "imageUrl": "weapon_1894.png",
           "rarity": 3,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -44020,7 +44020,7 @@
           "name": "Warcom Blues",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4726.png",
+          "imageUrl": "weapon_3694.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false
@@ -44029,7 +44029,7 @@
           "name": "Warcom Greens",
           "elementType": "common",
           "source": "Grindable Camos: Jungle Camo",
-          "imageUrl": "weapon_4725.png",
+          "imageUrl": "weapon_3693.png",
           "rarity": 1,
           "weaponKey": "m4",
           "isComingSoon": false

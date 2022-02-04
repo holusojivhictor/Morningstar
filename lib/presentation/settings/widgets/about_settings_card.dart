@@ -118,7 +118,7 @@ class AboutSettingsCard extends StatelessWidget {
                   margin: const EdgeInsets.only(top: 5),
                   child: const Text('You can also send me an email:', textAlign: TextAlign.center),
                 ),
-                const TextLink(text: 'holusojivhictor@gmail.com', url: ''),
+                const TextLink(text: 'holusojivhictor@gmail.com', url: 'mailto:holusojivhictor@gmail.com?subject=Subject&body=Hello'),
               ],
             ),
           ),

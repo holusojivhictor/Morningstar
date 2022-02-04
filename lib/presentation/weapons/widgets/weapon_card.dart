@@ -2,13 +2,13 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/gradient_card.dart';
 import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dart';
 import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
+import 'package:morningstar/domain/extensions/string_extensions.dart';
 import 'package:morningstar/presentation/shared/loading.dart';
 import 'package:morningstar/presentation/weapon/weapon_page.dart';
 import 'package:morningstar/presentation/weapon/widgets/weapon_build_page.dart';
@@ -122,7 +122,7 @@ class WeaponCard extends StatelessWidget {
     this.withElevation = true,
   })  : keyName = weapon.key,
         damage = weapon.damage,
-        image = weapon.imageUrl,
+        image = weapon.imagePath,
         name = weapon.name,
         model = weapon.model,
         type = weapon.type,
@@ -142,7 +142,7 @@ class WeaponCard extends StatelessWidget {
     this.withElevation = true,
   })  : keyName = topPick.key,
         damage = topPick.damage,
-        image = topPick.imageUrl,
+        image = topPick.imagePath,
         name = topPick.name,
         model = topPick.model,
         type = topPick.type,
@@ -172,12 +172,21 @@ class WeaponCard extends StatelessWidget {
                 alignment: AlignmentDirectional.topCenter,
                 fit: StackFit.passthrough,
                 children: [
-                  FadeInImage(
-                    width: imgWidth,
-                    height: imgHeight,
-                    fadeInDuration: const Duration(milliseconds: 500),
-                    placeholder: MemoryImage(kTransparentImage),
-                    image: CachedNetworkImageProvider('$weaponsImageUrl$image'),
+                  FutureBuilder(
+                    future: image.getImage(),
+                    builder: (context, AsyncSnapshot<String?> snapshot) {
+                      if (snapshot.connectionState == ConnectionState.done) {
+                        return FadeInImage(
+                          width: imgWidth,
+                          height: imgHeight,
+                          fadeInDuration: const Duration(milliseconds: 400),
+                          placeholder: MemoryImage(kTransparentImage),
+                          image: CachedNetworkImageProvider(snapshot.data!),
+                        );
+                      } else {
+                        return SizedBox(height: imgHeight, width: imgWidth);
+                      }
+                    },
                   ),
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
