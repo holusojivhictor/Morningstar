@@ -2,7 +2,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
@@ -14,6 +13,7 @@ import 'package:morningstar/presentation/soldier/soldier_page.dart';
 import 'package:morningstar/theme.dart';
 import 'package:transparent_image/transparent_image.dart';
 import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dart';
+import 'package:morningstar/domain/extensions/string_extensions.dart';
 import 'package:morningstar/presentation/shared/extensions/element_type_extensions.dart';
 
 class SoldierCard extends StatelessWidget {
@@ -54,7 +54,7 @@ class SoldierCard extends StatelessWidget {
         elementType = soldierModel.elementType,
         isComingSoon = soldierModel.isComingSoon,
         isNew = soldierModel.isNew,
-        image = soldierModel.imageUrl,
+        image = soldierModel.imagePath,
         name = soldierModel.name,
         rarity = soldierModel.stars,
         super(key: key);
@@ -70,7 +70,7 @@ class SoldierCard extends StatelessWidget {
         elementType = topPick.elementType,
         isComingSoon = topPick.isComingSoon,
         isNew = topPick.isNew,
-        image = topPick.imageUrl,
+        image = topPick.imagePath,
         name = topPick.name,
         rarity = topPick.stars,
         super(key: key);
@@ -131,10 +131,19 @@ class SoldierCard extends StatelessWidget {
                       height: height,
                       width: width,
                       alignment: Alignment.bottomRight,
-                      child: FadeInImage(
-                        fadeInDuration: const Duration(milliseconds: 500),
-                        placeholder: MemoryImage(kTransparentImage),
-                        image: CachedNetworkImageProvider('$soldiersImageUrl$image'),
+                      child: FutureBuilder(
+                        future: image.getImage(),
+                        builder: (context, AsyncSnapshot<String?> snapshot) {
+                          if (snapshot.connectionState == ConnectionState.done) {
+                            return FadeInImage(
+                              fadeInDuration: const Duration(milliseconds: 500),
+                              placeholder: MemoryImage(kTransparentImage),
+                              image: CachedNetworkImageProvider(snapshot.data!),
+                            );
+                          } else {
+                            return const SizedBox();
+                          }
+                        },
                       ),
                     ),
                   ),

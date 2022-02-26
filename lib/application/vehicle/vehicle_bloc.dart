@@ -38,7 +38,7 @@ class VehicleBloc extends PopBloc<VehicleEvent, VehicleState> {
     return VehicleState.loaded(
       key: vehicle.key,
       name: vehicle.name,
-      imageUrl: vehicle.imageUrl,
+      imageUrl: vehicle.imagePath,
       isComingSoon: vehicle.isComingSoon,
       camos: vehicle.camos.map((camo) {
         return VehicleCamoCardModel(

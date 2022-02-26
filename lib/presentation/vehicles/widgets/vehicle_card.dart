@@ -1,7 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:morningstar/application/bloc.dart';
-import 'package:morningstar/domain/app_constants.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 import 'package:morningstar/domain/models/models.dart';
 import 'package:morningstar/presentation/shared/gradient_card.dart';
@@ -9,6 +8,7 @@ import 'package:morningstar/presentation/shared/extensions/rarity_extensions.dar
 import 'package:morningstar/presentation/shared/images/comingsoon_new_avatar.dart';
 import 'package:morningstar/presentation/vehicle/vehicle_page.dart';
 import 'package:morningstar/presentation/vehicle/widgets/vehicle_build_page.dart';
+import 'package:morningstar/domain/extensions/string_extensions.dart';
 import 'package:transparent_image/transparent_image.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -51,7 +51,7 @@ class VehicleCard extends StatelessWidget {
     this.withElevation = true,
   })  : keyName = camo.name,
         name = camo.name,
-        image = camo.imageUrl,
+        image = camo.imagePath,
         rarity = camo.rarity,
         elementType = camo.elementType,
         withoutDetails = true,
@@ -69,7 +69,7 @@ class VehicleCard extends StatelessWidget {
     this.withElevation = true,
   })  : keyName = vehicle.key,
         name = vehicle.name,
-        image = vehicle.imageUrl,
+        image = vehicle.imagePath,
         withoutDetails = false,
         isComingSoon = vehicle.isComingSoon,
         isBuild = false,
@@ -96,12 +96,21 @@ class VehicleCard extends StatelessWidget {
                 children: [
                   Container(
                     margin: const EdgeInsets.all(10),
-                    child: FadeInImage(
-                      width: imgWidth,
-                      height: imgHeight,
-                      fadeInDuration: const Duration(milliseconds: 500),
-                      placeholder: MemoryImage(kTransparentImage),
-                      image: CachedNetworkImageProvider('$vehiclesImageUrl$image'),
+                    child: FutureBuilder(
+                      future: image.getImage(),
+                      builder: (context, AsyncSnapshot<String?> snapshot) {
+                        if (snapshot.connectionState == ConnectionState.done) {
+                          return FadeInImage(
+                            width: imgWidth,
+                            height: imgHeight,
+                            fadeInDuration: const Duration(milliseconds: 500),
+                            placeholder: MemoryImage(kTransparentImage),
+                            image: CachedNetworkImageProvider(snapshot.data!),
+                          );
+                        } else {
+                          return SizedBox(height: imgHeight, width: imgWidth);
+                        }
+                      },
                     ),
                   ),
                   Row(

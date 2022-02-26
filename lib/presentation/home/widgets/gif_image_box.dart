@@ -11,7 +11,7 @@ class GifImage extends StatelessWidget {
   Widget build(BuildContext context) {
     final mediaQuery = MediaQuery.of(context);
     final isPortrait = mediaQuery.orientation == Orientation.portrait;
-    final height = isPortrait ? mediaQuery.size.height * 0.298 : mediaQuery.size.height * 0.8;
+    final height = isPortrait ? mediaQuery.size.height * 0.35 : mediaQuery.size.height * 0.8;
     final width = mediaQuery.size.width;
     return SliverToBoxAdapter(
       child: Padding(

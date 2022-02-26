@@ -1,5 +1,6 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:morningstar/domain/extensions/string_extensions.dart';
 import 'package:flutter/material.dart';
 
 import 'constants.dart';
@@ -68,20 +69,38 @@ class DetailTopLayout extends StatelessWidget {
           useMargin
               ? Align(
                   alignment: imgAlignment,
-                  child: Image(
-                    height: 280,
-                    width: 280,
-                    image: CachedNetworkImageProvider('$webUrl$image'),
-                    fit: BoxFit.contain,
-                    filterQuality: FilterQuality.high,
+                  child: FutureBuilder(
+                    future: image.getImage(),
+                    builder: (context, AsyncSnapshot<String?> snapshot) {
+                      if (snapshot.connectionState == ConnectionState.done) {
+                        return Image(
+                          width: 280,
+                          height: 280,
+                          image: CachedNetworkImageProvider(snapshot.data!),
+                          fit: BoxFit.contain,
+                          filterQuality: FilterQuality.high,
+                        );
+                      } else {
+                        return const SizedBox(height: 280, width: 280);
+                      }
+                    },
                   ),
                 )
               : Align(
                   alignment: imgAlignment,
-                  child: Image(
-                    image: CachedNetworkImageProvider('$webUrl$image'),
-                    fit: BoxFit.contain,
-                    filterQuality: FilterQuality.high,
+                  child: FutureBuilder(
+                    future: image.getImage(),
+                    builder: (context, AsyncSnapshot<String?> snapshot) {
+                      if (snapshot.connectionState == ConnectionState.done) {
+                        return Image(
+                          image: CachedNetworkImageProvider(snapshot.data!),
+                          fit: BoxFit.contain,
+                          filterQuality: FilterQuality.high,
+                        );
+                      } else {
+                        return const SizedBox();
+                      }
+                    },
                   ),
                 ),
           if (!isASmallImage)
@@ -136,10 +155,19 @@ class ShadowImage extends StatelessWidget {
         alignment: Alignment.topRight,
         child: Opacity(
           opacity: 0.3,
-          child: Image(
-            image: CachedNetworkImageProvider('$webUrl$image'),
-            fit: BoxFit.contain,
-            filterQuality: FilterQuality.high,
+          child: FutureBuilder(
+            future: image.getImage(),
+            builder: (context, AsyncSnapshot<String?> snapshot) {
+              if (snapshot.connectionState == ConnectionState.done) {
+                return Image(
+                  image: CachedNetworkImageProvider(snapshot.data!),
+                  fit: BoxFit.contain,
+                  filterQuality: FilterQuality.high,
+                );
+              } else {
+                return const SizedBox();
+              }
+            },
           ),
         ),
       );
@@ -150,10 +178,19 @@ class ShadowImage extends StatelessWidget {
         transform: Matrix4.translationValues(isASmallImage ? 30 : 60, isASmallImage ? -10 : -30, 0.0),
         child: Opacity(
           opacity: 0.3,
-          child: Image(
-            image: CachedNetworkImageProvider('$webUrl$image'),
-            fit: BoxFit.contain,
-            filterQuality: FilterQuality.high,
+          child: FutureBuilder(
+            future: image.getImage(),
+            builder: (context, AsyncSnapshot<String?> snapshot) {
+              if (snapshot.connectionState == ConnectionState.done) {
+                return Image(
+                  image: CachedNetworkImageProvider(snapshot.data!),
+                  fit: BoxFit.contain,
+                  filterQuality: FilterQuality.high,
+                );
+              } else {
+                return const SizedBox();
+              }
+            },
           ),
         ),
       ),

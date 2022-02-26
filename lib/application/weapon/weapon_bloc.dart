@@ -62,7 +62,7 @@ class WeaponBloc extends PopBloc<WeaponEvent, WeaponState> {
       name: translation.name,
       weaponType: weapon.type,
       weaponModel: weapon.model,
-      fullImage: weapon.fullImagePath,
+      fullImage: weapon.imagePath,
       damage: weapon.damage,
       accuracy: weapon.accuracy,
       range: weapon.range,

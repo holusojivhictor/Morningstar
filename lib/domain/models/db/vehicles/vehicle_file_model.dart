@@ -1,4 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
 part 'vehicle_file_model.freezed.dart';
@@ -6,6 +7,8 @@ part 'vehicle_file_model.g.dart';
 
 @freezed
 class VehicleFileModel with _$VehicleFileModel {
+  String get imagePath => Assets.getImageCloudPath(AssetType.vehicle, imageUrl);
+
   factory VehicleFileModel({
     required String key,
     required String name,

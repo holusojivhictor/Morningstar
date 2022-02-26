@@ -11,13 +11,14 @@ extension NullStringExtensions on String? {
 }
 
 extension StringExtensions on String {
-  Future<String?> getImage({String? doc, String? backup, bool isFirst = true}) async {
+  Future<String?> getImage({String? doc, String? backup, String? dateString, bool isFirst = true}) async {
     final minio = Minio(
       endPoint: 'nyc3.digitaloceanspaces.com',
       accessKey: Secrets.accessKey,
       secretKey: Secrets.secretKey,
     );
 
+    final dateNow = DateTime.now();
     await _getState(this, StateType.bool).then((value) => isFirst = value);
 
     if (isFirst) {
@@ -26,8 +27,19 @@ extension StringExtensions on String {
     }
 
     if (isFirst) {
+      final dateDownloaded = DateTime.now();
+      _saveState('$this-dateDownloaded', StateType.string, name: '$dateDownloaded');
       _saveState(this, StateType.string, name: doc);
       isFirst = false;
+      _saveState(this, StateType.bool, state: isFirst);
+    }
+
+    await _getState('$this-dateDownloaded', StateType.string).then((value) => dateString = value);
+
+    DateTime dateTimeDownloaded = DateTime.parse(dateString!);
+
+    if (dateNow.isAfter(dateTimeDownloaded.add(const Duration(days: 29)))) {
+      isFirst = true;
       _saveState(this, StateType.bool, state: isFirst);
     }
 

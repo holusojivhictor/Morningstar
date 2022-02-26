@@ -1,4 +1,5 @@
 enum AssetType {
   soldier,
-  weapon
+  weapon,
+  vehicle
 }

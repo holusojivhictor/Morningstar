@@ -7,9 +7,9 @@ part 'weapon_file_model.g.dart';
 
 @freezed
 class WeaponFileModel with _$WeaponFileModel {
-  // String get fullImagePath => Assets.getWeaponPathAll(imageUrl);
-
   String get fullImagePath => Assets.getWeaponCloudAll(imageUrl);
+
+  String get imagePath => Assets.getImageCloudPath(AssetType.weapon, imageUrl);
 
   factory WeaponFileModel({
     required String key,

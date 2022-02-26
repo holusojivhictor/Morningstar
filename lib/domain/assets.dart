@@ -117,9 +117,11 @@ class Assets {
   static String getImageCloudPath(AssetType type, String? name) {
     switch (type) {
       case AssetType.soldier:
-        return 'soldiers/$name';
+        return 'soldiers-private/$name';
       case AssetType.weapon:
-        return name != null ? 'weapons/$name' : 'weapons/$noImageAvailableName';
+        return name != null ? 'weapons-private/$name' : 'weapons-private/$noImageAvailableName';
+      case AssetType.vehicle:
+        return 'vehicles-private/$name';
       default:
         throw Exception('Invalid asset type = $type');
     }

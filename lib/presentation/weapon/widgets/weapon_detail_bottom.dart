@@ -43,7 +43,7 @@ class WeaponDetailBottom extends StatelessWidget {
     final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
     return isPortrait ? _PortraitLayout(
       name: name,
-      weaponDescriptionHeight: 220,
+      weaponDescriptionHeight: 230,
       description: description,
       type: type,
       damage: damage,

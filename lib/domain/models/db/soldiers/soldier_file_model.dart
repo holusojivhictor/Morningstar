@@ -10,6 +10,8 @@ part 'soldier_file_model.g.dart';
 class SoldierFileModel with _$SoldierFileModel {
   String get fullImagePath => Assets.getSoldierPath(imageUrl);
 
+  String get imagePath => Assets.getImageCloudPath(AssetType.soldier, imageUrl);
+
   bool get canBeUsedForNotif {
     final value = elementType == ElementType.epic;
     return value;

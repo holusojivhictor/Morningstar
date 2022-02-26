@@ -1,4 +1,5 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
+import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
 part 'soldier_card_model.freezed.dart';
@@ -6,6 +7,8 @@ part 'soldier_card_model.freezed.dart';
 @freezed
 class SoldierCardModel with _$SoldierCardModel {
   String get smallImagePath => imageUrl;
+
+  String get imagePath => Assets.getImageCloudPath(AssetType.soldier, imageUrl);
 
   factory SoldierCardModel({
     required String key,

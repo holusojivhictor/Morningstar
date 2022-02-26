@@ -1,3 +1,4 @@
+import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
 class TodayTopPickSoldierModel {
@@ -10,6 +11,8 @@ class TodayTopPickSoldierModel {
   final bool isNew;
   final bool isComingSoon;
   final List<int> days;
+
+  String get imagePath => Assets.getImageCloudPath(AssetType.soldier, imageUrl);
 
   bool get onlyShowsInDays => days.isNotEmpty;
 

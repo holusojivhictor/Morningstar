@@ -67,7 +67,7 @@ class SoldierBloc extends PopBloc<SoldierEvent, SoldierState> {
     return SoldierState.loaded(
       key: soldierModel.key,
       name: translation.name,
-      imageUrl: soldierModel.imageUrl,
+      imageUrl: soldierModel.imagePath,
       secondImage: soldierModel.secondImage != null ? soldierModel.secondImage! : null,
       rarity: soldierModel.rarity,
       elementType: soldierModel.elementType,

@@ -1,6 +1,9 @@
+import 'package:morningstar/domain/assets.dart';
 import 'package:morningstar/domain/enums/enums.dart';
 
 class VehicleCamoCardModel {
+  String get imagePath => Assets.getImageCloudPath(AssetType.vehicle, imageUrl);
+
   final String name;
   final ElementType elementType;
   final String imageUrl;

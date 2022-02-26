@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:morningstar/domain/app_constants.dart';
 import 'package:transparent_image/transparent_image.dart';
+import 'package:morningstar/domain/extensions/string_extensions.dart';
 
 class CircleItem extends StatelessWidget {
   final String image;
@@ -30,15 +30,24 @@ class CircleItem extends StatelessWidget {
       backgroundColor: isTierItem ? Colors.black.withOpacity(0.1) : Colors.transparent,
       child: ClipOval(
         child: isTierItem
-            ? FadeInImage(
-                fadeInDuration: const Duration(milliseconds: 300),
-                placeholder: MemoryImage(kTransparentImage),
-                image: CachedNetworkImageProvider('$weaponsImageUrl$image'),
-                fit: BoxFit.contain,
-                alignment: Alignment.center,
-                height: size,
-                width: size,
-              )
+            ? FutureBuilder(
+              future: 'weapons-private/$image'.getImage(),
+              builder: (context, AsyncSnapshot<String?> snapshot) {
+                if (snapshot.connectionState == ConnectionState.done) {
+                  return FadeInImage(
+                    width: size,
+                    height: size,
+                    fadeInDuration: const Duration(milliseconds: 400),
+                    placeholder: MemoryImage(kTransparentImage),
+                    image: CachedNetworkImageProvider(snapshot.data!),
+                    fit: BoxFit.contain,
+                    alignment: Alignment.center,
+                  );
+                } else {
+                  return SizedBox(height: size, width: size);
+                }
+              },
+            )
             : FadeInImage(
                 placeholder: MemoryImage(kTransparentImage),
                 image: AssetImage(image),
