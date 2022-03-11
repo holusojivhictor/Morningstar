@@ -51,7 +51,7 @@ class Styles {
     topRight: Radius.circular(10),
   );
 
-  static const comicCardBorderRadius = BorderRadius.all( Radius.circular(20));
+  static const comicCardBorderRadius = BorderRadius.all(Radius.circular(20));
 
   static const videoPlayerBorderRadius = BorderRadius.only(
     bottomLeft: Radius.circular(25),

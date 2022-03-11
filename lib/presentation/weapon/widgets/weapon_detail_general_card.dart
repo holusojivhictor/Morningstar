@@ -32,6 +32,7 @@ class WeaponDetailGeneralCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final textTheme = Theme.of(context).textTheme.bodyText2!.copyWith(color: Colors.white, fontSize: 14);
     return DetailGeneralCard(
       itemName: name,
       color: elementType.getElementColorFromContext(context),
@@ -41,7 +42,7 @@ class WeaponDetailGeneralCard extends StatelessWidget {
           title: 'Type',
           widget: Text(
             Assets.translateWeaponType(type),
-            style: const TextStyle(color: Colors.white),
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -49,8 +50,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Damage',
           widget: Text(
-            '$damage',
-            style: const TextStyle(color: Colors.white),
+            '${damage.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -58,8 +59,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Accuracy',
           widget: Text(
-            '$accuracy',
-            style: const TextStyle(color: Colors.white),
+            '${accuracy.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -67,8 +68,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Range',
           widget: Text(
-            '$range',
-            style: const TextStyle(color: Colors.white),
+            '${range.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -76,8 +77,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Fire rate',
           widget: Text(
-            '$fireRate',
-            style: const TextStyle(color: Colors.white),
+            '${fireRate.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -85,8 +86,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Mobility',
           widget: Text(
-            '$mobility',
-            style: const TextStyle(color: Colors.white),
+            '${mobility.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,
@@ -94,8 +95,8 @@ class WeaponDetailGeneralCard extends StatelessWidget {
         ItemDescription(
           title: 'Control',
           widget: Text(
-            '$control',
-            style: const TextStyle(color: Colors.white),
+            '${control.toInt()}',
+            style: textTheme,
             overflow: TextOverflow.ellipsis,
           ),
           useColumn: false,

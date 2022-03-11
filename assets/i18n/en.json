@@ -2195,6 +2195,146 @@
     {
       "key": "iskra - killswitch",
       "name": "Iskra - Killswitch"
+    },
+    {
+      "key": "foxtrot",
+      "name": "Foxtrot"
+    },
+    {
+      "key": "special ops 2 - undead galaxy",
+      "name": "Special Ops 2 - Undead Galaxy"
+    },
+    {
+      "key": "seraph - the loose cannon",
+      "name": "Seraph - The Loose Cannon"
+    },
+    {
+      "key": "special ops 4 - radiate",
+      "name": "Special Ops 4 - Radiate"
+    },
+    {
+      "key": "alex - hard wired",
+      "name": "Alex - Hard Wired"
+    },
+    {
+      "key": "hazmat bomber - mission terror",
+      "name": "Hazmat Bomber - Mission Terror"
+    },
+    {
+      "key": "charly - striker",
+      "name": "Charly - Striker"
+    },
+    {
+      "key": "gaz - ct-sfo",
+      "name": "Gaz - CT-SFO"
+    },
+    {
+      "key": "ajax - breacher",
+      "name": "Ajax - Breacher"
+    },
+    {
+      "key": "ghost - taskforce",
+      "name": "Ghost - Taskforce"
+    },
+    {
+      "key": "domino - licorne",
+      "name": "Domino - Licorne"
+    },
+    {
+      "key": "wyatt - pursuit special",
+      "name": "Wyatt - Pursuit Special"
+    },
+    {
+      "key": "zane - panzer",
+      "name": "Zane - Panzer"
+    },
+    {
+      "key": "cassius - bandland seeker",
+      "name": "Cassius - Bandland Seeker"
+    },
+    {
+      "key": "urban tracker - pale prowler",
+      "name": "Urban Tracker - Pale Prowler"
+    },
+    {
+      "key": "death angel alice - laughtrack",
+      "name": "Death Angel Alice - Laughtrack"
+    },
+    {
+      "key": "ajax - the chef",
+      "name": "Ajax - The Chef"
+    },
+    {
+      "key": "azur - arctic wolf",
+      "name": "Azur - Arctic Wolf"
+    },
+    {
+      "key": "nomad - the detective",
+      "name": "Nomad - The Detective"
+    },
+    {
+      "key": "dame - shot caller",
+      "name": "Dame - Shot Caller"
+    },
+    {
+      "key": "yuri - bratok",
+      "name": "Yuri - Bratok"
+    },
+    {
+      "key": "ether - getaway",
+      "name": "Ether - Getaway"
+    },
+    {
+      "key": "iskra - whitechapel",
+      "name": "Iskra - Whitechapel"
+    },
+    {
+      "key": "ajax - bouncer",
+      "name": "Ajax - Bouncer"
+    },
+    {
+      "key": "ruin - wrecking ball",
+      "name": "Ruin - Wrecking Ball"
+    },
+    {
+      "key": "makarov - kingfish",
+      "name": "Makarov - Kingfish"
+    },
+    {
+      "key": "scout 2 - escape plan",
+      "name": "Scout 2 - Escape Plan"
+    },
+    {
+      "key": "captain - identity",
+      "name": "Captain - Identity"
+    },
+    {
+      "key": "bailout - paranoid",
+      "name": "Bailout - Paranoid"
+    },
+    {
+      "key": "police - turbo protector",
+      "name": "Police - Turbo Protector"
+    },
+    {
+      "key": "battery - cpt catalyst",
+      "name": "Battery - Cpt Catalyst"
+    },
+    {
+      "key": "roze - rook",
+      "name": "Roze - Rook"
+    },
+    {
+      "key": "silver",
+      "name": "Silver"
+    },
+    {
+      "key": "hawksnest",
+      "name": "Hawksnest"
+    },
+    {
+      "key": "bobbyplays",
+      "name": "BobbyPlays"
     }
   ],
   "weapons": [
@@ -2502,6 +2642,126 @@
       "key": "xpr-50",
       "name": "XPR-50",
       "description": "Semi-automatic sniper rifle. Long Range with moderate recoil."
+    },
+    {
+      "key": ".50 gs",
+      "description": "The most powerful semi-automatic handgun available, deals heavy damage up to intermediate ranges.",
+      "name": ".50 GS"
+    },
+    {
+      "key": "crossbow",
+      "description": "A silent high-powered weapon with extremely high damage and hipfire accuracy. It can equip three types of bolts.",
+      "name": "Crossbow"
+    },
+    {
+      "key": "j358",
+      "description": "Semi-automatic pistol; powerful and stable.",
+      "name": "J358"
+    },
+    {
+      "key": "mw11",
+      "description": "Semi-automatic with medium capacity and power.",
+      "name": "MW11"
+    },
+    {
+      "key": "renetti",
+      "description": "Moderate damage output, the largest pistol magazine, and relatively controllable recoil.",
+      "name": "Renetti"
+    },
+    {
+      "key": "shorty",
+      "description": "Pump-action shotgun. Deadly at close range but low fire rate and reload speed.",
+      "name": "Shorty"
+    },
+    {
+      "key": "axe",
+      "description": "Effective at close range.",
+      "name": "Axe"
+    },
+    {
+      "key": "base melee",
+      "description": "Covert, close-range melee weapon.",
+      "name": "Base Melee"
+    },
+    {
+      "key": "baseball bat",
+      "description": "For all your self-defense needs.",
+      "name": "Baseball Bat"
+    },
+    {
+      "key": "fhj-18",
+      "description": "Guided shoulder-mounted rocket launcher.",
+      "name": "FHJ-18"
+    },
+    {
+      "key": "folding knife",
+      "description": "None",
+      "name": "Folding Knife"
+    },
+    {
+      "key": "glow stick",
+      "description": "Happy Anniversary! Party on.",
+      "name": "Glow Stick"
+    },
+    {
+      "key": "hachi",
+      "description": "None",
+      "name": "Hachi"
+    },
+    {
+      "key": "ice axe",
+      "description": "None",
+      "name": "Ice Axe"
+    },
+    {
+      "key": "karambit",
+      "description": "None",
+      "name": "Karambit"
+    },
+    {
+      "key": "katana",
+      "description": "None",
+      "name": "Katana"
+    },
+    {
+      "key": "knife",
+      "description": "A close-range melee weapon.",
+      "name": "Knife"
+    },
+    {
+      "key": "machete",
+      "description": "Sometimes, nothing beats a good slasher.",
+      "name": "Machete"
+    },
+    {
+      "key": "prizefighters",
+      "description": "A melee weapon that achieves a quick two-strike combo in a short period of time.",
+      "name": "Prizefighters"
+    },
+    {
+      "key": "smrs",
+      "description": "Disposable rocket launcher that fires without the need to lock onto targets.",
+      "name": "SMRS"
+    },
+    {
+      "key": "shovel",
+      "description": "Effective at close range.",
+      "name": "Shovel"
+    },
+    {
+      "key": "sickle",
+      "description": "Instant kill melee weapon.",
+      "name": "Sickle"
+    },
+    {
+      "key": "thumper",
+      "description": "Rear mounted grenade launcher with medium damage and low ammunition.",
+      "name": "Thumper"
+    },
+    {
+      "key": "wrench",
+      "description": "Repair or Smash!",
+      "name": "Wrench"
     }
   ]
 }

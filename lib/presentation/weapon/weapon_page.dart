@@ -58,30 +58,32 @@ class _PortraitLayout extends StatelessWidget {
                   ],
                 ),
               ),
-              SliverToBoxAdapter(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 10),
-                  child: ItemDescriptionTitle(
-                    title: 'Blueprints',
-                    textColor: ElementType.epic.getElementColorFromContext(context),
+              if (state.blueprints.isNotEmpty)
+                SliverToBoxAdapter(
+                  child: Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 10),
+                    child: ItemDescriptionTitle(
+                      title: 'Blueprints',
+                      textColor: ElementType.epic.getElementColorFromContext(context),
+                    ),
                   ),
                 ),
-              ),
               SliverPadding(
                 padding: const EdgeInsets.symmetric(horizontal: 5),
                 sliver: WeaponDetailBlueprintBuild(
                   blueprints: state.blueprints,
                 ),
               ),
-              SliverToBoxAdapter(
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-                  child: ItemDescriptionTitle(
-                    title: 'Camos',
-                    textColor: ElementType.epic.getElementColorFromContext(context),
+              if (state.camos.isNotEmpty)
+                SliverToBoxAdapter(
+                  child: Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                    child: ItemDescriptionTitle(
+                      title: 'Camos',
+                      textColor: ElementType.epic.getElementColorFromContext(context),
+                    ),
                   ),
                 ),
-              ),
               SliverPadding(
                 padding: const EdgeInsets.symmetric(horizontal: 5),
                 sliver: WeaponDetailCamoBuild(

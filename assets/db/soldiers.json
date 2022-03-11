@@ -4940,6 +4940,321 @@
       "isComingSoon": false,
       "rarity": 4,
       "secondImage": null
+    },
+    {
+      "key": "foxtrot",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20655.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 2 - undead galaxy",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20750.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "seraph - the loose cannon",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21486.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "special ops 4 - radiate",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21574.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "alex - hard wired",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20652.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "hazmat bomber - mission terror",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20373.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "charly - striker",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20338.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "gaz - ct-sfo",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20626.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - breacher",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20574.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ghost - taskforce",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21675.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "domino - licorne",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21963.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "wyatt - pursuit special",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20863.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "zane - panzer",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21871.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "cassius - bandland seeker",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21455.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "urban tracker - pale prowler",
+      "elementType": "legendary",
+      "imageUrl": "cosmetics_20921.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "death angel alice - laughtrack",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20233.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - the chef",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21254.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "azur - arctic wolf",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20082.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "nomad - the detective",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21174.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "dame - shot caller",
+      "elementType": "legendary",
+      "imageUrl": "cosmetics_21771.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 5,
+      "secondImage": null
+    },
+    {
+      "key": "yuri - bratok",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20367.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ether - getaway",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20906.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "iskra - whitechapel",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21127.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ajax - bouncer",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20887.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "ruin - wrecking ball",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21250.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "makarov - kingfish",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21976.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "scout 2 - escape plan",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_20328.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "captain - identity",
+      "elementType": "rare",
+      "imageUrl": "cosmetics_21063.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 3,
+      "secondImage": null
+    },
+    {
+      "key": "bailout - paranoid",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21099.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "police - turbo protector",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21302.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "battery - cpt catalyst",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20985.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "roze - rook",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20173.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "silver",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20734.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "hawksnest",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_20664.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
+    },
+    {
+      "key": "bobbyplays",
+      "elementType": "epic",
+      "imageUrl": "cosmetics_21239.png",
+      "isNew": true,
+      "isComingSoon": false,
+      "rarity": 4,
+      "secondImage": null
     }
   ]
 }

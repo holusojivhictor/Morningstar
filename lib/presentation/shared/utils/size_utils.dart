@@ -35,10 +35,10 @@ class SizeUtils {
             break;
           case RefinedSize.normal:
           case RefinedSize.large:
-            crossAxisCount = isPortrait ? forPortrait ?? 4 : forLandscape ?? (isOnMainPage ? 5 : 6);
+            crossAxisCount = isPortrait ? forPortrait ?? 3 : forLandscape ?? (isOnMainPage ? 4 : 5);
             break;
           case RefinedSize.extraLarge:
-            crossAxisCount = isPortrait ? forPortrait ?? 5 : forLandscape ?? (isOnMainPage ? 6 : 7);
+            crossAxisCount = isPortrait ? forPortrait ?? 3 : forLandscape ?? (isOnMainPage ? 4 : 5);
             break;
         }
         break;
@@ -58,6 +58,59 @@ class SizeUtils {
     }
 
     return itemIsSmall ? (crossAxisCount + (crossAxisCount * 0.3).round()) : crossAxisCount;
+  }
+
+  static double getWidthForHomeCard(
+      BuildContext context, {
+        double? forPortrait,
+        double? forLandscape,
+        bool itemIsSmall = false,
+      }) {
+    final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
+    final size = MediaQuery.of(context).size;
+    final height = size.height;
+    final width = size.width;
+    var deviceType = getDeviceType(size);
+    final refinedSize = getRefinedSize(size);
+    double homeWidth = 195;
+
+    if (Platform.isWindows) {
+      deviceType = DeviceScreenType.desktop;
+    }
+    switch (deviceType) {
+      case DeviceScreenType.mobile:
+        homeWidth = isPortrait ? forPortrait ?? width / 2.1 : forLandscape ?? height / 1.88;
+        break;
+      case DeviceScreenType.tablet:
+        switch (refinedSize) {
+          case RefinedSize.small:
+            homeWidth = isPortrait ? forPortrait ?? width / 2.9 : forLandscape ?? height / 2.8;
+            break;
+          case RefinedSize.normal:
+          case RefinedSize.large:
+            homeWidth = isPortrait ? forPortrait ?? width / 3.7 : forLandscape ?? height / 3.55;
+            break;
+          case RefinedSize.extraLarge:
+            homeWidth = isPortrait ? forPortrait ?? width / 4 : forLandscape ?? width * 3.9;
+            break;
+        }
+        break;
+      case DeviceScreenType.desktop:
+        if (size.width > 1680) {
+          homeWidth = 350;
+        } else if (size.width > 1280) {
+          homeWidth = 300;
+        } else if (size.width > 800) {
+          homeWidth = 280;
+        } else {
+          homeWidth = 250;
+        }
+        break;
+      default:
+        break;
+    }
+
+    return itemIsSmall ? homeWidth * 0.7 : homeWidth;
   }
 
   static double getSizeForCircleImages(BuildContext context, {double? defaultValue, bool smallImage = false}) {

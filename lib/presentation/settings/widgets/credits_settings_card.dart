@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:morningstar/presentation/shared/bullet_link.dart';
 import 'package:morningstar/theme.dart';
 
 import 'settings_card_content.dart';
@@ -18,8 +19,14 @@ class CreditsSettingsCard extends StatelessWidget {
         margin: Styles.edgeInsetHorizontal16,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: const <Widget>[
-            Text('Making this app would not have been possible without the following contributors', textAlign: TextAlign.center),
+          children: <Widget>[
+            const Text('Making this app would not have been possible without the following contributors', textAlign: TextAlign.center),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: const [
+                Expanded(child: BulletLink(name: 'Efrain', url: '')),
+              ],
+            ),
           ],
         ),
       ),

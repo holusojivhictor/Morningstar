@@ -9,4 +9,9 @@ enum AttachmentType {
   stock,
   perk,
   barrel,
+  triggerAction,
+  attachmentLimb,
+  attachmentBowstring,
+  attachmentBoltAmmo,
+  attachmentGuard,
 }

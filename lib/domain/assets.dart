@@ -362,7 +362,7 @@ class Assets {
       case WeaponType.secondary:
         return 'Secondary';
       case WeaponType.throwable:
-        return 'Throwable';
+        return 'Throwable: Coming soon';
       default:
         throw Exception('Invalid weapon type = $type');
     }

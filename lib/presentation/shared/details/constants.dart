@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 double getTopHeightForPortrait(BuildContext context, bool isASmallImage) {
-  final factor = isASmallImage ? 0.4 : 0.5;
+  final factor = isASmallImage ? 0.45 : 0.5;
   final value = MediaQuery.of(context).size.height * factor;
   // Max soldier height
   if (value > 700) {

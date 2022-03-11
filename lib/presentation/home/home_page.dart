@@ -33,6 +33,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
   Widget build(BuildContext context) {
     super.build(context);
     final isPortrait = MediaQuery.of(context).orientation == Orientation.portrait;
+    final width = MediaQuery.of(context).size.width;
     return ResponsiveBuilder(
       builder: (ctx, size) => CustomScrollView(
         slivers: [
@@ -42,7 +43,7 @@ class _HomePageState extends State<HomePage> with AutomaticKeepAliveClientMixin<
               builder: (ct, state) => state.map(
                 loading: (_) => const SliverToBoxAdapter(child: Loading(useScaffold: false)),
                 loaded: (settingsState) {
-                  if (settingsState.currentTheme == AppThemeType.grey) {
+                  if (settingsState.currentTheme == AppThemeType.grey || width > 500) {
                     return const SliverToBoxAdapter(child: SizedBox());
                   }
                   return const GifImage();

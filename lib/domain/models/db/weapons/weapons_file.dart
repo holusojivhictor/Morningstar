@@ -6,10 +6,11 @@ part 'weapons_file.g.dart';
 
 @freezed
 class WeaponsFile with _$WeaponsFile {
-  List<WeaponFileModel> get weapons => primaries;
+  List<WeaponFileModel> get weapons => primaries + secondaries;
 
   factory WeaponsFile({
     required List<WeaponFileModel> primaries,
+    required List<WeaponFileModel> secondaries,
   }) = _WeaponsFile;
 
   WeaponsFile._();

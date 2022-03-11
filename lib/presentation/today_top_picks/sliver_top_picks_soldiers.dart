@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:morningstar/domain/models/home/today_top_pick_soldier_model.dart';
+import 'package:morningstar/presentation/shared/utils/size_utils.dart';
 import 'package:morningstar/presentation/soldiers/widgets/soldier_card.dart';
 import 'package:morningstar/theme.dart';
 import 'package:responsive_builder/responsive_builder.dart';
@@ -29,7 +30,7 @@ class SliverTopPicksSoldiers extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             itemBuilder: (ctx, index) {
               final e = topPicksSoldiers[index];
-              return SoldierCard.days(topPick: e, width: isPortrait ? 195 : 220);
+              return SoldierCard.days(topPick: e, width: SizeUtils.getWidthForHomeCard(context));
             },
           ),
         ),
@@ -42,7 +43,7 @@ class SliverTopPicksSoldiers extends StatelessWidget {
     return SliverToBoxAdapter(
       child: ResponsiveGridRow(
         children: topPicksSoldiers.map((e) {
-          final child = SoldierCard.days(topPick: e, width: isPortrait ? 195 : 220);
+          final child = SoldierCard.days(topPick: e, width: SizeUtils.getWidthForHomeCard(context));
 
           switch (deviceType) {
             case DeviceScreenType.mobile:

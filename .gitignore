@@ -4,10 +4,6 @@
 *.g.dart
 *.freezed.dart
 
-# Files
-/assets/cosmetics
-/assets/weapons
-
 # Miscellaneous
 *.class
 *.log

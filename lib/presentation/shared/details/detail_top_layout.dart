@@ -48,8 +48,7 @@ class DetailTopLayout extends StatelessWidget {
             : Alignment.bottomLeft
         : Alignment.center;
     return Container(
-      height:
-      isPortrait ? getTopHeightForPortrait(context, isASmallImage) : null,
+      height: isPortrait ? getTopHeightForPortrait(context, isASmallImage) : null,
       decoration: BoxDecoration(
         color: color,
         gradient: gradient,

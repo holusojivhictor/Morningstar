@@ -22,7 +22,7 @@ extension StringExtensions on String {
     await _getState(this, StateType.bool).then((value) => isFirst = value);
 
     if (isFirst) {
-      var signed = await minio.presignedUrl('GET', 'morningstar', this, expires: 300);
+      var signed = await minio.presignedUrl('GET', 'morningstar', this, expires: 600);
       doc = signed;
     }
 
