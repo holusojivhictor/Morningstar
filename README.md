@@ -18,7 +18,7 @@
 
 ### Contributing
 
-You can build and run this thing by following these steps:
+You can build and run the project by following these steps:
 
 * Clone this repository
 * Run ``flutter pub get``
