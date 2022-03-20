@@ -5,6 +5,10 @@
 
 > A database/guide kinda app for Call of Duty Mobile game.
 
+<p align="center">
+  <img src="images/preview_image.png">
+</p>
+
 ### Features
 
 * Soldiers
