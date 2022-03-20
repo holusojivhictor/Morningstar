@@ -1,18 +1,31 @@
-# morningstar
+# Morningstar
+<p align="center">
+  <img height="120px" src="assets/items/logos/app_icon_alt.png">
+</p>
 
-Call of Duty Mobile game database.
+> A database/guide kinda app for Call of Duty Mobile game.
 
-## Getting Started
+<p align="center">
+  <img src="images/preview_image.png">
+</p>
 
-This project is a starting point for a Flutter application.
+### Features
 
-A few resources to get you started if this is your first Flutter project:
+* Soldiers
+* Weapons
+* Vehicles
+* Comics
+* Tier list builder
+* Blueprints and camos
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[<img height="100" width="250" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />](https://play.google.com/store/apps/details?id=com.morpheus.morningstar)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Morningstar" 
-"# Morningstar" 
+### Contributing
+
+You can build and run the project by following these steps:
+
+* Clone this repository
+* Checkout the **develop** branch
+* Run ``flutter pub get``
+* Run ``flutter pub run build_runner build --delete-conflicting-outputs``
+* Create a ``Secrets`` class in the infrastructure/telemetry folder and add a static property called ``appCenterKey`` (You could also comment out the related code)
